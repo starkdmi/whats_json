@@ -4,7 +4,7 @@ import 'package:whats_json/whats_json.dart';
 
 void main() async {
   // file location
-  final path = "_chat.txt";
+  final path = "./example/_chat.txt";
 
   // load file
   final stream = File(path)
