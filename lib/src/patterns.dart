@@ -1,6 +1,9 @@
-part of 'whatsapp_parser.dart';
+part of 'message_parser.dart';
 
 /// Regex patterns used for parsing WhatsApp export file lines
+/// This class has public setters allowing patterns modification from outside:
+/// * WhatsAppPatterns.messageFormats.add(...);
+/// * WhatsAppPatterns.attachmentPattern = ...
 class WhatsAppPatterns {
 
   /// Date format regex pattern
@@ -8,7 +11,7 @@ class WhatsAppPatterns {
   static const String _date = r"(?<date>(\d{1,2}|\d{4})(?<separator>[./-\s])\d{1,2}\k<separator>(\d{1,2}|\d{4}))";
 
   /// Time format regex pattern
-  static const String _time = r"(?<time>[0-9^\[\]]{1,2}[:.][0-9]{2}([:.][0-9]{2})?(\s[ap].?m.?)?)"; // r"(?<time>[0-9:.^\[\]]{4,8}(\s[ap].?m.?)?)"
+  static const String _time = r"(?<time>[0-9^\[\]]{1,2}[:.][0-9]{2}([:.][0-9]{2})?(\s[ap].?m.?)?)";
 
   /// Sender regex pattern
   static const String _sender = r"(?<sender>[^\s\]\-][^:]+)";
@@ -17,8 +20,6 @@ class WhatsAppPatterns {
   static const String _content = r"(?<content>(.|\n)+)";
 
   /// Start of line regex pattern
-  // ignore: unnecessary_string_escapes, prefer_adjacent_string_concatenation
-  // static const String _startOfLine = "^[^\"" + r"'!\#\$%@%\*\+,\-\.\:;\\\/\|<=>\?_`~\{\}]*\[?";
   static const String _startOfLine = r"^\[?";
 
   /// End of line regex pattern
@@ -36,7 +37,6 @@ class WhatsAppPatterns {
   ];
 
   /// System Universal
-  // static String _systemUniversal() =>
   static const String _systemUniversal = _startOfLine + _date + r"(,\s?|\s)" + _time + r"(\]\s?-?|:|\s-)\s" + r"(" + _sender + r":\s" + r")?" + _content + _endOfLine;
 
   /// System Time first, then Date
@@ -85,13 +85,6 @@ class WhatsAppPatterns {
   static set foursquareLocationPattern(String pattern) {
     _foursquareLocationPattern = pattern;
     _foursquareLocationRegex = RegExp(pattern, multiLine: true);
-  }
-
-  /// Run regex processing and return `true` if any match found, otherwise `false`
-  static bool _hasMatch(String text, String pattern, { bool caseSensitive = false }) {
-    final regex = RegExp(pattern, caseSensitive: caseSensitive); // unicode: true 
-    final match = regex.firstMatch(text);
-    return match != null;
   }
 
   /// Messages and calls are end-to-end encrypted (system message) with Localizable key - `_i3PG` on iOS and `settings_security_info` on Android
@@ -260,4 +253,30 @@ class WhatsAppPatterns {
   /// 
   /// +40 002 50 30 changed their phone number to a new number. ‎Tap to message or add the new number.
 
+  /// Run regex processing and return `true` if any match found, otherwise `false`
+  static bool _hasMatch(String text, String pattern, { bool caseSensitive = false }) {
+    final regex = RegExp(pattern, caseSensitive: caseSensitive); // unicode: true 
+    final match = regex.firstMatch(text);
+    return match != null;
+  }
+
+  /// Check if message text contains system message like `image omitted` or `This message was deleted`
+  static bool isSystemMessageText(String message) {
+    return WhatsAppPatterns.isEncryptedSystemMessage(message) ||  
+      WhatsAppPatterns.isDeletedMessage(message) || 
+      WhatsAppPatterns.isDeletedByYouMessage(message) || 
+      WhatsAppPatterns.isSecurityCodeChangedMessage(message) || 
+      WhatsAppPatterns.isMissedCallMessage(message) || 
+      WhatsAppPatterns.isMissedVideoCallMessage(message) || 
+      WhatsAppPatterns.isImageOmittedMessage(message) || 
+      WhatsAppPatterns.isVideoOmittedMessage(message) || 
+      WhatsAppPatterns.isAudioOmittedMessage(message) || 
+      WhatsAppPatterns.isStickerOmittedMessage(message) || 
+      WhatsAppPatterns.isGIFOmittedMessage(message) || 
+      WhatsAppPatterns.isDocumentOmittedMessage(message) || 
+      WhatsAppPatterns.isMediaOmittedMessage(message) ||
+      WhatsAppPatterns.isContactCardOmittedMessage(message) ||
+      WhatsAppPatterns.isDocumentLiveLocationMessage(message) ||
+      WhatsAppPatterns.isNullMessage(message);
+  }
 }

@@ -1,5 +1,5 @@
 import 'package:intl/intl.dart';
-import 'package:whats_json/src/date_formatter.dart';
+import 'date_formatter.dart';
 
 /// Time formats
 final List<DateFormat> timeFormats = [

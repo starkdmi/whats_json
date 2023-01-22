@@ -3,4 +3,4 @@
 /// Supports Android and iOS
 library whats_json;
 
-export 'src/whatsapp_parser.dart' show whatsAppGetMessages;
+export 'src/message_parser.dart' show whatsAppGetMessages, WhatsAppPatterns;
