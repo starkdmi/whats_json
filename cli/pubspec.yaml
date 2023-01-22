@@ -1,0 +1,16 @@
+name: whats_json_cli
+description: Convert _chat.txt WhatsApp messages to JSON file
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=2.18.7 <3.0.0'
+
+dependencies:
+  args: ^2.3.1
+  whats_json:
+    path: ../
+
+dev_dependencies:
+  lints: ^2.0.1
+  test: ^1.22.2
