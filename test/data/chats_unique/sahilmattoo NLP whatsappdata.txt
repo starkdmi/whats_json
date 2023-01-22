@@ -1,0 +1,511 @@
+02/04/2019, 12:46 - Messages to this group are now secured with end-to-end encryption. Tap for more info.
+27/02/2019, 16:14 - Abhijeet GLIM Ml Mentoring created group "AIML- OL- Feb'19 Group-4"
+02/04/2019, 12:46 - Abhijeet GLIM Ml Mentoring added you
+02/04/2019, 13:45 - +91 96633 30703: Hi Abhijeet as discussed please schedule a 30 mins call with everyone.....
+02/04/2019, 13:48 - +91 85272 14404: Can u join this week's session?
+02/04/2019, 13:50 - +91 96633 30703: Would like to see each one of our concern is addressed at the earliest. I feel there is no point taking a week and more and consolidating the concerns and looking to get it addressed since we will losing the weeks  in our course schedule right
+02/04/2019, 14:58 - Abhijeet GLIM Ml Mentoring: As i sugested  all of you that after this weekend session we can have a discussion
+02/04/2019, 14:59 - Abhijeet GLIM Ml Mentoring: As said i shall
+02/04/2019, 14:59 - Abhijeet GLIM Ml Mentoring: Hey veera
+02/04/2019, 15:00 - Abhijeet GLIM Ml Mentoring: Every individuals concers are different and comes witha backing of different requiremenst every one has
+02/04/2019, 15:00 - Abhijeet GLIM Ml Mentoring: As said i shall address all ur issues
+02/04/2019, 15:01 - Abhijeet GLIM Ml Mentoring: And i will meet u all over the meeting bridge
+02/04/2019, 15:03 - Abhijeet GLIM Ml Mentoring: Requesting you all not to discuss on this meeting here
+02/04/2019, 15:03 - Abhijeet GLIM Ml Mentoring: All of u can reach out to me over call any time between 10 am to 7pm on week days
+02/04/2019, 15:04 - Abhijeet GLIM Ml Mentoring: And i will always be there  to give a best possible resolution if its possible
+02/04/2019, 18:50 - +91 96633 30703: Thanks Abhijeet
+04/04/2019, 20:13 - Abhijeet GLIM Ml Mentoring: Hey all as discussed with u sahil  shall address all the queries. 
+
+As discussed please share ur querys on eda if any to me
+04/04/2019, 20:14 - Abhijeet GLIM Ml Mentoring: So that sahil can address them appropriately
+04/04/2019, 20:14 - Abhijeet GLIM Ml Mentoring: And well enough
+06/04/2019, 06:49 - +91 96633 30703: Hi Abhijeet, i shared the queries on EDA. Apart from answering our queries, bottom line for EDA we may need to have dedicated session and would advise to use multiple different datasets (atleast 5-10 or more) amble no of datasets to guide us and that only will help us to understand better and ask more queries. Otherwise queries or questions will be subjective only to the dataset(Pima) what we encountered and being used for guidance in mentor session right.
+06/04/2019, 06:54 - +91 96633 30703: This message was deleted
+06/04/2019, 07:01 - +91 96633 30703: Without guiding us with multiple cases, examples, challenges and approaches to handle that, mentorship session will be frankly  not helpful. My suggestion is may we spend more or good  time in understanding on EDA as this portion would take around 70-80% of our work in model building.
+06/04/2019, 09:21 - Abhijeet GLIM Ml Mentoring: Hey veera. Eda is major protion of the work but that doesnt mean we are only doing it in the 1st module. 
+
+Every data set u get in this program has to go through eda. So u get enough examples along ur way to learn
+06/04/2019, 09:23 - Abhijeet GLIM Ml Mentoring: Now coming to a dedicated  session. We minght now not need that currently i mean( now or today.)
+06/04/2019, 09:23 - Abhijeet GLIM Ml Mentoring: Greatlearning is preparing content vidoes in detiled for preparing  u for eda
+06/04/2019, 09:24 - Abhijeet GLIM Ml Mentoring: Once that is doen an doubt clarification  session could be worked on..
+06/04/2019, 09:24 - +91 96633 30703: Thanks Abhijeet, that works hopefully get us into the comfort and helps us work independently
+06/04/2019, 09:29 - Abhijeet GLIM Ml Mentoring: Hey all
+06/04/2019, 09:29 - Abhijeet GLIM Ml Mentoring: I will join the bridge today before 11
+06/04/2019, 09:31 - Abhijeet GLIM Ml Mentoring: As told to u on call i will address the issues
+06/04/2019, 09:31 - Abhijeet GLIM Ml Mentoring: Let sahil continue with the class
+06/04/2019, 09:31 - Abhijeet GLIM Ml Mentoring: As planned
+06/04/2019, 09:31 - Abhijeet GLIM Ml Mentoring: Dont get stuck up with eda..
+06/04/2019, 09:31 - Abhijeet GLIM Ml Mentoring: We will address this
+06/04/2019, 09:31 - +91 96633 30703: Ok Abhijeet...
+06/04/2019, 09:31 - Abhijeet GLIM Ml Mentoring: Trust me
+06/04/2019, 09:37 - +91 96633 30703: Surely Abhijeet i see the concerns are taken in the serious manner and in right sense and getting it addressed one by one... Thanks for that Abhijeet. Will definitely wait to get it addressed
+06/04/2019, 12:53 - Abhijeet GLIM Ml Mentoring: Thamks veera
+06/04/2019, 12:53 - Abhijeet GLIM Ml Mentoring: Tomorrow's sessipn shall have a lot to cover
+06/04/2019, 12:53 - Abhijeet GLIM Ml Mentoring: So prepare ur selves well
+07/04/2019, 09:04 - +91 88251 91907: @919711773552 the session has started
+07/04/2019, 09:04 - +91 88251 91907: Please join
+07/04/2019, 12:09 - Sahil: Anova Maths - https://drive.google.com/open?id=1Ql1Z6rqEyRfIBPEndN51Xjtsm2VlgzJA
+07/04/2019, 12:09 - +91 97167 24536: Thanks Sahil
+07/04/2019, 12:09 - Sahil: PPT for Anova - https://drive.google.com/open?id=1qCBD0sZSKIiJvq06Q1j2atTGsXWM9rvi
+07/04/2019, 12:10 - +91 85272 14404: Thanks sahil
+Sessions are very good. You are explaining things from the scratch. This is very helpful 👍🏻
+07/04/2019, 12:11 - +91 77088 31053: Thanks a lot Sahil...
+07/04/2019, 12:12 - Sahil: Great Guys !!
+11/04/2019, 22:50 - +91 77088 31053: Hi Abhijeet,
+Is it like going forward we will have mentoring sessions on Saturday 9AM? I usually travel 6 AM to 10 AM.. if this is the case I can plan my travel accordingly...
+PS: not proposing a change of time for the sessions.. wanted to understand the nature
+12/04/2019, 11:26 - Abhijeet GLIM Ml Mentoring: Hey must be a mistake
+12/04/2019, 11:26 - Abhijeet GLIM Ml Mentoring: It is ad regular
+12/04/2019, 11:26 - Abhijeet GLIM Ml Mentoring: On Sunday
+12/04/2019, 11:26 - Abhijeet GLIM Ml Mentoring: Will check and rectify
+12/04/2019, 11:26 - Abhijeet GLIM Ml Mentoring: Must be my mistake
+12/04/2019, 11:26 - +91 97117 73552: That’s great
+12/04/2019, 12:16 - +91 77088 31053: Thanks Abhijeet..
+12/04/2019, 12:21 - Abhijeet GLIM Ml Mentoring: Rectified
+19/04/2019, 09:19 - +91 88251 91907: Hey @919606048220 any update on mentored session for this week ?
+19/04/2019, 11:33 - Abhijeet GLIM Ml Mentoring: All session email will come today
+19/04/2019, 11:33 - Abhijeet GLIM Ml Mentoring: As yesterday was elections here we couldnt schedule it
+19/04/2019, 11:33 - Abhijeet GLIM Ml Mentoring: It was a holiday here in bengaluru
+19/04/2019, 11:43 - +91 88251 91907: Ok
+21/04/2019, 09:05 - Sahil: Hi all
+21/04/2019, 09:05 - Sahil: Joining in
+21/04/2019, 09:06 - +91 88251 91907: Great
+24/04/2019, 09:13 - Abhijeet GLIM Ml Mentoring: <Media omitted>
+24/04/2019, 09:13 - Abhijeet GLIM Ml Mentoring: Offline meetup and networking with ml community. Registration link has been sent. Please hurry up and enroll yourselves.
+25/04/2019, 07:47 - +91 96633 30703: Oh Bad, i will be travelling out of the country during that time....🙁
+25/04/2019, 19:46 - +91 98993 94598: Hi abhijeet .. are you sending week wise contents like you used to do earlier ?
+25/04/2019, 19:47 - Abhijeet GLIM Ml Mentoring: Hey
+25/04/2019, 19:47 - Abhijeet GLIM Ml Mentoring: This week i did not
+25/04/2019, 19:47 - Abhijeet GLIM Ml Mentoring: Becasue of some emrgenices
+25/04/2019, 19:47 - Abhijeet GLIM Ml Mentoring: In my house.
+25/04/2019, 19:47 - Abhijeet GLIM Ml Mentoring: Will send tomorrow
+25/04/2019, 19:47 - +91 98993 94598: I am not receiving those mail from apr 8th
+25/04/2019, 19:50 - +91 98993 94598: Ok thanks
+25/04/2019, 19:57 - +91 96633 30703: One more doubt... Are we going to get assignments after all the techniques are covered under supervised techniques?
+25/04/2019, 20:16 - Sahil: : please refresh your Bayes theorem concept for upcoming class
+25/04/2019, 20:18 - Abhijeet GLIM Ml Mentoring: Yes projects are there
+25/04/2019, 20:23 - +91 96633 30703: 12th May due  but it's only available tomorrow right .. ok got it
+25/04/2019, 20:59 - +91 97117 73552: Sure will do it
+26/04/2019, 09:34 - +91 97167 24536: Hi Abhijeet,
+Week 3 videos in Supervised Learning are not collaborated correctly. Mentor is explaining the topics but screen which he is referring is not visible. It is hard to understand the concepts in these videos.
+26/04/2019, 11:05 - +91 88251 91907: Yes @919606048220 please check it once
+26/04/2019, 11:42 - +91 97117 73552: @919606048220 what about week 4 material
+26/04/2019, 18:01 - +91 98993 94598: Yes i also felt the same
+26/04/2019, 18:16 - Abhijeet GLIM Ml Mentoring: Can you please suggest video name
+26/04/2019, 18:16 - Abhijeet GLIM Ml Mentoring: So that i can check
+26/04/2019, 18:47 - +91 97167 24536: Logit function in Logistic Regression
+Probability example and model predictions
+30/04/2019, 13:05 - Abhijeet GLIM Ml Mentoring: Hello all the gl confluence is on 5th may in novotel bengaluru
+30/04/2019, 13:05 - Abhijeet GLIM Ml Mentoring: <Media omitted>
+30/04/2019, 13:05 - Abhijeet GLIM Ml Mentoring: https://docs.google.com/forms/d/e/1FAIpQLScF9eDUbmMrKXVTy8bdhV6M9tm569njsgoDrpg4F-UxZR4Yqw/viewform?usp=sf_link
+30/04/2019, 13:05 - Abhijeet GLIM Ml Mentoring: Todsy is the last day to register
+30/04/2019, 15:23 - +91 96633 30703: I will be out of country
+02/05/2019, 00:46 - +91 88251 91907: This message was deleted
+04/05/2019, 07:13 - +91 97167 24536: Hi Sahil, do we have class tomorrow?
+04/05/2019, 08:27 - +91 96633 30703: He informed no class this week right
+04/05/2019, 08:28 - +91 97167 24536: we have class scheduled for tomorrow in Olympus.
+04/05/2019, 08:30 - +91 96633 30703: Not sure whether Sahil informed Abhijeet. Looks like Abhijeet also seems busy. I sent one mail on different topic doesn't get the response yet....
+04/05/2019, 08:30 - +91 96633 30703: Anyhow let's see what both comes back and reply your message
+04/05/2019, 08:30 - +91 97167 24536: yeah
+04/05/2019, 09:58 - Abhijeet GLIM Ml Mentoring: No session this week
+04/05/2019, 09:58 - Abhijeet GLIM Ml Mentoring: Session will happen along with next week
+04/05/2019, 09:58 - Abhijeet GLIM Ml Mentoring: Tbis i will clear today
+04/05/2019, 09:59 - Abhijeet GLIM Ml Mentoring: Because of the event tomorrow  i got a lil busy in last few days
+04/05/2019, 09:59 - Abhijeet GLIM Ml Mentoring: Will address it today
+05/05/2019, 09:05 - +91 97117 73552: There is no session today... right?
+05/05/2019, 09:30 - Abhijeet GLIM Ml Mentoring: No session
+12/05/2019, 08:35 - +91 88251 91907: Guys...Session is about to start
+19/05/2019, 09:05 - +91 88251 91907: Session starting
+24/05/2019, 18:03 - Abhijeet GLIM Ml Mentoring: No release of content last weekend and no session this weekned
+02/06/2019, 09:08 - Sahil: Session started
+02/06/2019, 09:08 - Sahil: Please join ASAP
+02/06/2019, 09:08 - +91 96633 30703: Hi, the session is already started
+02/06/2019, 09:24 - +91 97167 24536: joining
+02/06/2019, 10:32 - +91 97167 24536: Veera Stity please join
+02/06/2019, 10:32 - +91 88251 91907: Yes rejoining.. my internet and Anaconda both have problems today
+02/06/2019, 10:36 - Abhijeet GLIM Ml Mentoring removed +91 85272 14404
+02/06/2019, 10:36 - Abhijeet GLIM Ml Mentoring removed +91 77088 31053
+02/06/2019, 13:37 - +91 96633 30703: was on travel...sorry my mobile charge were down... Couldn't rejoin
+02/06/2019, 14:11 - +91 98993 94598 left
+23/06/2019, 09:09 - +91 97167 24536: joining in 5 min
+23/06/2019, 11:12 - Sahil: Arvind Subramanian’s attempt to estimate GDP instead of explaining it through cross-country regression fraught with problems-https://www.financialexpress.com/opinion/arvind-subramanians-attempt-to-estimate-gdp-instead-of-explaining-it-through-cross-country-regression-fraught-with-problems/1609558/
+30/06/2019, 09:18 - Sahil: https://www.thehindu.com/news/national/modis-decision-to-buy-36-rafales-shot-the-price-of-each-jet-up-by-41/article26019165.ece
+01/07/2019, 15:30 - Abhijeet GLIM Ml Mentoring added Shabana GlIM
+05/07/2019, 19:25 - Abhijeet GLIM Ml Mentoring: https://medium.com/analytics-vidhya/https-medium-com-kushagrarajtiwari-customer-transaction-prediction-3191c6c634dc
+05/07/2019, 19:25 - Abhijeet GLIM Ml Mentoring: something very interesting
+09/07/2019, 13:00 - Abhijeet GLIM Ml Mentoring left
+14/07/2019, 09:05 - +91 88251 91907: Hi All
+14/07/2019, 09:06 - +91 88251 91907: Session has started
+14/07/2019, 09:06 - +91 88251 91907: Please join
+14/07/2019, 09:39 - Sahil: <Media omitted>
+14/07/2019, 10:17 - Sahil: <Media omitted>
+14/07/2019, 11:21 - Sahil: https://drive.google.com/open?id=1LYk1iMJvTS6x2jFSZFYO1IHYyDE3msSS
+14/07/2019, 11:43 - +91 97167 24536: downloaded.
+14/07/2019, 11:45 - Sahil: K
+28/07/2019, 09:04 - +91 88251 91907: Guys please join
+29/07/2019, 16:13 - Shabana GlIM: Good Day, Everyone,
+
+I request all of you to give the feedback by Tuesday, which would be of great help.
+
+Thank you.
+29/07/2019, 16:34 - +91 88251 91907: Which feedback?
+29/07/2019, 16:35 - Shabana GlIM: Mentoring session feedback
+29/07/2019, 16:36 - +91 88251 91907: Ok
+29/07/2019, 17:57 - +91 97167 24536: Done
+29/07/2019, 17:58 - +91 88251 91907: Why is there a deadline for feedback?
+29/07/2019, 18:18 - Shabana GlIM: So every program manager usually has a meeting on Tuesdays. So whatever concerns students have we put forward and get them clarified on Tuesday evening.
+29/07/2019, 18:23 - +91 96633 30703: Ok... Next Tuesday?? Do you have the recorded video of the webinar stats vs ML??
+04/08/2019, 11:22 - +91 97167 24536: internet issue
+04/08/2019, 11:22 - +91 97167 24536: rejoining
+10/08/2019, 17:23 - +91 96328 14102: Do we have the class tomorrow?
+10/08/2019, 17:40 - +91 88251 91907: @919606163970 we have not received any mail for mentored learning tomorrow.
+10/08/2019, 17:41 - +91 88251 91907: No new content released too
+10/08/2019, 18:05 - Shabana GlIM: Thr s no mentoring session
+10/08/2019, 18:05 - Shabana GlIM: There is a break after recommendation systems
+10/08/2019, 18:06 - +91 97167 24536: much needed break🙂🙂👍👍
+10/08/2019, 21:23 - Shabana GlIM: 👍
+14/08/2019, 09:27 - +91 88251 91907: @919606163970 we did not receive any content, so I suppose we don't have mentored session this weekend also . M I correct?
+14/08/2019, 09:50 - Sahil: Yes no session this week
+14/08/2019, 09:50 - Sahil: And next week I am off
+14/08/2019, 09:51 - Sahil: So next to next will have session on sat and sunday
+19/08/2019, 16:37 - Shabana GlIM: Hello everyone, I'm having chicken pox and will not be available for a few days hence i have passed the information to Abhijeet and you can reach out to him for the next few days till my recovery. Sorry if any of your SRs are pending, it will be taken care by  Abhijeet and will be closed ASAP. Thank you.
+19/08/2019, 18:50 - +91 88251 91907: Get well soon @919606163970
+19/08/2019, 18:52 - +91 97167 24536: Get well soon.....
+19/08/2019, 19:26 - Shabana GlIM: This message was deleted
+20/08/2019, 00:44 - +91 88251 91907: This message was deleted
+20/08/2019, 07:39 - +91 96633 30703: Get well soon Shabana
+20/08/2019, 16:21 - Shabana GlIM added Abhijeet GLIM Ml Mentoring
+21/08/2019, 11:03 - Abhijeet GLIM Ml Mentoring: Hey all. Iam back.....as shabana is not keeping well and iam ur old friend(hoping that iam a good friend)..i will be assisting u for the time being till shabana returns..
+21/08/2019, 11:03 - Abhijeet GLIM Ml Mentoring: On a liter note some AI experts created a reco sys which will make u laugh
+21/08/2019, 11:03 - Abhijeet GLIM Ml Mentoring: <Media omitted>
+21/08/2019, 11:17 - +91 88251 91907: 😀😀
+21/08/2019, 11:17 - +91 88251 91907: This is natural intelligence
+21/08/2019, 11:18 - +91 97117 73552: 😀
+25/08/2019, 15:01 - Abhijeet GLIM Ml Mentoring: Industry session started
+25/08/2019, 15:02 - +91 97167 24536: Joined
+25/08/2019, 15:02 - +91 88251 91907: Yes we have joined .. will attendance be marked for this ?
+25/08/2019, 15:15 - Abhijeet GLIM Ml Mentoring: https://zoom.us/j/751739561
+25/08/2019, 15:15 - Abhijeet GLIM Ml Mentoring: others use this link.. if u have missed it
+27/08/2019, 13:13 - Shabana GlIM: Good Day, Everyone. Hope all are doing well! This is in regards to the Faculty session that has been scheduled for the recommendation systems. The session will be conducted on 1st of Sept at 2:30 PM by Mahesh Anand. Thank you.
+27/08/2019, 13:17 - +91 97117 73552: Hi Shabana
+27/08/2019, 13:18 - +91 97117 73552: What is the difference between faculty sessions and mentor session
+27/08/2019, 13:18 - +91 97117 73552: And I hope we will also be having mentor session this week
+27/08/2019, 15:32 - Abhijeet GLIM Ml Mentoring: Faculties are professors. It will be a online classroom type session
+27/08/2019, 15:32 - Abhijeet GLIM Ml Mentoring: No session this week
+27/08/2019, 15:33 - +91 97167 24536: Hi Abhijeet, any particular reason for 1 month gap before starting Deep Learning?
+27/08/2019, 17:34 - Abhijeet GLIM Ml Mentoring: Its only 3 weeks
+27/08/2019, 17:34 - Abhijeet GLIM Ml Mentoring: Content will be released by 8th
+27/08/2019, 17:35 - Abhijeet GLIM Ml Mentoring: The gap is to give u time to ground in the basics of math provided in pre work
+27/08/2019, 17:35 - Abhijeet GLIM Ml Mentoring: And revise on ml concept
+27/08/2019, 17:35 - Abhijeet GLIM Ml Mentoring: Well
+27/08/2019, 17:36 - Abhijeet GLIM Ml Mentoring: With out math basics deep learning  is a difficult ocean  to cross
+27/08/2019, 17:44 - Sahil: I agree !!
+27/08/2019, 20:10 - +91 97167 24536: Ok. Thanks Abhijeet
+28/08/2019, 21:05 - Abhijeet GLIM Ml Mentoring: *Teacher's Day Special*
+
+Dear Students, 
+
+Do you remember the time you struggled🙇🏻 to understand a tough concept, dealt with a challenging 🤦‍♀ derivation or felt that your problem was unsolvable 🥴? 
+
+In your program journey with us, you might have encountered gurus 👨🏻‍🏫👩‍🏫 who kindled a fire 🔥  that ignited your minds 🧠 with the knowledge you have today. They might have helped you learn new things 🤩, guided you through challenges , supported you through your problems 😇 or just made you laugh 😁.   
+
+We invite you to take the occasion of Teachers Day to record a 30-second video 🎥 as a tribute to such Gurus. We would be honored to share these videos with them as well as host some of these videos on our social media channels to showcase their contributions to your learning journey. They would be thrilled to hear from you, and would cherish your messages for years to come.
+
+*How to send your messages*
+
+👉🏻Step 1: Record 🎤 a 30-second video (or less) talking about the impact the Guru(s) has had on your learning journey.  You can talk about what you think is unique about them, or what part of them you admire the most, if they’ve gone out of their way to help you, or just about their personality and how they made learning fun. *Talk from your heart ❤*- it makes a difference. 
+
+👉🏻Step 2:  Send the video to the program office via email/WhatsApp by 1st Sep 2019.
+
+*Let your GURU feel GREAT too 😊*
+
+#GreatGURU
+#GURU day
+#Great Learning
+05/09/2019, 10:30 - +91 88251 91907: Happy Teacher's day @919620202750 . Thank you for all the extra effort that you take to make the topics interesting and understandable. Wish you a very successful career.
+05/09/2019, 10:38 - Sahil: Thank for the kind words Stuti... see you soon with Nural Networks 😉
+05/09/2019, 10:39 - +91 88251 91907: Yep and -5 for spelling mistake ..  it's Stity
+05/09/2019, 10:40 - Sahil: Haha that's Auto Correct , I have friend named Stuti Sahoo
+05/09/2019, 10:40 - +91 88251 91907: Ohh that's close enough!!
+05/09/2019, 10:41 - Sahil: Yep , thanks Again Stity :)
+05/09/2019, 10:58 - Shabana GlIM removed Abhijeet GLIM Ml Mentoring
+05/09/2019, 10:59 - Shabana GlIM: Good Day, Everyone, we are planning to compile all the concerns and queries related to the Recommendation systems. Could you all please mention what are the concerns you are facing in regards to the content?
+05/09/2019, 11:55 - +91 88251 91907: I hope this doesn't impact the time allotted for Deep learning
+05/09/2019, 11:55 - Shabana GlIM: Nope it wouldnt
+05/09/2019, 11:55 - Shabana GlIM: This is jusr for us to work on improving the content
+05/09/2019, 11:57 - +91 88251 91907: I felt that the content was not organised properly for which I couldn't connect topics together for a flow
+05/09/2019, 11:58 - +91 88251 91907: Many things related to NLP was given , I am sure it was necessary and also gave some introduction how to deal with text data , yet that added to the confusion
+05/09/2019, 11:59 - +91 88251 91907: Recommendation system is mostly data mining and programming and the more we practice the more clarity we will have.
+05/09/2019, 12:00 - +91 88251 91907: But if you guys happen to improve the content then please share them with us too
+05/09/2019, 12:31 - +91 96633 30703: Thanks Sahil being a wonderful mentor and a good guide for us to learn all those complex topics and ofcourse really appreciate your effort and patience in answering the questions and ensuring everyone get the concepts clear..... Lucky to have you early in our journey into the data science 🙂
+05/09/2019, 12:31 - Shabana GlIM: Thank you, Stity
+05/09/2019, 12:31 - Shabana GlIM: Waiting for others response
+05/09/2019, 12:40 - +91 96633 30703: I was going through the content half way and  lost in getting the concepts ... Tough to connect the dots especially on SVD and hybrid methods
+05/09/2019, 12:41 - +91 96633 30703: Not sure whether it requires  way of practicing and understanding it clearly through mentor guidance instead going through the contents
+05/09/2019, 13:12 - Shabana GlIM: Thank you Veeramuthu
+05/09/2019, 13:38 - +91 97167 24536: Hi Shabana, if possible please add metadata of Amazon Electronic dataset also, which has product name and user review against their product ID, as it is not available as open source. It will help us to try various  RS by using comments and reviews.
+05/09/2019, 13:52 - +91 97167 24536: Happy Teacher's Day @919620202750 ...., Thanks for your extra efforts, clarifications of tough topics in a way that we can understand it, and for being such a good mentor....🙂
+06/09/2019, 12:00 - Shabana GlIM: Hello, Participants,
+
+The Week-1 content of Introduction to Neural networks and Deep Learning has been released. The mentoring session will commence from the next weekend for the same.
+09/09/2019, 03:11 - +91 88251 91907: <Media omitted>
+09/09/2019, 09:19 - +91 97167 24536: It is not showing in my portfolio also
+09/09/2019, 09:20 - +91 96633 30703: Yes only Great lakes logo is embedded....
+09/09/2019, 09:29 - +91 97117 73552: Same with mine
+09/09/2019, 09:45 - +91 88251 91907: @919606163970 please check and do the needful
+10/09/2019, 21:50 - +91 88251 91907: Hi Shabana
+10/09/2019, 21:50 - +91 88251 91907: Any update on this?
+10/09/2019, 21:55 - +91 96633 30703: Actually Satya from GLIM who shared the offer letter during initial admission asked the same offer letter informing that it is to add these additional logos
+10/09/2019, 21:56 - +91 96633 30703: And mentionex after offer letter revised portal will be updated
+10/09/2019, 23:03 - Shabana GlIM: Hi Stity we have actually combined both ML and AIML programs now as one batch. Hence it's not available now.
+10/09/2019, 23:03 - Shabana GlIM: It will be sorted in a few days and will show up in your portfolio
+11/09/2019, 09:04 - +91 88251 91907: Thanks Shabana
+11/09/2019, 14:39 - Shabana GlIM: Hi Everyone, the session for this weekend has been scheduled for the usual time. Thank you.
+12/09/2019, 15:29 - Shabana GlIM: Hello Participants, I request everyone to reach out to me, if you have any pending projects that are yet to be submitted. Since we have already started off with DL, it's going to be complicated for each one of you to give your full attention to the upcoming projects. So, please reach out to me via call or SR or Whatsapp separately, in case of any concerns or assistance regarding the project submission or grading. Thank you.
+15/09/2019, 09:06 - +91 88251 91907: Good morning.. please join the session
+15/09/2019, 09:06 - +91 88251 91907: It's started
+16/09/2019, 16:56 - Shabana GlIM added +91 99402 13989
+16/09/2019, 16:58 - Shabana GlIM: Hello everyone, we have a new student Karthik Hari who will be joining this group.
+16/09/2019, 16:58 - Shabana GlIM: Welcome Karthik!
+16/09/2019, 17:26 - +91 99402 13989: Thanks Shabana! Hi everyone
+16/09/2019, 17:53 - +91 96633 30703: Hi Karthik.... Welcome
+16/09/2019, 20:14 - +91 97167 24536: Hi Karthik
+16/09/2019, 20:24 - +91 99402 13989: Thanks @919663330703
+16/09/2019, 20:25 - +91 99402 13989: Hi @919716724536
+16/09/2019, 20:25 - +91 97167 24536: Welcome...
+16/09/2019, 20:25 - +91 99402 13989: Missed my first session..Looking forward to interact with you of all 🙂
+16/09/2019, 20:26 - +91 99402 13989: Thank you!
+16/09/2019, 20:26 - +91 97167 24536: 👍
+20/09/2019, 18:51 - Shabana GlIM: Dear participants,
+ 
+An Industry session On Unsupervised Learning has been scheduled on 22nd Sept'19 fro 2 PM to 4 PM. The agenda of the session and the profile of the industry expert is as follows.
+Agenda: The industry session focuses on solving an end to end case study of unsupervised learning problem in the Services sector. 
+Profile: Mr. Abhishek has been working in various leading roles related to Data Science and AI. few of his previous employers include Fidelity, Absolutedata & VISA. He also has good teaching experience with Gratelearning. 
+Use the following link to join the session.
+Link: https://zoom.us/j/606074814 (Links to an external site.)
+26/09/2019, 23:45 - Shabana GlIM: Hello Participants, the Neural Network project has been released and will be unlocked tomorrow at 8:00 AM. Also, I will not be working for the next 3 days as I'm traveling and might have network issues. So, please do call me or drop me a message in case of any critical situations, I shall look into it and get back to you. Thank you.
+29/09/2019, 18:39 - Sahil: Drive is updated
+29/09/2019, 18:39 - Sahil: https://drive.google.com/open?id=1nzcGwKCYA31UsTZniWGHjVuafK-jQGhg
+02/10/2019, 20:09 - +91 88251 91907: Hi All
+02/10/2019, 20:09 - +91 88251 91907: Can this Sunday's session be preponed to Saturday morning or Sunday afternoon time ?
+02/10/2019, 20:10 - +91 88251 91907: @919606163970 is it possible?
+02/10/2019, 20:17 - +91 97167 24536: I am fine
+02/10/2019, 20:26 - +91 96328 14102: Saturday morning, am not available. Anything else fine for me
+02/10/2019, 20:30 - +91 88251 91907: Saturday afternoon or Sunday afternoon?
+02/10/2019, 20:31 - +91 88251 91907: Everyone please let us know which time you are available
+02/10/2019, 20:32 - +91 88251 91907: Also @919620202750 ??? His availability is very important.
+02/10/2019, 21:03 - Sahil: Give me two to three slots will let you know
+02/10/2019, 21:18 - +91 97117 73552: Saturday afternoon is ok with me
+02/10/2019, 22:12 - +91 96633 30703: Any time this weekend is fine.
+03/10/2019, 15:17 - Shabana GlIM: Sahil is available from 12 to 2 PM
+03/10/2019, 15:17 - Shabana GlIM: So I will schedule the session on Saturday from 12 pm to 2pm
+03/10/2019, 15:37 - +91 88251 91907: I am ok with that.. others please confirm
+03/10/2019, 15:38 - +91 99402 13989: 👍🏻
+03/10/2019, 15:38 - +91 96633 30703: No issues
+03/10/2019, 15:41 - +91 97117 73552: I will be able to join by 1:00 :(
+03/10/2019, 18:56 - Shabana GlIM: Hello Participants,
+
+The first week of Computer Vision content has been released now. The Quiz for the same will be unlocked tomorrow at 8:00 AM. Please reach out to me in case of any assistance.
+05/10/2019, 12:06 - +91 88251 91907: Please join session started
+08/10/2019, 07:23 - Sahil: Hi All this sunday as discussed will have 3 hours session as I will not be available on following weekend 
+
+Is it okay to have session 8:30 to 11:30
+08/10/2019, 07:23 - +91 97167 24536: I am fine
+08/10/2019, 08:01 - +91 97117 73552: Fine with me
+08/10/2019, 08:04 - +91 96633 30703: Anyhow, I will not able  to follow the session this week since I am going on a pilgrimage. Will go through the recorded link
+08/10/2019, 08:53 - +91 88251 91907: M OK
+09/10/2019, 19:31 - Shabana GlIM: The session has been scheduled for the same
+11/10/2019, 12:49 - Shabana GlIM: Good Noon, Everyone, I have shared the project extension policy via email. I request you all to have a look at it as it will be followed strictly moving forward. There won't be any extensions for Quizzes as every student is expected to attend the Quiz before the deadline. The extensions will be given only for projects. So, please go through the policy carefully and reach out to me in case of any questions. Thank you.
+12/10/2019, 07:09 - +91 96328 14102: Hi
+I couldn't access recorded mentored learning session links. I am trying to access them using the ongoing activity. None of the recorded session links are active.
+Can you help?
+12/10/2019, 10:12 - Shabana GlIM: Hi Thiruppathy let me check and get back
+13/10/2019, 08:39 - +91 88251 91907: Everyone please join
+16/10/2019, 16:36 - Shabana GlIM: Hi Everyone, as we had planned and informed by Sahil, we will not have any session this weekend. We will have a 2HOUR session next weekend.Thank you
+16/10/2019, 16:38 - +91 88251 91907: Next weekend will be a 3hour session
+16/10/2019, 16:42 - Shabana GlIM: Typo
+16/10/2019, 16:42 - Shabana GlIM: sorry 3 hour session next weekend
+16/10/2019, 16:46 - +91 97167 24536: Hi Shabana, is there any update on UT Austin logo in our profile?
+16/10/2019, 16:47 - Shabana GlIM: Hi, Once the project evaluation is done for projects, it will be available
+16/10/2019, 16:47 - Shabana GlIM: till the Neural Network module
+16/10/2019, 16:47 - +91 97167 24536: thanks
+16/10/2019, 16:47 - Shabana GlIM: If there is any change will keep you informed
+19/10/2019, 22:13 - +91 88251 91907: Hi Shabana, Computer Vision is showing completed for me but it is an ongoing module. Please check and update.
+19/10/2019, 22:14 - +91 97167 24536: Same here
+22/10/2019, 18:04 - +91 88251 91907: Hi @919606163970 Can you please tell me the date of next assignment release and submission? I need to plan my schedule in advance.
+22/10/2019, 18:05 - +91 88251 91907: Things are getting very hectic for me..
+22/10/2019, 18:32 - Shabana GlIM: November 15th will be the project release for Computer vision
+22/10/2019, 18:32 - Shabana GlIM: It have 6 weeks of content and 7th week is the project
+22/10/2019, 18:32 - +91 88251 91907: Ok thanks a lot
+23/10/2019, 14:12 - Shabana GlIM: Hi everyone, the session has been scheduled from 8:30am to 11:30am (Sunday) this weekend.
+23/10/2019, 14:25 - +91 96633 30703: This weekend is diwali right... Sunday????.. if everyone is fine can we have  this week session  on sat or different time on sun?
+23/10/2019, 14:31 - +91 99402 13989: I agree with Veera. Sunday is diwali..I am ok if it's on Satuarday 9:00 to 12:00
+23/10/2019, 14:32 - +91 97167 24536: I am ok on Saturday
+23/10/2019, 14:42 - Shabana GlIM: Let's wait for evryone to respond and Sahil also needs to be available on sat
+23/10/2019, 14:44 - Shabana GlIM: Guys, Sahil is available on Saturday only from 5pm to 8pm as he has other sessions. If this is okay with you all we can go ahead with this schedule if not it will be on Sunday at 8:30 AM.
+23/10/2019, 16:56 - +91 88251 91907: I am OK with any of the timings
+23/10/2019, 18:49 - +91 96328 14102: I am also fine with any timings this week
+23/10/2019, 18:50 - +91 96633 30703: I am fine with Sat timing
+23/10/2019, 18:50 - +91 99402 13989: I am ok with Saturday
+24/10/2019, 12:36 - Shabana GlIM: okay then let's have it on Sat so that all of you can celebrate Diwali peacefully on Sunday😬
+24/10/2019, 12:42 - Shabana GlIM: The session has been scheduled on sat from 5pm to 8 pm
+24/10/2019, 12:50 - +91 96633 30703: Thanks Shabana
+24/10/2019, 12:57 - Shabana GlIM: Advance Diwali wishes to everyone
+24/10/2019, 12:57 - Shabana GlIM: 🎊
+24/10/2019, 13:14 - +91 99402 13989: Thanks @919606163970 and Advance Diwali Wishes to everyone 🎇🎆
+24/10/2019, 13:15 - +91 88251 91907: Thanks @919606163970 Happy Diwali to everyone
+24/10/2019, 13:15 - +91 97117 73552: Thanks Shabana and happy Diwali to everyone
+25/10/2019, 17:34 - +91 96328 14102: Hi Shabana
+We had questions in the week 3 quiz for the week 4 content in computer vision, can you please check and clarify
+
+I haven't gone through the week 4 quiz yet.
+25/10/2019, 17:50 - Shabana GlIM: I have already informed the content team about his
+25/10/2019, 17:50 - Shabana GlIM: *this
+25/10/2019, 17:50 - Shabana GlIM: This message was deleted
+25/10/2019, 17:51 - Shabana GlIM: so im waiting for the response from the content team
+25/10/2019, 17:52 - +91 96328 14102: Great
+25/10/2019, 17:52 - Shabana GlIM: 👍🏼
+25/10/2019, 18:21 - +91 96633 30703: Thanks!!
+25/10/2019, 23:07 - +91 88251 91907: Hi Shabana Can the first computer vision assignment be released now ?
+25/10/2019, 23:08 - +91 88251 91907: At least I will be able work on it this weekend.. otherwise I am fully occupied next 3 weeks, won't be able to work it then
+26/10/2019, 17:04 - +91 97167 24536: Guys please join
+26/10/2019, 17:08 - +91 97117 73552: Joining in 10 mins
+29/10/2019, 14:23 - Shabana GlIM: The UT Austin logo is now available on Olympus, please check and let me know
+29/10/2019, 15:16 - +91 88251 91907: Yes I checked it's available now. Thank you @919606163970
+29/10/2019, 15:16 - Shabana GlIM: You're welcome Stity
+29/10/2019, 18:17 - Shabana GlIM: Hello Participants, We are happy to announce a brand new Hackathon this year for over 450+ students for the first-ever time. PFB the teaser for the hackathon.
+29/10/2019, 18:17 - Shabana GlIM: <Media omitted>
+03/11/2019, 09:03 - +91 97167 24536: Hi Guys, please join the session
+03/11/2019, 09:10 - +91 97167 24536: Remaining please join it asap
+03/11/2019, 09:10 - +91 88251 91907: Joining in 5 minutes
+03/11/2019, 09:10 - +91 96328 14102: Joining in 2 mins
+03/11/2019, 09:11 - +91 96328 14102: Sorry for the late
+03/11/2019, 09:13 - +91 96633 30703: Till yesterday night I didn't see this wk session link appear in the olympus. Only today morning i saw it in the olympus.. is there a glitch?? Has anyone obseved similar thing??
+03/11/2019, 09:13 - +91 96633 30703: No email notification  either
+04/11/2019, 11:31 - +91 88251 91907: Actually didn't notice that because I always check mail and I join through the link given in mail only
+04/11/2019, 11:32 - +91 96633 30703: Lets see if that repeat...
+04/11/2019, 12:06 - Shabana GlIM: Hello everyone, yes there wasa glitch
+04/11/2019, 12:07 - Shabana GlIM: Just wanted to know if t kept disconnecting after joinin the session?
+04/11/2019, 12:08 - +91 96633 30703: I faced couple of times primarily after 20 or 30 mins once session started. After that it is stable
+04/11/2019, 12:10 - Shabana GlIM: Okay it's a tech issue
+04/11/2019, 12:10 - Shabana GlIM: It will be sorte
+04/11/2019, 12:11 - Shabana GlIM: sorted*
+04/11/2019, 12:11 - Shabana GlIM: Thanks for the response
+04/11/2019, 20:03 - Sahil: Since some of you got some errors post running , I will share the working file for object detection
+04/11/2019, 20:25 - +91 97167 24536: Ok
+04/11/2019, 20:26 - Sahil: I am running it , will share once its run completely
+04/11/2019, 20:29 - Sahil: https://drive.google.com/open?id=1wObLhwddp0M7z0aN2hfylEsYTsS3rB4u
+04/11/2019, 20:29 - Sahil: Use - Run_Faster_RCNN.ipynb file , it has some additional comments for each step
+04/11/2019, 20:30 - Sahil: no need to make any change, it shall work as it is
+04/11/2019, 21:08 - +91 97167 24536: Ok thanks, will download and try
+06/11/2019, 14:44 - Shabana GlIM: Is everybody able to access recordings for DL sessions in the "Announcement " section on Olympus?
+07/11/2019, 14:49 - Shabana GlIM: Hello everyone, there was an issue with the hackathon registration link. It is accessible now and all those who are interested can register their names. Thank you.
+07/11/2019, 14:49 - +91 88251 91907: Is this an in-person hackathon?
+07/11/2019, 14:54 - Shabana GlIM: No
+07/11/2019, 15:21 - +91 88251 91907: Ok
+10/11/2019, 09:02 - +91 97167 24536: Please join session ASAP
+10/11/2019, 09:11 - +91 97167 24536: Hi all please join the session
+10/11/2019, 09:16 - +91 97167 24536: Please confirm if you are busy today
+10/11/2019, 09:16 - +91 97167 24536: Only I and Sahil joined the session till now
+10/11/2019, 09:17 - +91 97117 73552: I m joining... some issue with my laptop.,, trying to start it
+10/11/2019, 09:17 - +91 97167 24536: Ok
+21/11/2019, 13:06 - Shabana GlIM: Good Noon Everyone, This weekend's session is going to be on Face Recognition - Project Walkthrough. Sahil just mentioned that this was covered last weekend itself. So, is it okay for everyone to have only a one-hour session this weekend to clarify your doubts?
+21/11/2019, 18:32 - Shabana GlIM: Waiting for the response
+21/11/2019, 18:45 - +91 97167 24536: I am fine
+21/11/2019, 18:50 - +91 96633 30703: I am fine anyhow I need to go through couple of recordings to catch up the concepts
+21/11/2019, 19:09 - +91 88251 91907: I am OK
+21/11/2019, 21:19 - +91 99402 13989: I am ok
+21/11/2019, 21:46 - Shabana GlIM: Okay then we can go ahead with one hour session
+21/11/2019, 22:26 - Sahil: Great
+22/11/2019, 16:43 - +91 97117 73552: Received mail that project has been updated
+22/11/2019, 16:58 - Shabana GlIM: yes
+22/11/2019, 16:58 - Shabana GlIM: We will have a 2 hr session itself
+22/11/2019, 16:58 - Shabana GlIM: This sunday
+22/11/2019, 16:58 - +91 97117 73552: Ok thanks
+24/11/2019, 09:09 - +91 97167 24536: Hi All, please join the session
+24/11/2019, 12:25 - Shabana GlIM: <Media omitted>
+25/11/2019, 12:30 - Sahil: Hi All,
+Instead of having off on ist december is it okay to have off on 8th Dec
+25/11/2019, 14:31 - +91 97167 24536: I am ok
+25/11/2019, 14:45 - +91 97117 73552: Fine with me
+25/11/2019, 15:03 - +91 96633 30703: M ok
+25/11/2019, 15:04 - +91 88251 91907: Ok
+25/11/2019, 18:56 - +91 99402 13989: Am ok
+25/11/2019, 19:56 - Sahil: Thanks shabana please help in sharing the invite.
+Thanks 
+Sahil
+26/11/2019, 12:53 - Shabana GlIM: Sure
+26/11/2019, 13:33 - Shabana GlIM: As per the discussion, we will have the NLP week1 session this Sunday and the session has been scheduled. The following weekend there won't be any session (8th December).
+01/12/2019, 09:05 - +91 96328 14102: Hi All
+01/12/2019, 09:05 - +91 96328 14102: Please join the session
+01/12/2019, 09:08 - +91 96328 14102: It's only me and Sahil in the call
+01/12/2019, 09:08 - +91 96328 14102: Waiting for all to join
+15/12/2019, 09:04 - +91 97167 24536: Please join the session
+15/12/2019, 10:55 - Sahil: https://spacy.io/usage
+15/12/2019, 10:55 - Sahil: https://www.aaronccwong.com/pos-tagger
+19/12/2019, 12:35 - Shabana GlIM: Good Noon, everyone, Sahil is not available this weekend. So, we will have a 3 hr session next Sunday (29th) as next weekend is a project walkthrough.
+19/12/2019, 19:12 - Shabana GlIM: I hope all are fine with this?
+19/12/2019, 19:30 - +91 99402 13989: I have my vacation planned on that weekend. I won’t be able to join 😔
+19/12/2019, 19:40 - +91 97167 24536: I m fine
+24/12/2019, 18:40 - Shabana GlIM: Hello Everyone, this to inform you all that Sahil will not be available this weekend also, due to personal reasons and will be available only next weekend. So, I have a different mentor who can take the session on Sunday from 6PM  to 9PM. Please let me know if this works for you?
+24/12/2019, 18:47 - +91 96633 30703: Have to travel back to bangalore. But I can be part of initial hours
+ No issues for me
+24/12/2019, 18:49 - +91 97167 24536: It must be on project walkthrough?
+24/12/2019, 18:49 - Shabana GlIM: It's on NLP week-3 content and project walkthrough
+24/12/2019, 18:50 - +91 97167 24536: Ok. Then I am fine
+24/12/2019, 18:51 - +91 99402 13989: I am out this week as communicated before..I will take a look at recordings.
+24/12/2019, 19:10 - Shabana GlIM: Okay
+24/12/2019, 19:12 - Shabana GlIM: Or if you all are okay to have a session next weekend with Sahil only then we will not have any session this weekend. But your group will be lagging behind
+24/12/2019, 21:31 - +91 97167 24536: If it will be on next week I have no issue.
+25/12/2019, 08:18 - +91 88251 91907: Let us have session this week. We have to work on assignment also. There will be doubts then we can ask Sahil
+25/12/2019, 08:19 - +91 88251 91907: For a vast subject like NLP I think the supplied content is very less
+25/12/2019, 08:19 - +91 88251 91907: And again we didn't have regular classes..
+25/12/2019, 08:20 - +91 88251 91907: The content is same as it was provided to students who joined deep learning a year back . Don't we upgrade the content?
+25/12/2019, 08:23 - +91 88251 91907: Will Sahil join back after 29th ?
+27/12/2019, 12:49 - Shabana GlIM: Morning, the the mentor's session that was supposed to happen in the morning has been cancelled
+27/12/2019, 12:50 - Shabana GlIM: so we will have a session today at 8AM on sunday
+27/12/2019, 12:51 - Shabana GlIM: I hope mornings usually works for all of you, so I'm scheduling the session for Sunday (29th DEC)  8 AM TO 11 AM
+27/12/2019, 12:51 - Shabana GlIM: That's true stity, the group is already lagging behind, so let's not skip the session for this weekend too
+29/12/2019, 13:19 - +91 88251 91907: Hi Shabana
+29/12/2019, 13:20 - +91 88251 91907: Today's session was cancelled because of emergency reasons of Kapil
+29/12/2019, 17:07 - Shabana GlIM: Let me check what can be don't
+29/12/2019, 17:07 - Shabana GlIM: *done
+29/12/2019, 17:07 - Shabana GlIM: I just spoke to Kapil he can cover the rest n 1 and half hours . He is ready to take the session anytime today and tomorrow morning as well. Please let me know what would work for most of you ?
+29/12/2019, 17:21 - +91 97167 24536: Tomorrow morning I have office. Today will be fine for me
+29/12/2019, 17:23 - Shabana GlIM: Okay let's wait for others response
+29/12/2019, 17:30 - +91 88251 91907: Hi
+29/12/2019, 17:30 - +91 88251 91907: Yes I am ok today or tomorrow morning
+29/12/2019, 17:32 - +91 97117 73552: I m ok today or tomorrow both days
+29/12/2019, 17:33 - Shabana GlIM: Okay shall I scheduled at 6 ?
+29/12/2019, 17:34 - +91 88251 91907: Ok
+29/12/2019, 17:44 - +91 97117 73552: Ok
+29/12/2019, 17:48 - +91 96328 14102: Fine
+29/12/2019, 17:49 - Shabana GlIM: The session has been scheduled
+29/12/2019, 17:50 - +91 97167 24536: Ok
+29/12/2019, 18:01 - +91 97167 24536: Please join the session
+04/01/2020, 11:43 - +91 96328 14102: Hi Shabana
+04/01/2020, 11:43 - +91 96328 14102: Did you share us the last week material? I didn't receive any mail on that.
+04/01/2020, 12:36 - Shabana GlIM: Yes I have shared
+04/01/2020, 13:00 - +91 96328 14102: Got that. Thanks
+04/01/2020, 14:28 - Shabana GlIM: 👍
+05/01/2020, 08:57 - Sahil: Will start by 9:05
+05/01/2020, 08:58 - +91 96328 14102: Sure
+05/01/2020, 09:00 - +91 97167 24536: Joining
+09/01/2020, 13:30 - Shabana GlIM: Good Noon, Everyone,
+
+PFB the agenda for the rest of the program:-
+
+09/01/2020 - Visualization and Reinforcement (Content Release)
+
+16/01/2020 - GANs (Content Release) & Capstone Project release.
+
+18th JAN / 19th JAN - (Break) No mentoring session.
+
+25th JAN/26th JAN - 1st mentor session on the capstone.
+
+I will be getting in touch with everyone individually on call this weekend, to have a discussion on your grade book and capstone project.
+
+Thank you.
+09/01/2020, 13:35 - +91 96633 30703: Looks like its going to be a tight month... by the way - how many weeks we get to work on the capstone???
+09/01/2020, 13:38 - Shabana GlIM: There are no quizzes for Visualization and Reinforcement anyway
+09/01/2020, 13:38 - Shabana GlIM: Capstone approx 6 weeks

@@ -1,0 +1,3035 @@
+08/03/2020, 12:38 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+18/11/2018, 18:26 - +91 95406 54188 created group "Coding Club :YCCE, All Yr"
+08/03/2020, 12:38 - You joined using this group's invite link
+08/03/2020, 12:47 - +91 72628 57265 joined using this group's invite link
+08/03/2020, 12:59 - +91 92844 68213 joined using this group's invite link
+08/03/2020, 13:30 - +91 97181 67527: 🎙 *How to crack PRODUCT BASED companies ?*
+Coding Mafia : Master in Data Structures and Algorithms with C/C++
+
+*Online Youtube Live Session* 
+MON & FRI : 8:30 pm to 10 pm
+
+*Recorded Session Days*
+TUE, WED, THUR, SAT ( 1 hour videos )
+
+*🎁 Apply Coupon :*
+*cclb.tk/offer?open=coding-mafia&p=d&c=NVDMI*
+
+*🆓 Watch Demo :* 
+*youtu.be/Qdvv8IRvtmg?t=317*
+
+*Instructor Story :*
+_Rishabh Jain, Founder at Coding Club India_
+*youtu.be/mzYjjg_1EFc*
+
+*Have Queries ?*
+Call Neetu Jain : +919650114261
+Whatsapp : *wa.me/919650114261?text=I+Have+Doubt*
+08/03/2020, 14:42 - +91 97181 67527: 🎙 What to expect at Google, Amazon, Directi, Paytm Interview?
+
+*Google Interview Process*
+2 Google Telephonic interviews which focus on basic problem solving and data structures
+
+2-4 Google Coding Onsite interviews which involve white boarding solutions to slightly harder data structures / algorithmic problems. The lesser experienced you are, the more number of coding onsite interview rounds for you.
+
+*How to prepare*
+I would recommend Coding Mafia😀,
+Target : 250+ submissions
+
+*Process :* Learn and code easily. Material provide during Coding Mafia is pretty comprehensive.  
+
+Week 1 : Logic into code ( Codechef )  
+Week 2 : DS + Algo (Leetcode)
+Week 3 : DS + Algo (InterviewBit)
+Week 4 : Hard problems (InterviewBit)
+
+*Course recommendation :* Coding Mafia. Last day to enroll today. Enroll now : ▶ *bit.ly/check-coding-mafia*
+
+Coverage of problems from Codechef, Leetcode, Spoj. In week 4 you solve questions which are frequently asked in Google, Directi, Microsoft Interview. 
+
+Forward to coders groups.
+08/03/2020, 15:47 - +91 97181 67527: *2 tickets left only* for AI Mafia for beginners.
+
+Make your GIT more stronger. Beginner to expert in Python and Machine Learning in just 5 weeks of time
+
+*Last day to enroll now.*
+👉View Details: *cclb.tk/ml*
+
+Check Ticket Availability:
+*Click👉* *codingclub.tech/offer?c=NVDMI&open=ml*
+
+Learn Git + Python + Machine Learning along with 7 projects
+08/03/2020, 17:34 - +91 97181 67527: 5⃣ Tickets left for Coding Mafia.
+
+*bit.ly/ticket-426-70*
+OR
+*bit.ly/ticket-426-71*
+OR
+*bit.ly/ticket-426-72*
+OR
+*bit.ly/ticket-426-73*
+OR
+*bit.ly/ticket-426-74*
+
+_Coding Club India_
+_Learn.Inspire.Grow._
+08/03/2020, 17:46 - +91 72649 44304 left
+08/03/2020, 20:19 - +91 97181 67527: 🎙 By tonight at 11:45 pm registration will be closed for Coding Mafia.
+08/03/2020, 21:39 - +91 83790 13667: This message was deleted
+08/03/2020, 21:40 - +91 83790 13667: First calculate range difference, say *d=b-a*
+Now we need to calculate a number between *0* and *d-1* (both included), lets call it *r*, and then *return a+r*
+
+*How to do that? 😬*
+We can represent any number between 0 and d-1 by using *floor(log2(n-1))+1* bits (you can verify this😁), let us call this value *n*
+*Initialize r=0*
+Now, simply generate *n* bits of *r* using the given function.
+By doing this we will get a random number in range *[0,(2^n)-1]*, generated uniformly
+*Exception:*
+If d is not a perfect power of 2 (i.e. d<2^n) we might end up getting r>=d, in this case  we  need to repeat this procedure while we don't get *r<d*
+
+Finally *return a+r*
+08/03/2020, 21:43 - +91 98811 57743 left
+08/03/2020, 22:06 - +91 83790 13667: *Time Complexity:*
+Theta(log(b-a)) in the best case(if d=2^n or generated number r<d) 
+In other cases the complexity cannot be determined since the solution is completely based on *randomness*
+08/03/2020, 22:08 - +91 77450 97873 left
+08/03/2020, 22:11 - +91 83790 13667: it's *floor(log2(d-1))+1* bits *
+08/03/2020, 22:41 - +91 77690 77083 left
+09/03/2020, 10:31 - +91 97181 67527: <Media omitted>
+09/03/2020, 12:04 - +91 97181 67527: <Media omitted>
+09/03/2020, 14:53 - +91 97181 67527: <Media omitted>
+09/03/2020, 16:19 - +91 97181 67527: 👑 *What is the ACM-ICPC?*
+_Answered by Rishabh Jain, Founder at Coding Club India, Ex-Directi, Ex-DTU_
+
+“The ACM ICPC is considered as the “Olympics of Programming Competitions”. It is quite simply, the oldest, largest, and most prestigious programming contest in the world.”
+
+
+👑 *Some Stats :*
+The contest participants come from over 2,000 universities that are spread across 80 countries and six continents.
+
+👑 *Prizes :*
+In terms of prize money, the top team takes home $12,000 along with the ACM ICPC 2014 Gold medal. Three other teams getting Gold Medal are awarded $6,000. Each Silver Medal team gets $3,000 and each Bronze Medal team is awarded $1,500.
+
+👑 *Contest structure:*
+The contest is divided into two rounds, regionals and world finals. The winning teams from each region qualifies for the world finals and competes in the onsite competition.
+
+👑 *Preparation:*
+How to prepare for ACM ICPC depends on what is your current skill sets and how experienced you are in competitive programming.
+
+👑 *Step 1:* 
+Choosing the right programming language
+
+👑 *Step 2 :* 
+Solve lots of problems and Participate in contests
+
+👑 *Step 3:* 
+Build a team
+
+👑 *Step 4 :* 
+Participate in virtual contests
+
+Keep Coding !
+Coding Club India
+_Learn.Inspire.Grow._
+09/03/2020, 17:19 - +91 97181 67527: 1⃣ more *Ticket left for Coding Mafia.* Registeration deadline 7:45 pm.
+
+🔗 *https://codingclub.tech/offer?c=NVDMI&open=coding-mafia&ticket-id=426-74*
+
+_Coding Mafia Team_
+_Learn.Inspire.Grow._
+09/03/2020, 18:42 - +91 93596 15430 left
+10/03/2020, 06:47 - +91 97181 67527: <Media omitted>
+10/03/2020, 08:00 - +91 97181 67527: 👑 *Must Read :* What is GSoC and how does one apply for GSoC ?
+
+_Answered by Rishabh Jain, Founder at Coding Club India_
+
+Google Summer of Code is program to promote open-source development. It is organized by Google every summer since last decade. It runs for 12 weeks from mid May to Mid August. Students contribute to open-source repositories and get paid by Google in return. It’s a great way to spend summer vacation.
+
+♦ *Eligibility* 
+You must be a student. That’s it. No other criteria. Age, Country, Qualification - no criteria. If you have a student ID card, you are eligible.
+
+Turns Out You have to be 18 years old for participating in GSOC !
+
+♦ *Application Procedure*
+This is not a program where you fill up a form and get selected.
+
+♦ *First, the interested open-source* organizations apply. They are shortlisted by Google. The students will code for these organizations and the organization has to mentor the student. in GSoC 2014, around 190 organizations were selected including the big organizations like Mozilla, KDE, etc. The list of organizations selected is announced around mid-February.
+
+♦ *Every Organization had an Idea’s Page* or a Wiki Page in which they publish the list of possible projects. Some even have a to-do list. Students can browse through organizations and check out their projects. If they like any project, they can contact the organization or the mentor itself via the organization’s Mailing List. One can come up with his/her own project, which is even better. Generally, each organization wants the student to show some background in the area of the project (fast learning abilities + keen interest is fine too), and familiarity with tools like version control system (GitHub is the most popular). One has to demonstrate his/her skills which can be achieved by fixing some bugs. Generally there will be a list of known bugs/issues in a repository and some of them are really simple to fix. One can even try to find, report and then fix a new bug. One has to install that particular repository on their system, get comfortable with it and understand (at least the basics) what’s going on. Past Open-Source Experience is a big plus although not necessary.
+
+♦ *Student application period is* between 1st to 3rd week of March. Once the student has demonstrated his/her abilities, they have to apply via Melange. They have to write a project proposal. This proposal should outline the project objectives, technical/implementation details, timeline and end deliveries. One can ask the concerned mentor to review his/her proposal before submitting. One student can submit up to 5 project proposals. However, at max only 1 project is assigned to each student.
+
+
+*Source :* https://www.quora.com/What-is-GSoC-and-how-does-one-apply-for-GSoC/answer/Rishabh-Jain-2492
+
+_Share with coders and friends._
+
+Coding Club India
+_Learn.Inspire.Grow_
+10/03/2020, 10:04 - +91 72769 78946: for(i=0;i<=all contacts ;i++)
+Happy Holi🔴🟠🟡🔵🟣⚫🟤
+10/03/2020, 17:41 - +91 97181 67527: <Media omitted>
+10/03/2020, 18:52 - +91 97181 67527: 👑 *Must Read :* Is one year enough to prepare well for ACM ICPC?
+_Answered by Bhawna Jain, Went to ICPC Asia Region, Kolkata-Kanpur Site_
+
+Yes Of course.
+
+To make this happen here are some recommendations :
+
+👉 *Practice and work on Algorithms :* To become cool, you need at least 2-3 hours a day to solve problems a day. On various sites aggregators of tasks such as Codeforces, Spoj, Codechef, Leetcode, Topcoder and many many others.
+
+👉 *Participate, Participate, Participate :* Participate in all online competitions.
+
+👉 *Reminds the rule of 10 thousand hours :* There is an opinion that people become professionals not because of talent, but in fact investing man-hours in their occupation. However, there are also unique persons, like Gennady Korotkevich (google, read). The best in any area become almost impossible. However, there is a chance.
+
+👉 *Speed Matters :* Very important is the speed of writing the algorithm, and easy memorability. Some techniques for its good modification, if the task requires its minor modification. Reading the leader code also does not hurt, to understand how elegant to write.
+Happy Programming !
+
+_Share with coders and friends._
+
+Coding Club India
+_Learn.Inspire.Grow_
+10/03/2020, 20:06 - +91 97181 67527: <Media omitted>
+10/03/2020, 21:14 - +91 97181 67527: <Media omitted>
+11/03/2020, 07:26 - +91 83790 13667: Consider the digit is stored in node->data and next pointer is node->next
+
+Solution depends on what the head of list represents
+
+*Case 1. If head represents leftmost digit*
+eval(num):
+    if num->next:
+         return (num->data)*10 +
+             eval(num->next)
+    return num->data
+
+sum(num1,num2):
+     return eval(num1)+eval(num2)
+
+*Time Complexity: O(n+m)* , here n and m are lengths of the given numbers
+
+*Case 2: If head represents unit place digit*
+sum(num1,num2):
+      if !num1 and !num2:
+            return 0
+            
+      if !num1:
+            return num2->data + sum(num1,num2->next)*10
+            
+      if !num2:
+            return num1->data + sum(num1->next,num2)*10
+            
+      return num1->data + num2->data + sum(num1->next, num2->next)*10
+
+*Time Complexity: O(max(n,m))* , here n and m are lengths of the given numbers
+11/03/2020, 10:35 - +91 97181 67527: 👑 Compete in Google’s longest-running coding competition #CodeJam for a chance to earn the Championship title and up to $15k at the World Finals in Munich! 
+
+*Register today at* codingclub.tech/event/codejam 
+
+Checkout the hype video: codingclub.tech/event/codejam-hype
+
+#google #programming
+11/03/2020, 11:50 - +91 97181 67527: <Media omitted>
+11/03/2020, 13:00 - +91 97181 67527: <Media omitted>
+11/03/2020, 13:58 - +91 97181 67527: 👑 *Must read:*  How do programmers approach problem solving and coding on Online Coding Contests ?
+
+_Answered by Rishabh Jain, Founder at Coding Club India_
+
+To solve a problem, just follow these simple steps :
+
+♦ *Read the Question:* Not difficult at all. The problems generally contain long stories about some people and what not. You don’t need these to solve the problem. Read the input/output formats and constraints very carefully. If the output format doesn’t match with the required output format, it would give a Wrong Answer. Constraints are really very important part of the problem as it sometimes hints to the expected time complexity of the solution.
+
+♦ *Understand the Problem:* Understand what is asked and what is given in problem. Verify your understanding with the sample test cases and the explanation given.
+
+♦ *Make an Algorithm:* This is the most important part of solving. Use your problem solving abilities to think of an efficient algorithm for the problem satisfying the required time constraint. If the problem requires a standard algorithm that you know, you’re good to move on to the next step. Generally, this wouldn’t be the case in a contest. First try to think of a naive approach and see if it fits the time constraint. If not, see for some optimisation. If it still does not work, try to reduce the problem into simpler solvable problems. More and more practice will help you figure out how to solve more complex problems.
+
+♦ *Finding Naive Solution :* Also called brute-force method. Simply do what the problem states. For instance if you need to find the sum of first n natural numbers, the naive method would be to do this :
+for(int i = 1;i<=;n;i++){
+ sum += i;
+}
+
+♦ *Finding Optimal Solution :* Also called brute-force method. Simply do what the problem states. For instance if you need to find the sum of first n natural numbers, the naive method would be to do this :
+sum = (n*(n+1))/2;
+
+♦ *Code(or write) the Solution:* Before writing the solution, think of the data structures required, what data needs to be arranged in maps/arrays/vectors etc. Choosing right data structures according to the need of the solution helps in solving the problem much easily. If you think carefully before coding you wouldn’t get confused while writing the code. As you practice more and more, you’ll get better at thinking faster.
+
+If you get stuck on a problem during a contest, it’s best to try your best before searching on the Internet or asking someone for the solution. Don’t give up if you get stuck. At times, competitive programming can be quite demotivating; but only persistence will help you learn and be a better coder. A lot of effort goes into improving your speed and accuracy in competitive programming.
+
+
+♦ *Source :* https://www.quora.com/How-do-programmers-approach-problem-solving-and-coding/answer/Rishabh-Jain-2492
+
+Keep Coding !
+Coding Club India
+Learn.Inspire.Grow.
+11/03/2020, 15:44 - +91 97181 67527: 👑 Compete in Google’s longest-running coding competition #CodeJam for a chance to earn the Championship title and up to $15k at the World Finals in Munich! 
+
+*Register today at* codingclub.tech/event/codejam 
+
+Checkout the hype video: codingclub.tech/event/codejam-hype
+
+#google #programming
+11/03/2020, 16:50 - +91 97181 67527: <Media omitted>
+11/03/2020, 20:09 - +91 97181 67527: <Media omitted>
+11/03/2020, 21:04 - +91 97181 67527: <Media omitted>
+11/03/2020, 22:08 - +91 97181 67527: <Media omitted>
+12/03/2020, 11:11 - +91 97181 67527: <Media omitted>
+12/03/2020, 12:12 - +91 97181 67527: <Media omitted>
+12/03/2020, 13:31 - +91 97181 67527: 📌 *Which competitive programming site is good for beginners?*
+
+_Answered by Rishabh Jain, Founder at Coding Club India_
+
+📌 *CodeChef -* A lot of active users (mostly Indian). Monthy long challenges and Cook Off Challenges.
+
+📌 *LeetCode -* Good to practice topic wise, as you can find easy/medium/hard question based on each topic.
+
+📌 *HackerRank -* Good interface to learn and practice.
+
+Also,
+I would like to introduce Coding Club India,
+Coding Club India is strongest network of coders across in India.
+
+📌 *If your college is not part of Coding Club India yet ?*
+Add your college by clicking here
+👉 wa.me/919205561770?text=Add+my+college,+college+name+is (Just one step).
+
+FORWARD to coders groups in college. Keep Coding !
+12/03/2020, 14:36 - +91 97181 67527: 📌 *How do you solve the first 200-300 problems in SPOJ? Do you require the prerequisite knowledge of data structure and algorithms?*
+
+_Answered by Rishabh Jain, Founder at Coding Club India_
+
+Yes Of Course to start Spoj you must be cleared with concepts of Data Structures and Algorithms. I would like to break this into steps :
+
+📌 *Download recommended notes :* cclb.tk/event/DOWNLOAD-best-notes
+
+📌 *Beginning :* Start working on solving easy problems using Spoj Classifier. You must solve problems based on Arrays, Sorting, Divide Conquer , Binary Search etc.
+
+📌 *How to handle TLE ? :* Now you need to work on how to solve a particular problem efficiently in a faster way using a optimal algorithm. 
+
+📌 *Data Structures :* Start learning topics Trees, Queue, Stack, TRIE like data structures. Book Recommendation : "Data Structures Made Easy"
+
+Also,
+I would like to introduce Coding Club India,
+Coding Club India is strongest network of coders across in India.
+
+📌 *If your college is not part of Coding Club India yet ?*
+Add your college by clicking here wa.me/919205561770?text=My+college+name+is (Just one step).
+
+👉 FORWARD to coders groups in college. Keep Coding !
+12/03/2020, 15:34 - +91 6265 556 286 joined using this group's invite link
+12/03/2020, 17:02 - +91 90227 38664 joined using this group's invite link
+12/03/2020, 17:02 - +91 75587 40745 joined using this group's invite link
+12/03/2020, 17:02 - +91 91725 75656 joined using this group's invite link
+12/03/2020, 17:02 - +91 90753 59600 joined using this group's invite link
+12/03/2020, 17:02 - +91 98341 69047 joined using this group's invite link
+12/03/2020, 17:02 - +91 76207 28491 joined using this group's invite link
+12/03/2020, 17:02 - +91 70667 01805 joined using this group's invite link
+12/03/2020, 17:02 - +91 77568 87622 joined using this group's invite link
+12/03/2020, 17:02 - +91 95119 72841 joined using this group's invite link
+12/03/2020, 17:03 - +91 88307 91028 joined using this group's invite link
+12/03/2020, 17:03 - +91 88579 79719 joined using this group's invite link
+12/03/2020, 17:03 - +91 96576 34735 joined using this group's invite link
+12/03/2020, 17:04 - +91 88560 46265 joined using this group's invite link
+12/03/2020, 17:04 - +91 80078 40569 joined using this group's invite link
+12/03/2020, 17:05 - +91 88885 22359 joined using this group's invite link
+12/03/2020, 17:05 - +91 70387 96055 joined using this group's invite link
+12/03/2020, 17:05 - +91 95524 30065 joined using this group's invite link
+12/03/2020, 17:05 - +91 90963 27706 joined using this group's invite link
+12/03/2020, 17:06 - +91 77589 36347 joined using this group's invite link
+12/03/2020, 17:06 - +91 95524 30065 left
+12/03/2020, 17:08 - +91 89754 24661 joined using this group's invite link
+12/03/2020, 17:08 - +91 95270 87145 joined using this group's invite link
+12/03/2020, 17:08 - +91 97675 46873 joined using this group's invite link
+12/03/2020, 17:09 - +91 77718 62596 joined using this group's invite link
+12/03/2020, 17:10 - +91 74105 86502 joined using this group's invite link
+12/03/2020, 17:11 - +91 95795 58934 joined using this group's invite link
+12/03/2020, 17:12 - +91 75074 20647 joined using this group's invite link
+12/03/2020, 17:14 - +91 91305 44599 joined using this group's invite link
+12/03/2020, 17:15 - +91 96730 93078 joined using this group's invite link
+12/03/2020, 17:16 - +91 95611 40192 joined using this group's invite link
+12/03/2020, 17:16 - +91 78754 17431 joined using this group's invite link
+12/03/2020, 17:17 - +91 94045 37757 joined using this group's invite link
+12/03/2020, 17:18 - +91 73851 25524 joined using this group's invite link
+12/03/2020, 17:19 - +91 90281 72136 joined using this group's invite link
+12/03/2020, 17:19 - +91 77983 99644 joined using this group's invite link
+12/03/2020, 17:20 - +91 95520 66919 joined using this group's invite link
+12/03/2020, 17:20 - +91 91568 87824 joined using this group's invite link
+12/03/2020, 17:20 - +91 73872 93183 joined using this group's invite link
+12/03/2020, 17:21 - +91 72639 35954 joined using this group's invite link
+12/03/2020, 17:22 - +91 91452 47200 joined using this group's invite link
+12/03/2020, 17:22 - +91 98348 82053 joined using this group's invite link
+12/03/2020, 17:23 - +91 88054 76144 joined using this group's invite link
+12/03/2020, 17:23 - +91 90118 36655 joined using this group's invite link
+12/03/2020, 17:24 - +91 95037 34872 joined using this group's invite link
+12/03/2020, 17:25 - +91 94217 58625 joined using this group's invite link
+12/03/2020, 17:25 - +91 80871 89247 joined using this group's invite link
+12/03/2020, 17:25 - +91 82083 37725 joined using this group's invite link
+12/03/2020, 17:26 - +91 85306 30906 joined using this group's invite link
+12/03/2020, 17:26 - +91 80877 79120 joined using this group's invite link
+12/03/2020, 17:26 - +91 83290 59040 joined using this group's invite link
+12/03/2020, 17:28 - +91 73044 09573 joined using this group's invite link
+12/03/2020, 17:30 - +91 86682 13362 joined using this group's invite link
+12/03/2020, 17:31 - +91 866 958 8261 joined using this group's invite link
+12/03/2020, 17:34 - +91 94224 65732 joined using this group's invite link
+12/03/2020, 17:34 - +91 73789 03049 joined using this group's invite link
+12/03/2020, 17:34 - +91 88056 11344 joined using this group's invite link
+12/03/2020, 17:36 - +91 99225 58537 joined using this group's invite link
+12/03/2020, 17:36 - +91 788 828 2665 joined using this group's invite link
+12/03/2020, 17:37 - +91 90113 04728 joined using this group's invite link
+12/03/2020, 17:39 - +91 75592 28778 joined using this group's invite link
+12/03/2020, 17:40 - +91 73854 47238 joined using this group's invite link
+12/03/2020, 17:41 - +91 96573 10221 joined using this group's invite link
+12/03/2020, 17:42 - +91 70668 51980 joined using this group's invite link
+12/03/2020, 17:42 - +91 99229 41475 joined using this group's invite link
+12/03/2020, 17:42 - +91 91305 23464 joined using this group's invite link
+12/03/2020, 17:43 - +91 90960 87751 joined using this group's invite link
+12/03/2020, 17:46 - +91 77679 24338 joined using this group's invite link
+12/03/2020, 17:46 - +91 866 935 8342 joined using this group's invite link
+12/03/2020, 17:49 - +91 98602 04137 joined using this group's invite link
+12/03/2020, 17:49 - +91 77570 98108 joined using this group's invite link
+12/03/2020, 17:49 - +91 77769 70140 joined using this group's invite link
+12/03/2020, 17:50 - +91 91303 60386 joined using this group's invite link
+12/03/2020, 17:52 - +91 87884 28458 joined using this group's invite link
+12/03/2020, 17:54 - +91 86238 13512 joined using this group's invite link
+12/03/2020, 17:55 - +91 98602 10813 joined using this group's invite link
+12/03/2020, 17:57 - +91 84080 39962 joined using this group's invite link
+12/03/2020, 17:58 - +91 73919 53510 joined using this group's invite link
+12/03/2020, 17:59 - +91 788 796 2992 joined using this group's invite link
+12/03/2020, 17:59 - +91 77698 16199 joined using this group's invite link
+12/03/2020, 18:00 - +91 89569 02883 joined using this group's invite link
+12/03/2020, 18:05 - +91 77419 45698 joined using this group's invite link
+12/03/2020, 18:06 - +91 95274 10722 joined using this group's invite link
+12/03/2020, 18:07 - +91 98342 10446 joined using this group's invite link
+12/03/2020, 18:07 - +91 94236 33303 joined using this group's invite link
+12/03/2020, 18:16 - +91 97665 99395 joined using this group's invite link
+12/03/2020, 18:18 - +91 75887 42521 joined using this group's invite link
+12/03/2020, 18:19 - +91 77440 95100 joined using this group's invite link
+12/03/2020, 18:23 - +91 98816 39819 joined using this group's invite link
+12/03/2020, 18:25 - +91 77569 37582 joined using this group's invite link
+12/03/2020, 18:28 - +91 75076 11057 joined using this group's invite link
+12/03/2020, 18:29 - +91 77220 78512 joined using this group's invite link
+12/03/2020, 18:33 - +91 88903 02758 joined using this group's invite link
+12/03/2020, 18:33 - +91 91311 20787 joined using this group's invite link
+12/03/2020, 18:34 - +91 93261 73223 joined using this group's invite link
+12/03/2020, 18:35 - +91 95272 31158 joined using this group's invite link
+12/03/2020, 18:37 - +91 95187 81150 joined using this group's invite link
+12/03/2020, 18:41 - +91 73857 70229 joined using this group's invite link
+12/03/2020, 18:51 - +91 863 778 4090 joined using this group's invite link
+12/03/2020, 18:55 - +91 91460 41466 joined using this group's invite link
+12/03/2020, 18:55 - +91 74472 09707 joined using this group's invite link
+12/03/2020, 18:58 - +91 95451 84676 joined using this group's invite link
+12/03/2020, 19:00 - +91 70200 49093 joined using this group's invite link
+12/03/2020, 19:07 - +91 97647 06350 joined using this group's invite link
+12/03/2020, 19:09 - +91 90960 44882 joined using this group's invite link
+12/03/2020, 19:11 - +91 70386 47466 joined using this group's invite link
+12/03/2020, 19:11 - +91 99606 19912 joined using this group's invite link
+12/03/2020, 19:14 - +91 84080 78443 joined using this group's invite link
+12/03/2020, 19:16 - +91 70304 27815 joined using this group's invite link
+12/03/2020, 19:20 - +91 70570 33090 joined using this group's invite link
+12/03/2020, 19:30 - +91 97181 67527: <Media omitted>
+12/03/2020, 20:05 - +91 99688 28927: 🎙 *Are you aiming to crack algorithm rounds of Directi, Amazon, Microsoft, Google like product based companies ?*
+
+Coding Mafia Kiya ?
+Concepts and problems practice both covered.
+
+Starting online Interactive Youtube live + recorded sessions from 23rd MARCH
+Check 👉 *cclb.tk/cm*
+
+*Reviews :* 
+*cclb.tk/cm#reviews*
+12/03/2020, 20:06 - +91 88903 02758 left
+12/03/2020, 20:08 - +91 89561 83980 joined using this group's invite link
+12/03/2020, 20:24 - +91 97181 67527: <Media omitted>
+12/03/2020, 21:17 - +91 97181 67527: <Media omitted>
+12/03/2020, 22:09 - +91 99688 28927: <Media omitted>
+13/03/2020, 08:13 - +91 70307 66765 joined using this group's invite link
+13/03/2020, 08:38 - +91 84466 38925 joined using this group's invite link
+13/03/2020, 06:59 - +91 97181 67527: <Media omitted>
+13/03/2020, 08:05 - +91 87884 28458 left
+13/03/2020, 08:08 - +91 97181 67527: <Media omitted>
+13/03/2020, 08:26 - +91 94045 37757 left
+13/03/2020, 08:44 - +91 99688 28927: 👉 *What can I learn right now in just 10 minutes that could improve my algorithmic thinking?*
+_Credits : Rishabh Jain, Instructor at Coding Mafia_
+
+
+👉 *How can we calculate A^B mod C quickly for any B ?*
+
+Lets say 7 ^ 13 mod 19
+13 = 1101 in binary
+13 = 2^3 + 2^2 + 2^0
+13 = 8 + 4 + 1 
+i.e
+7^13 = 7^8 * 7^4 * 7^1
+7^1 , 7^2, 7^4, 7^8 which can be calculated in just 4 steps just by keep squaring .
+
+👉 And hence multiply 7^8 * 7^4 * 7^1 to calculate 7^13.
+
+*Implementation :*
+
+*long long int ans = 1;*
+*while( n>0 ){*
+	
+	_// multiply only if_ 
+	_// bit was set_
+	_//13->6->3->1_
+	_//1 0 1 1_
+	*if(n%2==1){*
+		*ans = ans*base % mod;*
+	*}*
+
+	_// squaring up base_
+	_//13->6->3->1_
+	_//1 2 4 8_
+	*base = base*base % mod;*
+
+	_//13->6->3->1_
+	*n=n/2;*	
+*}*
+
+*cout << ans;*
+
+*Time complexity :* O(log N)
+
+Keep Coding !
+13/03/2020, 09:21 - +91 97181 67527: <Media omitted>
+13/03/2020, 09:21 - +91 77419 45698 left
+13/03/2020, 10:18 - +91 70300 01534 joined using this group's invite link
+13/03/2020, 10:28 - +91 97181 67527: <Media omitted>
+13/03/2020, 10:29 - +91 96501 58142: 🎁FREE notes for beginners.
+
+🤩CHOOSE ANY ONE
+
+▶ *Get FREE python  notes NOW*  wa.me/919650158142?text=Send+ME+python+notes+HIT_ENTER
+
+▶ *Get FREE Algorithm notes NOW*  wa.me/919650158142 text=Send+ME+Algorithm+Plus+notes+HIT_ENTER
+
+Learn.Inspire.Grow
+13/03/2020, 11:42 - +91 97181 67527: <Media omitted>
+13/03/2020, 12:54 - +91 97181 67527: <Media omitted>
+13/03/2020, 13:21 - +91 74149 31888: unsigned int n;
+    cin>>n;
+    int ones = 0;
+    while(n){
+        int x = (n&-n);
+        n /= x;
+        ones += n&1;
+        n /= 2;
+    }
+    cout<<ones<<endl;
+13/03/2020, 13:26 - +91 83790 13667: from i=0 to 2^n-1 :
+    create sets having the elements corresponding the positions of set bits of i in the original set
+return all the created sets
+
+*Time Complexity:O(2^n)*
+13/03/2020, 13:42 - +91 99688 28927: 🎙 *Are you aiming to crack algorithm rounds of Directi, Amazon, Microsoft, Google like product based companies ?*
+
+Coding Mafia Kiya ?
+Concepts and problems practice both covered.
+
+Starting online Interactive Youtube live + recorded sessions from 23rd MARCH
+Check 👉 *cclb.tk/cm*
+
+*Reviews :* 
+*cclb.tk/cm#reviews*
+13/03/2020, 14:07 - +91 83790 13667: * *Time Complexity: O(n *(2^n))*
+13/03/2020, 14:07 - +91 97181 67527: <Media omitted>
+13/03/2020, 14:13 - +91 74149 31888: O(log(n))
+13/03/2020, 14:30 - +91 74149 31888: Tight Bound: θ(No. of ones)
+13/03/2020, 15:01 - +91 96501 58142: *💯percent FREE,* Get benefited for Google Summer of Code, Internship and Placement tips by and best coders on daily basis for FREE.
+
+✍ Recommended by BEST coders of India.
+
+▶ *Click to join Coding Club India for YCCE coders* 
+https://chat.whatsapp.com/LYjPagsOwvs66VYiU9jplY
+Learn.Inspire.Grow
+13/03/2020, 15:01 - +91 96501 58142: Forward this link to rest students will be join
+13/03/2020, 15:20 - +91 97181 67527: <Media omitted>
+13/03/2020, 16:30 - +91 97181 67527: <Media omitted>
+13/03/2020, 17:43 - +91 97181 67527: <Media omitted>
+13/03/2020, 17:53 - +91 72769 29461: <Media omitted>
+13/03/2020, 17:53 - +91 72769 29461: Time complexity O(n)
+13/03/2020, 17:54 - +91 72769 29461: Assuming 'n' to be whole numbers
+13/03/2020, 18:08 - +91 83790 13667: This can be done in log(n) think of divide and conquer
+13/03/2020, 18:23 - +91 83790 13667: pow(x,n):
+     if n==0: return 1
+     h=pow(x,n/2)
+     if n&1: return h*h*x
+     return h*h
+
+*Time Complexity: O(log(n))*
+13/03/2020, 18:31 - +91 72769 29461: Cool... didn't knew this way
+13/03/2020, 18:31 - +91 72769 29461: Thanks !
+13/03/2020, 20:20 - +91 99688 28927: <Media omitted>
+13/03/2020, 22:52 - +91 83790 13667: As a *CodeChef Campus Chapter Representative* of *Yeshwantrao Chavan College of Engineering*, it is my pleasure to inform you that our campus chapter *CodingClubYCCE*, formed by _Department of Computer Technology_ is planning to help you in improving your programming and problem solving skills.
+But first, we need to learn about the coding culture and awareness in our college. For this we want you to share your views by filling out this scrutinization form 👇
+https://forms.gle/njKxgsenuvnZjVUP9
+
+Thanks and Regards,
+CodingClubYCCE
+( https://www.codechef.com/campus_chapter/CodingClubYCCE )
+13/03/2020, 22:53 - +91 70387 96055 left
+13/03/2020, 23:51 - +91 99688 28927: 👉 *What can I learn right now in just 10 minutes that could improve my algorithmic thinking?*
+_Credits : Rishabh Jain, Instructor at Coding Mafia_
+
+
+👉 *How can we calculate A^B mod C quickly for any B ?*
+
+Lets say 7 ^ 13 mod 19
+13 = 1101 in binary
+13 = 2^3 + 2^2 + 2^0
+13 = 8 + 4 + 1 
+i.e
+7^13 = 7^8 * 7^4 * 7^1
+7^1 , 7^2, 7^4, 7^8 which can be calculated in just 4 steps just by keep squaring .
+
+👉 And hence multiply 7^8 * 7^4 * 7^1 to calculate 7^13.
+
+*Implementation :*
+
+*long long int ans = 1;*
+*while( n>0 ){*
+	
+	_// multiply only if_ 
+	_// bit was set_
+	_//13->6->3->1_
+	_//1 0 1 1_
+	*if(n%2==1){*
+		*ans = ans*base % mod;*
+	*}*
+
+	_// squaring up base_
+	_//13->6->3->1_
+	_//1 2 4 8_
+	*base = base*base % mod;*
+
+	_//13->6->3->1_
+	*n=n/2;*	
+*}*
+
+*cout << ans;*
+
+*Time complexity :* O(log N)
+
+Keep Coding !
+14/03/2020, 06:49 - +91 97181 67527: <Media omitted>
+14/03/2020, 07:56 - +91 97181 67527: <Media omitted>
+14/03/2020, 09:02 - +91 97181 67527: <Media omitted>
+14/03/2020, 09:03 - +91 73789 03049 left
+14/03/2020, 09:20 - +91 70574 09534 left
+14/03/2020, 09:43 - +91 84466 38925 left
+14/03/2020, 11:00 - +91 97181 67527: 💎 Make your GIT more stronger.
+
+NO PREVIOUS KNOWLEDGE IS REQUIRED
+
+Learn Python + Machine Learning along with 7 projects 
+♦ Apparel Product Recommendation System
+♦ Face Recognition System
+♦ Handwritten Digit Recognition
+♦ Dominant Color Extraction 
+♦ Word Analogies
+♦ Air Quality Prediction
+♦ Diabetes Classification
+
+*via YOUTUBE LIVE SESSIONS* 🔥🔥🔥
+
+AI Mafia : Online batch starting from 23rd MARCH 
+👉Visit: *codingclub.tech/ml*
+14/03/2020, 12:07 - +91 97181 67527: ♦YOUR RESUME via AI MAFIA in just 5 weeks of time.
+
+Beginner to expert: Both Python + Machine Learning from beginning.
+
+♦Project 1:
+*Title - Apparel Product Recommendation System*
+- Applied Natural Language Feature Engineering and built a content based recommendation system using NLP Models (Bag of words and TF-IDF) in problem of recommending similar products on e-commerce websites by using Amazon product advertising API. Tech Stack - Python, BoW, TF-IDF, Word2Vec, NLP
+
+♦Project 2:
+*Title - Face Recognition System*
+- Applied K Nearest Neighbour classification algorithm in face recognition using opencv and HaarCascades CNN
+Model for frontal face detection. Tech Stack - Python, ML(KNN), OpenCV
+
+♦Project 3:
+*Title - Handwritten Digit Recognition* 
+- Applied K Nearest Neighbours Algorithm in recognizing handwritten digits (0 to 9) from the MNIST dataset. 
+- Developed a system from scratch which includes a machine to understand and classify the images of handwritten digits as 10 digits (0–9). Accuracy of the model was around 98%. Tech Stack - Python, ML(KNN), OpenCV, MNIST Database
+
+♦Project 4: 
+*Title - Dominant Color Extraction* 
+- Applied K Means Clustering Unsupervised Algorithm in Segmenting an image into set ok K Dominant Colors. 
+- Extracted the K Dominant Colors from the image and then re-colorized it using those K Colors. Tech Stack - Python, ML(K-Means), OpenCV 
+
+♦Project 5:
+*Title - Word Analogies* 
+- Solving Word Analogies by representing Words as Vectors using Google Pretrained Deep Learning Model, Word2Vec
+- Trained the Word2Vec model using Gensim’s implementation of Word2Vec. Used Gensim, a python toolkit which helps with vector-space and topic modeling to create a model that solved analogies. Tech Stack - Python, Word2Vec
+
+♦Project 6: 
+*Title - Air Quality Prediction*
+- Predicted Pollution Levels by building linear regression model, designed a machine learning model which can predict the air quality index. Tech Stack :- Python, ML (Linear Regression)
+
+♦Project 7: 
+*Title - Diabetes Classification*
+- Build a classifier using Logistic Regression which can classify if a person is diabetic or not, based on some features. Performed exploratory data analysis on health to gain the domain knowledge and built a binary classifier. Tech Stack :- Python, ML (Logistic Regression)
+
+♦Beginer to Expert in just 5 weeks of time
+We have got you covered. Just enrol for AI MAFIA online Python + Machine Learning YouTube live session based course. All from beginning Python and Machine Learning. Batch starting from 23rd MARCH💎 
+
+Coupon code will be applied automatically.
+Enroll now for AI Mafia :👉 *bit.ly/aimafia*
+
+The AI Mafia Team,
+Coding Club India
+Visit:🔗 *bit.ly/aimafia*
+14/03/2020, 12:11 - +91 75070 09285 joined using this group's invite link
+14/03/2020, 13:04 - +91 99688 28927: <Media omitted>
+14/03/2020, 14:36 - +91 97181 67527: <Media omitted>
+14/03/2020, 14:48 - +91 74149 31888: This message was deleted
+14/03/2020, 14:51 - +91 74149 31888: This message was deleted
+14/03/2020, 15:00 - +91 90113 04728 left
+14/03/2020, 15:00 - +91 74149 31888: int l = 0, r = n-1, mid;
+        while(l < r){
+            mid = l + (r-l)/2;
+            if(a[l] <= a[r]){
+                r = l;
+            }
+            else{
+                if(a[mid] <= a[l] && a[mid] <= a[r]) r = mid;
+                else if(a[mid] >= a[l] && a[mid] >= a[r]) l = mid + 1;
+            }
+    }
+    cout<<"Smallest element is "<<a[r]<<"\n";
+14/03/2020, 15:14 - +91 99215 28443 joined using this group's invite link
+14/03/2020, 15:47 - +91 97181 67527: 🔷We have success stories of cracking Flipkart, Paytm, Amazon, Zomato, Grofers, Directi, Goldman Sachs, Uber, Oppo, Wingify, Samsung... placements and internships.
+
+🔷Learn Data Structures and Algorithms with credible mentor Rishabh Jain. He is mentor for Coding Mafia at Coding Club India. 
+*codingclub.tech/coding-mafia*
+
+🔷Connect with Instructor: Rishabh Jain
+*https://www.linkedin.com/in/📌ऋषभ-जैन-rishabh-jain-76aa5ba5/*
+14/03/2020, 15:55 - +91 90756 55584 joined using this group's invite link
+14/03/2020, 16:02 - +91 99688 28927: 👉 *How can I strengthen my algorithm coding skills?*
+_Answered by Bhawna Jain, SDE at Goldman Sachs_
+
+*Read a good, complex book on programming*
+Recommended books:
+C++ primer
+Algorithm notes for professional
+Let Us C
+Steven Halim’s competitive programming 3
+
+*Solve programming questions on coding websites:*
+I have mentioned few coding websites from where you can practice.
+CodeChef
+Codeforces
+Leetcode
+Spoj
+
+The last thing it’s all about practice. 
+So, do
+Practice! practice! practice! :)
+
+Coding Club India
+Learn.Inspire.Grow.
+14/03/2020, 17:03 - +91 97181 67527: ✍ *My Review : for AI Mafia course* 
+Python + Machine Learning A-Z is a great introduction to python and ML. A big tour through a lot of algorithms making the student more familiar with libraries and other packages. The theoretical explanation is elementary, so are the practical examples. ML- A to Z by AI Mafia is a right course for a beginner to get the motivation to dive deep in ML. From here you can choose where to go and, therefore, master it! In short, very introductory, no-brainer, wide coverage. A good way to start.​
+
+Python + Machine Learning A-Z for beginners
+Online Live Sessions Batch *starting from 23rd MARCH*
+↪ *codingclub.tech/ml*
+14/03/2020, 17:40 - +91 88065 86329 joined using this group's invite link
+14/03/2020, 17:35 - +91 96501 58142: *💯percent FREE,* Get benefited for Google Summer of Code, Internship and Placement tips by and best coders on daily basis for FREE.
+
+✍ Recommended by BEST coders of India.
+
+▶ *Click to join Coding Club India for YCCE coders* 
+https://chat.whatsapp.com/LYjPagsOwvs66VYiU9jplY
+Learn.Inspire.Grow
+14/03/2020, 17:35 - +91 96501 58142: Forward to rest students
+14/03/2020, 17:38 - +91 76208 58243 left
+14/03/2020, 18:55 - +91 97181 67527: 💎 Make your GIT more stronger.
+
+*NO PREVIOUS KNOWLEDGE IS REQUIRED*
+
+Learn Python + Machine Learning along with 7 projects 
+♦ Apparel Product Recommendation System
+♦ Face Recognition System
+♦ Handwritten Digit Recognition
+♦ Dominant Color Extraction 
+♦ Word Analogies
+♦ Air Quality Prediction
+♦ Diabetes Classification
+
+*via YOUTUBE LIVE SESSIONS* 🔥🔥🔥
+
+AI Mafia : Online batch starting from 23rd MARCH 
+👉Visit: *codingclub.tech/ml*
+14/03/2020, 19:06 - +91 77984 60983 joined using this group's invite link
+14/03/2020, 19:56 - +91 99688 28927: *Amazon SDE intern experience*
+_Credits: Anonymous at GFG_
+
+🎯 *Round 1:*  The first round was an online coding + aptitude + debugging test.
+
+1⃣ There were 2 coding questions – is path possible in 2 D matrix and the other one was very similar to a linear search in a 2D matrix.
+70 minutes were provided for these questions.
+
+2⃣ The debugging questions were also fairly easy, simple replacement of || operator by && types.
+
+3⃣ The aptitude questions were also simple and ample time was provided for them.
+Candidates had to solve both coding questions, all debugging questions and perform well in the aptitude section also to qualify for the next round.
+
+🎯 *Round 2:* The second round was an interview round. My interviewer asked me 4 questions and also asked me to code all of them after discussing the solution. Below is the list of questions asked:
+
+1⃣ The first question was to Find the Next Greater Element, optimized solution was expected.
+
+2⃣ The second question was to find the mirror tree of a given binary tree.
+
+3⃣ The third question was  similar to the first question, the interviewer thought of the question on the spot but if someone knew the answer to the first question then this question would not be a problem.
+
+4⃣ The last question was to find the min cost of joining n rods.
+There were no more rounds conducted for the candidates, amazon selected the candidates on the basis of these 2 rounds.
+
+_Recommendation by Coding Mafia team below:_
+
+🎯 *Are you aiming to crack algorithm rounds of Directi, Amazon, Microsoft, Google like product based companies ?*
+
+▶ Coding Mafia Kiya ?
+Concepts and problems practice both covered.
+
+▶ Starting online Interactive Youtube live + recorded sessions from 23rd MARCH
+👉 Check *cclb.tk/cm*
+
+▶ NO PREVIOUS KNOWLEDGE IS REQUIRED
+
+▶ *Course Reviews :* 
+*cclb.tk/cm#reviews*
+14/03/2020, 20:16 - +91 97181 67527: <Media omitted>
+14/03/2020, 21:04 - +91 74149 31888: int arrsize, sum = 0, maxsize = 0;
+    cin>>arrsize;
+    int arr[arrsize];
+    unordered_map<int, set<int>> mp;
+    mp[0].emplace(0);
+    for(int i = 0; i < arrsize; ++i){
+        cin>>arr[i];
+        sum += arr[i];
+        mp[sum].emplace(i+1);
+    }
+    for(auto i : mp){
+        maxsize = max(maxsize, *(i.second.rbegin()) - *(i.second.begin()));
+    }
+    cout<<maxsize<<"\n";
+14/03/2020, 21:11 - +91 74149 31888: O(nlogn)
+14/03/2020, 21:27 - +91 97181 67527: <Media omitted>
+14/03/2020, 21:59 - +91 99229 41475: #include <bits/stdc++.h>
+using namespace std;
+string move(string s)
+{
+    if (s.size() <= 1)
+        return s;
+    string ros = s.substr(1);
+    ros = move(ros);
+    if (s[0] == 'x')
+        return ros + s[0];
+    else
+        return s[0] + ros;
+}
+
+int main()
+{
+    string s;
+    cin >> s;
+    cout << move(s);
+    return 0;
+}
+14/03/2020, 22:32 - +91 77748 27881 joined using this group's invite link
+15/03/2020, 10:59 - +91 90222 37724 joined using this group's invite link
+15/03/2020, 07:45 - +91 97181 67527: 💎 Make your GIT more stronger.
+
+NO PREVIOUS KNOWLEDGE IS REQUIRED
+
+Learn Python + Machine Learning along with 7 projects 
+♦ Apparel Product Recommendation System
+♦ Face Recognition System
+♦ Handwritten Digit Recognition
+♦ Dominant Color Extraction 
+♦ Word Analogies
+♦ Air Quality Prediction
+♦ Diabetes Classification
+
+*via YOUTUBE LIVE SESSIONS* 🔥🔥🔥
+
+AI Mafia : Online batch starting from 23rd MARCH 
+👉Visit: *codingclub.tech/ml*
+15/03/2020, 08:16 - +91 70200 49093 left
+15/03/2020, 09:08 - +91 97181 67527: 🎙 *Are you aiming to crack algorithm rounds of Directi, Amazon, Microsoft, Google like product based companies ?*
+
+Learn concepts and problems practice (both covered) :
+♦C++ Basics
+♦STL in C++
+♦Algorithms
+♦Data Structures
+♦Coding Platforms
+♦Logic to code conversion
+♦Increase in speed to code
+♦Solving problems asked in companies
+
+🎯Coding Mafia : *via YOUTUBE LIVE SESSIONS* 🔥🔥🔥
+
+Starting online Interactive Youtube live + recorded sessions from 23rd MARCH
+Check 👉 *cclb.tk/cm*
+
+*REQUIRED :* ONLY BASIC KNOWLEDGE OF INPUT/OUTPUT/FOR LOOPS IN C LANGUAGE IS REQUIRED.
+15/03/2020, 10:49 - +91 99688 28927: *💼 Why to apply for Problem Setter Intern at Coding Mafia ?*
+
+1⃣ Be known across India by setting up biggest Coding Contest by Coding Club India.
+2⃣ Interact with best coders across India.
+3⃣ Rs.60000 as total stipend, SWAGS and goodies for 2 months internship.
+4️⃣ Work from home.
+
+*👇 Process :* 
+1⃣ Best resumes will get notified. 
+2⃣ Online rounds for interview based on Data Structures and Algorithms. 
+
+*▶ Apply:* 
+codingclub.tech/event/apply-internship-2020
+
+_Coding Mafia is a brand operated by Coding Club India._
+
+*Coding Club India*
+*Learn.Inspire.Grow.*
+15/03/2020, 10:52 - +91 83790 13667: This message was deleted
+15/03/2020, 10:52 - +91 83790 13667: What will be the start date of internship?
+15/03/2020, 10:53 - +91 96576 34735: He seems like a Bot....
+15/03/2020, 12:16 - +91 97181 67527: ▶ *Why start Java ?*
+Java developers are paid highest in industry.
+
+👇 *Start full stack development* : 
+
+1⃣NO PREVIOUS KNOWLEDGE IS REQUIRED
+
+2⃣Start learning easily concepts & lots of practice.
+
+3⃣SKILLS YOU WILL GAIN
+👉 Core Java
+👉 Advanced Java
+👉 Database
+👉 Postgres
+👉 IntelIJ
+👉 Rest APIs
+👉 Basics of Javascript
+👉 Spring MVC Framework
+👉 Wikipedia Fetcher
+👉 Multithreaded Crawling
+👉 Build Twitter
+
+5⃣  *View details:*  
+▶ *cclb.tk/backend*
+
+🎯Offered by Coding Club India *via YOUTUBE LIVE SESSIONS* 🔥🔥🔥. _Course is designed by Coding Mafia team_
+
+Coding Club India
+_Learn.Inspire.Grow._
+15/03/2020, 14:04 - +91 99688 28927: 🎯 *Amazon SDE intern experience*
+_Credits: Anonymous at GFG_
+
+*I was recently interviewed* for an internship position at Amazon and had to go through a total of 3 rounds i.e. one online followed by two telephonic rounds.
+
+🎯 *Online Round*
+As usual the online round had two coding questions and 20 MCQs. This was a pretty easy round and it’s duration was 90 minutes. The round consisted of questions from various domains like Algorithm, Data Structure, Operating System and Aptitude.
+
+🎯 *First Telephonic Round*
+I had just three days to prepare for this round and truly speaking, it was my first experience of appearing in any such interview.
+
+This round lasted for almost 60 minutes. It began with my general introduction followed by a brief discussion on my projects. After this, the interviewer asked me these questions:
+
+1⃣ *Question:*
+I had just three days to prepare for this round and truly speaking, it was my first experience of appearing in any such interview.
+
+This round lasted for almost 60 minutes. It began with my general introduction followed by a brief discussion on my projects. After this, the interviewer asked me four questions.
+
+2⃣ *Question:*
+Given two trees check if they are mirror images of each other or not.
+This was a straight forward question and it took me less than 10 minutes to code it.
+
+3⃣ *Question:*
+What is semaphore and what do you mean by a deadlock.
+
+*After two days I got a call* from the HR informing me I have been selected for the next round. Now it was the time for the last and the decisive round.
+
+🎯 *Second Telephonic Round* 
+This time I had to face three technical questions and one general question on Amazon : 
+
+1⃣ *Question :*
+Given a BST, replace each node with the sum of the values of all the nodes that are greater than that node. Only constraint being that I was not allowed to use any global or static variable.
+Although I panicked a bit and made few mistakes, I got through.
+
+2⃣ *Question :*
+Given an array of numbers find the maximum count of duplets and triplets such that there sum is a multiple of three.
+Number that has appeared once can’t be included anywhere else.
+I solved this question using a property of modulus.
+
+3⃣ *Question :*  
+Given the stock prices of 10 days find the best possible buy sell pair.
+For this question I started with a O(N2) solution but then finally managed to reduce it to O(N) solution with constant space complexity.
+
+*_Coding Club India_*
+*_Learn.Inspire.Grow._*
+15/03/2020, 15:38 - +91 99688 28927: 🎯 *Amazon Interview Problem* 
+
+A string of length n and an integer m was given, give an algorithm to rotate the string counter clockwise by m.
+
+*Recommendation :* _Next batch of Coding Mafia starting from 23rd MARCH_
+
+Coding Club India
+_Learn.Inspire.Grow._
+15/03/2020, 16:56 - +91 99688 28927: 🎯 *Microsoft Interview Experience*
+_Credits : Anonymous_
+
+🎯 *Round 1:* 
+(Multiple choice questions)
+
+*1⃣ Question:*
+Intersection of two linked list.
+
+*2⃣ Question:* 
+There is a 2 d array. 0 signifies water and 1 signifies land. an island is connected 0s(in all 8 direction) and no 0 should be on the outer edge of two array. You have to count the bumber of such possible array.
+
+You have to solve both coding question to enter in 2nd round
+
+In round 2 interviewer were very cool and supporting. try to shake hand while entering and ask every detail of problem.
+
+🎯 *Round 2:*
+
+*1⃣ Question:*
+Explain yourself.
+
+*2⃣ Question:* 
+A backtrack problem on sudoku.
+write full code on paper in any language. write failure case of your code.
+
+*3⃣ Question:*
+Discussion on projects.
+i had done a project on big data on frequent itemset.they were really interested in each and every detail of big data paradigm.
+4. Your strength and weakness and extra curricular interests,
+
+🎯 *Round 3:*
+
+*1⃣ Question:*
+There is a 3 million character string. u have to print the count of occurrence of each node.
+do not jump on to the question. wait for him to complete. i gave count sort pf O(n) solution but he was focusing on more optimized one.
+
+*2⃣ Question:* 
+Again he jump to my big data project. he gave me a real life scenario and asked to design it.
+you are giving the information of about 10,000 sites about their users and the product they had bought. you are a consultant. give a big data solution to find out the places where users had bought the jewellery in large amount. also give the name and details of users who had bought jewellery in large amount.
+
+He was quite impressed by my design. we discuss the design for about 30 minutes. then instantaneously they told me that i am selected for 3rd round.
+
+In my case, I actively started...
+
+🎯 *Round 4:* (HR round)
+HR was very cool
+1. tell me about yourself.
+2. why Miscrosoft.
+3. tell any 4 of your favorite product of Miscrosoft
+4. tell 2 good and 2 bad points of Microsoft.
+5. Why you opt for your college.
+he was trying to check my planning skills to compare 2 entities.
+6. Why computer science.
+7. Tell any 1 social problem that bothers you the most.
+8. Suggest 3 solution to above problem as a technical guy.
+9. what is big data
+10. what will you do if your colleague is not working
+11. what if you are not agreed with your senior
+
+My tips is to stay cool and enjoy the interview. carefully tell your weakness. Don’t worry to ask questions from interviewer. Take proper use of the time. Big data helps me a lot in every round.focus on designing problems along with data structure.
+
+*You liked the story ?*
+Add your college to Coding Club India for FREE:
+*CLICK HERE ▶* wa.me/919319137061?text=Add+my+college+,+college+name+is
+
+✅ Share this post in all CSE/IT/coders groups & with friends of other college.
+15/03/2020, 19:24 - +91 97181 67527: 💎 Make your GIT more stronger.
+
+NO PREVIOUS KNOWLEDGE IS REQUIRED
+
+Learn Python + Machine Learning along with 7 projects 
+♦ Apparel Product Recommendation System
+♦ Face Recognition System
+♦ Handwritten Digit Recognition
+♦ Dominant Color Extraction 
+♦ Word Analogies
+♦ Air Quality Prediction
+♦ Diabetes Classification
+
+*via YOUTUBE LIVE SESSIONS* 🔥🔥🔥
+
+AI Mafia : Online batch starting from 23rd MARCH 
+👉Visit: *codingclub.tech/ml*
+15/03/2020, 20:44 - +91 97181 67527: 🎙 *Are you aiming to crack algorithm rounds of Directi, Amazon, Microsoft, Google like product based companies ?*
+
+Learn concepts and problems practice (both covered) :
+♦C++ Basics
+♦STL in C++
+♦Algorithms
+♦Data Structures
+♦Coding Platforms
+♦Logic to code conversion
+♦Increase in speed to code
+♦Solving problems asked in companies
+
+🎯Coding Mafia : *via YOUTUBE LIVE SESSIONS* 🔥🔥🔥
+
+Starting online Interactive Youtube live + recorded sessions from 23rd MARCH
+Check 👉 *cclb.tk/cm*
+
+*REQUIRED :* ONLY BASIC KNOWLEDGE OF INPUT/OUTPUT/FOR LOOPS IN C LANGUAGE IS REQUIRED.
+15/03/2020, 21:12 - +91 70386 47466 left
+15/03/2020, 22:07 - +91 97181 67527: ▶ *Why start Java ?*
+Java developers are paid highest in industry.
+
+👇 *Start full stack development* : 
+
+1⃣NO PREVIOUS KNOWLEDGE IS REQUIRED
+
+2⃣Start learning easily concepts & lots of practice.
+
+3⃣SKILLS YOU WILL GAIN
+👉 Core Java
+👉 Advanced Java
+👉 Database
+👉 Postgres
+👉 IntelIJ
+👉 Rest APIs
+👉 Basics of Javascript
+👉 Spring MVC Framework
+👉 Wikipedia Fetcher
+👉 Multithreaded Crawling
+👉 Build Twitter
+
+5⃣  *View details:*  
+▶ *cclb.tk/backend*
+
+🎯Offered by Coding Club India *via YOUTUBE LIVE SESSIONS* 🔥🔥🔥. _Course is designed by Coding Mafia team_
+
+Coding Club India
+_Learn.Inspire.Grow._
+15/03/2020, 23:06 - +91 99688 28927: ▶ *Add your college for FREE mentorship resources* by Coding Club India. Get best updates and events at one place.
+
+🎯 *Step 1.* 
+Send your college name here 👉 wa.me/919650114261
+
+🎯 *Step 2.* 
+Forward this message to 3 more classmates.
+
+🎯 Optional 
+Forward this message to friend in other college.
+
+_Coding Club India_
+_Learn.Inspire.Grow._
+15/03/2020, 23:08 - +91 96576 34735: _*All Colleges are Dead,The World is near end......*_
+16/03/2020, 09:27 - +91 97181 67527: <Media omitted>
+16/03/2020, 10:51 - +91 97181 67527: <Media omitted>
+16/03/2020, 11:42 - +91 91725 39347: *💯 percent FREE,* Get benefited for Google Summer of Code, Internship and Placement tips by and best coders on daily basis for FREE.
+
+✍ Recommended by BEST coders of India.
+
+▶ *Click to join Coding Club India for YCCEcoders* 
+https://chat.whatsapp.com/LYjPagsOwvs66VYiU9jplY
+Learn.Inspire.Grow
+16/03/2020, 11:51 - +91 75592 28778 left
+16/03/2020, 12:07 - +91 97181 67527: In your resume *Add 7 Projects guaranteed* 
+
+NO PREREQUISITE KNOWLEDGE IS REQUIRED AS PYTHON AND MACHINE LEARNING BOTH ARE COVERED.
+
+1⃣ To make your resume stronger : *Process:* 10 Online YouTube lives  + Extra Recorded videos with demo practice + Discussion group 24/7 + Audio Podcast + Notes + Modules + Assignments + Mentor Interaction on Whatsapp
+
+2⃣ *7 Projects:*
+Air Quality Prediction (Linear Regression) 
+Diabetes Classification (Logistic Regression) 
+Face Recognition (KNN) 
+Dominant Color Extraction (K Means Clustering) 
+Recommendation System (NLP) 
+Word Analogies (Word2Vec)
+Hand Writing Digit Recognition
+
+*New batch starting from 23rd MARCH*
+*Read course:👉* *cclb.tk/ml*
+
+Check Ticket Availability:
+*Click👉* *codingclub.tech/offer?c=NVDMI&open=ml*
+
+*Batch will be full 🔜*
+Live status: Only 21 tickets left. 
+
+3⃣ So, Just in 5 weeks add 7 Python + ML Projects. Python + ML: Theory + Examples + Practice + Projects + Assignment + Ask Doubts + Python from scratch + ML from scratch.
+16/03/2020, 13:34 - +91 97181 67527: 🎙 *How to crack PRODUCT BASED companies ?*
+Coding Mafia : Master in Data Structures and Algorithms with C/C++
+
+*Online Youtube Live Session* 
+MON & FRI : 8:30 pm to 10 pm
+
+Recorded Session Days
+TUE, WED, THUR, SAT ( 1 hour videos )
+
+New batch starting from 23rd MARCH
+Read course:👉 *cclb.tk/cm*
+
+*Have Queries ?*
+Call Deepanshu Jain : +919205561770
+Whatsapp : *wa.me/919205561770?text=I+Have+Doubt*
+16/03/2020, 14:03 - +91 98814 31896 joined using this group's invite link
+16/03/2020, 14:27 - +91 77769 70140 left
+16/03/2020, 14:48 - +91 96657 78122 left
+16/03/2020, 16:10 - +91 95119 72841 left
+16/03/2020, 17:09 - +91 97181 67527: ▶ *Why start Java ?*
+Java developers are paid highest in industry.
+
+👇 *Start full stack development* : 
+
+1⃣NO PREVIOUS KNOWLEDGE IS REQUIRED
+
+2⃣Start learning easily concepts & lots of practice.
+
+3⃣SKILLS YOU WILL GAIN
+👉 Core Java
+👉 Advanced Java
+👉 Database
+👉 Postgres
+👉 IntelIJ
+👉 Rest APIs
+👉 Basics of Javascript
+👉 Spring MVC Framework
+👉 Wikipedia Fetcher
+👉 Multithreaded Crawling
+👉 Build Twitter
+
+5⃣  *View details:*  
+▶ *cclb.tk/backend*
+
+🎯Offered by Coding Club India *via YOUTUBE LIVE SESSIONS* 🔥🔥🔥. _Course is designed by Coding Mafia team_
+
+Coding Club India
+_Learn.Inspire.Grow._
+16/03/2020, 21:07 - +91 97181 67527: <Media omitted>
+17/03/2020, 07:48 - +91 97181 67527: <Media omitted>
+17/03/2020, 08:41 - +91 99688 28927: *▶ Why start Java compared to Javascript ?* 
+Java developers are paid highest in industry.
+
+🎯 Start with core java to advanced java till full stack development course is designed by Coding Mafia team. *ENROLL here*  ▶ cclb.tk/backend
+
+🎯 NO PREVIOUS KNOWLEDGE IS REQUIRED. Start learning all concepts easily with lots of practice.
+
+🎯 *READ DETAILED COURSE BELOW* 
+
+*Click Read more 👇*:
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+YOUTUBE LIVE sessions
+
+*Week 1* 
+👉 Core Java
+
+
+*Installations*
+|Installing the JDK
+|Running a Java Program
+|Downloading IntelIJ
+
+
+👉 Core Java
+*Introduction to Java : Variable & Arrays*
+|Data Types
+|Variables
+|Arrays
+|Multidimensional Arrays
+|Getting User Input
+
+
+👉 Core Java
+*Practicing on Hackerrank*
+|Java 1D Array
+|Java 2D Array
+|Java Subarray
+
+
+👉 Core Java
+*Operators, Control Statements, Loops*
+|Math Operators
+|Increment Operators
+|Logical Operators
+|Conditional Operators
+|If Statement
+|Switch Statement
+|For Loops
+|While Loop
+|Do while Loops
+
+
+*Practicing on Hackerrank*
+👉 Core Java
+|Java Stdin and Stdout I
+|Java If-Else
+|Java Stdin and Stdout II
+|Java Loops I
+|Java Loops II
+|Java End-of-file
+
+
+*Maths, Strings & Date*
+👉 Core Java
+|Random Number Generator
+|String
+|String methods
+|toString, length, substring, indexOf, charAt, toUpperCase, toLowerCase, compareTo
+|Date and Epoch Time
+
+
+*Practicing on Hackerrank*
+👉 Core Java
+|Java Int to String
+|Java Strings Introduction
+|Java Substring
+|Java Substring Comparisons
+|Java String Reverse
+|Java Anagrams
+
+
+*Week 2*
+👉 Advanced Java
+
+
+*Data Structures*
+|Arraylist
+|List
+|Map
+|Stack
+|Set
+|Sort
+
+
+👉 Advanced Java
+*Practicing on Hackerrank*
+|Java Arraylist
+|Java 1D Array (Part 2)
+|Java List
+|Java Map
+|Java Stack
+|Java Sort
+
+
+👉 Advanced Java
+*OOPs and Exception Handling*
+|Class and Objects
+|Public, Private and this
+|Inheritance
+|Abstract Class
+|Interface
+|Method Overriding
+|Exception Handling (Try-catch)
+|Exception Handling
+|Singleton Pattern
+
+
+👉 Advanced Java
+*Practicing on Hackerrank*
+|Java BitSet
+|Java Priority Queue
+|Java Inheritance I
+|Java Inheritance II
+|Java Abstract Class
+|Java Interface
+|Java Method Overriding
+|Java Method Overriding 2 (Super Keyword)
+|Java Exception Handling (Try-catch)
+|Java Exception Handling
+|Java Singleton Pattern
+
+
+*Week 3*
+
+
+👉 Advanced Java
+*Creating Project : Knowing about IDE*
+|How to debug
+|How to setup environment
+|Creating Project
+
+
+👉 Advanced Java
+*File, Thread & Networking*
+|File Handling
+|Threads
+|Multithreading
+|Get, Post request
+
+
+👉 Advanced Java Project
+*Mini Project: Word Top Frequency Analyser*
+|Reading files
+|Using data structures
+|Finding top keywords
+
+
+👉 Advanced Java
+*Dependencies using Gson & Json*
+|How to add dependencies
+|What is Json and Gson ?
+|Converting objects to Gson
+|Converting Gson to objects
+
+
+👉 Advanced Java
+*Parsing Html*
+|Learning about Jsoup
+|Running selecting queries
+
+
+👉 Advanced Java Project
+👉 Wikipedia Fetcher
+*Mini Project : Wikipedia Fetcher*
+|Search Word
+|Get information from wikipedia
+|Display to user
+
+
+*Week 4*
+👉 Database
+👉 Postgres
+
+
+*Setting up database*
+|Setting up Postgres
+|Setting up Pg Admin
+
+
+👉 Database
+*Using JOOQ : Connecting Database*
+|Why JOOQ ?
+|How to setup ?
+|Connect with database
+|Create, Update, Delete
+|Running queries
+
+
+👉 Advanced Java Project
+👉 Multithreaded Crawling
+*Mini Project : Multithreaded Crawling*
+|Picking links from file
+|Making multi-threaded network requests
+|Dumping data
+
+
+*REST APIS*
+👉 IntelIJ
+👉 Rest APIs
+|What is REST APIS ?
+|HTTP Methods: GET, POST
+|HTTP Headers
+
+
+*Week 5*
+👉 Backend : Spring MVC Framework
+
+
+*Spring MVC : Getting Started*
+|The DispatcherServlet
+|POM.XML
+|Web.xml
+|What is Model
+|What is View
+|What is Controller
+
+
+👉 Backend : Spring MVC Framework
+*Explaining Configurations*
+|Application Properties
+|Profiles in IDE
+|Knowing about static resources
+
+
+👉 Backend : Spring MVC Framework
+*Building first REST API*
+|Creating Controller
+|Creating Entity/Model classes
+|Creating Views using jsp
+
+
+👉 Backend : Spring MVC Framework
+*Running first REST API*
+|Setting up Jetty server
+|Making GET/POST request to server
+|Requesting for HTML
+|Requesting for JSON
+
+
+*Week 6*
+
+
+👉 Build Twitter
+👉 Basics of Javascript
+*Building Twitter : Sign Up Page*
+|Creating sign up page
+|Learning javascript concepts
+|Adding Member details to Database
+|Learning about interceptors
+|Learning about cookies
+
+
+👉 Build Twitter
+*Building Twitter : Login Page*
+|Learning javascript concepts
+|Authenticating user
+|Handling login failure
+|Redirecting to welcome page
+
+
+👉 Build Twitter
+*Building Twitter : Profile Page*
+|Update details
+|Uploading photo
+
+
+👉 Build Twitter
+*Building Twitter : Create First Tweet*
+|Setting up UI interaction
+|Using more javascript
+|Updating user profile
+
+
+*Week 7*
+
+
+👉 Build Twitter
+*Building Twitter : Home Feed*
+|Fetching users feed from database
+|Adding LOAD MORE option
+|Adding like option to tweet
+|Handling unlike
+
+
+👉 Build Twitter
+*Building Twitter : Adding Follower*
+|Adding follow option on other’s profile
+|Adding follow option on HOME FEED
+
+
+👉 Build Twitter
+*Building Twitter : Using CDN & Redis*
+|Making APIs faster ? How ?
+|What is CDN ?
+|What is Redis ?
+
+
+👉 End of projects
+👉 Interview Tips
+*Closure of Course*
+|How to explore more
+|More tips on projects
+|Final words from team
+
+
+🎯 *SKILLS YOU WILL GAIN*
+👉 Core Java
+👉 Advanced Java
+👉 Database
+👉 Postgres
+👉 IntelIJ
+👉 Rest APIs
+👉 Basics of Javascript
+👉 Spring MVC Framework
+👉 Wikipedia Fetcher
+👉 Multithreaded Crawling
+👉 Build Twitter
+
+
+3⃣PROJECTS
+👉 Wikipedia Fetcher
+👉 Multithreaded Crawling
+👉 Build Twitter
+
+🎯 *Type on Desktop :*
+codingclub.tech/backend
+
+🎯 *OR* Scroll up and click link on the top of post.
+
+🎯 *OR* Open ▶ cclb.tk/backend
+
+*Coding Club India*
+Learn.Inspire.Grow.
+17/03/2020, 09:47 - +91 99688 28927: 👆 Build Twitter. NO PREVIOUS KNOWLEDGE IS REQUIRED. Read course : *cclb.tk/backend*
+17/03/2020, 10:43 - +91 97181 67527: <Media omitted>
+17/03/2020, 12:05 - +91 99688 28927: 🎯 Build Twitter. Start learning now.
+
+✅Core Java 
+✅Advanced Java
+✅Database
+✅Rest Apis
+✅Javascript basics
+✅Backend 
+
+*Read details* 👉 cclb.tk/backend
+_Course offered by Coding Mafia team._
+17/03/2020, 12:05 - +91 97675 46873 left
+17/03/2020, 12:23 - +91 96576 34735: *Follow your passion and add more value to your CV!*
+
+*MyCaptain*, an *IIM Bangalore* incubated company and *United Nation SDSN* recognised program is providing an opportunity for you to stand out from the rest! You will get mentored by Industry experts in your field of passion, and recieve a *Certificate* and *Letter of Recommendation.* All of this can be done at your convenience!
+
+*Register here now!*
+http://bit.ly/vaibhavi_MyC10
+
+*Workshops:*
+1. Digital Marketing
+2. Android App Development
+3. Creative Writing
+4. Advertising and Marketing
+5. Finance and Stock Markets
+6. Web Development
+7. Coder's pack (C,C++, Java, Python)
+8. Blogging and Content Writing 
+9. Entrepreneurship
+10. Race Car Tech
+11. Artificial Intelligence
+12. Photography
+and many more..
+ 
+*Register yourself for free consultation in your preferred field below!*
+http://bit.ly/vaibhavi_MyC10
+17/03/2020, 12:57 - +91 97181 67527: <Media omitted>
+17/03/2020, 13:44 - +91 75882 97936 left
+17/03/2020, 14:32 - +91 99688 28927: 🎙 *Are you aiming to crack algorithm rounds of Directi, Amazon, Microsoft, Google like product based companies ?*
+
+Learn concepts and problems practice (both covered) :
+♦C++ Basics
+♦STL in C++
+♦Algorithms
+♦Data Structures
+♦Coding Platforms
+♦Logic to code conversion
+♦Increase in speed to code
+♦Solving problems asked in companies
+
+🎯Coding Mafia : *via YOUTUBE LIVE SESSIONS* 🔥🔥🔥
+
+Starting online Interactive Youtube live + recorded sessions from 23rd MARCH
+Check 👉 *cclb.tk/cm*
+
+*REQUIRED :* ONLY BASIC KNOWLEDGE OF INPUT/OUTPUT/FOR LOOPS IN C LANGUAGE IS REQUIRED.
+17/03/2020, 14:51 - +91 97181 67527: <Media omitted>
+17/03/2020, 16:44 - +91 97181 67527: <Media omitted>
+17/03/2020, 16:53 - +91 83790 13667: This message was deleted
+17/03/2020, 16:57 - +91 83790 13667: This message was deleted
+17/03/2020, 16:57 - +91 83790 13667: void PrintPairs(int a[],int k)
+{
+   unordered_map
+   <int,bool> p;
+   for(int i: a) p[i]=1;
+   for(int i: a) if(p[k-i])
+   {
+      cout<<i<<' '<<k-i<<'\n';
+      cout<<k-i<<' '<<i<<'\n';
+   }
+}
+
+*Time Complexity: O(N)*
+*Auxiliary Space: O(N)*
+17/03/2020, 20:31 - +91 96576 34735: *MyCaptain Super Internship!*
+
+*This March be the face of MyCaptain in your Campus!*
+MyCaptain is looking for special *Super Interns* this March for a *Paid Internship* who would be working directly with our Operations Team from the comfort of your home. If you think you can persuade and impact, this is for you!  
+
+*Perks:*
+- Performance based *Stipend*
+- *Certificate* and *Letter of Recommendation*
+- Work with an *IIM Bangalore* incubated and *United Nations* recognised Organisation 🤩
+-Work from Home Internship
+
+*Things to learn from this internship:*
+- Develop an Entrepreneurial knack 
+- Learn the basics of Business Development, Marketing, and Sales
+- Get out of your comfort zone 
+- Get trained in Leadership and persuasion!
+
+*Apply now:* http://bit.ly/MyC_intern10
+18/03/2020, 07:40 - +91 97181 67527: <Media omitted>
+18/03/2020, 08:38 - +91 97181 67527: 🎙 *Are you aiming to crack algorithm rounds of Directi, Amazon, Microsoft, Google like product based companies ?*
+
+Learn concepts and problems practice (both covered) :
+♦C++ Basics
+♦STL in C++
+♦Algorithms
+♦Data Structures
+♦Coding Platforms
+♦Logic to code conversion
+♦Increase in speed to code
+♦Solving problems asked in companies
+
+🎯Coding Mafia : *via YOUTUBE LIVE SESSIONS* 🔥🔥🔥
+
+Starting online Interactive Youtube live + recorded sessions from 23rd MARCH
+Check 👉 *cclb.tk/cm*
+
+*REQUIRED :* ONLY BASIC KNOWLEDGE OF INPUT/OUTPUT/FOR LOOPS IN C LANGUAGE IS REQUIRED.
+18/03/2020, 09:20 - +91 83790 13667: intersection()
+{
+   int n,tmp;
+   unordered_map <int,int> c;
+   cin>>n;
+   while(n--)
+   {
+       cin>>tmp;
+       ++c[tmp];
+   }
+   cin>>n;
+   while(n--)
+   {
+       cin>>tmp;
+       if(c[tmp])
+       {
+           cout<<tmp<<" ";
+           --c[tmp];
+       }
+    }
+}
+
+*Time Complexity: O(n+m)*
+n and m are lengths of arrays.
+18/03/2020, 09:43 - +91 97181 67527: 👆Coding Mafia kiya?
+Starting new batch on 23rd March. *View details* *cclb.tk/cm*
+18/03/2020, 11:14 - +91 97181 67527: <Media omitted>
+18/03/2020, 11:22 - +91 75070 09285: void func_intersection(vector<int> arr1, vector<int> arr2, int len1, int len2)
+{
+    sort(begin(arr1),end(arr1));
+    sort(begin(arr2),end(arr2));
+    vector<int> arr_intersect;
+    arr_intersect.reserve(len1 + len2);
+    set_intersection(begin(arr1),end(arr1),begin(arr1),end(arr1),back_inserter(arr_intersect));
+    for(auto i : arr_intersect)
+        cout<<i<<" ";
+    cout<<"\n";
+}
+18/03/2020, 11:23 - +91 75070 09285: Time complexity :- O(len1 + len2)
+18/03/2020, 11:23 - +91 74149 31888: Sorting takes O(n logn) and O(m logm)
+18/03/2020, 11:24 - +91 83790 13667: O((n+m)log(n+m))
+And only unique elements will be printed
+18/03/2020, 11:24 - +91 75070 09285: Oh ! My bad
+18/03/2020, 11:25 - +91 74149 31888: Not O(nlogn + mlogm)?
+18/03/2020, 11:26 - +91 83790 13667: Both are approximately same
+18/03/2020, 11:26 - +91 74149 31888: Ohkay
+18/03/2020, 11:28 - +91 75070 09285: Duplicates won't be printed, right ?
+18/03/2020, 11:28 - +91 83790 13667: <Media omitted>
+18/03/2020, 11:29 - +91 75070 09285: 😂
+18/03/2020, 11:29 - +91 74149 31888: 😂
+18/03/2020, 11:29 - +91 75070 09285: Line 7 typo :
+set_intersection(begin(arr1),end(arr1),begin(arr2),end(arr2),back_inserter(arr_intersect));
+18/03/2020, 11:48 - +91 75072 93971: 🤣
+18/03/2020, 12:13 - +91 97181 67527: *▶ Why start Java compared to Javascript ?* 
+Java developers are paid highest in industry.
+
+🎯 Start with core java to advanced java till full stack development course is designed by Coding Mafia team. *ENROLL here*  ▶ cclb.tk/backend
+
+🎯 NO PREVIOUS KNOWLEDGE IS REQUIRED. Start learning all concepts easily with lots of practice.
+
+🎯 *READ DETAILED COURSE BELOW* 
+
+*Click Read more 👇*:
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+YOUTUBE LIVE sessions
+
+*Week 1* 
+👉 Core Java
+
+
+*Installations*
+|Installing the JDK
+|Running a Java Program
+|Downloading IntelIJ
+
+
+👉 Core Java
+*Introduction to Java : Variable & Arrays*
+|Data Types
+|Variables
+|Arrays
+|Multidimensional Arrays
+|Getting User Input
+
+
+👉 Core Java
+*Practicing on Hackerrank*
+|Java 1D Array
+|Java 2D Array
+|Java Subarray
+
+
+👉 Core Java
+*Operators, Control Statements, Loops*
+|Math Operators
+|Increment Operators
+|Logical Operators
+|Conditional Operators
+|If Statement
+|Switch Statement
+|For Loops
+|While Loop
+|Do while Loops
+
+
+*Practicing on Hackerrank*
+👉 Core Java
+|Java Stdin and Stdout I
+|Java If-Else
+|Java Stdin and Stdout II
+|Java Loops I
+|Java Loops II
+|Java End-of-file
+
+
+*Maths, Strings & Date*
+👉 Core Java
+|Random Number Generator
+|String
+|String methods
+|toString, length, substring, indexOf, charAt, toUpperCase, toLowerCase, compareTo
+|Date and Epoch Time
+
+
+*Practicing on Hackerrank*
+👉 Core Java
+|Java Int to String
+|Java Strings Introduction
+|Java Substring
+|Java Substring Comparisons
+|Java String Reverse
+|Java Anagrams
+
+
+*Week 2*
+👉 Advanced Java
+
+
+*Data Structures*
+|Arraylist
+|List
+|Map
+|Stack
+|Set
+|Sort
+
+
+👉 Advanced Java
+*Practicing on Hackerrank*
+|Java Arraylist
+|Java 1D Array (Part 2)
+|Java List
+|Java Map
+|Java Stack
+|Java Sort
+
+
+👉 Advanced Java
+*OOPs and Exception Handling*
+|Class and Objects
+|Public, Private and this
+|Inheritance
+|Abstract Class
+|Interface
+|Method Overriding
+|Exception Handling (Try-catch)
+|Exception Handling
+|Singleton Pattern
+
+
+👉 Advanced Java
+*Practicing on Hackerrank*
+|Java BitSet
+|Java Priority Queue
+|Java Inheritance I
+|Java Inheritance II
+|Java Abstract Class
+|Java Interface
+|Java Method Overriding
+|Java Method Overriding 2 (Super Keyword)
+|Java Exception Handling (Try-catch)
+|Java Exception Handling
+|Java Singleton Pattern
+
+
+*Week 3*
+
+
+👉 Advanced Java
+*Creating Project : Knowing about IDE*
+|How to debug
+|How to setup environment
+|Creating Project
+
+
+👉 Advanced Java
+*File, Thread & Networking*
+|File Handling
+|Threads
+|Multithreading
+|Get, Post request
+
+
+👉 Advanced Java Project
+*Mini Project: Word Top Frequency Analyser*
+|Reading files
+|Using data structures
+|Finding top keywords
+
+
+👉 Advanced Java
+*Dependencies using Gson & Json*
+|How to add dependencies
+|What is Json and Gson ?
+|Converting objects to Gson
+|Converting Gson to objects
+
+
+👉 Advanced Java
+*Parsing Html*
+|Learning about Jsoup
+|Running selecting queries
+
+
+👉 Advanced Java Project
+👉 Wikipedia Fetcher
+*Mini Project : Wikipedia Fetcher*
+|Search Word
+|Get information from wikipedia
+|Display to user
+
+
+*Week 4*
+👉 Database
+👉 Postgres
+
+
+*Setting up database*
+|Setting up Postgres
+|Setting up Pg Admin
+
+
+👉 Database
+*Using JOOQ : Connecting Database*
+|Why JOOQ ?
+|How to setup ?
+|Connect with database
+|Create, Update, Delete
+|Running queries
+
+
+👉 Advanced Java Project
+👉 Multithreaded Crawling
+*Mini Project : Multithreaded Crawling*
+|Picking links from file
+|Making multi-threaded network requests
+|Dumping data
+
+
+*REST APIS*
+👉 IntelIJ
+👉 Rest APIs
+|What is REST APIS ?
+|HTTP Methods: GET, POST
+|HTTP Headers
+
+
+*Week 5*
+👉 Backend : Spring MVC Framework
+
+
+*Spring MVC : Getting Started*
+|The DispatcherServlet
+|POM.XML
+|Web.xml
+|What is Model
+|What is View
+|What is Controller
+
+
+👉 Backend : Spring MVC Framework
+*Explaining Configurations*
+|Application Properties
+|Profiles in IDE
+|Knowing about static resources
+
+
+👉 Backend : Spring MVC Framework
+*Building first REST API*
+|Creating Controller
+|Creating Entity/Model classes
+|Creating Views using jsp
+
+
+👉 Backend : Spring MVC Framework
+*Running first REST API*
+|Setting up Jetty server
+|Making GET/POST request to server
+|Requesting for HTML
+|Requesting for JSON
+
+
+*Week 6*
+
+
+👉 Build Twitter
+👉 Basics of Javascript
+*Building Twitter : Sign Up Page*
+|Creating sign up page
+|Learning javascript concepts
+|Adding Member details to Database
+|Learning about interceptors
+|Learning about cookies
+
+
+👉 Build Twitter
+*Building Twitter : Login Page*
+|Learning javascript concepts
+|Authenticating user
+|Handling login failure
+|Redirecting to welcome page
+
+
+👉 Build Twitter
+*Building Twitter : Profile Page*
+|Update details
+|Uploading photo
+
+
+👉 Build Twitter
+*Building Twitter : Create First Tweet*
+|Setting up UI interaction
+|Using more javascript
+|Updating user profile
+
+
+*Week 7*
+
+
+👉 Build Twitter
+*Building Twitter : Home Feed*
+|Fetching users feed from database
+|Adding LOAD MORE option
+|Adding like option to tweet
+|Handling unlike
+
+
+👉 Build Twitter
+*Building Twitter : Adding Follower*
+|Adding follow option on other’s profile
+|Adding follow option on HOME FEED
+
+
+👉 Build Twitter
+*Building Twitter : Using CDN & Redis*
+|Making APIs faster ? How ?
+|What is CDN ?
+|What is Redis ?
+
+
+👉 End of projects
+👉 Interview Tips
+*Closure of Course*
+|How to explore more
+|More tips on projects
+|Final words from team
+
+
+🎯 *SKILLS YOU WILL GAIN*
+👉 Core Java
+👉 Advanced Java
+👉 Database
+👉 Postgres
+👉 IntelIJ
+👉 Rest APIs
+👉 Basics of Javascript
+👉 Spring MVC Framework
+👉 Wikipedia Fetcher
+👉 Multithreaded Crawling
+👉 Build Twitter
+
+
+3⃣PROJECTS
+👉 Wikipedia Fetcher
+👉 Multithreaded Crawling
+👉 Build Twitter
+
+🎯 *Type on Desktop :*
+*codingclub.tech/backend*
+
+🎯 *OR* Scroll up and click link on the top of post.
+
+🎯 *OR* Open ▶ *cclb.tk/backend*
+
+*Coding Club India*
+Learn.Inspire.Grow.
+18/03/2020, 13:27 - +91 97181 67527: 👆 *For beginners :* Build your own Twitter, Crawler, Wikipedia Fetcher
+
+*No previous knowledge is required.*
+Core Java + Advanced Java + Database + Backend course offered by Coding Mafia team.
+
+🎯 Read course : *cclb.tk/backend*
+18/03/2020, 14:46 - +91 97181 67527: <Media omitted>
+18/03/2020, 15:41 - +91 97181 67527: 🎯Coding Mafia kiya?
+Starting new batch on 23rd March. *View details* *cclb.tk/cm*
+18/03/2020, 15:44 - +91 88559 47230 left
+18/03/2020, 16:40 - +91 97181 67527: 🎯Coding Mafia kiya?
+Starting new batch on 23rd March. *Read reviews* *cclb.tk/cm#reviews*
+18/03/2020, 16:46 - +91 77568 87622 left
+18/03/2020, 17:04 - +91 80078 40569 left
+18/03/2020, 17:41 - +91 97181 67527: <Media omitted>
+18/03/2020, 19:07 - +91 70200 50365 joined using this group's invite link
+18/03/2020, 19:31 - +91 97181 67527: 🎯Build your own Twitter,    Crawler & Wikipedia Fetcher. 
+
+👉 *Topics* : Core Java + Advanced Java + Database + Javascript basics + Rest APIs + Backend 
+
+ *cclb.tk/backend*
+18/03/2020, 21:13 - +91 97181 67527: 👆 *No previous knowledge is required.*
+
+📚Read reviews for instructor, Rishabh Jain : 
+
+↪ *cclb.tk/backend#reviews*
+18/03/2020, 22:43 - +91 72769 78946: 🛑🛑🛑 
+Take a look at this type of fake website an aware of not providing any of your personal details to them. This are fraud.
+Visit this website :- 178.159.7.13/ITfund
+Forward it to the maximum🙏🙏
+18/03/2020, 22:59 - +91 83790 13667: Hello everyone
+You know what, you'll die if you jump from the 13th floor
+Just try jumping once
+*Isn't this message similar to the above one🤨*
+18/03/2020, 23:06 - +91 99215 28443: This message was deleted
+18/03/2020, 23:08 - +91 72769 78946: So that you know  what is wrong🤣🤣
+18/03/2020, 23:13 - +91 97181 67527: 🎯Coding Mafia kiya?
+Starting new batch on 23rd March. *View details* *cclb.tk/cm*
+18/03/2020, 23:15 - +91 75072 93971: Simply check the urls . As simple as that
+19/03/2020, 00:18 - +91 97181 67527: 🎯Coding Mafia kiya?
+Starting new batch on 23rd March. *Read reviews* *cclb.tk/cm#reviews*
+19/03/2020, 06:56 - +91 97181 67527: <Media omitted>
+19/03/2020, 08:02 - +91 97181 67527: 🎙 *Are you aiming to crack algorithm rounds of Directi, Amazon, Microsoft, Google like product based companies ?*
+
+Learn concepts and problems practice (both covered) :
+♦C++ Basics
+♦STL in C++
+♦Algorithms
+♦Data Structures
+♦Coding Platforms
+♦Logic to code conversion
+♦Increase in speed to code
+♦Solving problems asked in companies
+
+🎯Coding Mafia : *via YOUTUBE LIVE SESSIONS* 🔥🔥🔥
+
+Starting online Interactive Youtube live + recorded sessions from 23rd MARCH
+Check 👉 *cclb.tk/cm*
+
+*REQUIRED :* ONLY BASIC KNOWLEDGE OF INPUT/OUTPUT/FOR LOOPS IN C LANGUAGE IS REQUIRED.
+19/03/2020, 09:09 - +91 97181 67527: 👆Coding Mafia kiya?
+Starting new batch on 23rd March. *View details* *cclb.tk/cm*
+19/03/2020, 09:38 - +91 863 778 4090 left
+19/03/2020, 10:43 - +91 97181 67527: <Media omitted>
+19/03/2020, 12:09 - +91 97181 67527: *▶ Why start Java compared to Javascript ?* 
+Java developers are paid highest in industry.
+
+🎯 Start with core java to advanced java till full stack development course is designed by Coding Mafia team. *ENROLL here*  ▶ cclb.tk/backend
+
+🎯 NO PREVIOUS KNOWLEDGE IS REQUIRED. Start learning all concepts easily with lots of practice.
+
+🎯 *READ DETAILED COURSE BELOW* 
+
+*Click Read more 👇*:
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+YOUTUBE LIVE sessions
+
+*Week 1* 
+👉 Core Java
+
+
+*Installations*
+|Installing the JDK
+|Running a Java Program
+|Downloading IntelIJ
+
+
+👉 Core Java
+*Introduction to Java : Variable & Arrays*
+|Data Types
+|Variables
+|Arrays
+|Multidimensional Arrays
+|Getting User Input
+
+
+👉 Core Java
+*Practicing on Hackerrank*
+|Java 1D Array
+|Java 2D Array
+|Java Subarray
+
+
+👉 Core Java
+*Operators, Control Statements, Loops*
+|Math Operators
+|Increment Operators
+|Logical Operators
+|Conditional Operators
+|If Statement
+|Switch Statement
+|For Loops
+|While Loop
+|Do while Loops
+
+
+*Practicing on Hackerrank*
+👉 Core Java
+|Java Stdin and Stdout I
+|Java If-Else
+|Java Stdin and Stdout II
+|Java Loops I
+|Java Loops II
+|Java End-of-file
+
+
+*Maths, Strings & Date*
+👉 Core Java
+|Random Number Generator
+|String
+|String methods
+|toString, length, substring, indexOf, charAt, toUpperCase, toLowerCase, compareTo
+|Date and Epoch Time
+
+
+*Practicing on Hackerrank*
+👉 Core Java
+|Java Int to String
+|Java Strings Introduction
+|Java Substring
+|Java Substring Comparisons
+|Java String Reverse
+|Java Anagrams
+
+
+*Week 2*
+👉 Advanced Java
+
+
+*Data Structures*
+|Arraylist
+|List
+|Map
+|Stack
+|Set
+|Sort
+
+
+👉 Advanced Java
+*Practicing on Hackerrank*
+|Java Arraylist
+|Java 1D Array (Part 2)
+|Java List
+|Java Map
+|Java Stack
+|Java Sort
+
+
+👉 Advanced Java
+*OOPs and Exception Handling*
+|Class and Objects
+|Public, Private and this
+|Inheritance
+|Abstract Class
+|Interface
+|Method Overriding
+|Exception Handling (Try-catch)
+|Exception Handling
+|Singleton Pattern
+
+
+👉 Advanced Java
+*Practicing on Hackerrank*
+|Java BitSet
+|Java Priority Queue
+|Java Inheritance I
+|Java Inheritance II
+|Java Abstract Class
+|Java Interface
+|Java Method Overriding
+|Java Method Overriding 2 (Super Keyword)
+|Java Exception Handling (Try-catch)
+|Java Exception Handling
+|Java Singleton Pattern
+
+
+*Week 3*
+
+
+👉 Advanced Java
+*Creating Project : Knowing about IDE*
+|How to debug
+|How to setup environment
+|Creating Project
+
+
+👉 Advanced Java
+*File, Thread & Networking*
+|File Handling
+|Threads
+|Multithreading
+|Get, Post request
+
+
+👉 Advanced Java Project
+*Mini Project: Word Top Frequency Analyser*
+|Reading files
+|Using data structures
+|Finding top keywords
+
+
+👉 Advanced Java
+*Dependencies using Gson & Json*
+|How to add dependencies
+|What is Json and Gson ?
+|Converting objects to Gson
+|Converting Gson to objects
+
+
+👉 Advanced Java
+*Parsing Html*
+|Learning about Jsoup
+|Running selecting queries
+
+
+👉 Advanced Java Project
+👉 Wikipedia Fetcher
+*Mini Project : Wikipedia Fetcher*
+|Search Word
+|Get information from wikipedia
+|Display to user
+
+
+*Week 4*
+👉 Database
+👉 Postgres
+
+
+*Setting up database*
+|Setting up Postgres
+|Setting up Pg Admin
+
+
+👉 Database
+*Using JOOQ : Connecting Database*
+|Why JOOQ ?
+|How to setup ?
+|Connect with database
+|Create, Update, Delete
+|Running queries
+
+
+👉 Advanced Java Project
+👉 Multithreaded Crawling
+*Mini Project : Multithreaded Crawling*
+|Picking links from file
+|Making multi-threaded network requests
+|Dumping data
+
+
+*REST APIS*
+👉 IntelIJ
+👉 Rest APIs
+|What is REST APIS ?
+|HTTP Methods: GET, POST
+|HTTP Headers
+
+
+*Week 5*
+👉 Backend : Spring MVC Framework
+
+
+*Spring MVC : Getting Started*
+|The DispatcherServlet
+|POM.XML
+|Web.xml
+|What is Model
+|What is View
+|What is Controller
+
+
+👉 Backend : Spring MVC Framework
+*Explaining Configurations*
+|Application Properties
+|Profiles in IDE
+|Knowing about static resources
+
+
+👉 Backend : Spring MVC Framework
+*Building first REST API*
+|Creating Controller
+|Creating Entity/Model classes
+|Creating Views using jsp
+
+
+👉 Backend : Spring MVC Framework
+*Running first REST API*
+|Setting up Jetty server
+|Making GET/POST request to server
+|Requesting for HTML
+|Requesting for JSON
+
+
+*Week 6*
+
+
+👉 Build Twitter
+👉 Basics of Javascript
+*Building Twitter : Sign Up Page*
+|Creating sign up page
+|Learning javascript concepts
+|Adding Member details to Database
+|Learning about interceptors
+|Learning about cookies
+
+
+👉 Build Twitter
+*Building Twitter : Login Page*
+|Learning javascript concepts
+|Authenticating user
+|Handling login failure
+|Redirecting to welcome page
+
+
+👉 Build Twitter
+*Building Twitter : Profile Page*
+|Update details
+|Uploading photo
+
+
+👉 Build Twitter
+*Building Twitter : Create First Tweet*
+|Setting up UI interaction
+|Using more javascript
+|Updating user profile
+
+
+*Week 7*
+
+
+👉 Build Twitter
+*Building Twitter : Home Feed*
+|Fetching users feed from database
+|Adding LOAD MORE option
+|Adding like option to tweet
+|Handling unlike
+
+
+👉 Build Twitter
+*Building Twitter : Adding Follower*
+|Adding follow option on other’s profile
+|Adding follow option on HOME FEED
+
+
+👉 Build Twitter
+*Building Twitter : Using CDN & Redis*
+|Making APIs faster ? How ?
+|What is CDN ?
+|What is Redis ?
+
+
+👉 End of projects
+👉 Interview Tips
+*Closure of Course*
+|How to explore more
+|More tips on projects
+|Final words from team
+
+
+🎯 *SKILLS YOU WILL GAIN*
+👉 Core Java
+👉 Advanced Java
+👉 Database
+👉 Postgres
+👉 IntelIJ
+👉 Rest APIs
+👉 Basics of Javascript
+👉 Spring MVC Framework
+👉 Wikipedia Fetcher
+👉 Multithreaded Crawling
+👉 Build Twitter
+
+
+3⃣PROJECTS
+👉 Wikipedia Fetcher
+👉 Multithreaded Crawling
+👉 Build Twitter
+
+🎯 *Type on Desktop :*
+*codingclub.tech/backend*
+
+🎯 *OR* Scroll up and click link on the top of post.
+
+🎯 *OR* Open ▶ *cclb.tk/backend*
+
+*Coding Club India*
+Learn.Inspire.Grow.
+19/03/2020, 12:13 - +91 70666 20416 left
+19/03/2020, 12:15 - +91 77984 60983 left
+19/03/2020, 13:03 - +91 788 828 2665 left
+19/03/2020, 13:15 - +91 97181 67527: 👆 *For beginners :* Build your own Twitter, Crawler, Wikipedia Fetcher
+
+*No previous knowledge is required.*
+Core Java + Advanced Java + Database + Backend course offered by Coding Mafia team.
+
+🎯 Read course : *cclb.tk/backend*
+19/03/2020, 14:24 - +91 97181 67527: <Media omitted>
+19/03/2020, 15:46 - +91 97181 67527: 🎯 *How to land in your dream job ?*
+Amazon, Adobe, Directi, Paytm, Uber, Zomato... . Check out best curriculum below.
+
+*🎯Why Coding Mafia Course?* 
+We have success stories of cracking 🎊Amazon, 🎊Adobe, 🎊Directi, 🎊Goldman Sachs, 🎊Uber, 🎊Oppo, 🎊Flipkart, 🎊Swiggy, 🎊Zomato, 🎊Grofers, 🎊Paytm, 🎊Scaler Acadmy, 🎊Morgan Stanley,  🎊Wingify, 🎊Samsung... placements and internships. 
+
+*🎯 Process*  
+You will be added to a EXCLUSIVE whatsapp group with instructor and coders from India
++Live YOUTUBE 
++Recorded sessions
++Ask doubts
+
+
+*📖📖📖📖📖📖📖📖📖*
+*🎯 Week 1*
+♦C++ Basics
+♦STL in C++
+♦Algorithms
+♦Coding Platforms
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Basics, Input, Output, Loops, Addition, Subtraction*
+♦C++ Basics
+♦Algorithms
+♦Coding Platforms
+|Introduction to Coding Platform Codechef
+|Hello world program in C/C++
+|While loop & For loop
+|Operators like addition/substraction
+|Solving reversing a number
+|Getting started with Codechef
+|How to solve more and increase speed
+|Resolving wrong answers
+|Solving problems on Codechef
+|How to speed up problem solving ?
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Time Complexity, Array, Binary Search, Kadane’s Algorithm*
+♦C++ Basics
+♦Algorithms
+♦Coding Platforms
+|Using for loop to input array
+|Sum of all elements in array
+|What is Time Complexity
+|Best, worst and Avg Complexity
+|Binary Search
+|Kadane’s Algorithm
+|Count Sorting
+|Solving problems on Codechef
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Linear Search, Binary Search & Adhoc problems*
+♦C++ Basics
+♦Algorithms
+♦Coding Platforms
+|What is brute force ?
+|How to optimise ?
+|Linear Search & Binary Search
+|Solving for loop based problems
+|Submissions on Codechef
+|Solving binary search based problems
+|Solving problems on Codechef
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Prime Numbers, Vector and STL algorithms:*
+♦C++ Basics
+♦STL in C++
+♦Algorithms
+♦Coding Platforms
+|What is Vector ?
+|Vector operations and Sort
+|Starting number theory
+|Finding Prime Numbers
+|How to find prime faster ?
+|Sieve of Ethranos
+|Solving problems on Codechef
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Recursion & Memoization*
+♦Algorithms
+♦Coding Platforms
+|Factiorial using for loop
+|Factiorial using Recursion
+|What is Memoziation ?
+|What is Hashmap ?
+|Solving problems on Codechef
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Game Theory, Companion Matrix & solving problems asked in interviews*
+♦Algorithms
+♦Coding Platforms
+|Solving more 2D matrix problems
+|Intro to Game Theory
+|Power function in logn
+|Faster way to compute large factorial
+|Companion Matrix
+|Tips : for solving problems
+
+
+*📖📖📖📖📖📖📖📖📖*
+*🎯 Week 2*
+♦STL in C++
+♦Data Structures
+♦Algorithms
+♦Coding Platforms
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Working on LinkedList, Queue & Stack*
+♦STL in C++
+♦Data Structures
+♦Coding Platforms
+|Introduction to Leetcode
+|What is segmentation fault and pointers ?
+|Into to Linked List
+|Intro to Queue
+|Intro to Stack
+|Push, Pop and Size operations
+|Strategy : How to solve think and solve faster ?
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉More Problems Practicing on LinkedList Stack & Queue*
+♦STL in C++
+♦Data Structures
+♦Coding Platforms
+|Linked list based problem solving
+|Stack based problem solving
+|Queue based problem solving
+|Solving problems on Leetcode
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉String, Maps & Heap*
+♦STL in C++
+♦Data Structures
+♦Algorithms
+♦Coding Platforms
+|Intro to strings library
+|Solving problems on strings
+|Solving problems on map
+|Min heap and Max heap
+|Using Priority Queue STL
+|Solving problems on Leetcode
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉String, Maps & Heap*
+♦STL in C++
+♦Data Structures
+♦Algorithms
+♦Coding Platforms
+|And operator
+|OR operator
+|XOR operator
+|More Hashmap
+|Solving problems on Leetcode
+|Solving problems asked in interviews
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Set and Tree*
+♦Data Structures
+♦Coding Platforms
+|Using set library
+|Operations like insert,size, begin, end, iterators
+|Learning two pointer technique
+|Intro to Binary Tree and Complete Tree
+|Solving problems on Leetcode
+|Solving problems asked in interviews
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉More Practice*
+♦Data Structures
+♦Algorithms
+♦Coding Platforms
+|Revisiting pointer, linkedlist and Adhoc problems
+|Solving more problems asked in interviews
+|Solving problems on Leetcode
+
+
+*📖📖📖📖📖📖📖📖📖*
+🎯 Week 3
+♦Data Structures
+♦Algorithms
+♦Coding Platforms
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Tree and Tree Traversal*
+♦Data Structures
+♦Algorithms
+♦Coding Platforms
+|Important tips to solve hard problems
+|Introduction to Interview bit
+|Intro to Tree
+|Pre order traversal
+|In order traversal
+|Post order traversal
+|Implementation using recursion
+|Solving problem based on Tree
+|Strategy to solve on Interviewbit
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Hard Level : Tips and practice*
+♦Data Structures
+♦Algorithms
+♦Coding Platforms
+|How to solve approach hard level problems
+|Solving problems based on strings and arrays
+|Soling problems asked in Google, Facebook, Directi
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Hard Level : Number Theory, Strings & Interview problems*
+♦Algorithms
+♦Coding Platforms
+|Solving hard Number Theory based problems
+|Solving hard string based problems
+|Solving more problems asked in product based companies
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Hard Level : Arrays, Strings & Maths*
+♦Algorithms
+♦Coding Platforms
+|Solving more problems asked in product based companies based on arrays, strings and maths
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Hard Level : TRIE and Extras*
+♦Algorithms
+♦Coding Platforms
+|Intro to TRIE
+|Implementation of trie.
+|Solving problems asked in Amazon
+|Solving problems based on TREE
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Audio Podcast : Strategies and Time management*
+♦Algorithms
+♦Coding Platforms
+♦Interview Tips
+|Strategy to solve problems in Online Coding Contest
+|Which projects benefits in resume ?
+|How to resolve Time Management issues ?
+
+*📖📖📖📖📖📖📖📖📖*
+🎯Week 4
+♦Data Structures
+♦Algorithms
+♦Interview Tips
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Memoization*
+♦Data Structures
+♦Algorithms
+♦Coding Platforms
+|Recursion Detailed
+|What is Memoization
+|Solving problem using memoization
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Backtracking Algorithm*
+♦Data Structures
+♦Algorithms
+♦Coding Platforms
+|What is BackTracking ?
+|Solving NQueen Problem
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Hard Problems: Tree and Arrays*
+♦Data Structures
+♦Algorithms
+♦Coding Platforms
+|Level Order Traversal of Tree
+|Zig Zag Order Traversal of Tree
+|Tri Sum Zero Problem
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Dynamic Programming*
+♦Data Structures
+♦Algorithms
+♦Coding Platforms
+|What is Dynamic Programming ?
+|Top Down & Bottom Up approach
+|Fibbonacci Series
+|1D Prefix Sum Array
+|2D Prefix Sum Array
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Hard Problems on DP*
+♦Data Structures
+♦Algorithms
+♦Coding Platforms
+|Solving hard problems on DP
+|Rod cutting pronblem
+|Longest Increasing SubSequence
+|Best notes for Dynamic Programming
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Graph, BFS & DFS*
+♦Data Structures
+♦Algorithms
+|What is Graph ?
+|Directed, Undirected ?
+|What are the use cases ?
+|Depth First Search
+|Breadth First Search
+|Implementation of code for DFS & BFS
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Greedy Algorithm*
+♦Data Structures
+♦Algorithms
+|Huffman Coding Algorithm
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Career Guidance*
+♦Interview Tips
+|Resume Tips
+|GSOC
+|Applying Off Campus
+|Closure of Coding Mafia
+
+
+🕰🕰🕰🕰🕰🕰🕰🕰
+*👉Timings*
+♦Couse Duration : 1 month
+
+♦Online Youtube Live Session
+MON & FRI : 8:30 pm to 10 pm
+
+♦Recorded Session Days
+TUE, WED, THUR, SAT ( 1 hour videos )
+🕰🕰🕰🕰🕰🕰🕰🕰
+
+*Why we are unique ?*
+♦Learn concepts easily
+♦Logic to code conversion
+♦Increase in speed to code
+♦Practice problems easily
+♦Personal Mentorship
+♦Solving problems asked in companies
+♦Interview Tips
+
+New batch starting from 23rd MARCH. Open on browser 
+🔜 *codingclub.tech/cm*
+
+*Have Queries for Coding Mafia course ?*
+📲 9205561770
+
+Codind Club India
+_Learn.Inspire.Grow._
+19/03/2020, 17:21 - +91 97181 67527: 🎯Coding Mafia kiya?
+Starting new batch on 23rd March. *View details* *cclb.tk/cm*
+19/03/2020, 17:22 - +91 95270 87145 left
+19/03/2020, 17:34 - +91 72648 15576 left
+19/03/2020, 20:00 - +91 97181 67527: 🎯Coding Mafia kiya?
+Starting new batch on 23rd March. *Read reviews* *cclb.tk/cm#reviews*
+19/03/2020, 21:05 - +91 97181 67527: <Media omitted>
+19/03/2020, 22:06 - +91 97181 67527: 🎯Build your own Twitter,    Crawler & Wikipedia Fetcher. 
+
+👉 *Topics* : Core Java + Advanced Java + Database + Javascript basics + Rest APIs + Backend 
+
+ *cclb.tk/backend*
+19/03/2020, 23:11 - +91 97181 67527: 👆 *No previous knowledge is required.*
+
+📚Read reviews for instructor, Rishabh Jain : 
+
+↪ *cclb.tk/backend#reviews*
+20/03/2020, 07:54 - +91 97181 67527: <Media omitted>
+20/03/2020, 08:45 - +91 97181 67527: <Media omitted>
+20/03/2020, 10:07 - +91 97181 67527: 🎯Coding Mafia kiya?
+Starting new batch on 23rd March. *View details* *cclb.tk/cm*
+20/03/2020, 11:08 - +91 97181 67527: ♦ GSOC timeline constitute of the following (January-April):
+
+➡Organizations apply to be part of GSOC.
+
+➡After a month’s period selected organizations are announced by google.
+
+➡Interested students join the mailing list of their desired organization out of the selected ones followed by formal introduction of themselves to the mailing list.
+
+➡Students start contributing to the repositories present and interacting with the maintainers of the repos.
+
+➡After a period of almost two months of interaction and contribution, interested people have to make a project proposal out of the given ideas and submit it via google docs after review of one of the maintainers.
+
+➡After a month’s time the results are announced of the selected students based on their contribution and learning.
+
+Keep Coding !
+20/03/2020, 12:45 - +91 97181 67527: 🎯 *How to land in your dream job ?*
+Amazon, Adobe, Directi, Paytm, Uber, Zomato... . Check out best curriculum below.
+
+*🎯Why Coding Mafia Course?* 
+We have success stories of cracking 🎊Amazon, 🎊Adobe, 🎊Directi, 🎊Goldman Sachs, 🎊Uber, 🎊Oppo, 🎊Flipkart, 🎊Swiggy, 🎊Zomato, 🎊Grofers, 🎊Paytm, 🎊Scaler Acadmy, 🎊Morgan Stanley,  🎊Wingify, 🎊Samsung... placements and internships. 
+
+*🎯 Process*  
+You will be added to a EXCLUSIVE whatsapp group with instructor and coders from India
++Live YOUTUBE 
++Recorded sessions
++Ask doubts
+
+
+*📖📖📖📖📖📖📖📖📖*
+*🎯 Week 1*
+♦C++ Basics
+♦STL in C++
+♦Algorithms
+♦Coding Platforms
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Basics, Input, Output, Loops, Addition, Subtraction*
+♦C++ Basics
+♦Algorithms
+♦Coding Platforms
+|Introduction to Coding Platform Codechef
+|Hello world program in C/C++
+|While loop & For loop
+|Operators like addition/substraction
+|Solving reversing a number
+|Getting started with Codechef
+|How to solve more and increase speed
+|Resolving wrong answers
+|Solving problems on Codechef
+|How to speed up problem solving ?
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Time Complexity, Array, Binary Search, Kadane’s Algorithm*
+♦C++ Basics
+♦Algorithms
+♦Coding Platforms
+|Using for loop to input array
+|Sum of all elements in array
+|What is Time Complexity
+|Best, worst and Avg Complexity
+|Binary Search
+|Kadane’s Algorithm
+|Count Sorting
+|Solving problems on Codechef
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Linear Search, Binary Search & Adhoc problems*
+♦C++ Basics
+♦Algorithms
+♦Coding Platforms
+|What is brute force ?
+|How to optimise ?
+|Linear Search & Binary Search
+|Solving for loop based problems
+|Submissions on Codechef
+|Solving binary search based problems
+|Solving problems on Codechef
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Prime Numbers, Vector and STL algorithms:*
+♦C++ Basics
+♦STL in C++
+♦Algorithms
+♦Coding Platforms
+|What is Vector ?
+|Vector operations and Sort
+|Starting number theory
+|Finding Prime Numbers
+|How to find prime faster ?
+|Sieve of Ethranos
+|Solving problems on Codechef
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Recursion & Memoization*
+♦Algorithms
+♦Coding Platforms
+|Factiorial using for loop
+|Factiorial using Recursion
+|What is Memoziation ?
+|What is Hashmap ?
+|Solving problems on Codechef
+📚Daily Practice Exercise
+*📖📖📖📖📖📖📖📖📖*
+
+*👉Game Theory, Companion Matrix & solving problems asked in interviews*
+♦Algorithms
+♦Coding Platforms
+|Solving more 2D matrix problems
+|Intro to Game Theory
+|Power function in logn
+|Faster way to compute large factorial
+|Companion Matrix
+|Tips : for solving problems
+
+
+*📖📖📖📖📖📖📖📖📖*
+*🎯 Week 2*
+♦STL in C++
+♦Data Structures
+♦Algorithms
+♦Coding Platforms
+*📖📖📖📖📖📖📖📖📖*

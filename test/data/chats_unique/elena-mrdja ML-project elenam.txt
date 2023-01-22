@@ -1,0 +1,67 @@
+9/20/21, 19:53 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+9/20/21, 19:53 - Elena Mrdja: def mult_matrix(A,B):
+    prod=[[]]
+    for i in range(len(A)):
+        for j in range(len(B)):
+            prod[i][j] = sum([A[i][k]*B[k][j] for k in range(len(A))])
+    return prod
+9/20/21, 19:56 - Elena Mrdja: def mult_matrix1(A,B):
+    p = len(A)
+    n = len(B) #=len(A[0])
+    q = len(B[0])
+    mult = [[0 for i in range(q)]for j in range(p)]
+    for i in range(p):
+        for j in range(q):
+            for reps in range(n):
+                mult[i][j] += A[i][reps] * B[reps][j]
+    return mult
+9/27/21, 10:32 - Elena Mrdja: Eee milena
+9/27/21, 10:32 - Elena Mrdja: Jel bi mogla da mi poneses jedno 6 listova a4 papira na c++ ako imas?
+9/27/21, 10:38 - milena: da!
+9/27/21, 10:44 - Elena Mrdja: Hvalaa
+9/27/21, 10:45 - milena: prazne ili kvadratići
+9/27/21, 11:41 - Elena Mrdja: Moze i prazne
+10/1/21, 09:28 - Elena Mrdja: Ee milena kako si uradila exercise 1.3 u algebri?
+10/1/21, 09:28 - milena: a koja je to
+10/1/21, 09:29 - milena: jel to ono Tk za n
+10/1/21, 09:29 - milena: e nisam
+10/1/21, 09:29 - milena: msm valjda znam šta je ali
+10/1/21, 09:29 - milena: nmg da namestim indukciju kako treba
+10/1/21, 09:30 - Elena Mrdja: Nee za  delta na n-ti stepen
+10/1/21, 09:31 - Elena Mrdja: Formula za delta^n p(x)
+10/1/21, 09:34 - milena: da to
+10/1/21, 09:34 - milena: a kao binomna je jel tako?
+10/14/21, 13:23 - Elena Mrdja: Eeeeee
+10/14/21, 13:23 - Elena Mrdja: Molim te me upisi na papir
+10/17/21, 21:38 - Elena Mrdja: Hejj Milena
+10/17/21, 21:39 - Elena Mrdja: Jel bi glasala za naš c++ projekat u prvoj rundi sutra? Moze da se glasa za vise grupa
+10/17/21, 21:46 - milena: pa niste mi ni rekle šta vam je projekat hahaha
+10/17/21, 21:49 - Elena Mrdja: Jojj tacno, sad sam u reru ali ti pisem kad dodjem
+10/17/21, 21:50 - Elena Mrdja: Ali u sustini u pitanju je algorithm visualizer
+10/17/21, 21:51 - Elena Mrdja: Sutra je samo prvi krug gde svako moze da glasa za koliko god projekata hoce, be bira se jos uvek koji projekat hoces da radis
+10/19/21, 20:49 - Elena Mrdja: Hehjj sta bi na kraju sa trac partijom?
+10/19/21, 20:49 - milena: pa nzm mina  mi ne odgovara
+10/19/21, 21:02 - Elena Mrdja: Bedakk
+10/26/21, 18:42 - Elena Mrdja: Eee ajde da pomerimo veceru za sutra, nesto mi je muka ://
+10/26/21, 18:56 - milena: nzm da li sam sutra tu
+10/26/21, 18:56 - milena: ali ako jesam, ofc
+10/26/21, 18:56 - milena: idem da se nađem s nekim u 1 u gradu al kao...potrajaće
+10/26/21, 19:33 - Elena Mrdja: Vaziii ajde cujemo se
+11/15/21, 20:23 - Elena Mrdja: <Media omitted>
+3/6/22, 09:22 - Elena Mrdja: Eee milena, jel mozes da posaljes tu algebru ako si na kampusu?
+3/6/22, 19:15 - Elena Mrdja: Kako ide arhitektura??
+3/6/22, 19:19 - milena: ne ide
+3/19/22, 15:57 - Elena Mrdja: Ee milena, mogu da pokupim plazmuu?
+3/19/22, 15:59 - milena: draga moja plazma se nije desila jer si ti rekla ne ne oni organizuju nešto i kapirala sam da ipak ništa od toga
+3/19/22, 15:59 - Elena Mrdja: Jel me zajebavas???
+3/19/22, 15:59 - Elena Mrdja: O nee
+3/19/22, 15:59 - milena: :(
+3/19/22, 16:00 - Elena Mrdja: 😭😭
+3/19/22, 16:01 - Elena Mrdja: Mozes da mi posaljes adresu te prodavnice molim te?
+3/19/22, 16:02 - milena: nećeš valjda da ideš
+3/19/22, 16:02 - milena: Globus
+3/19/22, 16:02 - milena: nzm
+3/19/22, 16:02 - milena: u 18.
+3/19/22, 16:02 - milena: bolje nađi na netu
+3/19/22, 16:03 - Elena Mrdja: Pa nema mi druge
+3/19/22, 16:03 - milena: kupi neki drugi keks???

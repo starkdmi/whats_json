@@ -1,0 +1,1826 @@
+12/9/20, 12:50 am - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+12/9/20, 12:01 am - Jake Patrick created group "Intro to IT Group A2 # 1"
+12/9/20, 12:50 am - You joined using this group's invite link
+12/9/20, 12:50 am - Jordan O'Meara: Hello
+12/9/20, 12:54 am - Jake Patrick: Hey Jordan, welcome!
+12/9/20, 10:26 am - Rajaneesh Nair: Hi Jordan 🤝 welcome 🙂
+12/9/20, 10:28 am - Murray Nesteroff: Hey guys! Thanks for making this group. 👌
+12/9/20, 10:56 am - Jake Patrick: Gday muzz...
+12/9/20, 10:56 am - Jake Patrick: How are you guys going with assignment 1?
+12/9/20, 11:12 am - Jordan O'Meara: Im still stuck on the project idea. I just have no idea.
+12/9/20, 11:14 am - Sneha Sathpathy: Morning all
+12/9/20, 11:15 am - Sneha Sathpathy: Yea i’ve started on assignment 1, but not to say that im 100% on top of it all
+12/9/20, 11:16 am - Sneha Sathpathy: I’m going to be finishing of the weekly investigative submission first and then focus on the assignment
+12/9/20, 11:16 am - Sneha Sathpathy: I’m doing a interactive nursery rhyme
+12/9/20, 11:16 am - Sneha Sathpathy: Not sure if that’ll work
+12/9/20, 11:30 am - Jake Patrick: I’ve completed most of the assignment 1 stuff except the project idea and my personality test discussion....I’m worried that I’ll fall behind on the other stuff while stressing about this!
+12/9/20, 11:30 am - Jake Patrick: I think we’ll be right as long as we answer the questions
+12/9/20, 11:30 am - Jake Patrick: And I think a nursery rhyme is a good idea Sneha
+12/9/20, 11:32 am - Jake Patrick: Is everybody doing intro to programming as well?
+12/9/20, 11:33 am - Sneha Sathpathy: Sorry my bad got confused for a second. Yea doing both intro to IT and intro to programming
+12/9/20, 11:33 am - Sneha Sathpathy: Haven’t started the assignment 1 yet. But I come from a psychology background and im also leaning towards a personality test
+12/9/20, 11:53 am - Murray Nesteroff: I’ve done my personal profile and gonna finish off the other stuff this weekend fingers crossed. No idea yet about the project idea lol.
+
+I’m doing prog as well 👍
+12/9/20, 12:54 pm - Rajaneesh Nair: luckily i  completed Assignment 1 PDF documentation. now i need to start create webpages and GitHub push and all
+12/9/20, 12:54 pm - Rajaneesh Nair: well done..   yaa hooo
+12/9/20, 12:55 pm - Rajaneesh Nair: great jpb !👏👏
+12/9/20, 12:57 pm - Rajaneesh Nair: Dont worry , Jac... its okey for slow and steady. we will do our best in this weekend 💪
+15/9/20, 2:15 pm - Jordan O'Meara: Hows everyone going?
+Im still really struggling for a project idea. Especially one I can write 1000 words about 😬
+15/9/20, 2:26 pm - Jake Patrick: Hey Jordan, I found it easier once I set out my sections, It’s not so daunting when you just have to write 100 words here and there.
+15/9/20, 2:29 pm - Jake Patrick: I also just smashed out dot points and expanded on them to get the word count
+15/9/20, 2:57 pm - Jordan O'Meara: Yeah that's true. Planning to have the content done by tonight. So ill give that a shot
+15/9/20, 3:00 pm - Jake Patrick: Yeah that’s my aim too, good luck man
+15/9/20, 3:07 pm - Jordan O'Meara: You too
+16/9/20, 3:54 am - Jordan O'Meara: Done and submitted. If you guys need any help let me know
+16/9/20, 3:54 am - Sneha Sathpathy: Hey jordan
+16/9/20, 3:55 am - Sneha Sathpathy: Good on you
+16/9/20, 3:55 am - Sneha Sathpathy: Im working on it now as well
+16/9/20, 3:55 am - Sneha Sathpathy: A bit confused though
+16/9/20, 3:55 am - Jordan O'Meara: Anything I can help you with?
+16/9/20, 3:56 am - Sneha Sathpathy: So what do we do with the html pages we create through notepad
+16/9/20, 3:56 am - Sneha Sathpathy: Are we meant to then upload it onto github
+16/9/20, 3:57 am - Jordan O'Meara: Yeah so I just watched one of the videos Anthony put up. And he walks you though it.
+
+Ill find the link
+16/9/20, 3:57 am - Jordan O'Meara: https://tinyurl.com/githubtutes
+16/9/20, 3:58 am - Jordan O'Meara: The second video.
+16/9/20, 3:58 am - Sneha Sathpathy: Oh thanks
+16/9/20, 3:58 am - Jordan O'Meara: One tip.
+Make sure any of the HTML files you upload are all lower-case in the file name
+16/9/20, 3:58 am - Jordan O'Meara: I have a few capitals and nothing worked until I fixed it
+16/9/20, 3:58 am - Sneha Sathpathy: What did you end up deciding on the project idea
+16/9/20, 3:59 am - Sneha Sathpathy: Ah ok
+16/9/20, 3:59 am - Sneha Sathpathy: Cool
+16/9/20, 3:59 am - Sneha Sathpathy: Thanks for the heads up 😊
+16/9/20, 4:00 am - Sneha Sathpathy: Im thinking of a app like airtasker, except that people can also advertise their skill set, instead of people just posting jobs they want done
+16/9/20, 4:00 am - Jordan O'Meara: Thats really cool.
+16/9/20, 4:01 am - Jordan O'Meara: I ended up doing an app to stop procrastination by having another random user tell you to do it so that you are accountable to somebody ha
+16/9/20, 4:01 am - Sneha Sathpathy: Like for example programming tutors can advertise their skill set and set their own starting prices as well
+16/9/20, 4:01 am - Sneha Sathpathy: Haha love it
+16/9/20, 4:02 am - Jordan O'Meara: Yeah that's a good idea
+16/9/20, 4:01 am - Sneha Sathpathy: I think i would need that
+16/9/20, 4:02 am - Sneha Sathpathy: Alright thanks. Have a nice morning
+16/9/20, 4:02 am - Sneha Sathpathy: 😊
+16/9/20, 4:03 am - Jordan O'Meara: Thanks. I'm gonna try get some sleep. Planning to do my intro to programming assignment tomorrow. Gonna be a long day ha
+16/9/20, 4:03 am - Sneha Sathpathy: I start work at 8am 😅
+16/9/20, 4:03 am - Jordan O'Meara: Oof
+16/9/20, 4:03 am - Sneha Sathpathy: Good luck with it. Let us know how you go with that one
+16/9/20, 4:03 am - Jordan O'Meara: Luckily a day off for me
+16/9/20, 4:04 am - Sneha Sathpathy: Enjoy
+16/9/20, 2:12 pm - Rajaneesh Nair: Hi all - I finished preparing assignment PDF , webpages and all - needs to upload the files to GitHub 🙌
+16/9/20, 2:21 pm - Rajaneesh Nair: Jordan , Sneha , Jacob , Murray and Ben... let’s finish this task on or before Friday 🙏🏼
+16/9/20, 2:22 pm - Jordan O'Meara: If anyone needs help with github or submitting. Just ask. Happy to help if you're unsure
+16/9/20, 2:27 pm - Rajaneesh Nair: Thank you Jordan
+16/9/20, 2:31 pm - Rajaneesh Nair: I definitely will ask
+16/9/20, 3:55 pm - Sneha Sathpathy: Thanks guys. Hopefully finish mine tonight
+16/9/20, 4:00 pm - Sneha Sathpathy: What information did you include or exclude on the website
+16/9/20, 4:00 pm - Sneha Sathpathy: Did you create a webpage for project idea
+16/9/20, 4:00 pm - Sneha Sathpathy: Or just put that information on the pdf
+16/9/20, 4:02 pm - Jordan O'Meara: Yeah everything on the website. I did separate pages for everything and linked between them. But I believe you could just do one full page.
+
+I was a bit confused cause i was under the impression the pdf should have everything on it.
+
+But I double checked it Anthony and all you need is name. Student number and links to github and github pages.
+
+Everythjbg else is on the website
+16/9/20, 4:03 pm - Sneha Sathpathy: Ok great
+16/9/20, 4:03 pm - Sneha Sathpathy: Thanks 😊
+16/9/20, 4:13 pm - Rajaneesh Nair: Well done Sneha
+16/9/20, 4:13 pm - Rajaneesh Nair: <Media omitted>
+16/9/20, 4:17 pm - Sneha Sathpathy: Yay thanks 😄
+16/9/20, 4:55 pm - Jake Patrick: Hey guys I just finished work, good job with the assignments everybody! I finished my PDF yesterday too and then worked through the github video, so now I just need to transfer my info to HTML and upload
+16/9/20, 4:55 pm - Jake Patrick: I should be able to get it done by Friday but I haven’t even thought about the programming assignment yet!
+16/9/20, 4:56 pm - Jake Patrick: I have Saturday, Sunday and Monday off work so should be alright
+16/9/20, 4:58 pm - Murray Nesteroff: Don’t worry Jake I’m in the same boat! Should have it don’t by Friday the can think about programming on the weekend haha.
+
+Its always fun trying to sneak in uni work around my job! But I’m sure I’m not the only one.
+
+Great job guys!
+16/9/20, 4:59 pm - Murray Nesteroff: I think by the time we get to the group assignment we will all be pros
+16/9/20, 4:59 pm - Jordan O'Meara: Definitely
+16/9/20, 5:17 pm - Jake Patrick: Yeah we got this!
+16/9/20, 5:49 pm - Jake Patrick: I just read back a bit, Jordan are you sure about not including the assignment content on the PDF? I was under the impression that everything goes on both
+16/9/20, 5:50 pm - Jordan O'Meara: I thought that too. But Anthony said you don't need to.
+
+I might include it just in case though
+16/9/20, 5:51 pm - Jake Patrick: <Media omitted>
+16/9/20, 5:52 pm - Jordan O'Meara: Yeah maybe will do both then
+16/9/20, 5:53 pm - Jake Patrick: I think he mentioned there is like a comment section where you need to upload the doc and to include those details there
+16/9/20, 5:53 pm - Jake Patrick: If that makes sense
+17/9/20, 1:26 pm - Rajaneesh Nair: Hi guys, pls help,
+We just wanna push all html file to GitHub and mentions the links in PDF, isn’t it?
+17/9/20, 1:26 pm - Rajaneesh Nair: Or do we need to design webpages through GitHub?
+17/9/20, 1:27 pm - Rajaneesh Nair: I did all my html coding via notepad only. It’s working perfectly
+17/9/20, 1:29 pm - Sneha Sathpathy: Hey Raj, i’ve done the same. Just using notepad. I think it should be fine to upload that onto Github
+17/9/20, 1:29 pm - Rajaneesh Nair: Thank you Sneha 🙏🏼 I got made 🤣
+17/9/20, 1:29 pm - Jordan O'Meara: Yeah as long as it's all on github and works then you're all good
+17/9/20, 1:32 pm - Rajaneesh Nair: Thank you Jordan. I managed to upload the files , everything on GitHub. 🤝🤝
+18/9/20, 12:49 am - Sneha Sathpathy: Hey guys, im stuck. For some weird reason my css file is not being recognised
+18/9/20, 12:49 am - Sneha Sathpathy: I’m seeing a error message
+18/9/20, 12:49 am - Sneha Sathpathy: <Media omitted>
+18/9/20, 12:50 am - Jordan O'Meara: Can't help you there. I kept it simple and stuck to HTML.
+18/9/20, 12:51 am - Sneha Sathpathy: Lol might be have to end up doing that
+18/9/20, 12:51 am - Jake Patrick: Yeah I just did HTML as well sorry!
+18/9/20, 12:51 am - Sneha Sathpathy: Creating too many dramas this way it seems
+18/9/20, 12:51 am - Sneha Sathpathy: Thanks guys
+18/9/20, 12:52 am - Jake Patrick: I just finished my HTML then and uploaded to GitHub it feels good!
+18/9/20, 12:53 am - Sneha Sathpathy: Good stuff 😊
+18/9/20, 12:53 am - Jordan O'Meara: Woo. Nice to get through it
+18/9/20, 11:55 pm - Murray Nesteroff: Wow the HTML stuff took longer than I thought. Finally submitted. :)
+18/9/20, 11:55 pm - Jordan O'Meara: Congrats!
+18/9/20, 11:56 pm - Jake Patrick: Nice, good work!
+18/9/20, 11:58 pm - Rajaneesh Nair: Great job 👏👏
+19/9/20, 12:05 am - Rajaneesh Nair: I submitted both assignments... haa hooo
+19/9/20, 12:07 am - Jake Patrick: Well done Raj, I’m going to submit my IT one and then work on my programming one, I have sat, sun and mon free to do it!
+19/9/20, 12:08 am - Rajaneesh Nair: Awesome, Jacob
+19/9/20, 12:21 am - Murray Nesteroff: Well don’t mate!
+19/9/20, 12:22 am - Murray Nesteroff: I’m the same as Jake haha. I’m gonna worry about starting prog tomorrow lol
+19/9/20, 12:22 am - Jake Patrick: Yeah hopefully it’s enough time!
+19/9/20, 12:24 am - Murray Nesteroff: Yea nah we’ll be right 🙏
+19/9/20, 1:00 am - Rajaneesh Nair: You guys are really genius... wont take much time to finish tasks ... I take plenty of time to finish these tasks ..
+19/9/20, 1:01 am - Jordan O'Meara: Oof programming is taking some time. I was gonna stay up and get it done now but might do it in the morning before work.
+19/9/20, 1:01 am - Jordan O'Meara: Just gotta do the user guide parr
+19/9/20, 1:01 am - Jordan O'Meara: Part
+19/9/20, 1:02 am - Rajaneesh Nair: spending minimum of 5-6 hrs to catch up your speed!
+19/9/20, 1:03 am - Jake Patrick: How long do you reckon you spent on it so far Jordan?
+19/9/20, 1:06 am - Rajaneesh Nair: <Media omitted>
+19/9/20, 1:08 am - Jake Patrick: Haha I will feel like that after this weekend!!
+19/9/20, 1:09 am - Rajaneesh Nair: Ha ha 🤣
+19/9/20, 1:09 am - Jordan O'Meara: I know I've definitely spent over 5 or 6 hrs I think.
+But most of that was figuring things out and trying things. I could probably redo it in one hour.
+Actually I don't know if I will take long to do the user guide I might aswell do it now.
+Im working all weekend so I should try get as much done as I can
+19/9/20, 1:09 am - Jordan O'Meara: I haven't done the modules for either subject yet.
+
+Or the IIE for programming.
+Assignments have been the priority
+19/9/20, 1:10 am - Rajaneesh Nair: Wow.. Good one Jordan 👏
+19/9/20, 1:10 am - Rajaneesh Nair: Same here Jordan
+19/9/20, 1:11 am - Jake Patrick: Yeah fair enough! I think I’ll do the iie quickly first because I’m not really up with if statements
+19/9/20, 1:12 am - Rajaneesh Nair: Jacob, in planning to search some YouTube videos for tips and tricks
+19/9/20, 1:13 am - Jake Patrick: Good idea Raj I’ll do that
+19/9/20, 1:13 am - Jake Patrick: I ordered the text book too but it hasn’t arrived
+19/9/20, 1:13 am - Rajaneesh Nair: Java’s eating my brain 🤩
+19/9/20, 1:13 am - Jake Patrick: Haha
+19/9/20, 1:13 am - Jordan O'Meara: If statements are pretty straight forward once you get used to it.
+
+Just copy and paste an if statement and then change things.
+
+Thats what I did
+19/9/20, 1:14 am - Rajaneesh Nair: Oh Jordan... that’s awesome... will save time
+19/9/20, 1:14 am - Rajaneesh Nair: I got the book yesterday
+19/9/20, 1:15 am - Rajaneesh Nair: I’ll try that
+19/9/20, 1:15 am - Jake Patrick: Yeah cool.....did you take all the inputs at once and then out put a story? Or is it like question/answer, new question/answer
+19/9/20, 1:15 am - Jordan O'Meara: I've found that just playing around with things in Java has helped me a lot
+19/9/20, 1:15 am - Jordan O'Meara: I did like a question and answer type thing
+19/9/20, 1:15 am - Jordan O'Meara: Like ask for a name and an age and then printed those things in a sentence
+19/9/20, 1:16 am - Jake Patrick: Oh yeah cool that’s how I was hoping to make mine too
+19/9/20, 1:16 am - Rajaneesh Nair: Yes 🙂
+19/9/20, 1:17 am - Jake Patrick: Well I’m keen to get started tomorrow, so I’m off to sleep, goodnight guys
+19/9/20, 1:18 am - Rajaneesh Nair: Good night, Jacob, Jordan  and all ... enjoy your weekend 😊
+19/9/20, 1:19 am - Jordan O'Meara: Night all
+19/9/20, 10:22 am - Sneha Sathpathy: Morning guys, just read the chain of messages. Good on you Muzzyn for finally getting it submitted. I was meant to finish of last night but I got too exhausted and fell asleep 😅 back onto it this morning i guess
+19/9/20, 10:23 am - Rajaneesh Nair: Good morning Sneha... 🤣 same here. Finished all activities yesterday itself and waken up just now 😃
+19/9/20, 10:23 am - Rajaneesh Nair: <Media omitted>
+19/9/20, 10:25 am - Sneha Sathpathy: 🤣🤣 glad to know i have someone on the same boat as me
+19/9/20, 10:27 am - Rajaneesh Nair: I have plenty of time -21 covid19 cases reported in my office and clossed since April !
+19/9/20, 10:27 am - Rajaneesh Nair: 😌
+19/9/20, 10:28 am - Jake Patrick: Morning guys! Me too too....coffee...computer...good luck with the assignments today
+19/9/20, 10:28 am - Rajaneesh Nair: Morning - morning Jacob 🤩
+19/9/20, 10:28 am - Sneha Sathpathy: Morning jake
+19/9/20, 10:28 am - Rajaneesh Nair: Keep going
+19/9/20, 12:42 pm - Jake Patrick: Does anybody know what the GTerm method “clear” is?
+19/9/20, 12:43 pm - Jordan O'Meara: Gt.clear;()
+19/9/20, 12:43 pm - Jordan O'Meara: Gt.clear(); I mean
+19/9/20, 12:44 pm - Jake Patrick: What does it do though?
+19/9/20, 12:44 pm - Jordan O'Meara: Clears the page basicallt
+19/9/20, 12:44 pm - Jordan O'Meara: Makes it a blank page
+19/9/20, 12:44 pm - Jake Patrick: Oh right, thanks!
+19/9/20, 12:49 pm - Jake Patrick: That made everything so much better
+19/9/20, 12:49 pm - Jordan O'Meara: 👍
+20/9/20, 3:03 pm - Rajaneesh Nair: Hi guys ,
+Hopefully you had a wonderful weekends and submitted all assignments and IEE03
+20/9/20, 3:12 pm - Jake Patrick: Thanks Raj, still working on the programming stuff here! Submitted IT assignment this morning and im still having fun with the programming assignment...almost done the code and then need to do justifications and user guide
+20/9/20, 3:13 pm - Rajaneesh Nair: Superb, Jacob.. 👏👏 let us know if you need any assistance
+20/9/20, 3:13 pm - Rajaneesh Nair: 🤝
+20/9/20, 3:14 pm - Jake Patrick: Thankyou!
+20/9/20, 3:21 pm - Murray Nesteroff: Nice job Jake! Once you know the coding it’s fun haha. I’m the same just justification and guide left 👌
+20/9/20, 3:27 pm - Jake Patrick: Yeah cheers! Good job to you too...Im just struggling to put an image in... I did gt.addImageIcon(“alien.jpg”); and I put alien.jpg in the source folder but then when I run it it just display a white screen!
+20/9/20, 3:27 pm - Murray Nesteroff: Try src/alien.jpg
+20/9/20, 3:28 pm - Murray Nesteroff: (“src/alien.jpg”)
+20/9/20, 3:28 pm - Sneha Sathpathy: Good on you guys. I haven’t been able to complete everything yet. My kids have been a handful. But weekends are like that at our house
+20/9/20, 3:28 pm - Jake Patrick: Genius! Thanks muz!
+20/9/20, 3:29 pm - Murray Nesteroff: I had the same problem haha. Was doing my head in
+20/9/20, 3:29 pm - Murray Nesteroff: Must be stressful!
+20/9/20, 3:30 pm - Jake Patrick: That’s tough Sneha, do you still work full time as well?
+20/9/20, 3:30 pm - Rajaneesh Nair: Hi Muz 🤝
+20/9/20, 3:30 pm - Sneha Sathpathy: 😂 yes. Full time work.
+20/9/20, 3:30 pm - Sneha Sathpathy: How did you guys go with the IIE03
+20/9/20, 3:31 pm - Rajaneesh Nair: We can understand, Sneha . It’s stressful but you are managing it perfectly 👏👏
+20/9/20, 3:31 pm - Jake Patrick: Crikey! Wow what a good effort
+20/9/20, 3:32 pm - Rajaneesh Nair: Same here, Jac ... struggled a lot but found so much fun
+20/9/20, 3:32 pm - Jake Patrick: Yeah I’m really enjoying it!
+20/9/20, 3:33 pm - Sneha Sathpathy: Good on you guys 👌⭐️
+20/9/20, 3:33 pm - Sneha Sathpathy: Great stuff
+20/9/20, 3:36 pm - Jake Patrick: Does anyone know a way to gt.clear everything except your image? So like the writing changes but the image remains?
+20/9/20, 3:36 pm - Murray Nesteroff: Nah I’m not sure. Only way I can think is maybe run the same code again after the clear?
+20/9/20, 3:37 pm - Murray Nesteroff: Maybe as a work around lol. There’s probably a nicer way to do it haha
+20/9/20, 3:38 pm - Jake Patrick: Yeah that’s probably the only option now isn’t it cause we haven’t been taught Another way
+20/9/20, 3:38 pm - Jake Patrick: I’ll just add it after each gt.clear
+20/9/20, 8:54 pm - Jake Patrick: Hey Muz....according to the assignment doc we should not include folder names when adding images....just use the file name....so you need to drag and drop the image straight to the main project folder and then you can just use the file name
+20/9/20, 9:01 pm - Murray Nesteroff: Ohhh
+20/9/20, 9:01 pm - Murray Nesteroff: Good spot! I’ll sort that out. Thank you!
+20/9/20, 9:02 pm - Jake Patrick: No worries!
+20/9/20, 9:10 pm - Murray Nesteroff: All fixed. Thanks again for the save haha.
+20/9/20, 9:11 pm - Jake Patrick: No worries, you helped me get an image in there in the first place!
+21/9/20, 11:33 am - Sneha Sathpathy: Morning guys, can you please help me out. I struggled to upload my files on github yesterday.
+21/9/20, 11:55 am - Jake Patrick: Hey Sneha what went wrong?
+21/9/20, 11:57 am - Jake Patrick: I have GitHub linked to my atom notepad and uploaded it all through there, so I mayb be able to help if you are doing it that way, but I’m not really sure how to do it via the website
+21/9/20, 12:02 pm - Murray Nesteroff: Hey Sneha, in one of these videos (I think it’s the shorter one) Andrew goes through the process. I was confused at first as well but when he goes through it it’s actually quite straight forward. Pretty much drag and drop.
+21/9/20, 4:09 pm - Sneha Sathpathy: Hey so sorry got caught up at work
+21/9/20, 4:10 pm - Sneha Sathpathy: I’ve created the repository and dragged my files into that folder
+21/9/20, 4:10 pm - Sneha Sathpathy: But i dont dont know what i need to do next
+21/9/20, 4:12 pm - Jordan O'Meara: Have you watched the videos muz linked above?
+21/9/20, 4:12 pm - Sneha Sathpathy: I think so
+21/9/20, 4:12 pm - Sneha Sathpathy: There were a couple of videos
+21/9/20, 4:13 pm - Sneha Sathpathy: I’m at work now so not being able to see them but i’ll go home and check them all out again
+21/9/20, 4:13 pm - Jordan O'Meara: Yeah go through them when you can. I think it will help
+21/9/20, 4:13 pm - Sneha Sathpathy: Thanks Jordan
+21/9/20, 4:29 pm - Murray Nesteroff: Also just an FYI, Gayan made an announcement and the due date has been moved to next Monday.
+21/9/20, 4:29 pm - Murray Nesteroff: So no rush anymore haha.
+21/9/20, 4:36 pm - Jordan O'Meara: Thats for programming not for the IT one though
+21/9/20, 4:36 pm - Murray Nesteroff: Very true!!
+21/9/20, 4:37 pm - Murray Nesteroff: Sorry I’m getting confused by them.
+21/9/20, 5:27 pm - Jordan O'Meara: So is the whole group here?
+21/9/20, 5:27 pm - Jake Patrick: You know I was wondering that too Jordan, I think Ben is not here
+21/9/20, 5:28 pm - Ben Saar: Actually damn good timing in the message there Jake.
+Sorry for being MIA all, WhatsApp was not something my phone showed me notifications for as I used it for old work stuff.
+So I literally jumped in and started reading back a few minutes ago!
+21/9/20, 5:29 pm - Jordan O'Meara: Ha I just sent you a message on canvas
+21/9/20, 5:29 pm - Jake Patrick: Wow!
+21/9/20, 5:29 pm - Ben Saar: But I am here, hi, hope all went alright with the assignment!
+21/9/20, 5:29 pm - Jake Patrick: Gday!
+21/9/20, 5:30 pm - Ben Saar: Gday gday!
+21/9/20, 5:30 pm - Jordan O'Meara: Im so behind on everything that isn't the assignment.
+Starting last weeks modules now oof
+21/9/20, 5:31 pm - Jake Patrick: Far out me two Jordan
+21/9/20, 5:31 pm - Jake Patrick: I mean too
+21/9/20, 5:31 pm - Ben Saar: I kinda feel you on that! Assignment was full priority and the rest, I'll real in slowly
+21/9/20, 5:31 pm - Jake Patrick: I have only done week 1 modules
+21/9/20, 5:31 pm - Jake Patrick: I hope to catch up tomorrow
+21/9/20, 5:31 pm - Jordan O'Meara: Need to get ahead i think. Life keeps getting in the way
+21/9/20, 5:32 pm - Jake Patrick: Good that programming has been extended
+21/9/20, 5:32 pm - Jordan O'Meara: Yeah. I had submitted but there are bits I need to do better
+21/9/20, 5:32 pm - Jake Patrick: Oh cool
+21/9/20, 5:33 pm - Jake Patrick: I’m finding the justifications a bit tricky
+21/9/20, 5:33 pm - Jake Patrick: Like working out what code goes with what
+21/9/20, 5:33 pm - Jake Patrick: My program runs perfectly but it’s a bit messy
+21/9/20, 5:37 pm - Jordan O'Meara: Yeah
+Mines the same.
+Im pretty bad at the justifications but I figure if I just make sure it all works it doesn't matter if a lose a few points for bad justification
+21/9/20, 5:43 pm - Rajaneesh Nair: Yes , absolutely
+21/9/20, 5:45 pm - Rajaneesh Nair: Me too, I missed some gterms and my tutor noticed that too
+21/9/20, 5:46 pm - Rajaneesh Nair: Assignment 2 involves lots of group activities, isn’t it ?
+21/9/20, 5:49 pm - Jake Patrick: Yes I think so, I think we have a good team
+21/9/20, 5:50 pm - Jordan O'Meara: Yeah. We got this
+21/9/20, 8:42 pm - Jordan O'Meara: Made a teams and invited you all
+21/9/20, 8:43 pm - Jake Patrick: Good onya Jordan, thanks
+21/9/20, 8:44 pm - Jordan O'Meara: We can use this for general chat and use teams for more official communication
+21/9/20, 8:44 pm - Ben Saar: Just gotta get into Teams 😂
+The hard start apparently
+21/9/20, 8:44 pm - Jake Patrick: 👍
+21/9/20, 8:45 pm - Jordan O'Meara: Yeah it looks confusing.
+Will have a proper meeting at some point
+21/9/20, 8:46 pm - Ben Saar: Sounds good!
+21/9/20, 9:02 pm - Jordan O'Meara: Alright so my plan is to catch up on modules and stuff. And then we can all have a look at assignment and get started towards the end of the week?
+21/9/20, 9:04 pm - Ben Saar: I need to catch up on modules too, so I'm cool with that
+21/9/20, 9:04 pm - Jake Patrick: Sounds great Jordan I’d appreciate the early week to catch up too
+21/9/20, 9:05 pm - Rajaneesh Nair: Yes am flexible for any time
+21/9/20, 9:06 pm - Jake Patrick: Thursday evening, Friday evening or Saturday morning is best for me
+21/9/20, 9:07 pm - Jake Patrick: Or Saturday anytime really
+21/9/20, 9:07 pm - Rajaneesh Nair: Thanks for sharing that Jacob . In Victoria time or Perth time or ?
+21/9/20, 9:07 pm - Jake Patrick: I’m in Adelaide so in the middle!
+21/9/20, 9:08 pm - Jake Patrick: It 8.30 here now
+21/9/20, 9:08 pm - Jake Patrick: I think I am 30 mins behind you
+21/9/20, 9:08 pm - Rajaneesh Nair: 9.08 here . Yes , 30 minutes of difference 🤝
+21/9/20, 9:09 pm - Sneha Sathpathy: Saturday is good for me too
+21/9/20, 9:09 pm - Rajaneesh Nair: How about you Ben, Jordan
+21/9/20, 9:09 pm - Ben Saar: I'm in Vic. And am free basically Wednesday - Friday evenings, and all weekend since in total lockdown!
+21/9/20, 9:09 pm - Jordan O'Meara: Start of the week is usually best for me as I work weekends but I can work something oiy
+21/9/20, 9:09 pm - Jordan O'Meara: Out
+21/9/20, 9:09 pm - Sneha Sathpathy: I’m in Vic too
+21/9/20, 9:10 pm - Jordan O'Meara: But I just wanna make sure I'm all caught up with modules so I don't fall too far behind with them.
+21/9/20, 9:10 pm - Murray Nesteroff: Am I the only one from Sydney? I’m usually good on the weekends or week nights after 7
+21/9/20, 9:12 pm - Rajaneesh Nair: This message was deleted
+21/9/20, 9:12 pm - Jake Patrick: Do you have time before or after work on Saturday Jordan?
+21/9/20, 9:13 pm - Rajaneesh Nair: Thanks for sharing your location, Muz, Sneha and Ben. Yes - we can’t make much delays for a catch up-
+21/9/20, 9:13 pm - Jordan O'Meara: Saturday morning would work for me. Im working from 1 til 1030 I'm pretty sure.
+21/9/20, 9:14 pm - Rajaneesh Nair: Great. So let’s fix it on Saturday
+21/9/20, 9:14 pm - Jake Patrick: Ok so Saturday morning? You east coast guys should set the time since there’s more of you!
+21/9/20, 9:14 pm - Ben Saar: Saturday sounds good
+21/9/20, 9:15 pm - Rajaneesh Nair: 🤝
+21/9/20, 9:16 pm - Rajaneesh Nair: How about 10.00 am on this Saturday 🙂
+21/9/20, 9:16 pm - Ben Saar: I can do that
+21/9/20, 9:17 pm - Rajaneesh Nair: 👍🏻👍🏻👍🏻
+21/9/20, 9:18 pm - Jake Patrick: 10am Melbourne time, no worries
+21/9/20, 9:20 pm - Jordan O'Meara: Works for me.
+How about Sneha?
+21/9/20, 10:36 pm - Sneha Sathpathy: Sure no worries
+24/9/20, 6:11 pm - Murray Nesteroff: Hey guys. Just realised I can’t make Saturday. I’m in the Hunter Valley looking at wedding venues haha. Completely forgot about it until just now. (Don’t tell my fiancé 😅).
+24/9/20, 6:11 pm - Murray Nesteroff: I realise not the best to miss the first one but I’ll be literally flat chat all weekend. Alternatively I can do Sunday night but realise it’s not the best time so understand.
+25/9/20, 8:14 am - Rajaneesh Nair: Wow... congratulations in advance 💐💐
+25/9/20, 9:07 am - Jordan O'Meara: Sunday night works for me but if not for others we can do it without you and send a recording or notes or something?
+25/9/20, 9:12 am - Sneha Sathpathy: Oh congratulations 🥳 🎂
+25/9/20, 9:12 am - Sneha Sathpathy: Sunday night works for me. No issues
+25/9/20, 9:18 am - Rajaneesh Nair: I’m okey with Sunday night🤝
+25/9/20, 9:19 am - Ben Saar: I can do Sunday night fine too!
+25/9/20, 11:31 am - Jordan O'Meara: Jake does Sunday work for you?
+25/9/20, 12:59 pm - Rajaneesh Nair: <Media omitted>
+25/9/20, 1:01 pm - Rajaneesh Nair: Pls go through it, we will discuss about it on our first meeting
+25/9/20, 1:02 pm - Rajaneesh Nair: This message was deleted
+25/9/20, 1:05 pm - Rajaneesh Nair: Looks like we need to do little bit hard work and team work 🙂
+25/9/20, 3:39 pm - Jake Patrick: Hi guys yeah Sunday night is cool
+25/9/20, 3:44 pm - Jordan O'Meara: Im working til 5 i think so what time works best for you guys
+25/9/20, 4:25 pm - Ben Saar: I'm working on Sunday until 3, so later should be fine with me too Jordan. 
+So are we moving the meet to Sunday evening then?
+25/9/20, 6:43 pm - Rajaneesh Nair: Hi all. Seems we can able to make our first meeting at 4.00 pm on Sunday .
+25/9/20, 6:43 pm - Rajaneesh Nair: Thanks for letting us know your available 🤝
+25/9/20, 7:08 pm - Jake Patrick: Fine for me any time Sunday, but I think Jordan said he will be at work until 5?
+25/9/20, 7:41 pm - Jordan O'Meara: Yeah I'm at work til 5.
+530?
+25/9/20, 7:43 pm - Murray Nesteroff: Thanks for accomodating the change guys really appreciate it! Can we possibly make it 630/7? Not sure if I’ll be back by 5/530.
+25/9/20, 7:44 pm - Jordan O'Meara: Im fine with anything im planning to be studying from 5til midnight at this stage
+25/9/20, 7:47 pm - Jake Patrick: Ah....i have a dinner booking at 7 so would have to be like 6 at the latest for me...
+26/9/20, 8:05 pm - Jordan O'Meara: Do we have a time?
+26/9/20, 10:52 pm - Jake Patrick: Not really sure what the plan is...seems like it’s not so easy to organise 6 people!
+26/9/20, 10:52 pm - Jordan O'Meara: I think that's the point of it really
+26/9/20, 10:53 pm - Jake Patrick: Yeah I guess so...
+26/9/20, 10:54 pm - Jake Patrick: Are we available tomorrow around 6? Or do we go to next week?
+26/9/20, 10:54 pm - Sneha Sathpathy: Anytime is fine with me guys
+26/9/20, 10:55 pm - Jake Patrick: Wait we are in different time zones
+26/9/20, 10:55 pm - Sneha Sathpathy: Just let me know time according to which city ☺️
+26/9/20, 10:55 pm - Jake Patrick: 6.30?
+26/9/20, 10:55 pm - Murray Nesteroff: 6 should be fine for me
+26/9/20, 10:55 pm - Jake Patrick: 6.30 Melbourne?
+26/9/20, 10:55 pm - Sneha Sathpathy: Works fine for me
+26/9/20, 10:55 pm - Murray Nesteroff: 630 Melbourne works for me as well 👌
+26/9/20, 10:56 pm - Jake Patrick: Noice.
+26/9/20, 10:57 pm - Jordan O'Meara: Okay deal let's go with that. If not everyone then we can record and send to whoever misses? It will be hard to make it work everytime anyway
+26/9/20, 10:58 pm - Jake Patrick: Yes that’s true Jordan, we need start rolling I guess!
+26/9/20, 10:58 pm - Jake Patrick: I’ll be away next weekend too
+26/9/20, 11:24 pm - Rajaneesh Nair: 6.30 is okey me
+27/9/20, 4:57 pm - Sneha Sathpathy: Guys really sorry guys but i’m not going to be able to join you guys tonight. My daughter fell down and possibly sprained her arm. Im rushing her to the doctors now
+27/9/20, 4:58 pm - Sneha Sathpathy: I’m going to have to listen to a recording. If one of you could kindly record
+27/9/20, 5:05 pm - Jordan O'Meara: All good
+27/9/20, 5:06 pm - Jordan O'Meara: How many of us are still available?
+27/9/20, 5:06 pm - Jordan O'Meara: Also I hope she's okay
+27/9/20, 5:06 pm - Sneha Sathpathy: Thanks jordan
+27/9/20, 5:06 pm - Sneha Sathpathy: Not sure
+27/9/20, 5:07 pm - Sneha Sathpathy: She fell off the swing
+27/9/20, 5:08 pm - Murray Nesteroff: Hope your daughter is okay Sneha :( 
+
+I’m still good for 6:30 Jordan.
+27/9/20, 5:18 pm - Jake Patrick: Sorry to hear that....yeah I’m okay for 6.30 too
+27/9/20, 6:54 pm - Jake Patrick: Technical difficulties sorry guys
+27/9/20, 6:55 pm - Ben Saar: All good man
+27/9/20, 7:10 pm - Jordan O'Meara: Alright recording will be on teams.
+Also ive outlined the plan for the start of the week.
+27/9/20, 7:10 pm - Murray Nesteroff: Legend thanks Jordan. Hope those cats simmer down.
+27/9/20, 7:11 pm - Jake Patrick: Good onya Jordan thanks mate
+27/9/20, 7:26 pm - Jordan O'Meara: Ha thanks
+27/9/20, 8:40 pm - Rajaneesh Nair: Extremely sorry for not showing up, we are at hospital, my wife is sick 🙁
+27/9/20, 8:41 pm - Rajaneesh Nair: Thank you . Will get back to you all tomorrow
+27/9/20, 8:41 pm - Sneha Sathpathy: Thanks jordan
+27/9/20, 8:42 pm - Sneha Sathpathy: Sorry to hear raj. Seems like a evening full of disasters for a few of us.
+27/9/20, 8:42 pm - Sneha Sathpathy: My daughter has sprained her arm
+27/9/20, 8:42 pm - Rajaneesh Nair: How’s your daughter, Sneha... sorry to hear that 🙁
+27/9/20, 8:43 pm - Sneha Sathpathy: Not too great unfortunately
+27/9/20, 8:44 pm - Rajaneesh Nair: Prayers for speedy recovery
+27/9/20, 8:44 pm - Sneha Sathpathy: Thanks
+28/9/20, 6:53 pm - Rajaneesh Nair: Hi Jordan and all , I was going through the chat recordings. When will be our next catch up?
+28/9/20, 6:54 pm - Rajaneesh Nair: We can sort it out who’s is doing what .
+28/9/20, 6:54 pm - Jordan O'Meara: Im thinking mid week maybe? Wednesday night if people are available.
+28/9/20, 6:55 pm - Rajaneesh Nair: Cool Jordan. I’m available anytime from now onwards
+28/9/20, 6:57 pm - Jake Patrick: Hey guys, Wednesday is good for me, but I have tutorial on Wednesday at 8 Melbourne time
+28/9/20, 6:57 pm - Jake Patrick: Hope your wife is ok Raj
+28/9/20, 7:00 pm - Sneha Sathpathy: Hi guys, Wednesday nights fine with me too
+28/9/20, 7:01 pm - Jordan O'Meara: Only needs to be a 20min meeting or so to touch base.
+28/9/20, 7:01 pm - Sneha Sathpathy: Maybe if one of you could assign some work beforehand. Might be a good starting point of discussion
+28/9/20, 7:02 pm - Jordan O'Meara: On the teams chat I put some of the stuff we discussed and need to do
+28/9/20, 7:08 pm - Sneha Sathpathy: Yea i saw that. Did you want me to look into anything beforehand.
+28/9/20, 7:10 pm - Jordan O'Meara: Do the team profile and ideal jobs part. And add to docs in teams files
+28/9/20, 7:11 pm - Rajaneesh Nair: Yes, she’s recovering ... thx for asking, Jordan
+28/9/20, 7:12 pm - Rajaneesh Nair: Yes, we can do that . I’m okey with that
+28/9/20, 7:12 pm - Rajaneesh Nair: Hi Sneha, how’s your child ?
+28/9/20, 7:12 pm - Rajaneesh Nair: 👍🏻👍🏻
+28/9/20, 7:24 pm - Sneha Sathpathy: Sure
+28/9/20, 7:25 pm - Sneha Sathpathy: She’s sprained her arm. So it will take a little while.
+29/9/20, 12:18 pm - Rajaneesh Nair: Me too, so can we do meeting at 7 or 7 .30 pm
+29/9/20, 1:13 pm - Jordan O'Meara: Yeah if 7 works for everyone? Or most
+29/9/20, 1:33 pm - Jake Patrick: Works for me guys, I’m just having a really terrible time with the internet connection. Hopefully it is sorted by then.
+29/9/20, 1:33 pm - Jake Patrick: I’m in the library now using wifi trying to catch up it’s very frustrating
+29/9/20, 2:02 pm - Sneha Sathpathy: Ohh no fingers crossed that at it all works out for you
+29/9/20, 2:02 pm - Sneha Sathpathy: Im fine with 7
+29/9/20, 2:52 pm - Ben Saar: 7 is fine with me too!
+29/9/20, 3:53 pm - Rajaneesh Nair: 7 is fine for me 👍🏻
+30/9/20, 4:22 pm - Jordan O'Meara: Not 100% sure ill be at the meeting tonight.
+I've had a migraine all day and I feel like I'm gonna pass out. Gonna have a lay down and see if I feel better.
+If I'm not, I encourage you guys to do it anyway. The more meetings we have even with less people the better
+30/9/20, 4:23 pm - Sneha Sathpathy: So sorry to hear that jordan. I suffer from migraines so i know how brutal it can be. Get some rest
+30/9/20, 5:03 pm - Sneha Sathpathy: Just confirming we are still catching up at 7pm Melbourne?
+30/9/20, 5:03 pm - Sneha Sathpathy: Are we going to meet on teams?
+30/9/20, 5:06 pm - Jake Patrick: I’m still available
+30/9/20, 5:09 pm - Jake Patrick: Let’s see if anybody is available first Sneha, but yeah teams is the go
+30/9/20, 5:10 pm - Jake Patrick: I’m only available today and tomorrow night and then next time will be Monday
+30/9/20, 5:11 pm - Sneha Sathpathy: Sure no issues. Im free tomorrow evening. In fact it might be easier as im still at work
+30/9/20, 5:14 pm - Jake Patrick: Oh okay then, that might work then. I don’t mind either way, let’s see who is available :)
+30/9/20, 5:15 pm - Jake Patrick: Jordan might be feeling better tomorrow too
+30/9/20, 5:16 pm - Ben Saar: I'm also available either way :)
+30/9/20, 5:33 pm - Rajaneesh Nair: Sorry to hear that , Jordan 🙁
+30/9/20, 5:33 pm - Rajaneesh Nair: I’m available tomorrow too
+30/9/20, 6:07 pm - Ben Saar: So shall we postpone until then? Seems like it still will work well enough :)
+30/9/20, 6:08 pm - Sneha Sathpathy: Sounds good to me
+30/9/20, 6:08 pm - Rajaneesh Nair: Sure Ben.
+30/9/20, 6:24 pm - Jake Patrick: no worries, sounds good :)
+30/9/20, 6:26 pm - Murray Nesteroff: Sorry to hear Jordan :(. But yes I am good for tomorrow night as well 👌
+1/10/20, 5:10 pm - Jordan O'Meara: So 7 tonight?
+1/10/20, 5:15 pm - Rajaneesh Nair: Yes. Jordan. How you feel now?
+1/10/20, 5:15 pm - Jordan O'Meara: Much better. Had a big long sleep
+1/10/20, 5:16 pm - Rajaneesh Nair: This message was deleted
+1/10/20, 5:16 pm - Rajaneesh Nair: I had migraines befor. It’s really hard
+1/10/20, 5:25 pm - Rajaneesh Nair: 👏👏
+1/10/20, 5:38 pm - Jake Patrick: Cool see you tonight guys
+1/10/20, 6:34 pm - Sneha Sathpathy: Hey guys, im not sure if any of you others are in the same boat but i have a tute at 8pm
+1/10/20, 6:34 pm - Jordan O'Meara: Yeah same. We won't be that long. We are only meant to have meetings around 20-30mins
+1/10/20, 6:34 pm - Sneha Sathpathy: Ok  great👍
+1/10/20, 7:59 pm - Jake Patrick: Lol are we all INFP?
+1/10/20, 8:00 pm - Jake Patrick: How’d you get 3 results for that test Ben?
+1/10/20, 8:00 pm - Sneha Sathpathy: I am
+1/10/20, 8:00 pm - Sneha Sathpathy: Sorry misread
+1/10/20, 8:00 pm - Sneha Sathpathy: Whats INFP
+1/10/20, 8:01 pm - Jake Patrick: One of the 16 personalities test results
+1/10/20, 8:01 pm - Jake Patrick: So far me, Jordan and Ben are all the same
+1/10/20, 8:01 pm - Jordan O'Meara: Not surprising tbh ha
+1/10/20, 8:02 pm - Jake Patrick: Must be an IT thing
+1/10/20, 9:57 pm - Sneha Sathpathy: Haha
+1/10/20, 9:57 pm - Sneha Sathpathy: Sorry just saw the message
+1/10/20, 9:57 pm - Sneha Sathpathy: Im the odd one out 🤣
+1/10/20, 9:57 pm - Sneha Sathpathy: Im a ENFJ
+1/10/20, 9:58 pm - Sneha Sathpathy: i’m added all my parts now
+1/10/20, 10:04 pm - Jake Patrick: Nice work!
+1/10/20, 10:07 pm - Rajaneesh Nair: <Media omitted>
+1/10/20, 10:08 pm - Sneha Sathpathy: Oh there we go. We have two 👏
+1/10/20, 10:09 pm - Rajaneesh Nair: Yea ... 😂💪🏼
+5/10/20, 2:47 pm - Rajaneesh Nair: Good afternoon all. Hope all are fine
+5/10/20, 2:48 pm - Jordan O'Meara: Hey I'm good.  Busy and exhausted but good. How about you?
+5/10/20, 2:49 pm - Rajaneesh Nair: Hi Jordan, same here 🌞
+.
+I’ll complete  some of parts in *IT Technologies* with in two - three days
+5/10/20, 2:49 pm - Jordan O'Meara: My plan for tomorrow is to get up early. Go for a walk. And then get as much done tomorrow as I can
+5/10/20, 2:49 pm - Jordan O'Meara: Weekend has been hectic
+5/10/20, 2:50 pm - Sneha Sathpathy: Hi guys, hope you all are well
+5/10/20, 2:50 pm - Rajaneesh Nair: That’s sound promising 🙂
+5/10/20, 2:50 pm - Rajaneesh Nair: Hi Sneha 🙏🏼
+5/10/20, 2:50 pm - Sneha Sathpathy: Let me know if you want me to look into anything
+5/10/20, 2:51 pm - Rajaneesh Nair: That’s a good idea. I wake up around 10am since my office closed
+5/10/20, 2:52 pm - Rajaneesh Nair: Definitely.. 👍🏻
+5/10/20, 2:55 pm - Rajaneesh Nair: <Media omitted>
+5/10/20, 2:56 pm - Rajaneesh Nair: Sneha, May be you can pick a topic and prepare if you wish to
+5/10/20, 2:56 pm - Sneha Sathpathy: Sure
+5/10/20, 2:57 pm - Rajaneesh Nair: 🙌
+5/10/20, 2:57 pm - Sneha Sathpathy: I’d love to do cyber security
+5/10/20, 2:57 pm - Rajaneesh Nair: Fantastic. 👏👏
+5/10/20, 2:58 pm - Sneha Sathpathy: 😊👍
+5/10/20, 3:00 pm - Jake Patrick: Hi guys, I hope you all had a beautiful weekend! I'll be ready to do some assignment 2 work tomorrow as well
+5/10/20, 3:01 pm - Jake Patrick: Jordan, do you want to share the load of the industry data bit seeing as there's a few people on the IT Tech section?
+5/10/20, 3:01 pm - Rajaneesh Nair: Hi Jacob 🙏🏼
+5/10/20, 3:02 pm - Jake Patrick: Hi Raj!
+5/10/20, 3:02 pm - Rajaneesh Nair: It’s sleepy Monday!
+5/10/20, 3:03 pm - Sneha Sathpathy: Hey jake, sounds good 😌
+6/10/20, 1:19 am - Sneha Sathpathy: Hey raj, ive created a doc called IT Technologies on teams and added the cyber security notes. Feel free to add your stuff onto the same doc.
+6/10/20, 8:47 am - Rajaneesh Nair: Thanks Sneha 🙏🏼🙂
+6/10/20, 9:12 am - Jordan O'Meara: Hey sorry for late reply been busy with work.
+But yeah I am onto the industry data stuff today
+6/10/20, 9:44 am - Jake Patrick: No worries....do you want any help with it? Or does anybody else need some help? I’m not really sure how I can contribute at this stage, but I have some time free today
+6/10/20, 9:44 am - Rajaneesh Nair: 👍🏻👍🏻
+6/10/20, 9:45 am - Rajaneesh Nair: Hi guys I’m confused. How many words required for each topic?
+6/10/20, 10:22 am - Rajaneesh Nair: 1200 words or 600 words?
+6/10/20, 10:22 am - Rajaneesh Nair: Or any requirements?
+6/10/20, 10:23 am - Jake Patrick: hey raj, its 1200 words
+6/10/20, 10:23 am - Jake Patrick: 1200 for each topic
+6/10/20, 10:23 am - Rajaneesh Nair: Cool. Thank you Jacob
+6/10/20, 10:24 am - Jake Patrick: no worries :)
+6/10/20, 10:30 am - Murray Nesteroff: Hey guys! so I am going to get some questions together for the interview. Do we have a time set for the next teams meeting yet? 😊
+6/10/20, 10:31 am - Jake Patrick: hey muz, no not yet, when is everybody free?
+6/10/20, 10:45 am - Jake Patrick: I can do tonight before lecture or tomorrow similar time
+6/10/20, 10:56 am - Sneha Sathpathy: Morning guys, hope everyone is well
+6/10/20, 10:57 am - Sneha Sathpathy: My bad I didn’t realise it was 1200 per topic. Actually makes it easier
+6/10/20, 10:57 am - Sneha Sathpathy: I’ll get onto that later today after work.
+6/10/20, 10:58 am - Jake Patrick: Hey Sneha, Going well thanks how are you?
+6/10/20, 10:58 am - Sneha Sathpathy: Good jake ☺️ i was struggling with the word count yesterday.  Now it makes sense
+6/10/20, 10:58 am - Jake Patrick: Oh haha that’s good!
+6/10/20, 10:59 am - Jake Patrick: I don’t have a topic because I think we already have 4
+6/10/20, 10:59 am - Jake Patrick: So I don’t really know what to do
+6/10/20, 11:01 am - Jake Patrick: Raj, have you started all of your ones? I can take one to make it easier if you want
+6/10/20, 11:26 am - Rajaneesh Nair: How sweet of you Jacob. Yes, I’m about to finish three topics, Machine learning, autonomous vehicle, and robots
+6/10/20, 11:26 am - Rajaneesh Nair: Sneha is doing Cyber security
+6/10/20, 11:27 am - Jake Patrick: wow, well done!
+6/10/20, 11:27 am - Rajaneesh Nair: Jacob, you can pick one topic of you wish to
+6/10/20, 11:27 am - Sneha Sathpathy: Hey guys just a reminder about the Spark plus feedback
+6/10/20, 11:28 am - Sneha Sathpathy: That’s a small part of the assessment
+6/10/20, 11:28 am - Jake Patrick: ok sure i can take autonomous vehicles, if you havent gone too far already?
+6/10/20, 11:28 am - Rajaneesh Nair: Even I didn’t know that . Jacob helped me to understand this
+6/10/20, 11:29 am - Rajaneesh Nair: I almost finished that 🙁
+6/10/20, 11:29 am - Jake Patrick: yes, it's a lot of work for one person to do 3 topics Raj
+6/10/20, 11:33 am - Rajaneesh Nair: Jacob, pls go for it. My plan was to start it today even
+6/10/20, 11:33 am - Rajaneesh Nair: I was talking about robotics and machine learning
+6/10/20, 11:34 am - Rajaneesh Nair: Autonomous vehicle is yours now 🤣
+6/10/20, 11:35 am - Ben Saar: I've been working on the cloud solutions, servers one as well as I mentioned. How many did we actually need in this field though, it was only the 4, right?
+6/10/20, 11:35 am - Jake Patrick: wait, you have almost finished autonomous vehicles?
+6/10/20, 11:36 am - Jake Patrick: yes we need 4 Ben
+6/10/20, 11:36 am - Ben Saar: Yeah thought so, have we gone overboard with Raj being a madman/beast?
+6/10/20, 11:36 am - Ben Saar: Haha
+6/10/20, 11:36 am - Jake Patrick: so Sneha has one, Ben has one, Raj has 3 but has given me one
+6/10/20, 11:36 am - Jake Patrick: so Raj you can drop another one!
+6/10/20, 11:36 am - Jake Patrick: I reckon!
+6/10/20, 11:36 am - Ben Saar: Yeah I thought so!
+6/10/20, 11:37 am - Ben Saar: Also excuse my not being active, currently at work so a bit hard to use my phone
+6/10/20, 11:37 am - Rajaneesh Nair: Im about finish machine learning and robotics- I didn’t started autonomous yet
+6/10/20, 11:37 am - Rajaneesh Nair: Wow... that’s awesome
+6/10/20, 11:37 am - Rajaneesh Nair: <Media omitted>
+6/10/20, 11:38 am - Rajaneesh Nair: Yes , Jacob
+6/10/20, 11:38 am - Jake Patrick: have you done your one ben?
+6/10/20, 11:38 am - Rajaneesh Nair: You saved my life , Ben🤣
+6/10/20, 11:39 am - Jake Patrick: im confused
+6/10/20, 11:39 am - Jake Patrick: haha
+6/10/20, 11:39 am - Jake Patrick: if i do autonomous vehichles will we have too many?
+6/10/20, 11:40 am - Rajaneesh Nair: Cyber Security- Sneha 
+Cloud- Ben
+Machine Learning- Raj
+Robotics- Raj
+6/10/20, 11:41 am - Rajaneesh Nair: You don’t need to . already 4 now
+6/10/20, 11:41 am - Jake Patrick: ok thats amazing good work guys
+6/10/20, 11:41 am - Jake Patrick: but i feel useless
+6/10/20, 11:43 am - Sneha Sathpathy: Oh dont worry there’s heaps of work to be done 😁 we’ll push you in the deep end then jake
+6/10/20, 11:43 am - Rajaneesh Nair: Don’t say say that Jacob 🙁 do you wanna try this?
+6/10/20, 11:43 am - Rajaneesh Nair: 🙌
+6/10/20, 11:43 am - Jake Patrick: yes haha i think we should have a meeting
+6/10/20, 11:44 am - Jake Patrick: i think the spark feedback is just to give each other feedback after we finish isnt it?
+6/10/20, 11:48 am - Rajaneesh Nair: Jacob, I send you my work once I complete. Can you pls help me for spelling and grammar and all
+6/10/20, 11:48 am - Jake Patrick: yes no worries 😀
+6/10/20, 11:49 am - Rajaneesh Nair: You are legend 💪🏼💪🏼
+6/10/20, 11:49 am - Jake Patrick: you are!
+6/10/20, 11:56 am - Jordan O'Meara: Great work everyone. Im a bit behind on my plans today. Having a... challenging.. morning of parenting haha.
+I've got today and tomorrow off work so I'm probably just gonna be up all night getting stuff done I think
+6/10/20, 8:31 pm - Rajaneesh Nair: I uploaded the Content for Machine learning. Yahooo💪🏼
+6/10/20, 8:32 pm - Rajaneesh Nair: It’s in Team app. Kindly have a look and correct it pls 🙂
+6/10/20, 8:32 pm - Jake Patrick: Oh good work, sure I’ll have a look tonight
+6/10/20, 8:35 pm - Rajaneesh Nair: Thank you 😊
+6/10/20, 8:59 pm - Sneha Sathpathy: Dont stress. Take it easy. Shout out if you need any help. Got two little toddlers so feel your pain 😅
+6/10/20, 9:02 pm - Sneha Sathpathy: <Media omitted>
+6/10/20, 9:03 pm - Sneha Sathpathy: My two monkeys. Uni work isn’t anywhere as exhausting as these two
+6/10/20, 9:04 pm - Jordan O'Meara: <Media omitted>
+6/10/20, 9:05 pm - Sneha Sathpathy: Aww she’s gorgeous. So is the dog
+6/10/20, 9:05 pm - Jordan O'Meara: Thanks
+6/10/20, 9:05 pm - Sneha Sathpathy: Daddy’s little girl 👧
+6/10/20, 9:06 pm - Rajaneesh Nair: Choo chweet 🙂
+6/10/20, 9:06 pm - Jake Patrick: Aw cute you guys
+6/10/20, 9:07 pm - Sneha Sathpathy: Gotta teach these kids programming 😂 it will keep them busy and ease our workload
+6/10/20, 9:16 pm - Murray Nesteroff: Cutie batooties!
+6/10/20, 9:16 pm - Murray Nesteroff: This is a good idea hahaha
+6/10/20, 9:20 pm - Sneha Sathpathy: Hey guys just saw the marks for the first assignment. Very happy I got HD’s overall.
+6/10/20, 9:21 pm - Sneha Sathpathy: The comments for the assignments will really help with the next assignment.
+6/10/20, 9:21 pm - Jordan O'Meara: Woo congrats. I got HDs for all except two. Which is way better than I was expecting. Lowest was presentation but I was expecting that cause mine was super basic
+6/10/20, 9:21 pm - Sneha Sathpathy: Great job ⭐️
+6/10/20, 9:21 pm - Sneha Sathpathy: All a learning curve
+6/10/20, 9:22 pm - Sneha Sathpathy: It will help to know what to add
+6/10/20, 9:22 pm - Jordan O'Meara: Yeah definitely
+6/10/20, 9:23 pm - Sneha Sathpathy: We’ll get all HD’s in the next one 🏆😉
+6/10/20, 9:23 pm - Jordan O'Meara: Definitely
+6/10/20, 9:24 pm - Jake Patrick: hey nice work guys, same Jordan I got HD's for all except 2 and the lowest was presentation
+6/10/20, 9:24 pm - Jake Patrick: got some really useful feedback
+6/10/20, 9:25 pm - Jake Patrick: i got marked down cause i didn't even try to use css
+6/10/20, 9:25 pm - Jordan O'Meara: Yeah same haha
+6/10/20, 9:26 pm - Jordan O'Meara: Which i knew would happen.
+But presentation is only 10% so I focused on the rest first
+6/10/20, 9:26 pm - Sneha Sathpathy: Great job guys. We’ve got a talented bunch
+6/10/20, 9:27 pm - Jake Patrick: yeah i know, me too....the programming assignment was looming then too
+6/10/20, 9:59 pm - Rajaneesh Nair: I got 4HD and 2 are bloody lowest 🙂
+6/10/20, 10:24 pm - Sneha Sathpathy: That’s all well raj. You’re doing great
+6/10/20, 10:27 pm - Rajaneesh Nair: Thanks Sneha 🙏🏼 We all did our best
+6/10/20, 11:22 pm - Jake Patrick: Hey Raj, I just went through your ML report and fixed up the grammar a bit and changed a few words here and there. Can you please look at it and see if I changed anything important? Especially the third dot point, I may have changed the meaning because I didn't really understand it. You are a good writer!
+7/10/20, 8:26 am - Rajaneesh Nair: Awesome... now it’s looks so good . Thank you Jacob 🙂
+7/10/20, 8:55 am - Jake Patrick: My pleasure 😊
+7/10/20, 5:43 pm - Ben Saar: Somehow I missed marks getting released! 3HD's and 3 D's here, but I HD'd the presentation 😂
+7/10/20, 5:44 pm - Ben Saar: Feedback is surprisingly detailed though, which is nice to see! Seems as though the markers actually read through everything which is a positive haha
+7/10/20, 5:57 pm - Jake Patrick: hey that's great Ben, good on you. Yeah the feedback was actually pretty useful! Good work on the presentation, I wish I had a bit more time to make mine a bit nicer
+7/10/20, 6:00 pm - Jake Patrick: How did everybody go with referencing?
+8/10/20, 11:21 am - Rajaneesh Nair: Ben That’s awesome 👏
+8/10/20, 11:22 am - Rajaneesh Nair: I completed my second task- Robots
+8/10/20, 11:22 am - Rajaneesh Nair: This message was deleted
+8/10/20, 11:23 am - Rajaneesh Nair: This message was deleted
+8/10/20, 11:24 am - Rajaneesh Nair: Dear Jacob, pls go through it whenever you get time. 🙏🏼
+8/10/20, 11:26 am - Rajaneesh Nair: 1200 words- too much!
+8/10/20, 11:53 am - Rajaneesh Nair: <Media omitted>
+8/10/20, 5:02 pm - Jake Patrick: Great, No problems, I’ll get onto it 😊
+8/10/20, 5:03 pm - Jake Patrick: You’re a machine Raj
+8/10/20, 7:18 pm - Rajaneesh Nair: 🤩
+8/10/20, 10:01 pm - Jake Patrick: all done Raj
+9/10/20, 8:39 am - Rajaneesh Nair: Thank you Jacob 🙏🏼
+9/10/20, 9:03 am - Jake Patrick: No worries!
+9/10/20, 9:28 am - Jordan O'Meara: Hey guys. I have been super busy with work this week and have really struggled to keep up. Looking like I will be at work all day for the next 3 days.
+If anyone wants to have a go at the industry data part feel free.
+9/10/20, 9:29 am - Murray Nesteroff: All good Jordan I know exactly how you feel this week. Insanity. I’ll have a go at it over the weekend 👌
+9/10/20, 9:32 am - Jake Patrick: That’s cool Jordan, Muz let me know how you go, I have some free time over the weekend , but especially Monday and Tuesday so I can jump in too
+9/10/20, 9:34 am - Jordan O'Meara: Thanks guys.
+9/10/20, 9:36 am - Jake Patrick: Dont stress jordan! You’ve done heaps for the team!
+10/10/20, 3:34 pm - Jordan O'Meara: Hey just keeping you guys in the loop.
+This morning and tomorrow afternoon were my only times I had to study this week.
+
+Work has been hectic.
+(I manage a schnitz restaurant).
+Had multiple sick calls and we have a head office audit Monday.
+I am basically working open til close for the next 3 days now. 
+
+Tuesday is my day off so I will try to catch up then
+10/10/20, 3:47 pm - Sneha Sathpathy: Hey jordan
+10/10/20, 3:47 pm - Sneha Sathpathy: To be honest its been a really crap studywise for me as well
+10/10/20, 3:47 pm - Sneha Sathpathy: Dont stress.
+10/10/20, 3:48 pm - Sneha Sathpathy: I’ll sit down tonight to work on the assessment. If i can do anything to help, let me know
+10/10/20, 4:05 pm - Jordan O'Meara: Thanks i just feel bad cause everyone else has done so much haha
+11/10/20, 6:38 pm - Murray Nesteroff: Hey guys I uploaded a draft for the industry data section. Needs some polish but the bones are there. Anyway it’s on teams if you guys wanna have a look and edit. I was trying to find other info other than Burning Glass but was struggling.
+11/10/20, 6:39 pm - Murray Nesteroff: I’ll have another go during the week at polishing it up as well.
+11/10/20, 7:20 pm - Jake Patrick: Awesome muz! I’m gonna go through the introduction sections tomorrow too and try to link everything together a bit.
+11/10/20, 7:21 pm - Jake Patrick: I’ll edit it all together with the industry data but that you wrote
+11/10/20, 7:32 pm - Rajaneesh Nair: Dear Jordan.. you are doing a lot for us  . No need of stress. 🤝🙂
+11/10/20, 8:13 pm - Jake Patrick: Hey when can we have a meeting guys? I think we should have one even if not everybody can come
+12/10/20, 12:21 pm - Rajaneesh Nair: Hi Jacob 👋
+How about today or tomorrow evening 7.00 pm (Melbourne time )
+12/10/20, 1:03 pm - Sneha Sathpathy: Morning guys, sorry but  im working late both today upto Wednesday
+12/10/20, 1:20 pm - Rajaneesh Nair: Okey Sneha. Thanks for letting us know about that . We can do  on Thursday evening then 👍🏻
+12/10/20, 1:22 pm - Rajaneesh Nair: Let’s see if everyone available on Thursday. If not, we can do on a convenient day
+12/10/20, 1:28 pm - Jordan O'Meara: Thursday works for me
+12/10/20, 2:07 pm - Jake Patrick: Fine for me 👍
+12/10/20, 3:03 pm - Jake Patrick: hey any suggestions for team name?
+12/10/20, 3:03 pm - Jordan O'Meara: No idea
+12/10/20, 3:05 pm - Jake Patrick: cool i'll run with 'No Idea' and we can change it later haha
+12/10/20, 3:07 pm - Jordan O'Meara: Haha
+12/10/20, 4:00 pm - Jake Patrick: guys i'm doing a bit of a draft, does anybody have any objection to me editing their work to make it all streamlined?
+12/10/20, 4:44 pm - Rajaneesh Nair: Not at all, Jacob. That’s really helpful...
+12/10/20, 4:54 pm - Jake Patrick: 👍
+12/10/20, 4:57 pm - Jake Patrick: Raj can you please upload your 3 test results and a paragraph of how this information may be helpful to the team? Theres a document in teams called 'test outcomes' in case you havent seen it 😀
+12/10/20, 5:58 pm - Jake Patrick: I've created a new file called assignment 2 draft and have started compiling and editing everything. I have tomorrow free so will be able to continue and get a good chunk done.
+12/10/20, 10:13 pm - Rajaneesh Nair: Good afternoon Jacob,  thank you so much for remind me about test results! apologies for the delays.  I uploaded my test results just now.
+12/10/20, 10:13 pm - Rajaneesh Nair: Kindly go through it
+12/10/20, 10:13 pm - Sneha Sathpathy: Hey guys, i’ll sit down and finish the cyber security part tonight
+12/10/20, 10:14 pm - Jake Patrick: Oh awesome, now worries!
+12/10/20, 10:15 pm - Sneha Sathpathy: Let me know if you want me to start on anything else
+12/10/20, 10:15 pm - Rajaneesh Nair: you guys are superb
+12/10/20, 10:16 pm - Sneha Sathpathy: Great team 🙂
+12/10/20, 10:16 pm - Jake Patrick: Oh sneha, I made a table with everybody’s test results in it, but I didn’t have your ones, do you think you can have a look and upload them too?
+12/10/20, 10:16 pm - Sneha Sathpathy: Good on each one of you
+12/10/20, 10:16 pm - Sneha Sathpathy: Cool
+12/10/20, 10:16 pm - Jake Patrick: It’s in the assignment 2 draft file
+12/10/20, 10:16 pm - Sneha Sathpathy: No worries
+12/10/20, 10:17 pm - Jake Patrick: And There was a note in your your intro bit saying it needed to be condensed, so I did it while I was writing today, I hope you don’t mind!
+12/10/20, 10:18 pm - Sneha Sathpathy: Sure no worries 😊
+12/10/20, 10:18 pm - Jake Patrick: Awesome thanks! 👍
+12/10/20, 10:19 pm - Rajaneesh Nair: Thank you so much for your efforts , Jacob.. truly appreciated
+12/10/20, 10:19 pm - Jake Patrick: It’s no problem, I didn’t have a writing task for the group like everybody else and I feel comfortable doing this work!
+12/10/20, 10:20 pm - Jake Patrick: Thank you all for your efforts with research and writing too
+12/10/20, 10:20 pm - Rajaneesh Nair: A2 #1 IS THE BEST
+12/10/20, 10:21 pm - Sneha Sathpathy: Any ideas on a group name yet
+12/10/20, 10:21 pm - Jake Patrick: 🙌
+12/10/20, 10:21 pm - Jake Patrick: Yeah I’m not sure sneha
+12/10/20, 10:22 pm - Jake Patrick: Any thoughts?
+12/10/20, 10:22 pm - Sneha Sathpathy: 🤓🧐
+12/10/20, 10:22 pm - Rajaneesh Nair: how about Aussie Techies 😂
+12/10/20, 10:22 pm - Sneha Sathpathy: Not bad
+12/10/20, 10:22 pm - Jake Patrick: It’s the number one candidate!
+12/10/20, 10:23 pm - Jake Patrick: You have my vote Raj!
+12/10/20, 10:23 pm - Rajaneesh Nair: 😍
+12/10/20, 10:26 pm - Sneha Sathpathy: Moneyball Techies, aussie power tech, RMIT pseudo boomers, Ozzie System Tron
+12/10/20, 10:26 pm - Sneha Sathpathy: Code breakers
+12/10/20, 10:26 pm - Sneha Sathpathy: Just a few others that popped in my mind
+12/10/20, 10:27 pm - Rajaneesh Nair: wow... all are superb suggestions, Sneha 💪
+12/10/20, 10:28 pm - Sneha Sathpathy: 🙂 just a place to start thinking. Im sure you guys would have some too
+12/10/20, 10:32 pm - Jake Patrick: https://m.youtube.com/watch?v=9STeegpxSb0
+12/10/20, 10:34 pm - Rajaneesh Nair: 😀
+12/10/20, 10:34 pm - Sneha Sathpathy: Hahahha
+12/10/20, 10:34 pm - Sneha Sathpathy: Compu mega net
+12/10/20, 10:34 pm - Sneha Sathpathy: Love it
+12/10/20, 10:35 pm - Jake Patrick: Yeah it’s good! Haha
+13/10/20, 2:41 pm - Murray Nesteroff: Hey guys I’m away this weekend and the due date is on Sunday (unless I got all my weeks mixed up lol). Did we decide what we wanted to do for the interview part? I hope we can get everything sorted before Friday :(.
+13/10/20, 3:05 pm - Jordan O'Meara: Hey good point. I've kind of lost track of the days in the last week.
+Yeah what's the plan. Or should just do the other option and look up some YouTube videos? Which will be easier
+13/10/20, 3:06 pm - Sneha Sathpathy: Let me know, i can do a interview at work
+13/10/20, 3:10 pm - Jake Patrick: Oh my gosh I thought it was due on the 23rd but you’re right muz
+13/10/20, 3:10 pm - Jake Patrick: We still need to do the project idea section too
+13/10/20, 3:11 pm - Sneha Sathpathy: Dont worry we’ll be fine 😊
+13/10/20, 3:16 pm - Murray Nesteroff: Do we want to have a meeting tonight with those who can join?
+13/10/20, 3:17 pm - Sneha Sathpathy: I’ll be up tonight. One of you, if you could please make a to do list. I’ll try to work through it. I’m at work till 8.30pm so it wont be possible for me
+13/10/20, 3:18 pm - Sneha Sathpathy: I can start on the  html website
+13/10/20, 3:22 pm - Jake Patrick: There’s a new file
+Called assignment 2 to do list
+13/10/20, 3:28 pm - Jordan O'Meara: I was about to say we need to start on the website side of things.
+Even if its super basic
+13/10/20, 3:40 pm - Sneha Sathpathy: Cool 😊 i’ll try to put something basic tonight and then you guys can build on from that, if you’re good with that
+13/10/20, 4:16 pm - Jake Patrick: legend Sneha
+13/10/20, 4:20 pm - Rajaneesh Nair: Can we able to finish sparkPlus part tonight
+13/10/20, 4:21 pm - Rajaneesh Nair: Superb
+13/10/20, 4:49 pm - Jake Patrick: Hey guys, everything is pretty well laid out in 'Assignment 2 Draft' file now. The bits that need work are highlighted in yellow. All of our individual work from the teams files are now in the draft file. Please everybody feel free to jump in and edit, add what they want etc. I have tried to write pieces to connect everything and edit in a way that it makes it appear streamlined and not just individual pieces stuck together. I will continue working on this today, and in the following evenings when I can, and I will have a b it of time on the weekend too
+13/10/20, 7:28 pm - Murray Nesteroff: Thanks Jake you’re a legend. Had something big come up at work this arvo so I’m still working unfortunately. Will have a look later on tonight if I get time
+13/10/20, 7:39 pm - Sneha Sathpathy: Assignment due date has now changed
+13/10/20, 7:39 pm - Sneha Sathpathy: Now Wednesday 11.59pm
+13/10/20, 7:47 pm - Jordan O'Meara: Oh awesome. Can't complain with a couple of extra days
+13/10/20, 7:47 pm - Jordan O'Meara: Great work Jake you're a legend
+13/10/20, 8:07 pm - Ben Saar: Hello people, I feel like I have dropped off again, my bad!
+Totally forgot to upload my Cloud Solutions section, so I'll be sure to get that added in a minute. I literally just finished work, my hours keep getting extended and changed at the moment, so that's been fun. Let me know what I can help with though! Tonight and tomorrow I'm gonna be pretty stuck but after that I'm totally free like Thursday and Friday arvo, plus most of the weekend. I'm happy get the Website together for example :)
+13/10/20, 8:20 pm - Murray Nesteroff: No worries Ben. I think you had the highest score for presentation if I remember correct haha. Would be awesome if you could have a go at the website.
+
+I had a look at the interview part seem simple to do the actual interview. There is a document with questions which are pretty good.
+
+Sneha did you want to do your boss? I am more than happy to interview my brother. I feel like I haven’t done enough so far haha.
+13/10/20, 8:21 pm - Murray Nesteroff: Also I am actually on leave next week so the more I can contribute before Friday the better.
+13/10/20, 8:22 pm - Jordan O'Meara: No stress you've done more than me. I am so behind on everything. Work has been insane the last few weeks.
+13/10/20, 9:06 pm - Murray Nesteroff: Hey guys I created a new word doco with interview questions. I added a few extra. Have a look when you can and add or remove what you like :).
+13/10/20, 9:07 pm - Rajaneesh Nair: You guys are awesome 👏
+13/10/20, 9:09 pm - Rajaneesh Nair: guys , any suggestions for our project idea ?
+13/10/20, 9:11 pm - Rajaneesh Nair: Thank you , Muz ...
+13/10/20, 9:11 pm - Sneha Sathpathy: Muz you go for it 😊👍
+13/10/20, 9:13 pm - Sneha Sathpathy: Guys see if you guys like anything. I had HD’s for all the sections. And the really liked the TradeSeekerServices concept.
+13/10/20, 9:13 pm - Sneha Sathpathy: https://snehasathpathy-code.github.io/IIT/
+13/10/20, 9:13 pm - Sneha Sathpathy: I’m heading home now.
+13/10/20, 9:14 pm - Sneha Sathpathy: Will start working on the assessment in a few hours.
+13/10/20, 9:14 pm - Rajaneesh Nair: Sneha, you are a champion
+13/10/20, 9:15 pm - Sneha Sathpathy: Haha no coffee addict 😉
+13/10/20, 9:15 pm - Rajaneesh Nair: Your website is so cute and perfect
+13/10/20, 9:16 pm - Sneha Sathpathy: Thanks 😊
+13/10/20, 9:16 pm - Rajaneesh Nair: Now I realise why I got low marks in presentation 😀
+13/10/20, 9:16 pm - Sneha Sathpathy: I think one of the requirements this time around is to have the CSS file seperate
+13/10/20, 9:17 pm - Rajaneesh Nair: True
+13/10/20, 9:17 pm - Sneha Sathpathy: Nah raj its all good. We all learn. I had a hard time with the programming story assessment
+13/10/20, 9:19 pm - Rajaneesh Nair: Same here but somehow managed to complete on time
+13/10/20, 9:20 pm - Murray Nesteroff: Wow Sneha your webpage is amazing!
+13/10/20, 9:22 pm - Sneha Sathpathy: Thanks 😊
+13/10/20, 10:21 pm - Jake Patrick: Hey everyone, I was out for a few hours, but back now! it's great to have everybody here and it's really good news that the date has been extended, let's make the most of the extra time!
+13/10/20, 10:23 pm - Jake Patrick: wow, what a nice website, mine was literally just one long white page
+13/10/20, 10:49 pm - Jake Patrick: I'd just like to say how nice it has been reading everybody's work over the past couple of days, and feeling like i am getting to know you all in a way, i didn't think online study would be like this! 😀
+13/10/20, 10:52 pm - Rajaneesh Nair: Wow
+13/10/20, 10:53 pm - Rajaneesh Nair: Dear Jacob, I done citation work on IT technologies docs. Kindly advice me
+13/10/20, 10:57 pm - Jake Patrick: ok great, work Raj!
+13/10/20, 10:58 pm - Jake Patrick: you can add the changes to the assignment 2 draft file if you like
+13/10/20, 10:59 pm - Jake Patrick: everybody can feel free to edit on that file too because i have added everything we have done so far :)
+13/10/20, 10:59 pm - Jake Patrick: i saw you put your work there too Ben, that's awesome
+13/10/20, 11:00 pm - Rajaneesh Nair: Sure Jacob. You are a 💎
+13/10/20, 11:21 pm - Sneha Sathpathy: <Media omitted>
+13/10/20, 11:21 pm - Sneha Sathpathy: Great stuff guys 🙂
+14/10/20, 11:41 am - Sneha Sathpathy: Morning guys
+14/10/20, 11:41 am - Sneha Sathpathy: Can you all upload a photo of yours on teams for the profile section
+14/10/20, 11:44 am - Jordan O'Meara: Yep. I just made a folder for photos on there
+14/10/20, 11:44 am - Sneha Sathpathy: Great 😊 thanks jordan
+14/10/20, 11:45 am - Rajaneesh Nair: Definitely Sneha. Will do it today itself
+14/10/20, 11:45 am - Sneha Sathpathy: Thanks raj
+14/10/20, 11:48 am - Jordan O'Meara: I was gonna upload some options for you to choose from. Turns i don't have many nice photos of me
+14/10/20, 12:12 pm - Sneha Sathpathy: Lol im sure that’s not true. Im sure you’re hidding the nice ones somewhere.
+14/10/20, 12:12 pm - Jordan O'Meara: I have a habit of squinting in photos
+14/10/20, 12:13 pm - Sneha Sathpathy: You know the funniest thing was at work we were testing the facial recognition app and everyone’s biggest fear was what they would look like 😂
+14/10/20, 12:14 pm - Rajaneesh Nair: 🤣
+14/10/20, 12:14 pm - Jordan O'Meara: Haha
+14/10/20, 12:14 pm - Rajaneesh Nair: I have millions of phots worth nothing
+14/10/20, 12:14 pm - Rajaneesh Nair: 🌞
+14/10/20, 12:15 pm - Sneha Sathpathy: Oh and there were so many complaints that people’s faces were not getting recognised by the app after COVID... since they gained a whole lot of weight 🤣
+14/10/20, 12:17 pm - Rajaneesh Nair: 🤣🤣
+14/10/20, 12:19 pm - Jordan O'Meara: Haha yeah. Thats another issue. I've put on a tonne of weight in the last few months. So my more recent photos I don't want to use.
+But the majority of the photos I have from when I was doing well weight wise are photos of me at the gym covered in sweat haha.
+14/10/20, 12:19 pm - Sneha Sathpathy: 😂😂 im in the same boat. Victorians im sure are dieing for gyms to reopen
+14/10/20, 12:20 pm - Jordan O'Meara: Very much so
+14/10/20, 12:20 pm - Rajaneesh Nair: Jordan, can you share some of your weight through cloud computing or some other technologies. I’m just 47kg only 🤣
+14/10/20, 12:20 pm - Sneha Sathpathy: We are now “privileged” to go out of the house for exercise for 2 hours
+14/10/20, 12:20 pm - Sneha Sathpathy: 😂😂😂
+14/10/20, 12:20 pm - Sneha Sathpathy: What’s your secret raj
+14/10/20, 12:21 pm - Rajaneesh Nair: I don’t know . I’m just like Bonsai tree since childhood. No growth 😂
+14/10/20, 12:21 pm - Jordan O'Meara: Haha. Wow I've literally put on 27kgs since march.
+After losing 35kg since the previous june(-ish)
+14/10/20, 12:22 pm - Rajaneesh Nair: I’m jealous 😌
+14/10/20, 12:23 pm - Jordan O'Meara: Just eat really bad and do no exercise it'll happen eventually
+14/10/20, 12:23 pm - Sneha Sathpathy: Hahah im jealous of you raj. Im exactly the same as jordan. Was doing training every morning. Got super fit and then after covid it’s just been down hill
+14/10/20, 12:23 pm - Rajaneesh Nair: Oh man. I eat like a cow now since Covid season . Nothing happening
+14/10/20, 12:24 pm - Sneha Sathpathy: We need to train you raj 😁
+14/10/20, 12:24 pm - Rajaneesh Nair: 🤣🤣
+14/10/20, 12:24 pm - Rajaneesh Nair: Pls 🙏🏼🙏🏼
+14/10/20, 5:16 pm - Jake Patrick: Hey guys just got home! I’ll upload mine now
+14/10/20, 5:17 pm - Jake Patrick: Loving your dad shirts jordan!
+14/10/20, 5:39 pm - Jordan O'Meara: Ha thanks
+14/10/20, 9:24 pm - Murray Nesteroff: Hey guys nice photos haha.
+14/10/20, 9:25 pm - Murray Nesteroff: I just finished the interview. It only went for 15 minutes I was trying to pad it out. You guys reckon that’s ok? There was 13 questions in there.
+14/10/20, 9:25 pm - Murray Nesteroff: I’ll write out a transcript and send the recording as well
+14/10/20, 9:27 pm - Jake Patrick: Thanks muz! I dunno 15 minutes is a long time, I reckon that’s great
+14/10/20, 9:28 pm - Jake Patrick: I can’t see anything on the assignment instructions that say it should be a certain length
+14/10/20, 9:32 pm - Murray Nesteroff: Scratch that. The recording file is corrupt have to do it again haha
+14/10/20, 9:33 pm - Jake Patrick: Oh no!
+14/10/20, 10:14 pm - Jordan O'Meara: Oof bad luck
+15/10/20, 12:53 am - Murray Nesteroff: Alrighty I made a new folder on teams for the interview and put the transcript and the recording in there. All done ✅ . Please feel free to review! I apologies for my poor interview skills haha.
+15/10/20, 8:30 am - Jordan O'Meara: Woo good job
+15/10/20, 9:08 am - Jake Patrick: Thanks muz!
+15/10/20, 9:08 am - Jake Patrick: Are we still meeting this evening?
+15/10/20, 9:15 am - Jordan O'Meara: I should be available
+15/10/20, 9:31 am - Jake Patrick: Awesome 👍
+15/10/20, 9:42 am - Rajaneesh Nair: Good morning all. I have tutor chat today at 7.00 . So can we able to meet at 6.30?
+15/10/20, 9:46 am - Rajaneesh Nair: Usually tutor chat is on Wednesday but my tutor postponed today
+15/10/20, 9:47 am - Rajaneesh Nair: I’ll  go through meeting’s recoding anyway
+15/10/20, 9:48 am - Rajaneesh Nair: You look like a Hollywood actor , Muz!
+15/10/20, 10:42 am - Murray Nesteroff: Haha thanks Raj. My work did all these professional photos done when we started. They definitely get a work out. I definitely don’t look like that most of the time lol.
+15/10/20, 10:43 am - Murray Nesteroff: 630 works for me I have a work meeting at 7.
+15/10/20, 10:45 am - Sneha Sathpathy: Morning guys, i will try my best but cant promise and i will getting back from around 6.30pm and also have my tute tonight
+15/10/20, 10:46 am - Sneha Sathpathy: Ive got teams on my phone, so if im in the car i’ll join in and listen to you guys at least
+15/10/20, 11:34 am - Rajaneesh Nair: Oh..Sneha - drink and drive and teams and drive is bit risky. I’ll be around 8.00  too
+15/10/20, 6:31 pm - Murray Nesteroff: So what time did we agree for the call tonight?
+15/10/20, 6:36 pm - Jake Patrick: we are in the meeting now if anybody can join :)
+15/10/20, 9:36 pm - Jake Patrick: i just made a repository for our assignment 2, did i do it correctly? is it as simple as just making a public repository from my account?
+15/10/20, 9:36 pm - Jake Patrick: https://github.com/Jake-Patrick/IIT-Assignment-2-Group-Work-Repository.git
+15/10/20, 9:56 pm - Sneha Sathpathy: I think so jake
+15/10/20, 9:58 pm - Sneha Sathpathy: I have just formatted the project ideas document. Whenever you guys get a moment, can you please go into your individual sections and enter your project idea name. Also make any changes you need to.
+15/10/20, 9:59 pm - Sneha Sathpathy: I’m also just finishing off on my part in the IT technologies and formatting the document.
+15/10/20, 10:08 pm - Jake Patrick: Hey Sneha, we just have to choose one of our ideas for the assignment
+15/10/20, 10:08 pm - Sneha Sathpathy: Ah ok
+15/10/20, 10:09 pm - Jake Patrick: In the meeting today we decided to go with Ben's game
+15/10/20, 10:09 pm - Sneha Sathpathy: Ok cool
+15/10/20, 10:09 pm - Sneha Sathpathy: Do we then delete the rest or what happens
+15/10/20, 10:09 pm - Jake Patrick: so Ben is going to work on that and try to flesh it out a bit over the weekend
+15/10/20, 10:09 pm - Sneha Sathpathy: Ok awesome
+15/10/20, 10:09 pm - Jake Patrick: yeah they were just there so we could all have a look at each other's ideas and decide which one to choose
+15/10/20, 10:10 pm - Sneha Sathpathy: Thanks for the heads up 😁
+15/10/20, 10:10 pm - Jake Patrick: No worries, i hope you didn't do too much extra work!
+15/10/20, 10:10 pm - Sneha Sathpathy: well at least ben you have a pretty formatted doc to stare at
+15/10/20, 10:10 pm - Sneha Sathpathy: No no all good
+15/10/20, 10:11 pm - Jake Patrick: yeah ben is a good writer!
+15/10/20, 10:11 pm - Sneha Sathpathy: Great stuff guys. So glad it was a good meeting
+15/10/20, 10:11 pm - Sneha Sathpathy: Seems like we’ve got it all under control
+15/10/20, 10:12 pm - Jake Patrick: yeah i think we are doing well!
+15/10/20, 10:12 pm - Jake Patrick: i have monday and tuesdsy off so i can help with the website then sneha
+15/10/20, 10:12 pm - Sneha Sathpathy: Oh that would be awesome
+15/10/20, 10:12 pm - Sneha Sathpathy: Thanks jake
+15/10/20, 10:13 pm - Sneha Sathpathy: What i’ll do is do a first draft of the website
+15/10/20, 10:13 pm - Sneha Sathpathy: Over the weekend
+15/10/20, 10:13 pm - Sneha Sathpathy: And then hand it over to you if that’s cool
+15/10/20, 10:14 pm - Jake Patrick: that's cool, i dont have much experience but i will work it out and i will have the time to do it
+15/10/20, 10:15 pm - Sneha Sathpathy: No worries. Its always good to get two eyes across it 😊
+15/10/20, 10:15 pm - Jake Patrick: for sure!
+16/10/20, 7:41 am - Jordan O'Meara: Sorry I missed the meeting guys i fell asleep on the couch after dinner and only just woke up 
+Im amazed I didn't get woken up.
+16/10/20, 7:42 am - Jordan O'Meara: @61437563574 anything I can do to help with the project idea stuff?
+16/10/20, 8:34 am - Sneha Sathpathy: Morning guys
+16/10/20, 8:35 am - Sneha Sathpathy: I’ve updated the to do list to look presentable
+16/10/20, 8:35 am - Sneha Sathpathy: Morning Jordan 😊
+16/10/20, 8:36 am - Sneha Sathpathy: How r you feeling?
+16/10/20, 8:37 am - Sneha Sathpathy: Have a look at the to do list. I think there are a couple of sections that need to be done by all of us individually
+16/10/20, 10:12 am - Rajaneesh Nair: Sure and thank you Sneha 🙏🏼🤝
+16/10/20, 10:30 am - Sneha Sathpathy: No worries 😊
+17/10/20, 6:34 pm - Rajaneesh Nair: Good evening all. Hope you are having good weekends . I’ll do the pending work late night today.
+17/10/20, 6:55 pm - Sneha Sathpathy: Hi guys, hope you’ll are enjoying the weekend. Ive started working on the website
+17/10/20, 7:12 pm - Sneha Sathpathy: Any of you guys having issues with canvas access
+17/10/20, 7:32 pm - Rajaneesh Nair: So far so good, Sneha but will get worse soon i think
+18/10/20, 12:09 pm - Rajaneesh Nair: <Media omitted>
+18/10/20, 12:09 pm - Rajaneesh Nair: Good afternoon all
+18/10/20, 12:10 pm - Rajaneesh Nair: I finished my group reflecting part.. woohoo
+18/10/20, 12:18 pm - Jake Patrick: Haha nice one Raj 👍
+18/10/20, 12:21 pm - Rajaneesh Nair: Hi Jacob, do everyone need to submit assignment 2  ?
+18/10/20, 1:56 pm - Jake Patrick: Hi Raj, I’m not sure...I think yes but I’ll check properly when I get home
+18/10/20, 6:28 pm - Rajaneesh Nair: Thank you 😊
+18/10/20, 8:09 pm - Jake Patrick: <Media omitted>
+18/10/20, 8:10 pm - Jake Patrick: So only one person has to submit by the looks
+18/10/20, 8:10 pm - Jake Patrick: 1 PDF for assignment, 1 PDF for teams
+19/10/20, 12:41 am - Rajaneesh Nair: Thank you Jacob🙏🏼🙏🏼
+19/10/20, 2:23 pm - Jake Patrick: Hey Sneha, how are you going with the HTML?
+19/10/20, 2:25 pm - Sneha Sathpathy: Hey jake
+19/10/20, 2:25 pm - Sneha Sathpathy: Not bad. Should have the first draft done by tonight
+19/10/20, 2:31 pm - Jake Patrick: oh awesome work!
+19/10/20, 2:32 pm - Jake Patrick: i'm working tomorrow now so i won't have the whole day to go through it as i'd hoped but i will spend tomorrow evening/night on it
+19/10/20, 2:33 pm - Sneha Sathpathy: That should be fine
+19/10/20, 2:33 pm - Sneha Sathpathy: But we should get someone to proof read/ edit the pdf document
+19/10/20, 2:34 pm - Sneha Sathpathy: Get that all ready
+19/10/20, 2:35 pm - Sneha Sathpathy: Then tonight i’ll just transfer it to HTML
+19/10/20, 2:35 pm - Jake Patrick: yes indeed, perhaps we shoudl have a meeting this evening or tomorrow evening to go over fional submission stuff?
+19/10/20, 2:35 pm - Sneha Sathpathy: Cool
+19/10/20, 2:35 pm - Sneha Sathpathy: I’ll reach home by Melbourne 6.30pm
+19/10/20, 2:37 pm - Jake Patrick: cool maybe tomorrow would be better because gayan's lecture and then umera's tutorial is tonight?
+19/10/20, 2:38 pm - Sneha Sathpathy: Oh shoot
+19/10/20, 2:38 pm - Sneha Sathpathy: Yup that’s right
+19/10/20, 2:38 pm - Sneha Sathpathy: Sounds good with me
+19/10/20, 2:38 pm - Jake Patrick: ok awesome let's see who can make it
+19/10/20, 2:39 pm - Sneha Sathpathy: Great.
+19/10/20, 2:39 pm - Jordan O'Meara: I should be free tomorrow night
+19/10/20, 2:40 pm - Sneha Sathpathy: Hey also if there is any specific images that you guys want added these save it on the images folder i created
+19/10/20, 2:43 pm - Jake Patrick: awesome no worries
+19/10/20, 2:44 pm - Jake Patrick: ill put in the full screenshots to my ideal job
+19/10/20, 2:44 pm - Jake Patrick: or maybe we can just link to our assignment 1 website
+19/10/20, 2:44 pm - Jake Patrick: we need to include the links anyway
+19/10/20, 5:20 pm - Jordan O'Meara: Should I put the screenshot from the ideal job in there? I will anyway.
+19/10/20, 5:46 pm - Jordan O'Meara: I have the next two days off so anything I can do let me know
+19/10/20, 5:47 pm - Sneha Sathpathy: Hey sorry just saw your message jordan. Save any images you necessary.
+19/10/20, 5:47 pm - Sneha Sathpathy: I’ll put it on 😊
+19/10/20, 5:57 pm - Jordan O'Meara: Do you guys need any help with the HTML side of things?
+19/10/20, 6:03 pm - Ben Saar: Heya all, I really need to get used to actively checking WhatsApp, my bad!
+I have just uploaded the document "The Demon Inside" to the Teams files chat.
+I'm spent, I've been trying to add to it for ages, writing more in the technologies section has been interesting. I've made it get to  1500 words, and have fleshed out a bit. If anyone would like to jump in and have a look, let me know whatcha think. And where we should add more if you think it is necessary :)
+19/10/20, 6:04 pm - Jordan O'Meara: Ill have a squizz
+19/10/20, 6:04 pm - Rajaneesh Nair: Outstanding Efforts, everyone...
+19/10/20, 6:04 pm - Rajaneesh Nair: 🤝🤝
+19/10/20, 6:05 pm - Ben Saar: Thanks Jordan and Raj! We're actually doing great I think, keep it up all!
+19/10/20, 6:05 pm - Rajaneesh Nair: All are gems ...
+19/10/20, 6:06 pm - Sneha Sathpathy: By tonight i’ll have it done from my end. Then maybe one or two of you can check errors and clean up the finer details
+19/10/20, 6:06 pm - Sneha Sathpathy: Truly guys really happy with the amazing team
+19/10/20, 6:06 pm - Sneha Sathpathy: ⭐️
+19/10/20, 6:06 pm - Jordan O'Meara: Awesome let me know and I'll look it over
+19/10/20, 6:06 pm - Sneha Sathpathy: Thanks 😊
+19/10/20, 6:07 pm - Rajaneesh Nair: Everyone working hard even having tight schedules ...
+19/10/20, 6:08 pm - Sneha Sathpathy: I’m struggling with my IIE’s for intro to programming. On top of it all my canvas is having credential issues
+19/10/20, 6:09 pm - Rajaneesh Nair: Oh 🙁
+19/10/20, 6:09 pm - Rajaneesh Nair: Sorry to hear that Sneha...
+19/10/20, 6:09 pm - Jordan O'Meara: Im a week behind on my IIEs.
+Still technically haven't got my head around IIE6.
+7 was due 9 mins ago and im yet to even look at it. Ha.
+I've just come to terms with the fact that I'm submitting late
+19/10/20, 6:11 pm - Jake Patrick: This iie was hard, I didn’t finish it properly
+19/10/20, 6:13 pm - Jake Patrick: I’m in the lecture now and gayan says we have 5 working days to complete it AFTER the deadline, as long as we submit a bit of progress BEFORE the deadline
+19/10/20, 6:18 pm - Rajaneesh Nair: Same here.. it is bloody errorful ..🙁
+19/10/20, 6:20 pm - Sneha Sathpathy: Constructors on have lost me 😅
+19/10/20, 6:25 pm - Rajaneesh Nair: I went to bed 5.am today 🤓
+19/10/20, 6:26 pm - Jordan O'Meara: I understand them but they just don't work for me.
+19/10/20, 8:15 pm - Sneha Sathpathy: Guys i’m in soup. My canvas access isn’t working and I haven’t even been able to access discussions etc. IT Helpdesk hasn’t done anything.
+19/10/20, 8:15 pm - Sneha Sathpathy: <Media omitted>
+19/10/20, 8:15 pm - Sneha Sathpathy: I get this message regarding credentials
+19/10/20, 8:16 pm - Sneha Sathpathy: Luckily this doesn’t affect working on HTML
+19/10/20, 8:19 pm - Jake Patrick: oh no
+19/10/20, 8:19 pm - Jake Patrick: what happens when you click the link?
+19/10/20, 8:20 pm - Jake Patrick: can you email anthony and tell him the IT Helpdesk isn't offering support?
+19/10/20, 8:23 pm - Sneha Sathpathy: When i click on anything its blank
+19/10/20, 8:23 pm - Sneha Sathpathy: So i cant see any assessments/ discussions etc
+19/10/20, 8:23 pm - Sneha Sathpathy: Ive already contacted IT but they still haven’t done anything
+19/10/20, 8:23 pm - Jake Patrick: different web browser?
+19/10/20, 8:23 pm - Sneha Sathpathy: Yup
+19/10/20, 8:24 pm - Sneha Sathpathy: Its a credentials issue. So the faculty has to sort it out 😅
+19/10/20, 8:24 pm - Jake Patrick: oh right, what does that mean?
+20/10/20, 1:09 am - Sneha Sathpathy: Guys can we finalise the team name please
+20/10/20, 2:35 am - Sneha Sathpathy: <Media omitted>
+20/10/20, 2:36 am - Sneha Sathpathy: Guys made a temporary logo. Just till we decide on something else
+20/10/20, 3:49 am - Sneha Sathpathy: Murray your profile pic is not working because its a TIFF file. Can you convert it to a jpg or png file please
+20/10/20, 6:29 am - Sneha Sathpathy: Morning guys, ive been up all night
+20/10/20, 6:29 am - Sneha Sathpathy: <Media omitted>
+20/10/20, 6:29 am - Sneha Sathpathy: <Media omitted>
+20/10/20, 6:29 am - Sneha Sathpathy: <Media omitted>
+20/10/20, 6:29 am - Sneha Sathpathy: <Media omitted>
+20/10/20, 6:29 am - Sneha Sathpathy: <Media omitted>
+20/10/20, 6:30 am - Sneha Sathpathy: Just a slight glimpse of what its looking like
+20/10/20, 6:30 am - Sneha Sathpathy: Homepage still needs work
+20/10/20, 6:32 am - Jordan O'Meara: Looks great. Is it on github yet? I can work on it while you sleep today if you want
+20/10/20, 6:32 am - Sneha Sathpathy: No not on github yet
+20/10/20, 6:33 am - Sneha Sathpathy: Will need some assistance to put it up
+20/10/20, 6:33 am - Sneha Sathpathy: Ive forgotten how to do that
+20/10/20, 6:45 am - Sneha Sathpathy: Ben could you finish up your reflection when you get a chance today 😊
+20/10/20, 6:46 am - Sneha Sathpathy: Also project idea are there any specific images or videos you want to put in
+20/10/20, 6:47 am - Sneha Sathpathy: So sorry guys bombarding you with messages 😀
+20/10/20, 6:47 am - Jordan O'Meara: Jake posted a github repo on teams. If you go to that you should be able to just upload everything to that I think.
+20/10/20, 6:47 am - Sneha Sathpathy: Ok great
+20/10/20, 6:47 am - Sneha Sathpathy: Thanks jordan
+20/10/20, 6:48 am - Ben Saar: I'll get the reflection done after work, and as for images I'll have a look and see what I can add into the teams file. Only thing I can think of are few images of the inspirations.
+20/10/20, 6:48 am - Ben Saar: So an image of Senua, and maybe an Alice in Wonderland.
+20/10/20, 6:49 am - Sneha Sathpathy: All good
+20/10/20, 6:49 am - Sneha Sathpathy: I’m going to head out for work in an hour
+20/10/20, 6:49 am - Sneha Sathpathy: I’ll try my best to get everything uploaded before i go
+20/10/20, 6:50 am - Jordan O'Meara: And thanks for sending the messages now so I actually have some motivation to get out of bed instead of going back to sleep ha. Last two nights I've fallen asleep at 8pm when my daughter went to bed and then ended up overstepping. My sleep has been all over the place for weeks for some reason
+20/10/20, 6:50 am - Sneha Sathpathy: Hahah
+20/10/20, 6:50 am - Sneha Sathpathy: I watched Ozark
+20/10/20, 6:50 am - Sneha Sathpathy: That was my inspiration
+20/10/20, 6:51 am - Sneha Sathpathy: I think I finished one season
+20/10/20, 6:52 am - Sneha Sathpathy: Ok silly question guys
+20/10/20, 6:52 am - Sneha Sathpathy: I have forgotten how to upload the docs on repository
+20/10/20, 6:52 am - Sneha Sathpathy: Can you guys please help
+20/10/20, 6:53 am - Jordan O'Meara: Gimme a sec to look. Its been a while
+20/10/20, 6:53 am - Sneha Sathpathy: 😊 thanks
+20/10/20, 6:54 am - Sneha Sathpathy: Im such a idiot
+20/10/20, 6:55 am - Jordan O'Meara: Okay so go to the repo and it should have a button with 3 dots at the top right? Click on that and it should say upload files.
+20/10/20, 6:55 am - Sneha Sathpathy: It would have helped if i was signed in
+20/10/20, 6:55 am - Sneha Sathpathy: 😂😂😂
+20/10/20, 6:55 am - Sneha Sathpathy: It says thougg uploads are disabled
+20/10/20, 6:56 am - Sneha Sathpathy: <Media omitted>
+20/10/20, 6:56 am - Jordan O'Meara: Mmmm maybe Jake has to do something to allow it.
+20/10/20, 6:56 am - Jordan O'Meara: How about make a folder on teams and upload it to there and I'll see what I can do
+20/10/20, 6:56 am - Sneha Sathpathy: I reckon he’s got to give access to the other team members to upload things
+20/10/20, 6:57 am - Jordan O'Meara: Yeah maybe. 
+Put it all in a folder on teams and I'll see what I can do
+20/10/20, 6:57 am - Sneha Sathpathy: Let me try
+20/10/20, 7:21 am - Jordan O'Meara: Let me know how you go
+20/10/20, 7:21 am - Sneha Sathpathy: Ive uploaded whatever i have completed.
+20/10/20, 7:22 am - Jordan O'Meara: Awesome ill have a look soon and see if I can get it onto github
+20/10/20, 7:22 am - Sneha Sathpathy: Thanks 😊
+20/10/20, 7:22 am - Jordan O'Meara: Go sleep
+20/10/20, 7:23 am - Sneha Sathpathy: Lol got to go to work
+20/10/20, 7:48 am - Jordan O'Meara: How do you survive ha
+20/10/20, 7:49 am - Sneha Sathpathy: Switch my brain of thinking about it 😁
+20/10/20, 8:00 am - Jake Patrick: Wow
+20/10/20, 8:00 am - Jake Patrick: Sneha whats your email address for GitHub?
+20/10/20, 8:02 am - Jake Patrick: Or username
+20/10/20, 8:05 am - Jake Patrick: I found it I think. I actually found two for you, I sent an invite to both so you should have to accept the invite and then have access to the repo
+20/10/20, 8:05 am - Jake Patrick: Can everyone post their usernames and I will send invites
+20/10/20, 8:08 am - Sneha Sathpathy: s3871459@student.rmit.edu.au
+20/10/20, 8:09 am - Jake Patrick: Log in to GitHub and see if you have an invite sneha!
+20/10/20, 8:09 am - Sneha Sathpathy: Just on the way to work. Give me an hour or so and i’ll have a look
+20/10/20, 8:09 am - Jake Patrick: I think I need usernames, not emails, but I found yours cause you have a photo
+20/10/20, 8:10 am - Sneha Sathpathy: I think mine’s snehasathpathy
+20/10/20, 8:10 am - Sneha Sathpathy: Ok cool 😊
+20/10/20, 8:10 am - Jake Patrick: No probs, I will be at work then so hopefully you will be able to upload and then others will be able to see it
+20/10/20, 8:11 am - Sneha Sathpathy: Thanks jake
+20/10/20, 8:11 am - Jake Patrick: If you can send your username in the next half our or so jordan then you can have access too
+20/10/20, 8:11 am - Jake Patrick: I will be back to work hard on the assignment after work tonight
+20/10/20, 8:12 am - Sneha Sathpathy: Yea no stress
+20/10/20, 8:12 am - Jake Patrick: Thanks for your effort sneha I can’t believe you stayed up all night and then went to work!
+20/10/20, 8:12 am - Sneha Sathpathy: We’ve got sufficient time
+20/10/20, 8:13 am - Sneha Sathpathy: Na all good. daytime is hard for me and im a night owl anyway 😄
+20/10/20, 8:14 am - Jake Patrick: Well good luck today and I hope there is a good coffee machine at work!
+20/10/20, 8:38 am - Jordan O'Meara: Mines TheOtherJord
+20/10/20, 8:49 am - Jake Patrick: cool, pretty sure i've found everybody except for murray so let me know if you can/can't get it
+20/10/20, 8:49 am - Jake Patrick: have a great day everybody
+20/10/20, 9:06 am - Jordan O'Meara: Check you're email you signed up to github with. Invite will be there
+20/10/20, 9:21 am - Rajaneesh Nair: Looks so beautiful 😍
+20/10/20, 9:28 am - Jordan O'Meara: Currently uploading
+20/10/20, 9:31 am - Rajaneesh Nair: I got invitation - thank you Jordan and Jacob 🙏🏼
+20/10/20, 9:32 am - Rajaneesh Nair: Hope you find difficulties to type my full name 😃
+20/10/20, 9:33 am - Rajaneesh Nair: I’m sick and tired with my name- it’s bloody long -
+20/10/20, 9:34 am - Jordan O'Meara: Id love to change my name. Having an apostrophe in it is frustrating. Especially when it comes to IT stuff.
+
+My sisters work email somehow has an apostrophe in it. It only works on their server and if she has to use it anywhere else it won't accept it
+20/10/20, 9:38 am - Rajaneesh Nair: Oh... I though I am the only person had trouble with name...  my name has three parts- carries my patents name too
+
+1) Rajaneesh (given name)
+2)Sankaran Nair( my dad’s name)
+3)Sukumarai Amma( mother’s name)
+🤪
+My brother carries my parents name and grand father’s name too. It’s look like a metro train
+20/10/20, 9:40 am - Jordan O'Meara: Haha i like your name. I am a big fan of South Asian names. They always sound so cool
+20/10/20, 9:42 am - Rajaneesh Nair: Thank you so Jordan 😍
+20/10/20, 2:21 pm - Murray Nesteroff: Hey guys sorry have been in and out of reception this week. I’ll try and fix up my pic a little later when I get back to the hotel.
+
+Sorry again about the poorly timed week away guys.
+
+Let me know if anything else I need to fix up.
+20/10/20, 2:22 pm - Jordan O'Meara: I can try fix the pic for you later if I get a chance
+20/10/20, 2:48 pm - Jordan O'Meara: Picture format is fixed.
+20/10/20, 2:49 pm - Sneha Sathpathy: Thanks guys
+20/10/20, 2:49 pm - Sneha Sathpathy: Hey jordan can you push to create the website
+20/10/20, 2:50 pm - Sneha Sathpathy: I cant remember exactly how to do it
+20/10/20, 2:50 pm - Sneha Sathpathy: <Media omitted>
+20/10/20, 2:51 pm - Jordan O'Meara: I think maybe Jake needs to do it cause it's his repo
+20/10/20, 2:51 pm - Sneha Sathpathy: Ah ok
+20/10/20, 2:51 pm - Sneha Sathpathy: Makes sense
+20/10/20, 2:53 pm - Rajaneesh Nair: Hi sneha, what you think, my photo formate is ok or do i need to upload another on?
+20/10/20, 2:53 pm - Sneha Sathpathy: Hey raj
+20/10/20, 2:54 pm - Sneha Sathpathy: Yours is perfectly fine 😊👍
+20/10/20, 2:54 pm - Rajaneesh Nair: Superb. thank you, Sneha...
+20/10/20, 2:56 pm - Jordan O'Meara: Murray's photo is uploaded and good to go.
+Added to about page aswell.
+
+
+Also I've just posted on teams about the Contribution form. If everyone wants to look and decide how we are splitting
+20/10/20, 2:56 pm - Sneha Sathpathy: Hey can some of you edit the pdf. For example- project idea has “i would want” etc
+20/10/20, 2:56 pm - Sneha Sathpathy: Thanks jordan
+20/10/20, 2:57 pm - Sneha Sathpathy: Also we need to have look into referencing and cross check that format is consistent throughout and that each section has two references
+20/10/20, 3:00 pm - Jordan O'Meara: References look pretty solid i think
+20/10/20, 3:02 pm - Sneha Sathpathy: Someone just check that the referencing style is consistent
+20/10/20, 3:04 pm - Jordan O'Meara: Ill double check.
+
+And so pdf-wise ill go through and change all the I's to theys etc
+20/10/20, 3:04 pm - Jordan O'Meara: Then should probably combine all the different pages into one
+20/10/20, 3:06 pm - Jordan O'Meara: Actually... Do we need to include our individual project ideas from A1 or is it just Ben's new one that we include.
+Or will we include them on separate pages to be safe?
+20/10/20, 3:12 pm - Ben Saar: As far as I'm aware, just the one I revised, as that was the "decided upon" project idea we are going with.
+20/10/20, 3:13 pm - Jordan O'Meara: Okay cool so no point editing the rest
+20/10/20, 3:13 pm - Sneha Sathpathy: Yup that’s
+20/10/20, 3:13 pm - Sneha Sathpathy: Right
+20/10/20, 3:13 pm - Ben Saar: Nope, I have left the project under its own file atm, as I wasn't sure if it would be great just throwing it into the draft page with everything else haha
+20/10/20, 3:14 pm - Sneha Sathpathy: Im just transferring the info for project idea
+20/10/20, 3:14 pm - Ben Saar: Did anyone have a chance to go through it btw?
+20/10/20, 3:14 pm - Ben Saar: Okie
+20/10/20, 3:14 pm - Sneha Sathpathy: If there could be some pics or videos would be great for us to add on
+20/10/20, 3:14 pm - Ben Saar: I'll have a look for some relevant picture ideas
+20/10/20, 3:15 pm - Sneha Sathpathy: Thanks ben 😊
+20/10/20, 3:16 pm - Jordan O'Meara: I had a read. Great job
+20/10/20, 3:17 pm - Ben Saar: Awesome, anything to add curiously? It is a bit over 1500 words, but I wasn't sure if we wanted more depth anywhere atm
+20/10/20, 3:19 pm - Jordan O'Meara: What are we going with for team name?
+20/10/20, 3:20 pm - Sneha Sathpathy: Nah i think that should be fine. You did well
+20/10/20, 3:20 pm - Sneha Sathpathy: Just some pics or maybe a graphical diagram to show the flow would ace it
+20/10/20, 3:21 pm - Ben Saar: No clue Jordan ahahaha
+
+And for now I was just thinking of some pics of inspirations. Graphical diagrams can be for Assessment 3 I feel
+20/10/20, 3:21 pm - Sneha Sathpathy: Whatever you feel comfortable with 😊
+20/10/20, 3:22 pm - Jordan O'Meara: Im gonna go through and combine all of the different docs we have into one to be the main pdf if that's cool?
+20/10/20, 3:23 pm - Sneha Sathpathy: Perfect
+20/10/20, 3:23 pm - Sneha Sathpathy: That would just avoid updating any changes
+20/10/20, 3:23 pm - Sneha Sathpathy: Thanks so much for doing that jordan
+20/10/20, 3:23 pm - Sneha Sathpathy: Really appreciate it
+20/10/20, 3:24 pm - Sneha Sathpathy: Also there is ben’s reflection we need to update
+20/10/20, 3:24 pm - Ben Saar: My bad, I added it late haha
+20/10/20, 3:24 pm - Sneha Sathpathy: Lol all good
+20/10/20, 3:25 pm - Ben Saar: Where should I put the images Sneha? Just in the images tab on Teams?
+20/10/20, 3:26 pm - Sneha Sathpathy: If you could put it in the images folder thanks ben
+20/10/20, 3:27 pm - Ben Saar: Easy, the image of Senua has a reference already, which I may need to add to our thing, and the Joker one I'll create one
+20/10/20, 3:28 pm - Sneha Sathpathy: Ok cool
+20/10/20, 3:28 pm - Sneha Sathpathy: Also can you get two references for the project idea section
+20/10/20, 3:28 pm - Ben Saar: Yeah I'm grabbing my original ones real quick
+20/10/20, 3:29 pm - Sneha Sathpathy: ⭐️
+20/10/20, 3:29 pm - Sneha Sathpathy: Legend
+20/10/20, 3:30 pm - Jordan O'Meara: Also reminder for everyone if you haven't already.
+Sparkplus needs to be done
+20/10/20, 3:31 pm - Sneha Sathpathy: Yes that’s me
+20/10/20, 3:31 pm - Sneha Sathpathy: Thanks jordan
+20/10/20, 3:31 pm - Ben Saar: Same hahaha
+20/10/20, 3:31 pm - Sneha Sathpathy: Far out so much to do 😅
+20/10/20, 3:32 pm - Rajaneesh Nair: Sorry guys, I got a job after 7 months in a bubble wrap making company.and I’m doing the orientation program 😩 sleepy and boring
+20/10/20, 3:32 pm - Jordan O'Meara: Just a lot of little things. You guys have the bulk of it done
+20/10/20, 3:33 pm - Jordan O'Meara: We have til tomorrow night yeah?
+20/10/20, 3:34 pm - Rajaneesh Nair: Thank you for your efforts.. I’m bit scared to touch GitHub work , I don’t want to make a mess😂
+20/10/20, 3:36 pm - Rajaneesh Nair: Especially on this final moments..
+20/10/20, 3:43 pm - Ben Saar: Sorry Sneha, I ended u padding references as you were copying them I think hahaha
+20/10/20, 3:44 pm - Ben Saar: But I just added those 3 to match what I added as examples in the project idea
+20/10/20, 3:44 pm - Sneha Sathpathy: No issues at all. Thank you so much
+20/10/20, 3:44 pm - Sneha Sathpathy: Ive added the references
+20/10/20, 3:44 pm - Sneha Sathpathy: The images
+20/10/20, 3:44 pm - Sneha Sathpathy: Is there a order
+20/10/20, 3:44 pm - Sneha Sathpathy: And where specifically do they need to be inserted
+20/10/20, 3:44 pm - Ben Saar: No particular order on the images, but alphabetical for referencing is all I know haha
+20/10/20, 3:45 pm - Sneha Sathpathy: This section is nearly done
+20/10/20, 3:45 pm - Sneha Sathpathy: Now just adding the images
+20/10/20, 3:45 pm - Ben Saar: They are all referencing the inspirations, so at least the Joker image and Fight Club should be near there.
+The Senua one can be later on to split it up, as it fits under the game mechanics more due to being directly from one itself
+20/10/20, 3:45 pm - Ben Saar: Amazing
+20/10/20, 4:03 pm - Jordan O'Meara: @61424441545 do you have the image files of the screen shots of your ideal job. For some reason they aren't showing up in the doc
+20/10/20, 4:07 pm - Rajaneesh Nair: Yes . I’ll add it again in the folder
+20/10/20, 4:08 pm - Rajaneesh Nair: It’s in my google drive - give me 10 minutes. I’ll upload
+20/10/20, 4:08 pm - Rajaneesh Nair: 🙏🏼
+20/10/20, 4:10 pm - Ben Saar: Sparkplus done here... What an odd system for feedback
+20/10/20, 4:12 pm - Rajaneesh Nair: Jordan, uploaded three images now in Teams
+20/10/20, 4:13 pm - Rajaneesh Nair: It is ...
+20/10/20, 4:22 pm - Sneha Sathpathy: Project ideas is now done. Ready to be uploaded onto github
+20/10/20, 4:22 pm - Sneha Sathpathy: I’ve uploaded it onto teams
+20/10/20, 4:30 pm - Sneha Sathpathy: Ok group reflections is also now ready with the updates added. I’ve uploaded the lastest copy on teams
+20/10/20, 4:30 pm - Jordan O'Meara: Yeah spark plus is odd
+20/10/20, 4:30 pm - Jordan O'Meara: Thanks raj
+20/10/20, 4:30 pm - Jordan O'Meara: Great work sneha
+20/10/20, 4:31 pm - Sneha Sathpathy: Ok im going to go zone out for a bit. Be back a bit later and finish the rest
+20/10/20, 4:31 pm - Ben Saar: Thanks for all your hard work Sneha!
+20/10/20, 4:31 pm - Jordan O'Meara: Go have a well deserved rest
+20/10/20, 4:32 pm - Sneha Sathpathy: Thanks guys. You all are real champs 🍺
+20/10/20, 5:14 pm - Jordan O'Meara: Sneha. Once you've rested ive just noticed we need your paragraph for the industry data section
+20/10/20, 5:26 pm - Jake Patrick: hey guys, im back, just catching up on the chat
+20/10/20, 5:28 pm - Jake Patrick: I like your name too Raj, it's unique so it was no trouble to find you! my partner is Chilean and they have similar format to you I think when they carry both parents' names
+20/10/20, 5:31 pm - Jordan O'Meara: When you get the chance Jake can you set up github pages for the repo?
+20/10/20, 5:32 pm - Jake Patrick: yep ill do that now
+20/10/20, 5:32 pm - Jake Patrick: did everyone get access okay?
+20/10/20, 5:34 pm - Jake Patrick: Ben, did you get an invite or did I get the wrong BenSaar?
+20/10/20, 5:39 pm - Rajaneesh Nair: Thank you Jacob for the invitation.. 🤝🙂
+20/10/20, 5:53 pm - Ben Saar: I may not have checked my GitHub haha, give me a minute
+20/10/20, 5:55 pm - Ben Saar: Wait, it was an invite in GitHub, right?
+20/10/20, 5:56 pm - Jake Patrick: yeah, but not sure if you got an email notification or not
+20/10/20, 5:56 pm - Ben Saar: Wrong account id say, BenSaaar is me. Somebody somehow already had BenSaar
+20/10/20, 6:04 pm - Jake Patrick: gotcha
+20/10/20, 6:05 pm - Jake Patrick: im having trouble setting up pages, keep getting 404
+20/10/20, 6:05 pm - Ben Saar: Good ol' GitHub
+20/10/20, 6:32 pm - Jordan O'Meara: Yeah just wait it will work eventually
+20/10/20, 6:34 pm - Ben Saar: 😆
+20/10/20, 6:52 pm - Sneha Sathpathy: Sorry guys got a bit of a headache. Im going to lie down for a few hours. Finish the remaining tonight.
+20/10/20, 6:52 pm - Sneha Sathpathy: What do i need to put in the IT Work - interview section
+20/10/20, 6:52 pm - Sneha Sathpathy: Do we have a pic of the person interview maybe
+20/10/20, 6:53 pm - Sneha Sathpathy: Or can we put a audio recording of the interview
+20/10/20, 7:33 pm - Jordan O'Meara: If say put the whole transcript and a link to record at the top
+20/10/20, 7:41 pm - Sneha Sathpathy: On html?
+20/10/20, 7:47 pm - Jake Patrick: <Media omitted>
+20/10/20, 7:48 pm - Jake Patrick: It’s doing my head in
+20/10/20, 7:52 pm - Jordan O'Meara: yeah think it's good. Just leave it for a bit  my a1 took a bit
+20/10/20, 7:52 pm - Jake Patrick: ok cool
+20/10/20, 7:54 pm - Jake Patrick: where are we at, is there somthing i can work on?
+20/10/20, 7:55 pm - Jake Patrick: has anybody started working on the other pdf we need to submit?
+20/10/20, 7:56 pm - Sneha Sathpathy: I’ve got 3 sections left to complete:
+
+Ideal Jobs
+Industry Data
+IT Work
+
+I had put a seperate section for references. But i think that wont be necessary given that we have sufficient
+20/10/20, 7:56 pm - Sneha Sathpathy: Maybe that page can be put for something else
+20/10/20, 7:57 pm - Jake Patrick: as in we need to convert those to HTML still?
+20/10/20, 7:57 pm - Sneha Sathpathy: Yes . Input the data
+20/10/20, 7:57 pm - Jake Patrick: cool ill start on ideal jobs
+20/10/20, 7:57 pm - Sneha Sathpathy: Ideal jobs is the big one
+20/10/20, 7:58 pm - Jake Patrick: no worries
+20/10/20, 7:58 pm - Sneha Sathpathy: What will you do with the ideal jobs?
+20/10/20, 7:59 pm - Sneha Sathpathy: The page hasn’t been uploaded yet
+20/10/20, 7:59 pm - Sneha Sathpathy: Maybe you can do the pdf if jordan isn’t doing it as he was saying earlier that he was looking into it
+20/10/20, 8:00 pm - Sneha Sathpathy: Can you work on the homepage section please jake
+20/10/20, 8:00 pm - Sneha Sathpathy: Content is in there but needs some revising
+20/10/20, 8:02 pm - Jake Patrick: yes sure, i'll work on homepage
+20/10/20, 8:02 pm - Sneha Sathpathy: Thanks 😊
+20/10/20, 8:03 pm - Jake Patrick: just trying to orientate myself with atom
+20/10/20, 8:03 pm - Sneha Sathpathy: No worries
+20/10/20, 8:05 pm - Jake Patrick: so we have about.html, index.html, team career psychoilogical...html
+20/10/20, 8:05 pm - Jordan O'Meara: Pdf is started.
+20/10/20, 8:05 pm - Jake Patrick: is index the main one and then the others will be linked to from there?
+20/10/20, 8:06 pm - Jordan O'Meara: Ill finish pdf soon. Just getting the little one to bed
+20/10/20, 8:07 pm - Jake Patrick: 👍
+20/10/20, 8:07 pm - Jake Patrick: let me know if you want help with it
+20/10/20, 8:09 pm - Murray Nesteroff: Thanks Jordon for doing the picture, you’re a legend. If we need a photo of my brother I’ll ask if he’s cool with it 👌👌.
+20/10/20, 8:11 pm - Jake Patrick: so we're running with pseudo boomers? any objections?
+20/10/20, 8:13 pm - Jake Patrick: Sneha, home page is great, i just added an " and took out your phone number? is there something more you wanted to do?
+20/10/20, 8:13 pm - Jordan O'Meara: Im fine with anything
+20/10/20, 8:14 pm - Jake Patrick: yeah i think we probably all will say that, and it's already in there from Sneha, top work
+20/10/20, 8:24 pm - Jake Patrick: i'm going through reflections now and just checking and editing for consistency.
+20/10/20, 8:25 pm - Jake Patrick: is this what i should be doing Sneha?
+20/10/20, 8:25 pm - Sneha Sathpathy: Thanks a million
+20/10/20, 8:25 pm - Sneha Sathpathy: Yea just go through everything
+20/10/20, 8:25 pm - Jake Patrick: yep no worries
+20/10/20, 8:25 pm - Sneha Sathpathy: Check that it all make sense
+20/10/20, 8:25 pm - Sneha Sathpathy: Typos, spelling errors
+20/10/20, 8:26 pm - Jake Patrick: cool 👍
+20/10/20, 8:26 pm - Jake Patrick: Are you ising atom?
+20/10/20, 8:26 pm - Jake Patrick: using
+20/10/20, 8:26 pm - Sneha Sathpathy: In the meantime i’m going to put a draft section page for Ideal Jobs. Can you help me transferring the stuff on that
+20/10/20, 8:27 pm - Sneha Sathpathy: It would be a big help
+20/10/20, 8:27 pm - Jake Patrick: yes sure
+20/10/20, 8:27 pm - Sneha Sathpathy: What’s atom
+20/10/20, 8:27 pm - Jake Patrick: it's like a notepad editor that anthony showed us
+20/10/20, 8:28 pm - Jake Patrick: it has a live preview feature that has been useful
+20/10/20, 8:29 pm - Sneha Sathpathy: Not sure sorry
+20/10/20, 8:29 pm - Sneha Sathpathy: Dont think so
+20/10/20, 8:29 pm - Sneha Sathpathy: Oh i used notepad++
+20/10/20, 8:30 pm - Jake Patrick: yeah nah don't worry, you're doing marvellously with notepad ++ then
+20/10/20, 8:31 pm - Sneha Sathpathy: Thanks 😊
+20/10/20, 9:16 pm - Sneha Sathpathy: Jake im just going to put the ideal jobs page on teams
+20/10/20, 9:16 pm - Sneha Sathpathy: Could you please work on that
+20/10/20, 9:16 pm - Jake Patrick: yep leave it with me
+20/10/20, 9:16 pm - Sneha Sathpathy: I’ve constructed the elements
+20/10/20, 9:16 pm - Sneha Sathpathy: That will help you
+20/10/20, 9:16 pm - Jake Patrick: awesome thanks
+20/10/20, 9:18 pm - Sneha Sathpathy: All of the ideal job images are under images
+20/10/20, 9:24 pm - Jake Patrick: 👍
+20/10/20, 9:26 pm - Sneha Sathpathy: Im also putting the table image for ideal jobs in the HTML folder
+20/10/20, 9:31 pm - Jake Patrick: got the table
+20/10/20, 9:31 pm - Jake Patrick: thanks
+20/10/20, 9:31 pm - Sneha Sathpathy: 😊
+20/10/20, 9:31 pm - Jake Patrick: so images contains ideal job screenshots for raj, jake and jordan
+20/10/20, 9:32 pm - Jake Patrick: are the others somewhere else?
+20/10/20, 9:32 pm - Sneha Sathpathy: Not sure
+20/10/20, 9:32 pm - Sneha Sathpathy: But its in the other draft doc
+20/10/20, 9:32 pm - Sneha Sathpathy: You could just save that
+20/10/20, 9:32 pm - Jake Patrick: that's cool, i'll start with what we have here
+20/10/20, 9:33 pm - Jake Patrick: oh yep of course
+20/10/20, 9:54 pm - Sneha Sathpathy: Jake can you also push through so we get the URL link. Only you have access i think
+20/10/20, 9:54 pm - Sneha Sathpathy: That will give a indication of what its looking like
+20/10/20, 9:57 pm - Jake Patrick: hang on, im just having a github fight
+20/10/20, 9:57 pm - Sneha Sathpathy: Haha
+20/10/20, 9:57 pm - Jake Patrick: trying to pull from my editor
+20/10/20, 9:57 pm - Sneha Sathpathy: <Media omitted>
+20/10/20, 9:57 pm - Sneha Sathpathy: Try these steps
+20/10/20, 9:58 pm - Jake Patrick: yeah i did that earlier and it still says error 404 when you click it. Jordan says we just need to wait
+20/10/20, 9:58 pm - Sneha Sathpathy: The docs are already uploaded by jordan
+20/10/20, 9:58 pm - Sneha Sathpathy: That’s awkward
+20/10/20, 9:58 pm - Sneha Sathpathy: Wonder why that’s happening
+20/10/20, 9:58 pm - Jake Patrick: https://jake-patrick.github.io/IIT-Assignment-2-Group-Work-Repository/
+20/10/20, 9:58 pm - Jake Patrick: thats the link anyway
+20/10/20, 9:59 pm - Sneha Sathpathy: Ya got that
+20/10/20, 10:00 pm - Jake Patrick: i just pushed the ideal job files from my browser and now im trying to work out how to pull them to my editor
+20/10/20, 10:00 pm - Sneha Sathpathy: Hmm 🤔 good question
+20/10/20, 10:00 pm - Sneha Sathpathy: Not unfortunately the expert here
+20/10/20, 10:06 pm - Jake Patrick: getting there i think
+20/10/20, 10:09 pm - Jake Patrick: ok i think i lost a bunch of work. not ideal
+20/10/20, 10:10 pm - Sneha Sathpathy: All Good
+20/10/20, 10:10 pm - Sneha Sathpathy: Everything is backed up
+20/10/20, 10:10 pm - Jake Patrick: yeah except for what i just did and didnt push
+20/10/20, 10:10 pm - Jake Patrick: im trying to find it on my computer
+20/10/20, 10:11 pm - Sneha Sathpathy: Ouch
+20/10/20, 10:25 pm - Jake Patrick: got it, phew!
+20/10/20, 10:25 pm - Jake Patrick: back on track
+20/10/20, 11:06 pm - Sneha Sathpathy: ⭐️
+21/10/20, 12:36 am - Jake Patrick: ok ideal jobs section is done
+21/10/20, 12:36 am - Sneha Sathpathy: Great 👍
+21/10/20, 12:36 am - Sneha Sathpathy: Industry data done too
+21/10/20, 12:37 am - Jake Patrick: nice work
+21/10/20, 12:37 am - Sneha Sathpathy: Just got IT work left
+21/10/20, 12:37 am - Sneha Sathpathy: Its 12.40am here and my heads spinning
+21/10/20, 12:37 am - Sneha Sathpathy: I’m going to bed now
+21/10/20, 12:37 am - Sneha Sathpathy: Nite guys
+21/10/20, 12:38 am - Jake Patrick: night Sneha, thanks for your efforts
+21/10/20, 12:38 am - Sneha Sathpathy: Same to you 😊
+21/10/20, 12:39 am - Sneha Sathpathy: Im a still a bit confused about the IT work one
+21/10/20, 12:39 am - Jake Patrick: ill have a look, maybe i can use one of the other pages as a template
+21/10/20, 12:40 am - Sneha Sathpathy: Ive got the template saved already
+21/10/20, 12:40 am - Sneha Sathpathy: I’ll just put it on teams if you want
+21/10/20, 12:40 am - Jake Patrick: yeah do that, then it will be good to get it done now
+21/10/20, 12:40 am - Sneha Sathpathy: I think we insert the recording and transcript
+21/10/20, 12:40 am - Jake Patrick: so we can just finalise tomorrow night
+21/10/20, 12:41 am - Jake Patrick: yeah not sure how to do the recording but ill have a go
+21/10/20, 12:46 am - Sneha Sathpathy: Yup I’ve uploaded it now in the html folder
+21/10/20, 12:47 am - Jake Patrick: thanks yep, got it!
+21/10/20, 12:47 am - Sneha Sathpathy: Thanks 😊
+21/10/20, 12:48 am - Jake Patrick: no worries, have a good sleep!
+21/10/20, 12:54 am - Jordan O'Meara: I will have the pdf done by tomorrow afternoon.
+I fell asleep early and umhave woken up with a migraine so there's a good chance ill be having a sleep in
+21/10/20, 12:56 am - Jake Patrick: no dramas Jordan rest well, hope you feel better tomorrow. I will be at work tomorrow too, i'm just doing what i can now before i crash out and then hopefully we can finish the rest in the evening
+21/10/20, 2:29 am - Jake Patrick: IT Work is done, it's very basic and could probably use a bit of prettying  and a check/edit but the transcipt is there and the audio is working.
+21/10/20, 8:03 am - Jake Patrick: Also I think we need to do 400 words of group reflection in addition to our individual work. I will do it today after work unless someone gets a chance today
+21/10/20, 8:23 am - Jake Patrick: Also, pages is still showing error. Not sure why I just change ‘Index.html’ to ‘index.html’ so let’s see if that does anything if anyone has any ideas please let me know
+21/10/20, 8:23 am - Jake Patrick: I’ll be back around 5-6 tonight
+21/10/20, 8:34 am - Jordan O'Meara: Yeah that will help. I think its more case sensitive on github I think
+21/10/20, 8:35 am - Jordan O'Meara: Ill have a look when I get on
+21/10/20, 8:35 am - Jake Patrick: here's the link again in case anybody wants to check it during the day https://jake-patrick.github.io/IIT-Assignment-2-Group-Work-Repository/
+21/10/20, 8:39 am - Jake Patrick: repo link if tht helps https://github.com/Jake-Patrick/IIT-Assignment-2-Group-Work-Repository.git
+21/10/20, 9:22 am - Sneha Sathpathy: Has the css file been uploaded
+21/10/20, 9:23 am - Sneha Sathpathy: Without the css file it wont work
+21/10/20, 9:52 am - Jordan O'Meara: Could be another case sensitive thing
+21/10/20, 10:25 am - Jordan O'Meara: Ill check over all the file names and stuff in a minute.
+I remember with a1 I had a bunch of stuff that would work fine on my computer but wouldn't work at all on github and it was entirely the fact that some things were capitalised
+21/10/20, 10:50 am - Sneha Sathpathy: Should i try from my account
+21/10/20, 10:51 am - Sneha Sathpathy: I’m working from home today 😁 so i can look at things
+21/10/20, 11:13 am - Jordan O'Meara: <Media omitted>
+21/10/20, 11:20 am - Sneha Sathpathy: Font needs to be changed
+21/10/20, 11:20 am - Sneha Sathpathy: And i thinking spacing
+21/10/20, 11:21 am - Sneha Sathpathy: It looks different when its up on the website that’s why i wanted to see it
+21/10/20, 11:21 am - Sneha Sathpathy: Thanks jordan 😊
+21/10/20, 11:23 am - Jordan O'Meara: I've also fixed some stuff on the about page. Resized images slightly si they aren't as squished.
+
+For some reason rajs picture wouldn't work but i fixed that.
+21/10/20, 11:24 am - Sneha Sathpathy: Great job
+21/10/20, 11:25 am - Rajaneesh Nair: Wow.. looks stunning, Sneha and Jordan 🤝🤝
+21/10/20, 11:47 am - Sneha Sathpathy: Jordan couple of things need to be changed. There is the references tab in the code. That needs to be removed as we no longer need a seperate section for references
+21/10/20, 11:48 am - Sneha Sathpathy: I’ll go in and change that
+21/10/20, 11:49 am - Jordan O'Meara: Yep. Cool im currently changing the in-text links to hyperlinks
+21/10/20, 11:50 am - Sneha Sathpathy: We need to check that there are 9 pages: index, team profile, behavioural test results, Ideal jobs, industry data, IT work, IT technologies, Project Ideas, Group Reflection
+21/10/20, 11:50 am - Sneha Sathpathy: Great
+21/10/20, 12:06 pm - Jordan O'Meara: Can somebody test the links on the behavioural test page.
+
+I've got two of them that won't load the page yet if you go to the exact website they lead to they just don't work
+21/10/20, 12:08 pm - Sneha Sathpathy: Where do i do that
+21/10/20, 12:09 pm - Sneha Sathpathy: Hey jordan i just noticed you changed the name Index.html to index.html. Make sure you change that on all the other pages otherwise it wont connect
+21/10/20, 12:09 pm - Sneha Sathpathy: Can you push it and make it as a website so that i can see whether its flowing smoothly
+21/10/20, 12:11 pm - Jordan O'Meara: Yeah it should be all good.
+21/10/20, 12:11 pm - Jordan O'Meara: The index name was the issue earlier. Case sensitive stuff.
+21/10/20, 12:11 pm - Sneha Sathpathy: Ok cool
+21/10/20, 12:12 pm - Jordan O'Meara: Project idea page should be up and running in a sec
+21/10/20, 12:12 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 12:13 pm - Sneha Sathpathy: This section on all the pages need the Index.html changed
+21/10/20, 12:14 pm - Jordan O'Meara: Yep doing that now
+21/10/20, 12:16 pm - Jordan O'Meara: Should all be done.
+21/10/20, 12:17 pm - Sneha Sathpathy: Thanks 😊
+21/10/20, 12:17 pm - Jordan O'Meara: Might just have to wait for it a bit cause seems to be linking to Index at this stage
+21/10/20, 12:18 pm - Jordan O'Meara: Also on the ideal jobs page the white background bit doesn't seem to work.. any idea how to fix that?
+21/10/20, 12:19 pm - Jordan O'Meara: <Media omitted>
+21/10/20, 12:19 pm - Sneha Sathpathy: It seems like the code has been changed
+21/10/20, 12:21 pm - Jordan O'Meara: All I did was resize the images slightly. But I think it was like that before I did it
+21/10/20, 12:21 pm - Sneha Sathpathy: No all good
+21/10/20, 12:21 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 12:21 pm - Jordan O'Meara: Woo
+21/10/20, 12:21 pm - Sneha Sathpathy: It should be looking like this
+21/10/20, 12:22 pm - Sneha Sathpathy: What should be do
+21/10/20, 12:22 pm - Sneha Sathpathy: It seems somewhere one slight code might be out
+21/10/20, 12:22 pm - Sneha Sathpathy: As the same thing has happened on the home page
+21/10/20, 12:23 pm - Sneha Sathpathy: I’ll just send some screenshots to give an idea of what it should all have looked like
+21/10/20, 12:23 pm - Jordan O'Meara: Home page looks fine to me...
+21/10/20, 12:23 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 12:24 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 12:24 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 12:24 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 12:24 pm - Jordan O'Meara: Is only the jobs page. Ill have a look and see what is different
+21/10/20, 12:25 pm - Sneha Sathpathy: IT work I hadn’t touched on but the format was set
+21/10/20, 12:25 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 12:25 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 12:26 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 12:26 pm - Sneha Sathpathy: References - needs to be deleted
+21/10/20, 12:31 pm - Jordan O'Meara: Yep. Thats on my list
+21/10/20, 12:31 pm - Sneha Sathpathy: Im here if you need
+21/10/20, 12:31 pm - Sneha Sathpathy: Just need to make some changes on the cyber security section
+21/10/20, 12:35 pm - Jordan O'Meara: I don't understand why that white bit isn't working for ideal jobs.
+Its identical code wise to the version on teams and thats working fine..
+21/10/20, 12:35 pm - Sneha Sathpathy: Let me have a look
+21/10/20, 12:37 pm - Sneha Sathpathy: Where is the file located
+21/10/20, 12:38 pm - Jordan O'Meara: Github. Ideal Jobs.html
+21/10/20, 12:38 pm - Sneha Sathpathy: Ok thanks
+21/10/20, 12:40 pm - Jordan O'Meara: Also is there an image file for "run after job.jpg" for industry data page?
+21/10/20, 12:40 pm - Sneha Sathpathy: Yup
+21/10/20, 12:40 pm - Jordan O'Meara: Need that uploaded to github
+21/10/20, 12:41 pm - Jordan O'Meara: Found it dw
+21/10/20, 12:41 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 12:41 pm - Sneha Sathpathy: Should be at the bottom
+21/10/20, 12:43 pm - Sneha Sathpathy: Could this be the issue for ideal jobs: two images
+21/10/20, 12:43 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 12:43 pm - Jordan O'Meara: Yep got it going..
+
+Not sure... shouldn't be
+21/10/20, 12:44 pm - Sneha Sathpathy: Its hard for me as i cant see properly what happens when i make a change
+21/10/20, 12:45 pm - Jordan O'Meara: Yeah you've gotta wait a few minutes for it to work.
+
+Do we have a page for IT technologies anywhere?
+21/10/20, 12:45 pm - Sneha Sathpathy: Yup I do
+21/10/20, 12:45 pm - Sneha Sathpathy: But i just have to make some changes on the contend of cyber security
+21/10/20, 12:45 pm - Sneha Sathpathy: Should i add it first and then send it
+21/10/20, 12:46 pm - Jordan O'Meara: Okay cool that's the only one left to get onto github
+21/10/20, 12:46 pm - Jordan O'Meara: Yeah finish it up first
+21/10/20, 12:46 pm - Jordan O'Meara: Ill try figure it the ideal jobs thing
+21/10/20, 12:47 pm - Sneha Sathpathy: Im on the same page
+21/10/20, 12:48 pm - Sneha Sathpathy: I have a feeling the section dividers have been changed
+21/10/20, 12:48 pm - Sneha Sathpathy: That’s why its doing that
+21/10/20, 12:49 pm - Sneha Sathpathy: I’m going to copy the code on my notes and have a look
+21/10/20, 12:49 pm - Sneha Sathpathy: Then upload a revised version
+21/10/20, 12:51 pm - Sneha Sathpathy: Yup the coding has gone off
+21/10/20, 12:51 pm - Jordan O'Meara: Thats a good idea
+21/10/20, 12:51 pm - Sneha Sathpathy: And the text formatting has changed
+21/10/20, 12:51 pm - Sneha Sathpathy: Leave it to me
+21/10/20, 12:51 pm - Sneha Sathpathy: I’ll fix it
+21/10/20, 12:52 pm - Sneha Sathpathy: I’ll leave spaces where the images have to be inserted so that we aren’t double dipping
+21/10/20, 12:57 pm - Jordan O'Meara: The references link has been removed from all current pages
+21/10/20, 12:57 pm - Sneha Sathpathy: Great
+21/10/20, 12:57 pm - Sneha Sathpathy: Thanks
+21/10/20, 1:14 pm - Jordan O'Meara: And pdf is basically ready to go.
+Just need to copy and paste a few changes from the final site once its all done.
+21/10/20, 1:15 pm - Jordan O'Meara: Gonna take a break and then I'll work on the "tools" stuff.
+
+Links to meetings etc.
+21/10/20, 1:15 pm - Sneha Sathpathy: I still have to upload the IT technologies
+21/10/20, 1:15 pm - Sneha Sathpathy: And im working on the Ideal job
+21/10/20, 1:15 pm - Sneha Sathpathy: Thanks jordan
+21/10/20, 1:16 pm - Jordan O'Meara: All good.
+21/10/20, 1:31 pm - Sneha Sathpathy: Ok so this has got to do with the name change from Index.html to index.html
+21/10/20, 1:31 pm - Sneha Sathpathy: It’s not being able to comprehend the connect
+21/10/20, 1:32 pm - Sneha Sathpathy: Because the css file  recognises Index rather than index
+21/10/20, 1:33 pm - Jordan O'Meara: Ahhhh. Weird... thats odd
+21/10/20, 1:33 pm - Jordan O'Meara: Cause yeah it needs to be index or the main page won't work
+21/10/20, 1:33 pm - Sneha Sathpathy: So basically i’ll change it from my end here
+21/10/20, 1:34 pm - Jordan O'Meara: Ok cool hopefully it works
+21/10/20, 1:34 pm - Sneha Sathpathy: I’ll upload the index again
+21/10/20, 1:34 pm - Sneha Sathpathy: Funny thing is
+21/10/20, 1:34 pm - Sneha Sathpathy: It shouldn’t have needed to be changed
+21/10/20, 1:35 pm - Sneha Sathpathy: As it was already in lower case
+21/10/20, 1:35 pm - Jordan O'Meara: Code is weird like that sometimes. Reminds me of some of the issues im having in programming
+21/10/20, 1:35 pm - Sneha Sathpathy: I just went to change the file name and its all in lower case
+21/10/20, 1:36 pm - Sneha Sathpathy: 😅
+21/10/20, 1:37 pm - Sneha Sathpathy: Sorry by bad it was a different file
+21/10/20, 1:37 pm - Jordan O'Meara: Weird.. worst case scenario. We leave it and potentially lose one point?
+21/10/20, 1:37 pm - Sneha Sathpathy: I’ll upload it again
+21/10/20, 1:53 pm - Sneha Sathpathy: Ok ive uploaded the revised index file
+21/10/20, 2:02 pm - Sneha Sathpathy: Jordan i cant figure out why ideal jobs - formatting keeps breaking. I think it may be to do with the images
+21/10/20, 2:03 pm - Jordan O'Meara: Very strange. Leave it for now.
+Might just try re do the whole page
+21/10/20, 2:03 pm - Sneha Sathpathy: I’ redoing the page
+21/10/20, 2:03 pm - Sneha Sathpathy: I will leave the part with the images
+21/10/20, 2:03 pm - Jordan O'Meara: Okay cool
+21/10/20, 2:05 pm - Sneha Sathpathy: I have a slight suspicion it’s because the images added later are pretty big
+21/10/20, 2:06 pm - Sneha Sathpathy: So it cant handle the dimensions
+21/10/20, 2:21 pm - Jordan O'Meara: Ahhh.
+I might resize the images separately and upload new versions then
+21/10/20, 2:22 pm - Jordan O'Meara: Do a version without the images and I'll re do them and see if it works
+21/10/20, 2:28 pm - Sneha Sathpathy: Sorry left my phone in the other room
+21/10/20, 2:28 pm - Sneha Sathpathy: I was going to say the same thing
+21/10/20, 2:28 pm - Sneha Sathpathy: So basically css file has the formatting at 800px
+21/10/20, 2:28 pm - Sneha Sathpathy: And the images were quite big
+21/10/20, 2:29 pm - Sneha Sathpathy: Which is my i think it was breaking the format
+21/10/20, 2:29 pm - Sneha Sathpathy: I’ll upload the file of ideal jobs up til there wasn’t any issues
+21/10/20, 2:29 pm - Sneha Sathpathy: Jordan please can you have a look
+21/10/20, 2:33 pm - Jordan O'Meara: Ill look into it
+21/10/20, 2:34 pm - Sneha Sathpathy: I think i got it
+21/10/20, 2:35 pm - Sneha Sathpathy: Each image had a border
+21/10/20, 2:35 pm - Jordan O'Meara: Oh?
+21/10/20, 2:35 pm - Sneha Sathpathy: Yup so when for example jake put in two pics that would have broken the formatt
+21/10/20, 2:36 pm - Sneha Sathpathy: Give me a bit longer. I’ll try from my side to put in most of the data and you can put in the images
+21/10/20, 2:40 pm - Jordan O'Meara: All good.
+21/10/20, 2:41 pm - Sneha Sathpathy: Jordan the border was definitely the issue 😊
+21/10/20, 2:55 pm - Jordan O'Meara: Oh cool. I was about to say.
+We have 9hrs to go to get this done. So if we can't fix it then let's concentrate on getting the rest done
+21/10/20, 2:56 pm - Sneha Sathpathy: 😅
+21/10/20, 2:56 pm - Sneha Sathpathy: Nearly done. Its all fine
+21/10/20, 2:57 pm - Jordan O'Meara: 👍
+21/10/20, 2:57 pm - Sneha Sathpathy: Just insert the images where its missing but other than that its looking good
+21/10/20, 3:00 pm - Jordan O'Meara: Okay cool.
+21/10/20, 3:01 pm - Jordan O'Meara: Let me know when it's on github and I'll have a look
+21/10/20, 3:02 pm - Sneha Sathpathy: I’ll put it on teams in a min
+21/10/20, 3:02 pm - Sneha Sathpathy: Can you please put it on github
+21/10/20, 3:07 pm - Jordan O'Meara: Yep will do
+21/10/20, 3:08 pm - Sneha Sathpathy: Done
+21/10/20, 3:08 pm - Sneha Sathpathy: Just uploaded
+21/10/20, 3:08 pm - Sneha Sathpathy: Ive inserted some text where the images need to go
+21/10/20, 3:09 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 3:09 pm - Jordan O'Meara: Cool ill see how it goes
+21/10/20, 3:09 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 3:10 pm - Sneha Sathpathy: There is also a youtube video
+21/10/20, 3:10 pm - Jordan O'Meara: Yep. Uploaded to github. Waiting for it to work now
+21/10/20, 3:10 pm - Sneha Sathpathy: Going to have a 10min break and then finalise the IT technologies
+21/10/20, 3:12 pm - Sneha Sathpathy: Hey is IT work all working fine?
+21/10/20, 3:14 pm - Jordan O'Meara: Yeah have a good break
+21/10/20, 3:14 pm - Jordan O'Meara: Yep it's up and running
+21/10/20, 3:27 pm - Sneha Sathpathy: Yay
+21/10/20, 3:29 pm - Rajaneesh Nair: You guys are working hard for website. Jordan and Sneha, anything you guys want me to do?
+21/10/20, 3:30 pm - Rajaneesh Nair: You guys are having sleepless days and nights
+21/10/20, 3:30 pm - Jordan O'Meara: Uuuum. Not really sure what there is for you to do at this point...
+21/10/20, 3:31 pm - Sneha Sathpathy: Thanks raj
+21/10/20, 3:31 pm - Sneha Sathpathy: Pretty much there
+21/10/20, 3:31 pm - Sneha Sathpathy: Just got some contend changes on IT technologies and then its done
+21/10/20, 3:31 pm - Rajaneesh Nair: I would like to make you masala chai for you guys
+21/10/20, 3:31 pm - Sneha Sathpathy: Lollll
+21/10/20, 3:32 pm - Sneha Sathpathy: Thanks
+21/10/20, 3:32 pm - Rajaneesh Nair: 🙂🙏🏼
+21/10/20, 3:35 pm - Jordan O'Meara: And I gotta get these images to work on the ideal jobs page 🤞
+21/10/20, 3:35 pm - Jordan O'Meara: Doing them one by one so if any of them cause issues I know which one
+21/10/20, 3:36 pm - Sneha Sathpathy: Great job jordan
+21/10/20, 3:36 pm - Sneha Sathpathy: ⭐️
+21/10/20, 3:36 pm - Sneha Sathpathy: This will all turn out great
+21/10/20, 3:54 pm - Jordan O'Meara: What you can do raj is have a look through the website and see if everything works.
+21/10/20, 4:39 pm - Jordan O'Meara: <Media omitted>
+21/10/20, 4:40 pm - Jordan O'Meara: If so. I've uploaded to the teams page. If we can download it  and sign one by one. Thatd be great
+21/10/20, 4:40 pm - Sneha Sathpathy: Great
+21/10/20, 4:41 pm - Sneha Sathpathy: Uploading the IT technologies page in 10mins
+21/10/20, 4:41 pm - Sneha Sathpathy: Two paragraphs changed in contend
+21/10/20, 4:41 pm - Jordan O'Meara: Awesome. Once that's done I'll finish the pdf.
+21/10/20, 4:41 pm - Ben Saar: I'm happy, why give yourself the decrease in contribution tho? 🙃
+21/10/20, 4:41 pm - Sneha Sathpathy: Thanks champ
+21/10/20, 4:42 pm - Sneha Sathpathy: I was going to say the same
+21/10/20, 4:42 pm - Jordan O'Meara: I did very little for the last few weeks and you guys smashed up out. I wouldn't feel comfortable having the same percentage as you guys
+21/10/20, 4:43 pm - Jordan O'Meara: It looks like a big drop but split amongst 5 others its not much
+21/10/20, 4:43 pm - Sneha Sathpathy: Lol 😂 put that in the notes.
+21/10/20, 4:45 pm - Ben Saar: As long as you're happy, I'll download it and sign now
+21/10/20, 4:46 pm - Jordan O'Meara: 👍
+21/10/20, 4:46 pm - Jordan O'Meara: And we did check that only 1 member needs to submit yeah?
+21/10/20, 4:48 pm - Ben Saar: I believe it was confirmed
+21/10/20, 4:49 pm - Jordan O'Meara: Okay cool. Since I'm doing the pdfs ill submit it then?
+21/10/20, 4:49 pm - Sneha Sathpathy: Yup sounds good to me
+21/10/20, 4:49 pm - Jordan O'Meara: Awesome
+21/10/20, 4:51 pm - Ben Saar: I go to use the sign feature within Adobe and the entire document breaks on me lol
+21/10/20, 4:51 pm - Jordan O'Meara: Strange I just opened in my browser and it worked
+21/10/20, 4:51 pm - Jordan O'Meara: Try that
+21/10/20, 4:52 pm - Jordan O'Meara: Other option is people can send me a picture of their signature and I can try copy it? If that's not too dodgy for you
+21/10/20, 4:54 pm - Ben Saar: That worked fine in the browser. I was trying to use Adobe readers actual signifier function
+21/10/20, 4:54 pm - Ben Saar: It didn't like that haha
+21/10/20, 4:54 pm - Jordan O'Meara: Cool. As long as everyone gets it done before later tonight
+21/10/20, 4:54 pm - Sneha Sathpathy: Jordan can you please just sign SS on my behalf
+21/10/20, 4:55 pm - Sneha Sathpathy: I dont mind
+21/10/20, 5:07 pm - Jordan O'Meara: Yeah sure
+21/10/20, 5:11 pm - Rajaneesh Nair: Jordan, Can you pls sign Raj on my behalf
+21/10/20, 5:11 pm - Rajaneesh Nair: Pls 🙏🏼
+21/10/20, 5:11 pm - Jordan O'Meara: Yep
+21/10/20, 5:11 pm - Rajaneesh Nair: I owe you a champagne...
+21/10/20, 5:12 pm - Jake Patrick: hi everybody
+21/10/20, 5:12 pm - Jake Patrick: i just got home from work
+21/10/20, 5:12 pm - Rajaneesh Nair: Hi Jacob...
+21/10/20, 5:13 pm - Jake Patrick: how are we going? it's so good to see te website works now
+21/10/20, 5:14 pm - Jake Patrick: i wish i was here today to help troubleshoot and tell you what i actually changed last night!
+21/10/20, 5:15 pm - Sneha Sathpathy: Jordan i’ve updated the document with the IT technologies- cyber security text updated
+21/10/20, 5:16 pm - Sneha Sathpathy: And also sending the html link  on teams now
+21/10/20, 5:16 pm - Jordan O'Meara: Awesome ill fix that all up and we should almost be done.
+Just have to copy of changes on the website to the pdf.
+21/10/20, 5:17 pm - Sneha Sathpathy: Sh@t sorry I forgot to pick my kids up
+21/10/20, 5:17 pm - Sneha Sathpathy: I’ll have to come back in 40mins and upload it
+21/10/20, 5:19 pm - Jordan O'Meara: Oops all good. Plenty of time
+21/10/20, 5:22 pm - Jake Patrick: jordan, were you working on both of the pdf's?
+21/10/20, 5:35 pm - Jordan O'Meara: Yep got both on the go.
+
+We didn't really keep as much track of the meeting agendas as we should have.
+
+But I'm gonna try bulk it up as much as possible.
+
+But it is only 5 points for that whole side of things so if its not perfect it'll be one or two points.
+21/10/20, 5:37 pm - Sneha Sathpathy: Meeting agenda is easy to make
+21/10/20, 5:37 pm - Sneha Sathpathy: Reaching home
+21/10/20, 5:37 pm - Jordan O'Meara: Yeah I'm just gonna go through and write down what was said basically
+21/10/20, 5:37 pm - Sneha Sathpathy: Great
+21/10/20, 5:38 pm - Jake Patrick: Wonderful.
+21/10/20, 5:38 pm - Jake Patrick: Should I write the group reflection or has somebody done that too?
+21/10/20, 5:39 pm - Sneha Sathpathy: Yea jake if you could please
+21/10/20, 5:42 pm - Jordan O'Meara: Yes that's the one thing I think.
+Maybe mention that we should have maybe got on github earlier
+21/10/20, 5:51 pm - Jake Patrick: Yep sure, it’s a good point! Seems like we underestimated the task
+21/10/20, 5:59 pm - Jake Patrick: So Ill be working on reflections, spark feedback and anything else that is needing attention still?
+21/10/20, 5:59 pm - Jake Patrick: Thanks for your work today sneha and Jordan and sorry if I broke stuff in your code sneha!
+21/10/20, 6:00 pm - Jordan O'Meara: Maybe just have a look through the website and make sure nothing is broken
+21/10/20, 6:01 pm - Sneha Sathpathy: Jordan do we have a URL link
+21/10/20, 6:01 pm - Jake Patrick: No worries.
+21/10/20, 6:02 pm - Jordan O'Meara: I do... give me one moment
+21/10/20, 6:03 pm - Jordan O'Meara: Https://jake-patrick.github.io/IIT-Assignment-2-Group-Work-Repository/
+21/10/20, 6:04 pm - Sneha Sathpathy: Great
+21/10/20, 6:04 pm - Sneha Sathpathy: I’ve uploaded it technologies on teams now
+21/10/20, 6:04 pm - Sneha Sathpathy: It has one pic IT technologies.jpg
+21/10/20, 6:05 pm - Sneha Sathpathy: Can someone please select another font for the HomePage text
+21/10/20, 6:05 pm - Sneha Sathpathy: Doesn’t look great
+21/10/20, 6:06 pm - Jordan O'Meara: Yep pic should already be up
+21/10/20, 6:07 pm - Sneha Sathpathy: Behaviour test results footer needs to be changed from copyright Sneha Sathpathy to RMIT Pseudo Boomers
+21/10/20, 6:08 pm - Jordan O'Meara: So Jake and Murray you guys are the only ones left to sign the contributions form.
+
+Let me know if you want me to sign for you
+21/10/20, 6:08 pm - Jordan O'Meara: Thanks ill do that now
+21/10/20, 6:08 pm - Sneha Sathpathy: # on ideal jobs - images need to be centered. First two pics are centered while the others are left alignment
+21/10/20, 6:09 pm - Jake Patrick: Sign away jordan
+21/10/20, 6:09 pm - Jake Patrick: Thanks
+21/10/20, 6:09 pm - Sneha Sathpathy: Also Head of IT is off the page
+21/10/20, 6:09 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 6:11 pm - Jordan O'Meara: Its coming up fine for me... maybe just on phone?
+21/10/20, 6:11 pm - Sneha Sathpathy: R u sure as everything else is intact
+21/10/20, 6:12 pm - Jordan O'Meara: <Media omitted>
+21/10/20, 6:13 pm - Sneha Sathpathy: Strange
+21/10/20, 6:13 pm - Jordan O'Meara: Not sure how or why the images are off centre though...
+
+Could be a css thing.
+
+Cause all the image parts were basically copy and paste from the two that are centred
+21/10/20, 6:14 pm - Jordan O'Meara: <Media omitted>
+21/10/20, 6:14 pm - Sneha Sathpathy: I know what’s up with the images
+21/10/20, 6:15 pm - Sneha Sathpathy: The have to be coded on the top section
+21/10/20, 6:15 pm - Sneha Sathpathy: Give me 5
+21/10/20, 6:15 pm - Sneha Sathpathy: I’ll look at it
+21/10/20, 6:16 pm - Jordan O'Meara: Ah cool. 
+Let's hope it does wreck it again haha
+21/10/20, 6:16 pm - Jordan O'Meara: IT tech section should be up soon.
+21/10/20, 6:16 pm - Sneha Sathpathy: Lol i’ll get you to enter it from your end
+21/10/20, 6:31 pm - Sneha Sathpathy: Jordan for the centering of images in Ideal Jobs:
+21/10/20, 6:31 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 6:31 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 6:32 pm - Sneha Sathpathy: The images need to be within the <div id=“main”>
+21/10/20, 6:33 pm - Sneha Sathpathy: That will center the image
+21/10/20, 6:36 pm - Jordan O'Meara: Ah
+21/10/20, 6:41 pm - Jordan O'Meara: Done
+21/10/20, 6:42 pm - Sneha Sathpathy: Awesome 😎
+21/10/20, 6:42 pm - Sneha Sathpathy: Can we please just change the font on the homepage
+21/10/20, 6:42 pm - Sneha Sathpathy: That’s looking terrible
+21/10/20, 6:42 pm - Jordan O'Meara: Jake let me know when the reflection bit is done. Ill need to grab that for the pdf.
+21/10/20, 6:43 pm - Jordan O'Meara: Im terrible with fonts so im not making a choice on that
+21/10/20, 6:46 pm - Sneha Sathpathy: Let me find it
+21/10/20, 6:46 pm - Sneha Sathpathy: Can you just change it at your end
+21/10/20, 6:48 pm - Sneha Sathpathy: Everything in IT work is coming up bold
+21/10/20, 6:48 pm - Sneha Sathpathy: Are you guys seeing the same thing
+21/10/20, 6:48 pm - Jordan O'Meara: Yeah I'll try fix that now
+21/10/20, 6:48 pm - Sneha Sathpathy: Thanks
+21/10/20, 6:49 pm - Jake Patrick: Yep jordan, will do
+21/10/20, 6:50 pm - Sneha Sathpathy: Also another thing
+21/10/20, 6:50 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 6:50 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 6:50 pm - Sneha Sathpathy: IT technologies is coming to the left where as all the other pages are centered on the screen
+21/10/20, 6:51 pm - Jake Patrick: The bold issue is because I didn’t close an h4
+21/10/20, 6:52 pm - Sneha Sathpathy: 😁
+21/10/20, 6:52 pm - Sneha Sathpathy: All good
+21/10/20, 6:52 pm - Jake Patrick: Do you want me to push it?
+21/10/20, 6:52 pm - Sneha Sathpathy: Otherwise website is looking pretty good
+21/10/20, 6:52 pm - Sneha Sathpathy: Great job everyone
+21/10/20, 6:52 pm - Jake Patrick: It was very late night!
+21/10/20, 6:52 pm - Sneha Sathpathy: Nah don’t stress
+21/10/20, 6:53 pm - Jordan O'Meara: I was looking for a <b> without a </b>.
+21/10/20, 6:53 pm - Jordan O'Meara: Fixed
+21/10/20, 6:54 pm - Sneha Sathpathy: Fantastic
+21/10/20, 6:54 pm - Sneha Sathpathy: Champions
+21/10/20, 6:54 pm - Sneha Sathpathy: Can you check out what’s up with this
+21/10/20, 6:55 pm - Jordan O'Meara: I don't seem to be having that happen..
+21/10/20, 6:55 pm - Jordan O'Meara: It seems normal on my end
+21/10/20, 6:55 pm - Sneha Sathpathy: Let me try on the desktop
+21/10/20, 6:56 pm - Jordan O'Meara: Could just be the phone maybe
+21/10/20, 6:56 pm - Jordan O'Meara: Yeah does it on my phone but not on the comouter
+21/10/20, 6:58 pm - Sneha Sathpathy: Oh shoot, i just noticed jordan that the lastest version of the homepage isn’t loadef
+21/10/20, 6:58 pm - Sneha Sathpathy: Its on teams
+21/10/20, 6:59 pm - Jordan O'Meara: I thought I brought it over..
+21/10/20, 6:59 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 6:59 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 7:00 pm - Jordan O'Meara: Isn't that the right one?
+21/10/20, 7:00 pm - Jordan O'Meara: I just changed the font btw
+21/10/20, 7:00 pm - Sneha Sathpathy: The one on github is the old one
+21/10/20, 7:00 pm - Jordan O'Meara: Oh. I thought I changed it
+21/10/20, 7:01 pm - Jordan O'Meara: Ill do it now
+21/10/20, 7:01 pm - Sneha Sathpathy: Thanks
+21/10/20, 7:02 pm - Sneha Sathpathy: Should i do the minutes or jake you’re already doing that
+21/10/20, 7:02 pm - Jake Patrick: No, I’m doing the group reflection still, so go ahead
+21/10/20, 7:03 pm - Sneha Sathpathy: No worries
+21/10/20, 7:03 pm - Sneha Sathpathy: Can someone just give me dates when we had meetings
+21/10/20, 7:04 pm - Jordan O'Meara: I have all that in teams
+21/10/20, 7:04 pm - Jordan O'Meara: Should be a doc
+21/10/20, 7:05 pm - Sneha Sathpathy: Ok great got it
+21/10/20, 7:05 pm - Sneha Sathpathy: Should i make one as today
+21/10/20, 7:06 pm - Jordan O'Meara: We don't have a recording for one soo?
+21/10/20, 7:06 pm - Sneha Sathpathy: We didn’t have that many official meetings as we so regularly
+21/10/20, 7:06 pm - Sneha Sathpathy: Ah ok
+21/10/20, 7:09 pm - Jake Patrick: Should we supplement it with our WhatsApp chat?
+21/10/20, 7:09 pm - Jordan O'Meara: Yeah. Yeah I'm gonna put this in once we are done
+21/10/20, 7:09 pm - Sneha Sathpathy: Absolutely
+21/10/20, 7:09 pm - Jake Patrick: We will do better next time with teams
+21/10/20, 7:09 pm - Jake Patrick: I’m including all that in the reflections
+21/10/20, 7:09 pm - Sneha Sathpathy: As we have constantly been on contact through whatsapp
+21/10/20, 7:09 pm - Sneha Sathpathy: Great
+21/10/20, 7:10 pm - Jake Patrick: Any other key points you want me to address that wasn’t in your individual reflections?
+21/10/20, 7:10 pm - Jordan O'Meara: Probably a good idea for us to have a read through the criteria and stuff to check if we've missed anything
+21/10/20, 7:10 pm - Sneha Sathpathy: Maybe a line or two that we didn’t have that many formal meetings as we collaborated and constantly kept up-to-date with tasks on WhatsApp
+21/10/20, 7:11 pm - Jordan O'Meara: Yeah that's smart
+21/10/20, 7:11 pm - Jake Patrick: Yep nice
+21/10/20, 7:13 pm - Jordan O'Meara: Ok. I think once the group reflection is done.
+And on there. All I have to do is put this convo into the pdf and we are done? Basically
+21/10/20, 7:13 pm - Jake Patrick: Beauty
+21/10/20, 7:14 pm - Jake Patrick: I’ll read through the instructions after I finish typing
+21/10/20, 7:14 pm - Jordan O'Meara: What ill do is upload the whats app stuff to the github and then link to it in the pdf.
+21/10/20, 7:14 pm - Jake Patrick: Did we get the it tools section and include everybody’s individual assignment 1 websites?
+21/10/20, 7:15 pm - Jordan O'Meara: Should work.
+Might have a backup link aswell
+21/10/20, 7:16 pm - Jordan O'Meara: Oh I don't think so.
+Ill add links to the about me page maybe. If everyone wants to send their A1 link?
+If everyone is available to send it.
+21/10/20, 7:18 pm - Sneha Sathpathy: https://snehasathpathy-code.github.io/IIT/
+21/10/20, 7:18 pm - Sneha Sathpathy: That’s mine
+21/10/20, 7:19 pm - Jake Patrick: https://jake-patrick.github.io/2020-Intro-to-IT-Uni-Work/
+21/10/20, 7:22 pm - Sneha Sathpathy: Jordan the “to do list” table will help showing our schedule of work
+21/10/20, 7:25 pm - Jordan O'Meara: Good idea
+21/10/20, 7:26 pm - Jordan O'Meara: Okay I've added a link to our websites under our picture.
+
+For us three the links work.
+
+And the other 3 I don't have so either we can have broken links or no link at all
+21/10/20, 7:27 pm - Ben Saar: I'll link mine in a few minutes, I'm just cleaning up haha
+21/10/20, 7:28 pm - Jordan O'Meara: Cool
+21/10/20, 7:28 pm - Jordan O'Meara: Thanks
+21/10/20, 7:29 pm - Sneha Sathpathy: Fantastic
+21/10/20, 7:29 pm - Sneha Sathpathy: Looks amazing
+21/10/20, 7:30 pm - Sneha Sathpathy: Great Job 👍
+21/10/20, 7:30 pm - Sneha Sathpathy: Meeting agenda is taking a bit of time
+21/10/20, 7:30 pm - Sneha Sathpathy: Who worked on industry data
+21/10/20, 7:31 pm - Jordan O'Meara: Im not sure
+21/10/20, 7:31 pm - Sneha Sathpathy: Murray?
+21/10/20, 7:38 pm - Sneha Sathpathy: Jordan was it you who did one of the parts for IT technologies
+21/10/20, 7:38 pm - Jordan O'Meara: I believe so? In my head it was Jake, ben or Murray. But I can't quite remember
+21/10/20, 7:38 pm - Sneha Sathpathy: Ok cool
+21/10/20, 7:39 pm - Jordan O'Meara: Yep it was murray
+21/10/20, 7:39 pm - Ben Saar: https://bensaaar.github.io/IntroToIT/
+21/10/20, 7:39 pm - Ben Saar: That's my webpage
+21/10/20, 7:39 pm - Sneha Sathpathy: Ben what parts did you work on
+21/10/20, 7:39 pm - Sneha Sathpathy: Sorry guys i’m putting this stuff on the minutes
+21/10/20, 7:40 pm - Ben Saar: I worked on the Project Idea, and the Cloud Computing component of the IT Technologies primarily
+21/10/20, 7:41 pm - Sneha Sathpathy: Cool
+21/10/20, 7:48 pm - Jordan O'Meara: @61409620420 @61424441545 late addition. 
+I know you guys are busy.
+If you're able to get your link for your assignment 1 website to me by 1150pm I can include it.
+21/10/20, 7:48 pm - Sneha Sathpathy: Jordan the first meeting minutes have been uploaded now on teams
+21/10/20, 7:49 pm - Sneha Sathpathy: Should i make 4 individual documents
+21/10/20, 7:49 pm - Sneha Sathpathy: Or just one with all of the minutes
+21/10/20, 7:49 pm - Jordan O'Meara: Just do it all in one.
+21/10/20, 7:49 pm - Jordan O'Meara: Thank you
+21/10/20, 7:49 pm - Sneha Sathpathy: Can you also have a look and see if its alright
+21/10/20, 7:51 pm - Jordan O'Meara: Yeah looks good
+21/10/20, 7:51 pm - Jake Patrick: jordan, the github commit history is good evidence of collaboration too
+21/10/20, 7:52 pm - Jordan O'Meara: Yeah we've got.
+Teams
+Whatsapp
+Meetings
+Github
+The check-list.
+Should be plenty
+21/10/20, 7:54 pm - Jake Patrick: noice
+21/10/20, 8:00 pm - Jordan O'Meara: So sneha are you sorting out the meeting minutes for all the meetings?
+21/10/20, 8:00 pm - Sneha Sathpathy: Yup
+21/10/20, 8:01 pm - Jordan O'Meara: Okay awesome. Once you do that ill set it all up for the pdf.
+21/10/20, 8:01 pm - Sneha Sathpathy: Great
+21/10/20, 8:01 pm - Sneha Sathpathy: Got two more left
+21/10/20, 8:01 pm - Jordan O'Meara: @61434351284 you were still getting that reflections thing done yeah?
+21/10/20, 8:08 pm - Murray Nesteroff: Thanks Jordan you can sign for me no worries! Sorry I’ve been absent the past couple of days guys you have done awesome stuff and the website looks sick.
+
+Give me one sec I’ll grab my webpage.
+21/10/20, 8:09 pm - Murray Nesteroff: https://murray-nesteroff.github.io/Assignment-1/
+21/10/20, 8:09 pm - Jordan O'Meara: All good. Thanks
+21/10/20, 8:09 pm - Jake Patrick: hey muz, hope you're having an awesome time away!
+21/10/20, 8:10 pm - Murray Nesteroff: Haha it’s been good but seeing all the messages when I get reception is giving me guilt trips.
+21/10/20, 8:10 pm - Jordan O'Meara: Haha don't feel guilty you've done heaps already
+21/10/20, 8:11 pm - Jake Patrick: hahah there's a lot happening now  but your interview was awesone, i listened to it last night so thanks for doing such a good job of it
+21/10/20, 8:12 pm - Jordan O'Meara: Agreed. Great work
+21/10/20, 8:12 pm - Jake Patrick: jordan
+21/10/20, 8:12 pm - Jordan O'Meara: Just the finishing touches now
+21/10/20, 8:12 pm - Jordan O'Meara: Yes?
+21/10/20, 8:13 pm - Jake Patrick: group reflection is done, do you want me to put it on the website nd you can take it from there?
+21/10/20, 8:13 pm - Jordan O'Meara: Yeah that's fine
+21/10/20, 8:21 pm - Jake Patrick: should be up now
+21/10/20, 8:21 pm - Jordan O'Meara: Awesome
+21/10/20, 8:22 pm - Jake Patrick: anybody have trouble getting into spark?
+21/10/20, 8:23 pm - Jordan O'Meara: Did you do the forget password thing?
+21/10/20, 8:23 pm - Jake Patrick: i requested password reset ages ago but havent received n email
+21/10/20, 8:23 pm - Rajaneesh Nair: Sorry for the late reply, Jordan
+21/10/20, 8:23 pm - Rajaneesh Nair: https://rajaneeshsankarannair.github.io/assignment1/home.html
+21/10/20, 8:24 pm - Jordan O'Meara: Strange. Try again. Check junk?
+21/10/20, 8:24 pm - Rajaneesh Nair: It’s really a bad one 😩
+21/10/20, 8:24 pm - Jordan O'Meara: I thought I didn't get it either but was looking in the wrong email address.
+21/10/20, 8:24 pm - Jordan O'Meara: No such thing as a bad one raj
+21/10/20, 8:26 pm - Rajaneesh Nair: Thank you for that 🙂🙂🙂
+21/10/20, 8:28 pm - Jake Patrick: third time worked!
+21/10/20, 8:28 pm - Jordan O'Meara: Woo
+21/10/20, 8:29 pm - Jordan O'Meara: Okay website is done.
+Pdf1 is done.
+Now its just the pdf with all the meeting stuff.
+
+Great work everyone. We are almost there
+21/10/20, 8:30 pm - Jake Patrick: Gosh this is awful, I don’t want to judge you guys!
+21/10/20, 8:30 pm - Sneha Sathpathy: Minutes is also nearly done
+21/10/20, 8:32 pm - Rajaneesh Nair: I think Sneha and Jordan had very few hours of sleep this week... 🙁
+21/10/20, 8:33 pm - Rajaneesh Nair: All are working seriously hard
+21/10/20, 8:33 pm - Sneha Sathpathy: Thanks raj 😊
+21/10/20, 8:33 pm - Sneha Sathpathy: <Media omitted>
+21/10/20, 8:33 pm - Sneha Sathpathy: Trying to occupy this one while i work is harder 😅
+21/10/20, 8:33 pm - Rajaneesh Nair: So sweet
+21/10/20, 8:34 pm - Rajaneesh Nair: ❤️😍
+21/10/20, 8:34 pm - Jordan O'Meara: Yeah spark plus is crap
+21/10/20, 8:35 pm - Rajaneesh Nair: I struggled a lot to fix it up
+21/10/20, 8:35 pm - Rajaneesh Nair: 5stars for everyone 🙂

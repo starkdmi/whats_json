@@ -1,0 +1,1141 @@
+01/06/22, 5:31 pm - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+01/06/22, 2:27 pm - Ashish Digikull created group "Digikull_DA"
+01/06/22, 5:31 pm - Ashish Digikull added you
+01/06/22, 9:03 pm - Ashish Digikull added +91 96522 73880
+01/06/22, 9:43 pm - Ashish Digikull: https://www.w3schools.com/sql/
+01/06/22, 9:45 pm - Ashish Digikull: Best part is u can write queries with mobile also
+01/06/22, 10:22 pm - Ashish Digikull added +91 96895 17418
+02/06/22, 10:56 am - +91 79997 52132 joined using this group's invite link
+02/06/22, 10:58 am - +91 70174 96336 joined using this group's invite link
+02/06/22, 10:52 am - +91 6200 132 423: Hello guys
+02/06/22, 10:52 am - +91 6200 132 423: Anurag Digikull.vcf (file attached)
+02/06/22, 10:52 am - +91 6200 132 423: Please add this number as well.
+02/06/22, 10:54 am - Ashish Digikull: Guys does anyone knows how to share the group link ... Pls help me
+02/06/22, 10:55 am - +91 99753 05883: <Media omitted>
+02/06/22, 10:56 am - Ashish Digikull: Tks sumit
+02/06/22, 10:56 am - Ashish Digikull: 👍🏻
+02/06/22, 10:56 am - +91 99753 05883: Wc
+02/06/22, 11:01 am - +91 70174 96336: Sql download/instal kiya kisi ne kya?
+02/06/22, 11:01 am - +91 70174 96336: Mysql software ?
+02/06/22, 11:37 am - Ashish Digikull: Facing trouble while installing my sql ,
+Go through the vedio link
+02/06/22, 11:38 am - Ashish Digikull: https://youtu.be/OM4aZJW_Ojs
+02/06/22, 12:04 pm - +91 6200 132 423: Show database cmd is not working, anyone can help?
+02/06/22, 12:05 pm - Ashish Digikull: Just write : show databases;
+02/06/22, 12:07 pm - +91 6200 132 423: Thanks it worked
+02/06/22, 12:40 pm - Ashish Digikull: r u using mysql workbench or mysql command line client,
+02/06/22, 12:41 pm - +91 6200 132 423: Workbench
+02/06/22, 12:42 pm - Ashish Digikull: its great platform to practise coz of ease of editing which is not in mysql command line client
+02/06/22, 12:42 pm - Ashish Digikull: k
+02/06/22, 12:42 pm - Ashish Digikull: nice
+02/06/22, 12:42 pm - Ashish Digikull: practise and share ur experiance the the members of this group
+02/06/22, 12:44 pm - +91 6200 132 423: 👍
+02/06/22, 12:45 pm - Ashish Digikull: One request to all the group member ,
+If any one is already working with sql or have experience in sql 
+Plz share ur experience so that we all can learn and grow together.  🙏
+02/06/22, 1:49 pm - Krishan Kumar Digikull joined using this group's invite link
+02/06/22, 2:08 pm - +91 96732 22797: Tum sub  my sql pr kuch kiya bhi kya matlb sir ne to kuch bataya tha kya krne
+02/06/22, 2:09 pm - Ashish Digikull: Practice the query in the pdf given
+02/06/22, 2:09 pm - 𝐀’𝟎𝟎𝟏 🐾: Could you all chat in English, it will be more easy for understanding to all.
+02/06/22, 2:09 pm - +91 96732 22797: Ok
+02/06/22, 2:10 pm - +91 96732 22797: Ok
+02/06/22, 2:10 pm - 𝐀’𝟎𝟎𝟏 🐾: Thank you ❤️
+02/06/22, 2:10 pm - Ashish Digikull: Basic quries like 
+Create DB
+Create table
+02/06/22, 2:11 pm - +91 96732 22797: Ok  tys
+02/06/22, 2:11 pm - Ashish Digikull: <Media omitted>
+02/06/22, 2:12 pm - Ashish Digikull: Start from page no 18
+02/06/22, 2:14 pm - Ashish Digikull: Can't understand topic creating user and adding privellages
+02/06/22, 2:15 pm - +91 70174 96336: <Media omitted>
+02/06/22, 2:16 pm - +91 70174 96336: Sir asa nhi ho raha hai
+02/06/22, 2:16 pm - +91 70174 96336: Y
+02/06/22, 2:17 pm - +91 6200 132 423: mysql-u root -p
+02/06/22, 2:17 pm - Ashish Digikull: <Media omitted>
+02/06/22, 2:18 pm - Ashish Digikull: Practice  with mysql workbench
+02/06/22, 2:19 pm - +91 70174 96336: Ok
+02/06/22, 3:51 pm - +91 96732 22797: <Media omitted>
+02/06/22, 3:51 pm - +91 96732 22797: Yes or no
+02/06/22, 3:52 pm - Ashish Digikull: Y
+02/06/22, 3:52 pm - +91 96732 22797: Ok
+02/06/22, 4:26 pm - +91 6200 132 423: Anyone has started working in mysql?
+02/06/22, 4:27 pm - +91 6200 132 423: Like creating table or something
+02/06/22, 4:38 pm - +91 96732 22797: Same q
+02/06/22, 4:42 pm - +91 96732 22797: How to work means always go and search in
+02/06/22, 4:42 pm - +91 96732 22797: <Media omitted>
+02/06/22, 4:43 pm - +91 6200 132 423: Yes
+02/06/22, 4:44 pm - +91 6200 132 423: Guys if you wish then we can join a zoom meeting and we can discuss some confusion with mysql, that would be great for our learning
+02/06/22, 4:44 pm - Ashish Digikull: You can add mysql workbech to taskbar
+02/06/22, 4:45 pm - Ashish Digikull: Just left click and go to more then there u will see add to taskbar option
+02/06/22, 4:46 pm - Ashish Digikull: But  first get the poll 
+How many r interested
+02/06/22, 4:47 pm - +91 96732 22797: Where
+02/06/22, 4:48 pm - +91 96732 22797: Yes right
+02/06/22, 4:49 pm - +91 96732 22797: You said left click on desktop
+02/06/22, 4:49 pm - Ashish Digikull: No
+02/06/22, 4:50 pm - Ashish Digikull: On the icon of mysql workbech
+02/06/22, 4:51 pm - Ashish Digikull: We can do this with watsapp vdo call also if number of students are less 
+What u say
+02/06/22, 4:52 pm - +91 6200 132 423: But we can't share our screen on whatsapp vdo call
+02/06/22, 4:57 pm - Ashish Digikull: Yes
+02/06/22, 4:59 pm - Ashish Digikull: Then organise a zoom meet ,
+Share the link
+02/06/22, 5:04 pm - +91 6200 132 423: Mohammad Shahnawaj is inviting you to a scheduled Zoom meeting.
+
+Topic: Mohammad Shahnawaj's Zoom Meeting
+Time: Jun 2, 2022 05:15 PM India
+
+Join Zoom Meeting
+https://us06web.zoom.us/j/88355383549?pwd=S1Y5MExQYXdQV1MzYU5zTkNYRXkwQT09
+
+Meeting ID: 883 5538 3549
+Passcode: 2xH3sR
+02/06/22, 5:14 pm - +91 96522 73880: Why u guys are conducting the zoom meeting??
+02/06/22, 5:16 pm - +91 6200 132 423: Please join
+02/06/22, 5:16 pm - +91 6200 132 423: To solve our doubt
+02/06/22, 5:17 pm - +91 96522 73880: What doubts
+02/06/22, 5:17 pm - +91 96522 73880: Y u guys are conducting it suddenly
+02/06/22, 5:24 pm - +91 96732 22797: Guys I  am not audible
+02/06/22, 5:24 pm - +91 96732 22797: In zoom meeting
+02/06/22, 6:47 pm - +91 90241 51973 joined using this group's invite link
+02/06/22, 7:22 pm - +91 6200 132 423: Mohammad Shahnawaj is inviting you to a scheduled Zoom meeting.
+
+Topic: Mohammad Shahnawaj's Zoom Meeting
+Time: Jun 2, 2022 07:23 PM India
+
+Join Zoom Meeting
+https://us06web.zoom.us/j/88404649011?pwd=eGpQb2dydEFYSDNxblVMMzNQVTZqZz09
+
+Meeting ID: 884 0464 9011
+Passcode: UY12zr
+02/06/22, 7:23 pm - +91 6200 132 423: Should we continue?
+02/06/22, 7:23 pm - Pranav Digikull: Yes
+02/06/22, 7:23 pm - Ashish Digikull: That You guys has todecide ...
+02/06/22, 7:23 pm - +91 6200 132 423: Please join for 5 minute
+02/06/22, 7:24 pm - +91 6200 132 423: 👍
+02/06/22, 7:24 pm - +91 6200 132 423: What were u saying docs page
+02/06/22, 7:25 pm - Pranav Digikull: Waiting for host start meeting 
+Masage a raha hai
+02/06/22, 7:39 pm - Ashish Digikull: <Media omitted>
+02/06/22, 8:29 pm - +91 96895 17418: 🙏🏼🙏🏼
+02/06/22, 9:04 pm - Ashish Digikull: I think we had a nice session ,
+I think i might helped u clearing your basic doubts regarding mysql workbech ,
+Any questions pls post in group so that we all can be take benefit ..
+Thank you guys for ur participation...😇
+02/06/22, 9:20 pm - +91 96732 22797: Thank you for cleraing douts n give all tips
+02/06/22, 9:20 pm - +91 96732 22797: 👍
+02/06/22, 9:21 pm - +91 70174 96336: Thank you bro✌🏻
+02/06/22, 9:52 pm - +91 6200 132 423: Thank you so much!
+03/06/22, 10:35 am - Sumant Digikul joined using this group's invite link
+03/06/22, 11:37 am - +91 70665 24796 joined using this group's invite link
+03/06/22, 12:46 pm - +91 99155 06320 joined using this group's invite link
+03/06/22, 2:45 pm - +91 89820 87239: Please send me replit link
+03/06/22, 3:15 pm - +91 6200 132 423: https://replit.com/~
+03/06/22, 3:17 pm - +91 89820 87239: Thanku
+03/06/22, 3:33 pm - +91 6200 132 423: <Media omitted>
+03/06/22, 3:37 pm - +91 6200 132 423: <Media omitted>
+03/06/22, 3:38 pm - +91 6200 132 423: This is what we discussed yesterday.
+03/06/22, 3:55 pm - Ashish Digikull: Gr8 job 👍🏻 
+ simple n elegent
+03/06/22, 3:57 pm - +91 6200 132 423: Yup
+03/06/22, 3:58 pm - +91 6200 132 423: Can we also give data type as varchar for mob_no?
+03/06/22, 4:12 pm - Ashish Digikull: Varchar is used to Store string type only
+03/06/22, 4:13 pm - Ashish Digikull: For mobile no like attributes use int(15)
+03/06/22, 4:14 pm - Ashish Digikull: If u give it as varchar it will accept but u cant do numeric operation onto that that if u have to
+03/06/22, 4:14 pm - +91 89820 87239: Yes we can give..because remaining space will used by memory for another allocation because it's defined as a varchar
+03/06/22, 4:15 pm - Ashish Digikull: Generally mobile no is a fixed we don't apply any numeric operation
+03/06/22, 4:15 pm - +91 89820 87239: But some time we have to use country code and all that's by  I am saying
+03/06/22, 4:17 pm - +91 6200 132 423: When i'm using it then why i'm not able to give 10digit in that?
+03/06/22, 4:17 pm - Ashish Digikull: Its ok to use but before assigning any attribute its data type , we have to see what u r gone do with that attribute
+03/06/22, 4:17 pm - +91 6200 132 423: Is there anything i'm doing wrong?
+03/06/22, 4:18 pm - Ashish Digikull: U can give,
+But suppose any mobile no is  with its country code llike 91...... Then it will not be validated
+03/06/22, 4:18 pm - Ashish Digikull: Plz describe
+03/06/22, 4:19 pm - +91 6200 132 423: Got it
+03/06/22, 4:19 pm - Ashish Digikull: 👍🏻
+03/06/22, 5:15 pm - Ashish Digikull: <Media omitted>
+03/06/22, 5:15 pm - Ashish Digikull: Or can share the file
+03/06/22, 5:17 pm - +91 89820 87239: Should we practice through workbench?
+03/06/22, 5:18 pm - Ashish Digikull: Its your choice but 80-90% industry use mysql workbech   in their day to day analysis
+03/06/22, 5:19 pm - +91 89820 87239: Ok
+03/06/22, 5:20 pm - Ashish Digikull: <Media omitted>
+03/06/22, 5:20 pm - Ashish Digikull: <Media omitted>
+03/06/22, 5:21 pm - Ashish Digikull: In filter row u can type any specific data this will filter  ur result set if u want to see particular row(upto that specified row only)
+03/06/22, 5:23 pm - +91 6200 132 423: Thanks
+03/06/22, 5:23 pm - +91 6200 132 423: Please modify the field name once
+03/06/22, 5:24 pm - Ashish Digikull: I found only filter row and export options use full 
+Rest not that much useful
+Its just my view 
+Ur view can be different 
+Just explore the options as much as u can
+03/06/22, 5:24 pm - Ashish Digikull: Plz elaborate
+03/06/22, 5:26 pm - +91 6200 132 423: alter table dep modify emp_id int(15);
+03/06/22, 5:27 pm - +91 6200 132 423: like this if I want to save that dep should not be null, can we do that?
+03/06/22, 5:27 pm - +91 6200 132 423: by using alter command
+03/06/22, 5:29 pm - Ashish Digikull: U want to modify the data type of emp_id 
+Is this ur question
+03/06/22, 5:29 pm - +91 6200 132 423: I'm sorry, I mean, If I create a table already and didn't use any constraints, after that I want to add constraints as not null for emp_id
+03/06/22, 5:29 pm - +91 6200 132 423: yes
+03/06/22, 5:33 pm - Ashish Digikull: I need to explore that
+But what im doing is just dropping the particular attribute and them again add the attribute with modification,
+While using this approach i found that new attribute is added to the right side of ur table ,
+Which is not visually appealing.
+Creating ,updating, altering, etc .. is the job of DBA.
+As a data analyst we must be more focusing on writing the query .
+That doesn't implies you shoud avoid all the commands of DBA, but u should be aware of those commands
+03/06/22, 5:35 pm - +91 6200 132 423: okay
+03/06/22, 5:35 pm - Ashish Digikull: Again i want to emphasize its just my view,
+Coz i am not professional in these stufff, just coz of the conversation with data analyst i know this stuff
+03/06/22, 5:38 pm - +91 6200 132 423: Got it
+03/06/22, 5:38 pm - +91 6200 132 423: We will ask about it in the class for mote clarifications
+03/06/22, 5:38 pm - +91 6200 132 423: More*
+03/06/22, 6:28 pm - Ashish Digikull: Guys sessions has been started
+03/06/22, 6:28 pm - Ashish Digikull: Join the team
+03/06/22, 7:28 pm - +91 96522 73880: Guys am I the only one getting confused
+03/06/22, 7:28 pm - +91 96522 73880: About what is going on the class
+03/06/22, 7:29 pm - +91 79997 52132: This message was deleted
+03/06/22, 7:30 pm - Ashish Digikull: Dont worry have patience
+03/06/22, 7:30 pm - +91 96522 73880: I think sir is new to teach online classes
+03/06/22, 7:30 pm - +91 96522 73880: Sure
+03/06/22, 7:31 pm - Ashish Digikull: Pls respect his efforts
+03/06/22, 7:31 pm - +91 89820 87239: Right ✅
+03/06/22, 7:32 pm - +91 96522 73880: Im not disrespecting sir
+03/06/22, 7:32 pm - Ashish Digikull: Dont take personally yar
+03/06/22, 7:32 pm - +91 96522 73880: This message was deleted
+03/06/22, 7:35 pm - +91 96895 17418: I'm  Btech mechanical background... After revisiting recording I'm understanding 80to90% lecture
+03/06/22, 7:36 pm - +91 96895 17418: Please try revisiting lectures
+03/06/22, 7:37 pm - +91 96522 73880: Okkk
+03/06/22, 7:39 pm - +91 73851 31319: He is to fast... Theoretically it's hard to understand... Practically it be easier to understand
+03/06/22, 7:40 pm - +91 70174 96336: Yes
+03/06/22, 7:45 pm - +91 6200 132 423: https://www.youtube.com/watch?v=Tp37HXfekNo&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&index=9
+03/06/22, 8:15 pm - +91 98818 88285: ☝🏻☝🏻☝🏻
+03/06/22, 8:33 pm - Ashish Digikull: Yes u can ,
+03/06/22, 8:37 pm - +91 6200 132 423: <Media omitted>
+03/06/22, 8:38 pm - +91 6200 132 423: I'm not able to modify, Can you please check my last line?
+03/06/22, 8:39 pm - Ashish Digikull: First desc the table where u want to modify
+Pic plz
+03/06/22, 8:40 pm - +91 6200 132 423: <Media omitted>
+03/06/22, 8:41 pm - Ashish Digikull: Now where u want to do modify
+03/06/22, 8:42 pm - Ashish Digikull: Tell me attribute name and what datatype u want to change
+03/06/22, 8:42 pm - +91 6200 132 423: I want to set so that emp id should not be null
+03/06/22, 8:42 pm - +91 6200 132 423: Using alter
+03/06/22, 8:43 pm - Ashish Digikull: Try declaring it as primary key
+03/06/22, 8:44 pm - +91 6200 132 423: Okay
+03/06/22, 8:45 pm - Ashish Digikull: Declaring Primary key itself mean it should not be null
+03/06/22, 8:45 pm - +91 6200 132 423: Still getting error
+03/06/22, 8:45 pm - Ashish Digikull: K ill try and share
+03/06/22, 8:46 pm - +91 6200 132 423: Okay thanks
+03/06/22, 9:54 pm - Ashish Digikull: <Media omitted>
+03/06/22, 9:55 pm - Ashish Digikull: First emp_id was just int
+03/06/22, 9:56 pm - Ashish Digikull: After modify i made it int unsigned and not null also
+03/06/22, 9:57 pm - Ashish Digikull: <Media omitted>
+03/06/22, 10:13 pm - +91 6200 132 423: Thanks done now
+03/06/22, 10:20 pm - Ashish Digikull: <Media omitted>
+03/06/22, 10:42 pm - +91 6200 132 423: Yes, this is only for primary key
+03/06/22, 11:05 pm - Ashish Digikull: I did this with primary key also ,
+Once it is assigned as primary key ,
+Then i found it difficult to remove the primary key
+03/06/22, 11:06 pm - Ashish Digikull: Try if u can find a way to do that
+04/06/22, 12:54 am - +91 6200 132 423: ALTER TABLE TABLE_NAME
+DROP PRIMARY KEY;
+04/06/22, 12:55 am - Ashish Digikull: 👍🏻
+04/06/22, 1:04 am - Ashish Digikull: Gr8 it worked thanks 👍🏻
+04/06/22, 11:15 am - +91 6200 132 423: Can we modify constrant as default for varchar datatype?
+04/06/22, 11:15 am - +91 6200 132 423: Suppose if I wanna default country name as india for all rows
+04/06/22, 1:32 pm - Ashish Digikull: <Media omitted>
+04/06/22, 1:44 pm - +91 6200 132 423: Worked thanks
+04/06/22, 6:23 pm - Pranav Digikull: Class holiday kis din hota hai
+04/06/22, 6:24 pm - +91 70665 24796: Tuesday and thursday
+04/06/22, 6:32 pm - +91 99155 06320: Anyone who got the yesterday notepad study material please send me
+04/06/22, 8:42 pm - +91 6200 132 423: <Media omitted>
+04/06/22, 9:20 pm - +91 99155 06320: Thanks bro
+05/06/22, 12:45 am - +91 6200 132 423: Guys anyone who has successfully excuted auto_increment? i'm not able to do that?
+05/06/22, 12:46 am - Ashish Digikull: Just alter Auto increment
+05/06/22, 12:49 am - +91 6200 132 423: Getting error
+05/06/22, 12:50 am - +91 6200 132 423: alter table table_name id int unsigned auto_increment;
+05/06/22, 12:50 am - +91 6200 132 423: is this correct?
+05/06/22, 12:52 am - Ashish Digikull: Yes
+05/06/22, 12:53 am - +91 6200 132 423: not getting it when i use
+05/06/22, 12:53 am - Ashish Digikull: Pic
+05/06/22, 12:54 am - Ashish Digikull: Share the pic of ur screen
+05/06/22, 12:54 am - +91 6200 132 423: <Media omitted>
+05/06/22, 12:59 am - Ashish Digikull: Alter table <table name,>
+Modify column <column name> int unsigned auto_increment;
+05/06/22, 1:00 am - +91 6200 132 423: It worked thanks
+05/06/22, 1:00 am - Ashish Digikull: 👍🏻
+05/06/22, 3:00 pm - +91 89820 87239: https://youtu.be/atG0oTg4SzI
+05/06/22, 4:21 pm - 𝐀’𝟎𝟎𝟏 🐾: <Media omitted>
+05/06/22, 4:24 pm - +91 70174 96336: Bracket i hope last me lge
+05/06/22, 4:24 pm - +91 70174 96336: Last vala
+05/06/22, 4:27 pm - Ashish Digikull: Last entity se comma hata dena fir execute kar
+05/06/22, 4:28 pm - 𝐀’𝟎𝟎𝟏 🐾: <Media omitted>
+05/06/22, 4:28 pm - 𝐀’𝟎𝟎𝟏 🐾: Explain in English please
+05/06/22, 4:29 pm - Ashish Digikull: Remove commma for the last entity
+05/06/22, 4:29 pm - Ashish Digikull: After not null their is comma just remove that
+05/06/22, 4:30 pm - Ashish Digikull: This message was deleted
+05/06/22, 4:30 pm - Ashish Digikull: This message was deleted
+05/06/22, 4:31 pm - 𝐀’𝟎𝟎𝟏 🐾: Thank you
+05/06/22, 4:31 pm - Ashish Digikull: Guys plz join the session
+05/06/22, 4:31 pm - 𝐀’𝟎𝟎𝟏 🐾: It's fixed now
+05/06/22, 4:31 pm - Ashish Digikull: Session is started
+05/06/22, 4:31 pm - Ashish Digikull: And waiting for u guys to join
+05/06/22, 6:31 pm - Ashish Digikull: Session  started join fast
+05/06/22, 10:50 pm - Pranav Digikull: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/BP5LrZhxl1y57LGNgwcXf8
+05/06/22, 11:15 pm - Pranav Digikull: Discussing about class joine above group. Only for students.
+05/06/22, 11:22 pm - +91 96895 17418: https://youtu.be/orGavb9E9uw
+05/06/22, 11:23 pm - Ashish Digikull: 👍🏻
+06/06/22, 12:23 am - +91 6200 132 423: This message was deleted
+06/06/22, 8:56 am - +91 89820 87239: <Media omitted>
+06/06/22, 10:13 am - Ashish Digikull: Dosto aap sab ko bahot kuch problems h or kuch misconceptions bhi,
+06/06/22, 10:13 am - Ashish Digikull: Iam ready for a zoom meeting to clear your doubt
+06/06/22, 10:13 am - Ashish Digikull: And i have to many things to share , to clear your misconceptions
+06/06/22, 10:13 am - Ashish Digikull: If you r ready then we will meet at zoom ,
+Plz sahnawaz will u host the meeting.
+06/06/22, 10:53 am - +91 96895 17418: Yes...I'm interested
+06/06/22, 11:03 am - +91 98818 88285: ☝🏻
+06/06/22, 11:21 am - Ashish Digikull: Ashish shimpi is inviting you to a scheduled Zoom meeting.
+
+Topic: Doubt clearing sessions
+Time: Jun 6, 2022 12:05 PM Pacific Time (US and Canada)
+
+Join Zoom Meeting
+https://us05web.zoom.us/j/87206959124?pwd=Wm0vQkFZNlV5NkU0am1WeUUvazFCZz09
+
+Meeting ID: 872 0695 9124
+Passcode: VZrqH8
+06/06/22, 12:05 pm - +91 70174 96336: <Media omitted>
+06/06/22, 12:05 pm - Ashish Digikull: Guys their is some issue with zoom meet
+06/06/22, 12:05 pm - Ashish Digikull: As iam new to that if any who knows pls host
+06/06/22, 12:06 pm - +91 70174 96336: Ok
+06/06/22, 12:06 pm - Ashish Digikull: Who is hosting then
+06/06/22, 12:07 pm - Ashish Digikull: Share the details
+06/06/22, 12:09 pm - +91 70174 96336: https://us05web.zoom.us/j/4757397167?pwd=S1pGVm1mVkRKTjJ2N1g0L3J6UmlzQT09
+06/06/22, 12:09 pm - +91 70174 96336: Join now who douts in mysql
+06/06/22, 12:12 pm - +91 70174 96336: Join now
+06/06/22, 12:15 pm - +91 96895 17418: Join quickly
+06/06/22, 12:15 pm - +91 70174 96336: Iss link ko join kro ab sb
+06/06/22, 12:20 pm - Ashish Digikull: Join fst
+06/06/22, 12:21 pm - +91 96732 22797: Accept kro n joining
+06/06/22, 12:51 pm - +91 96732 22797: Firse krna hai kya
+06/06/22, 12:51 pm - +91 70174 96336: Ha
+06/06/22, 12:51 pm - +91 96895 17418: 👍🏼
+06/06/22, 12:51 pm - +91 70174 96336: Ye
+06/06/22, 1:32 pm - +91 70174 96336: Link
+06/06/22, 2:40 pm - Ashish Digikull: https://www.w3resource.com/mysql/mysql-triggers.php
+06/06/22, 2:42 pm - Ashish Digikull: guys go through the link (in left side their are many topics which u can go through for general understanding of the concepts in mysql)
+06/06/22, 2:45 pm - +91 96895 17418: 👍🏼
+06/06/22, 3:22 pm - Ashish Digikull: https://www.javatpoint.com/mysql-before-insert-trigger
+06/06/22, 3:33 pm - Ashish Digikull: From 1st link just see the context
+And for code you can follow 2nd link...
+06/06/22, 3:50 pm - +91 6200 132 423: <Media omitted>
+06/06/22, 3:51 pm - +91 6200 132 423: This code is not excuting
+06/06/22, 3:52 pm - +91 6200 132 423: When do we need to excute the code when we give ; after doctor?
+06/06/22, 3:52 pm - +91 6200 132 423: Or when
+06/06/22, 3:52 pm - +91 6200 132 423: If you practicced it then please share a pic that would be great
+06/06/22, 4:35 pm - Ashish Digikull: U understood the conept
+06/06/22, 4:36 pm - Ashish Digikull: Then try insert value with occupation as scientist ...
+06/06/22, 4:36 pm - Ashish Digikull: After execution it will update as doctor
+06/06/22, 4:36 pm - Ashish Digikull: This is just like validation chek example.....
+06/06/22, 4:37 pm - +91 6200 132 423: when do I need to excute this code
+06/06/22, 4:38 pm - Ashish Digikull: Which code
+06/06/22, 4:38 pm - +91 6200 132 423: as we can see there is semicolumn after doctor
+06/06/22, 4:39 pm - Ashish Digikull: Ucan reset the delimiter to ;
+06/06/22, 4:40 pm - +91 6200 132 423: have you tried to excute it?
+06/06/22, 4:40 pm - +91 6200 132 423: please send a pic
+06/06/22, 4:40 pm - Ashish Digikull: I ll try code and send u pic
+06/06/22, 4:41 pm - +91 6200 132 423: tnx
+06/06/22, 4:41 pm - Ashish Digikull: But first have u understood the concept or not
+06/06/22, 4:42 pm - +91 6200 132 423: i understood
+06/06/22, 4:52 pm - Ashish Digikull: <Media omitted>
+06/06/22, 4:55 pm - Ashish Digikull: Tks coz of u i tried the code and executed successfully
+06/06/22, 4:56 pm - Ashish Digikull: THIS notepad has all the steps you must follow
+06/06/22, 5:01 pm - Ashish Digikull: <Media omitted>
+06/06/22, 5:01 pm - Ashish Digikull: This message was deleted
+06/06/22, 5:06 pm - Ashish Digikull: Understood why we created this trigger
+06/06/22, 5:12 pm - +91 6200 132 423: yes
+06/06/22, 5:13 pm - +91 6200 132 423: it's excuting in workbench but not in client line
+06/06/22, 5:13 pm - +91 6200 132 423: may be there is some setting i need to do
+06/06/22, 5:14 pm - Ashish Digikull: <Media omitted>
+06/06/22, 5:15 pm - Ashish Digikull: DELIMITER //  
+ Create Trigger before_insert_occupation2  
+BEFORE INSERT ON employee FOR EACH ROW  
+IF NEW.occupation = 'Scientist' THEN SET NEW.occupation = 'Doctor';  
+END if // 
+
+DELIMITER ;
+INSERT INTO employee VALUES    
+('Markus2', 'Scientist', '2020-10-08', 14);  
+  
+ INSERT INTO employee VALUES    
+('Alexander2', 'Actor', '2020-10-012', 13);     
+SELECT * FROM employee;
+06/06/22, 6:30 pm - Ashish Digikull: The session is started join fast
+07/06/22, 2:03 pm - +91 70174 96336: <Media omitted>
+07/06/22, 2:04 pm - +91 70174 96336: Not run any command
+07/06/22, 2:04 pm - +91 70174 96336: Any suggestions me
+07/06/22, 2:05 pm - +91 70174 96336: <Media omitted>
+07/06/22, 2:25 pm - Ashish Digikull: Create table table_name ( id int not null, name vharchar (10) );
+07/06/22, 2:26 pm - +91 70174 96336: <Media omitted>
+07/06/22, 2:26 pm - +91 70174 96336: Kr diya
+07/06/22, 2:26 pm - +91 70174 96336: Isme
+07/06/22, 2:26 pm - Ashish Digikull: First creat the database 
+By create database database_name
+07/06/22, 2:27 pm - Ashish Digikull: Then 
+Use database_name
+07/06/22, 2:27 pm - Ashish Digikull: Afther that create the table
+07/06/22, 2:28 pm - +91 70174 96336: This message was deleted
+07/06/22, 2:28 pm - +91 70174 96336: This message was deleted
+07/06/22, 8:27 pm - Ashish Digikull: <Media omitted>
+07/06/22, 8:27 pm - Ashish Digikull: <Media omitted>
+07/06/22, 8:27 pm - Ashish Digikull: <Media omitted>
+07/06/22, 8:27 pm - Ashish Digikull: SELECT A.emp_id AS "Emp_ID",A.emp_name AS "Employee",
+B.emp_id AS "Sup_ID",B.emp_name AS "Supervisor"
+FROM employee A, employee B
+WHERE A.emp_sup = B.emp_id;
+07/06/22, 8:27 pm - Ashish Digikull: 👆 self join
+07/06/22, 8:28 pm - Ashish Digikull: <Media omitted>
+08/06/22, 6:51 pm - 𝐀’𝟎𝟎𝟏 🐾: How many of you completed the assignment?
+08/06/22, 6:51 pm - Ashish Digikull: 👆
+08/06/22, 6:51 pm - 𝐀’𝟎𝟎𝟏 🐾: Did you finished?
+08/06/22, 6:52 pm - Ashish Digikull: Yes
+08/06/22, 6:52 pm - 𝐀’𝟎𝟎𝟏 🐾: Both?
+08/06/22, 6:52 pm - Ashish Digikull: Yes bro
+08/06/22, 6:52 pm - 𝐀’𝟎𝟎𝟏 🐾: Can you help me bro?
+08/06/22, 6:52 pm - Ashish Digikull: Yes sure
+08/06/22, 6:53 pm - +91 70174 96336: Tomorrow zoom pr bta doge kya
+08/06/22, 6:53 pm - 𝐀’𝟎𝟎𝟏 🐾: Time bro
+08/06/22, 6:54 pm - +91 70174 96336: 11 am
+08/06/22, 6:55 pm - Ashish Digikull: We will discuss for sure but will not share the solution for ur improvement only guys
+08/06/22, 6:56 pm - 𝐀’𝟎𝟎𝟏 🐾: Yes, let's discuss and try in our own
+08/06/22, 6:56 pm - +91 70174 96336: Meeting nhi ho rhi hai kya?
+08/06/22, 6:57 pm - 𝐀’𝟎𝟎𝟏 🐾: Can't understand
+08/06/22, 6:58 pm - +91 70174 96336: Today 6 30 meeting still progress or not
+08/06/22, 6:58 pm - 𝐀’𝟎𝟎𝟏 🐾: Yes, it's going on
+08/06/22, 10:51 pm - +91 96895 17418: 👍🏼
+09/06/22, 5:53 pm - Ashish Digikull: Assignment 1 is clear i think any doubt in that assignment
+09/06/22, 10:47 pm - 𝐀’𝟎𝟎𝟏 🐾: <Media omitted>
+09/06/22, 10:47 pm - 𝐀’𝟎𝟎𝟏 🐾: How many of you finished this assignment?
+09/06/22, 10:50 pm - Ashish Digikull: This message was deleted
+09/06/22, 11:43 pm - Ashish Digikull: <Media omitted>
+09/06/22, 11:56 pm - Ashish Digikull: <Media omitted>
+10/06/22, 12:03 am - +91 6200 132 423: 👍
+10/06/22, 9:50 am - +91 96895 17418: Q6 1st assignment please explain
+10/06/22, 9:51 am - Ashish Digikull: What is that u haven't understand
+10/06/22, 9:52 am - Ashish Digikull: Q6.  Write a query to create a new table which consists of data and structure copied from the other table.
+10/06/22, 9:53 am - Ashish Digikull: U need to create a new table with the help of previously / existing table.
+10/06/22, 10:07 am - +91 96895 17418: <Media omitted>
+10/06/22, 10:08 am - +91 96895 17418: Means both two table I join
+10/06/22, 10:08 am - Ashish Digikull: No just copy
+10/06/22, 10:17 am - +91 96732 22797: This message was deleted
+10/06/22, 2:09 pm - Ashish Digikull: <Media omitted>
+10/06/22, 2:10 pm - Ashish Digikull: Thats who i copied two table in one
+10/06/22, 2:11 pm - +91 96895 17418: 👍🏼
+11/06/22, 2:47 pm - Ashish Digikull: HackerRank is a good platform where u can practice and built logic in writing quries
+11/06/22, 2:48 pm - Ashish Digikull: I am recommending this after 7 days of practicing
+Belive me it will boost ur confidence
+11/06/22, 2:49 pm - 𝐀’𝟎𝟎𝟏 🐾: Sure we will try
+11/06/22, 3:02 pm - Ashish Digikull: Their they provide ur rank also
+If u sove a problem u r promoted to higher rank 
+Keep the target to rank up daily by solving atleast 5 questions
+11/06/22, 3:05 pm - +91 73851 31319: 🤝
+11/06/22, 5:55 pm - Ashish Digikull left
+14/06/22, 11:05 am - +91 96895 17418: <Media omitted>
+14/06/22, 11:15 am - +91 70174 96336: Nhi pta
+14/06/22, 11:16 am - +91 70174 96336: Koy hai jo zoom pr ye sb smja de?
+17/06/22, 11:33 am - Pranav Digikull: How to submit assignment
+17/06/22, 11:34 am - +91 89820 87239: Kaun se assignment new assignment h kya kuch?
+17/06/22, 11:45 am - Sajan Digikull: Bhai old assignment ki submission date nikl chuki h
+17/06/22, 11:49 am - Pranav Digikull: To ab submit nahi hogi kya ?
+17/06/22, 11:50 am - Sajan Digikull: Agr usme attach ka option nhi show hora hai to shyad ab nhi hoga
+17/06/22, 3:32 pm - +91 70174 96336: Guys meeting start ho gyi hai
+17/06/22, 3:32 pm - +91 70174 96336: Join now
+18/06/22, 5:56 pm - +91 73851 31319: Kiseka assignment 3 hua  hai?
+18/06/22, 5:56 pm - +91 73851 31319: Anyone
+19/06/22, 11:39 am - Sumant Digikul: Guys Join Unit test
+19/06/22, 11:39 am - Sumant Digikul: Meeting
+19/06/22, 1:28 pm - Pranav Digikull: Form ka kya karna hai sir
+19/06/22, 1:30 pm - Sumant Digikul: Copy the code from below and paste it above and submit
+19/06/22, 1:39 pm - +91 96895 17418: Who scored above 70
+20/06/22, 8:34 pm - You changed this group's icon
+21/06/22, 3:35 pm - Sajan Digikull: <Media omitted>
+21/06/22, 3:35 pm - Sajan Digikull: Can anyone tell me how can we solve these queries. Because there are multiple tables but most of the tables are blank.
+They don't even contain a single value.
+21/06/22, 4:59 pm - +91 6200 132 423: mittalanurag520@gmail.com
+21/06/22, 5:00 pm - +91 6200 132 423: https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI5Mjg2MDY3ODE0NCJ9/all
+21/06/22, 5:18 pm - +91 6200 132 423: 9354964467, Anurag sir
+21/06/22, 5:20 pm - +91 6200 132 423 added Ashish Digikull
+21/06/22, 5:26 pm - +91 99753 05883 left
+21/06/22, 6:35 pm - +91 6200 132 423: guys join the meeting has started
+21/06/22, 6:36 pm - Ashish Digikull: guys join the meeting has started
+22/06/22, 6:28 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_MzUzMmFjMTEtOTYxNS00NGU1LWIwODgtMjA4Mzk4NDZmMTgz@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+22/06/22, 6:29 pm - Sumant Digikul: guys join the session
+22/06/22, 7:20 pm - +91 70174 96336: Ha screen show nhi ho rha hai
+22/06/22, 7:20 pm - +91 70174 96336: <Media omitted>
+25/06/22, 1:13 pm - Pranav Digikull: Today's session is not visible on my teams calender. Then how can I join.
+25/06/22, 5:48 pm - Sajan Digikull: Today is class or not because nothing is showing in the calendar.
+25/06/22, 5:51 pm - +91 98818 88285: ???????
+25/06/22, 5:55 pm - Sajan Digikull: Aaj class h ya nhi
+25/06/22, 6:34 pm - 𝐀’𝟎𝟎𝟏 🐾: Does we have class today?
+25/06/22, 6:34 pm - Sumant Digikul: no
+26/06/22, 7:46 pm - Ashish Digikull: Join the meeting
+26/06/22, 7:46 pm - Ashish Digikull: Swati
+26/06/22, 7:46 pm - Ashish Digikull: Anurag
+26/06/22, 7:46 pm - Ashish Digikull: Krishan
+26/06/22, 7:59 pm - +91 70174 96336: Ok
+29/06/22, 6:36 pm - Ashish Digikull: join meeting fast
+29/06/22, 6:36 pm - Ashish Digikull: its been started
+29/06/22, 6:36 pm - +91 96895 17418: Join
+29/06/22, 6:36 pm - +91 96895 17418: Meeting
+29/06/22, 6:36 pm - Ashish Digikull: waiting for u gyus to join
+29/06/22, 7:09 pm - +91 6200 132 423: https://github.com/git-guides/install-git
+01/07/22, 12:34 pm - Sumant Digikul: https://bit.ly/3yvlBIh
+01/07/22, 12:34 pm - Sumant Digikul: Fill the Feedback form ASAP
+01/07/22, 12:35 pm - Sumant Digikul: https://forms.office.com/r/RZzHvtrNnL
+01/07/22, 6:30 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTUzYTg5YzctZDcyNi00MjVjLTliZjAtNDQ2YTYyOTZkMTJj%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+01/07/22, 6:30 pm - Sumant Digikul: Guys join the session
+01/07/22, 7:55 pm - +91 70174 96336: Sir kl meeting time 7 30 show ho rahi hai
+01/07/22, 7:55 pm - +91 70174 96336: Ye schedule fake hai kya ?
+01/07/22, 7:56 pm - +91 70174 96336: <Media omitted>
+01/07/22, 7:58 pm - Sumant Digikul: No this is the timing
+01/07/22, 7:58 pm - +91 96895 17418: Ok sir
+02/07/22, 4:41 pm - Sajan Digikull: <Media omitted>
+03/07/22, 7:13 am - Sumant Digikul: I can't promise anything guys it depends upon tutor availablity
+03/07/22, 7:13 am - Sumant Digikul: But I try to schedule it around 6:30 only
+03/07/22, 7:27 am - +91 96895 17418: Ok sir but please schedule session
+03/07/22, 10:14 am - Sajan Digikull: Ok sir
+09/07/22, 6:04 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_NzA0MDBlZjgtNzEzMy00ODllLTg0Y2YtM2IwYzNiMTFiYTBh@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+09/07/22, 6:04 pm - Sumant Digikul: Guys join the session
+10/07/22, 11:37 pm - Sumant Digikul: Guys from tomorrow onwards your sessions will be in the morning from 9 am onwards
+10/07/22, 11:37 pm - Sumant Digikul: Kindly check your calendar and join accordingly
+10/07/22, 11:49 pm - 𝐀’𝟎𝟎𝟏 🐾: It's for tomorrow alone or here after??
+10/07/22, 11:50 pm - 𝐀’𝟎𝟎𝟏 🐾: Bcz next day(Tuesday) the class is on 6.30pm
+11/07/22, 8:37 am - Sumant Digikul: That is practice session those sessions you just have to attend and practice so those will be in the evening as no tutor are present in that session
+11/07/22, 8:38 am - Sumant Digikul: On weekdays Mon Wed and Friday class will be in the morning and on weekend class will be in the evening
+11/07/22, 9:04 am - +91 70174 96336: <Media omitted>
+11/07/22, 9:04 am - +91 70174 96336: Sir meeting not showing
+11/07/22, 9:05 am - Sumant Digikul: You're invited to a Teams meeting!
+
+SQL Remaing Topics and Practice session 
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjk0ZTVlMTItNGZkYy00ZDBlLThjZWItZWMyMTk2YjQ3ZTBj%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+11/07/22, 9:05 am - Pranav Digikull: https://teams.microsoft.com/_#/pre-join-calling/19:meeting_Mjk0ZTVlMTItNGZkYy00ZDBlLThjZWItZWMyMTk2YjQ3ZTBj@thread.v2
+11/07/22, 9:05 am - Sumant Digikul: Scroll up
+11/07/22, 9:06 am - +91 70174 96336: Nhi hai sr scroll up or down kahi bhi
+11/07/22, 9:06 am - +91 70174 96336: 12 ko show ho rahi ha bs
+11/07/22, 11:49 am - Sumant Digikul: send me your id and pass
+11/07/22, 11:49 am - Sumant Digikul: dm
+12/07/22, 8:56 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Triggers and Practice session - May DA FT
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTAzMTM5M2UtYjZhZC00NTlhLTg4ZTItYTA5YTFhNWVjYzli%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+12/07/22, 8:56 am - Sumant Digikul: Guys join
+12/07/22, 9:01 am - Sumant Digikul: Join fast guys
+12/07/22, 10:36 am - Pranav Digikull added Kapil Sharma Digikull
+13/07/22, 8:55 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Introduction to Python - May DA FT
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDcwMWU4MTctZjI0Ni00ZmI4LThmNmEtYzZiYWQwMzI1Mzll%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+13/07/22, 11:26 pm - +91 96895 17418 left
+15/07/22, 8:55 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Python Basics - May DA FT
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg1MmMzMzItMmZkOS00ZGMxLWFjYjgtYjRhZThjYWZlNmRl%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+17/07/22, 5:01 pm - Sumant Digikul: Guys join the session
+17/07/22, 5:01 pm - Sumant Digikul: Why so less students have joined why do I have to remind you every time ?
+17/07/22, 5:03 pm - Sumant Digikul: If you are not joining the doubt session I am assuming you have no doubts
+17/07/22, 5:04 pm - Sumant Digikul: So i expect the absentees have submitted all. Their assignments
+17/07/22, 5:05 pm - Sumant Digikul: If not I will simply give them 0 in assignments to those who have not informed me that they will miss today's session.
+18/07/22, 8:57 am - Sumant Digikul: Guys join the session
+19/07/22, 9:06 am - Sumant Digikul: Guys join the session
+20/07/22, 8:56 am - Sumant Digikul: You're invited to a Teams meeting!
+
+List and Dictionaries - May DA FT 
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTA1MjZiYWQtYTJhZC00ZTliLWEwYjEtNGM0YTQyYzkzYjQx%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+20/07/22, 9:02 am - Sumant Digikul: Guys join fast
+20/07/22, 3:33 pm - Kapil Sharma Digikull: Two Sum Problem for sorted as well as unsorted array
+ Given an integer n, return the number of prime numbers that are strictly less than n.
+ Write a program to check weather string is anagram or not
+20/07/22, 3:35 pm - Kapil Sharma Digikull: Python Program to Reverse a Number
+20/07/22, 3:38 pm - Kapil Sharma Digikull: Python Program to check Armstrong Number
+20/07/22, 3:44 pm - Ashish Digikull: Reverse means  52 --> 25 
+Is it like that
+20/07/22, 4:02 pm - Kapil Sharma Digikull: Yes
+21/07/22, 9:05 am - Pranav Digikull: Sir connect nahi ho pa rahe
+21/07/22, 9:05 am - Sajan Digikull: Showing unable to connect
+21/07/22, 9:06 am - Sumant Digikul: Yes guys today's teams is not working due to server maintenance
+21/07/22, 9:06 am - Sumant Digikul: Most probably the class will be cancelled
+21/07/22, 9:06 am - Sumant Digikul: So wait for few minutes then try
+21/07/22, 9:06 am - Sumant Digikul: Or else I will cancel the session
+21/07/22, 9:06 am - Sajan Digikull: Ok sir
+21/07/22, 10:17 am - Ashish Digikull: <Media omitted>
+21/07/22, 10:23 am - Ashish Digikull: <Media omitted>
+22/07/22, 8:54 am - Sumant Digikul: You're invited to a Teams meeting!
+
+list comprehension - May DA FT 
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmU3NTNmM2YtNjlkNy00YTJhLWIwMGEtYzg3NzNkZmE5YWJl%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+23/07/22, 6:32 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_ZTc4YjViNTgtNDVmNy00NGY1LWJjYmItZWU5ODViNDExNTNk@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+24/07/22, 9:17 am - Sumant Digikul: Hi guys join 15 minutes early for the test will explain it to you again .
+24/07/22, 9:17 am - Sumant Digikul: Don't submit the Google form untill you are done with your Classmates Test if you submit it you will be directly disqualified.
+24/07/22, 9:18 am - Sumant Digikul: There will be 25-30 questions in unit test and it will be 1 hour long
+24/07/22, 9:19 am - Sumant Digikul: Those who failed to give this test their accounts will be blocked until further notice.
+24/07/22, 9:19 am - Sumant Digikul: Now
+24/07/22, 9:19 am - Sumant Digikul: Th live coding will be for 3 hours you have to solve at least 35 questions out of 50 to pass in it .
+24/07/22, 9:20 am - Sumant Digikul: Instructions: 1. copy the Sample Data into your SQL Workbench. 2. After Successfully run the sample data, start doing question giving below in above document. 3. First Copy Paste the Question using comments then write Your Query. 4. After completing all the questions, save your SQL file and submit on teams as your assignment. 5. If you don't follow these steps, your test will be disqualified.
+24/07/22, 9:21 am - Sumant Digikul: Your screen and camer will be monitored just like the last test
+24/07/22, 9:21 am - Sumant Digikul: And you can't give this test from your mobile Laptop is mandatory
+24/07/22, 9:21 am - Sumant Digikul: Guys is that clear ?
+24/07/22, 9:23 am - Sumant Digikul: Guys respond
+24/07/22, 9:23 am - Sumant Digikul: ?
+24/07/22, 9:46 am - Sajan Digikull: Okay sir
+24/07/22, 11:28 am - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_ZjUwNTIwMGMtNzdiMi00MTg3LWJjZDMtM2IwNmY3Y2ZlZjdl@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+24/07/22, 11:29 am - Sumant Digikul: quilgo.com/t/heLM3TGVSHzu8R38
+24/07/22, 10:41 pm - Sumant Digikul: Hi guys tomorrow's session is rescheduled to 6:30 pm
+27/07/22, 6:01 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_YTQwNWQ2NDAtNTZiNC00NmFkLTk1YmEtZTUwMWFmODE1MGUx@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+27/07/22, 9:40 pm - +91 70174 96336: <Media omitted>
+27/07/22, 9:41 pm - +91 70174 96336: Sb ke me ho rhi hai problem?
+27/07/22, 10:54 pm - Pranav Digikull: feedback form bharwana band kiya kya?
+27/07/22, 10:54 pm - +91 6200 132 423: This message was deleted
+27/07/22, 11:24 pm - +91 99155 06320: Aj ye class hua thaa kya 9 pm to 10:30pm??
+27/07/22, 11:25 pm - Pranav Digikull: ha
+27/07/22, 11:25 pm - Sajan Digikull: Yes
+27/07/22, 11:25 pm - +91 70174 96336: ha
+27/07/22, 11:26 pm - +91 70174 96336: abhi 11 bje hi samapapt hui hai
+28/07/22, 9:00 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Revision session - May DA FT
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmMwMTdjNWYtNTY3MS00MDkwLThlMDEtZDVjMTJkYTk2MGQ4%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+28/07/22, 9:13 am - +91 70174 96336: <Media omitted>
+28/07/22, 9:14 am - +91 70174 96336: Team
+28/07/22, 9:14 am - Sumant Digikul: Try using chrome
+28/07/22, 9:14 am - Sumant Digikul: Search teams on Google
+28/07/22, 9:14 am - Sumant Digikul: And login there using your Digikull I'd
+28/07/22, 9:14 am - Sumant Digikul: And then join
+29/07/22, 8:57 pm - Sumant Digikul: Hi guys those who are able to see the session in calender pls join
+29/07/22, 9:19 pm - +91 96732 22797: Sir muze nahi dikh raha hai
+29/07/22, 9:21 pm - Krishan Kumar Digikull: I can't see
+29/07/22, 9:22 pm - +91 96732 22797: I also
+29/07/22, 9:22 pm - Sumant Digikul: yes then you will have the session tomorrow
+29/07/22, 9:22 pm - Sumant Digikul: dont worry
+29/07/22, 9:22 pm - +91 96732 22797: Ok
+29/07/22, 9:33 pm - +91 70174 96336: Ok
+29/07/22, 9:36 pm - Ashish Digikull: python is not running in my replit
+how to run the script
+29/07/22, 9:38 pm - Sumant Digikul: will let you know tomorrow
+29/07/22, 9:38 pm - Sumant Digikul: whats the issue send the ss
+29/07/22, 9:39 pm - Ashish Digikull: <Media omitted>
+29/07/22, 9:40 pm - Ashish Digikull: just like sql i tried running the script 
+but not working
+30/07/22, 6:24 pm - Ashish Digikull: @sumant sir
+who is our mentor and when will our mentoring session is going to start ,
+as there is now update regarding the mentoring session in calender.
+30/07/22, 6:26 pm - Sumant Digikul: Mentoring session is going on for one group and the another group will have it from tomorrow morning as your mentor fell ill sarika ma'am will take the session for tomorrow.
+31/07/22, 12:21 pm - Ashish Digikull: Still no idea how to solve the python assignment in replit
+Pls arrange a session which will let us understand how to work in replit with python
+31/07/22, 12:34 pm - Sumant Digikul: I checked all is ok
+31/07/22, 12:35 pm - Sumant Digikul: You are writing the code in main.py
+31/07/22, 12:35 pm - Sumant Digikul: You have to write in the script.py
+31/07/22, 12:35 pm - Sumant Digikul: In every folder there is a script.py
+31/07/22, 12:35 pm - Sumant Digikul: Code there
+31/07/22, 2:22 pm - Ashish Digikull: That means for every program we write in different script we have to copy the entire code and paste in main.py then run
+For every question in assignment
+31/07/22, 2:23 pm - Ashish Digikull: Nahi bilkul nahi
+31/07/22, 2:37 pm - Sumant Digikul: why you have to copy to main.py ?
+31/07/22, 2:37 pm - Sumant Digikul: it will run there only
+31/07/22, 4:23 pm - Sumant Digikul: You're invited to a Teams meeting!
+
+Doubt session - May DA FT 
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2E1ZmRlMTYtNTRkOS00NjVmLThmMjEtZWMwNjhiMTIyN2U4%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+31/07/22, 4:32 pm - Sumant Digikul: Guys join the session
+31/07/22, 6:39 pm - Pranav Digikull: sir please take assignment review on advance SQL  Assignment.
+01/08/22, 8:56 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Python Lib - Numpy,Pandas.
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjNlY2NmZWUtM2U1Ni00NTQ3LThhZWQtMmZlZTIxMGMwNDhh%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+01/08/22, 1:01 pm - Sumant Digikul: https://bit.ly/3Q6JEmS
+Guys fill the feedback form
+01/08/22, 1:41 pm - Sumant Digikul: Guys fill the form
+01/08/22, 5:06 pm - Pranav Digikull: i am facing problem with replit
+02/08/22, 10:29 am - Sumant Digikul: Guys will take a session
+02/08/22, 11:52 pm - +91 6200 132 423: Replit is not working
+02/08/22, 11:52 pm - +91 6200 132 423: We are currently having issues with Hacker and Teams repls, please refer to https://status.replit.com for more info
+02/08/22, 11:52 pm - Sajan Digikull: Yes
+02/08/22, 11:54 pm - +91 89820 87239: Yes it's not working
+02/08/22, 11:55 pm - Pranav Digikull: Its not working
+02/08/22, 11:56 pm - +91 6200 132 423: It seems like we won't be able to submit our assignment before the due date.
+02/08/22, 11:57 pm - Pranav Digikull: In my case questions are not visible
+03/08/22, 12:02 am - Ashish Digikull: Can we submit assignment in jupyter notebook 
+Coz its easy to use and 
+In lecture also we are practicing in jupyter notebook only
+03/08/22, 12:03 am - +91 89820 87239: Yes sir please give me the permission for this
+03/08/22, 12:04 am - +91 89820 87239: Replit is more time taking and its not working properly sometime
+03/08/22, 12:04 am - Pranav Digikull: raplit is difficult to use ..................
+03/08/22, 12:08 am - Sumant Digikul: No guys replit is not optional
+03/08/22, 12:08 am - Sumant Digikul: Python works perfectly fine on replit
+03/08/22, 12:09 am - +91 89820 87239: Sir it's not working now
+03/08/22, 12:09 am - +91 89820 87239: <Media omitted>
+03/08/22, 12:10 am - Sumant Digikul: Try some other time there might be server issue at their side
+03/08/22, 12:10 am - Pranav Digikull: it gives randomly and random errors
+03/08/22, 12:10 am - +91 89820 87239: We didn't submit today's assignment
+03/08/22, 12:10 am - +91 6200 132 423: Please extend the assg. submission due date, it's not working from last 1 hour
+03/08/22, 12:10 am - Sumant Digikul: Will check and about due date you can submit till three days after of the due date their will be  no marks deductions
+03/08/22, 12:11 am - Sumant Digikul: On which script or question it gives random errors let me know
+03/08/22, 12:11 am - +91 89820 87239: Ok sir
+03/08/22, 12:11 am - Ashish Digikull: This message was deleted
+03/08/22, 12:12 am - Ashish Digikull: Esa kya khas h replit me jo jupyter me practice karake
+Replit par assignment submit karna pad raha h 
+E baat samaj nahi aatahi mujhe bas
+03/08/22, 12:13 am - Sumant Digikul: Its works with our system we assign group projects as well we use it to track your assignments as well
+03/08/22, 12:13 am - Sumant Digikul: If you have so many questions call me in the day time
+03/08/22, 12:16 am - Sumant Digikul: Get out of your comfort zone Ashish all I can see is you complaining if we are doing something its due to the process we follow.
+03/08/22, 12:19 am - Ashish Digikull: This is not complaint 
+This is just a doubt
+03/08/22, 12:21 am - Sumant Digikul: The submission of assignment will be on replit only as it's easier for us to track how long you worked on the assignment and grade you accordingly for SQL due to some issues we allowed the submission of screenshot and pdf.
+03/08/22, 12:22 am - Ashish Digikull: Thnks 4 clearing my doubt 
+🙏
+03/08/22, 12:24 am - Sumant Digikul: 👍
+03/08/22, 12:46 pm - +91 70665 24796: Replit is difficult to use for python, so plz take session on it
+03/08/22, 1:05 pm - Pranav Digikull: Same here sir
+03/08/22, 1:18 pm - +91 96732 22797: Same here
+04/08/22, 9:07 am - Sumant Digikul: Will try to schedule it for today
+04/08/22, 9:07 am - Sumant Digikul: Guys join the doubt session
+04/08/22, 9:07 am - Sumant Digikul: Why no one has joined ?
+04/08/22, 9:09 am - Pranav Digikull: This message was deleted
+04/08/22, 9:14 am - Sumant Digikul: Hi guys is today's doubt session not visible to you ?
+04/08/22, 9:15 am - +91 70665 24796: No
+04/08/22, 9:15 am - +91 89820 87239: No sir
+04/08/22, 9:15 am - Pranav Digikull: No
+04/08/22, 9:15 am - Ashish Digikull: I join from link
+04/08/22, 9:16 am - Ashish Digikull: But no one is there 
+What to do 
+Should i drop it
+04/08/22, 9:16 am - Pranav Digikull: Where do u get the link
+04/08/22, 9:16 am - Ashish Digikull: From Team app
+04/08/22, 9:17 am - Sumant Digikul: Yes
+04/08/22, 9:17 am - Sumant Digikul: Drop it guys
+04/08/22, 9:17 am - Ashish Digikull: K
+04/08/22, 9:17 am - Sumant Digikul: I will reschedule it
+04/08/22, 9:17 am - Sumant Digikul: Due to some glitch no one got th invite I think
+04/08/22, 5:29 pm - Pranav Digikull: microsoft teams app and raplit is not working currently
+04/08/22, 7:03 pm - Sumant Digikul: Guys is tomorrow's session visible to you?
+04/08/22, 7:05 pm - Pranav Digikull: Ni
+04/08/22, 7:05 pm - Pranav Digikull: No
+04/08/22, 11:49 pm - Sumant Digikul: guys the calendar just got updated
+04/08/22, 11:49 pm - Sumant Digikul: kindly let me know if its visible now
+04/08/22, 11:49 pm - Pranav Digikull: its not visible
+04/08/22, 11:50 pm - 𝐀’𝟎𝟎𝟏 🐾: Practice session @ 9am??
+04/08/22, 11:50 pm - +91 89820 87239: Its visible sir
+04/08/22, 11:50 pm - 𝐀’𝟎𝟎𝟏 🐾: It's visible
+04/08/22, 11:50 pm - Sumant Digikul: yes with kapil sir
+04/08/22, 11:50 pm - Sumant Digikul: as you guys said the last few topics went fast
+04/08/22, 11:50 pm - Pranav Digikull: my teams is not working sir
+04/08/22, 11:51 pm - Sumant Digikul: so some practice will be done on those
+04/08/22, 11:51 pm - Sumant Digikul: send me the ss in dm
+05/08/22, 8:29 am - Pranav Digikull: <Media omitted>
+06/08/22, 4:01 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_M2UzYmIwOWMtMzU5Mi00NGQ5LTg3MjktMWQyNmFlNGRhYTcx@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+06/08/22, 4:01 pm - Sumant Digikul: Guys join the session
+06/08/22, 6:55 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_ZGJiZGQwYTAtZGYxOS00OTU5LWJhZTgtOWE5NDQ1ZjQ5NmY3@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+06/08/22, 6:55 pm - Sumant Digikul: Guys join the session
+07/08/22, 10:01 pm - +91 70174 96336: Hello mam se bol dena meeting delete ho gyi
+07/08/22, 10:01 pm - +91 70174 96336: <Media omitted>
+07/08/22, 10:01 pm - +91 70174 96336: Join ka option beje vo show hota hai
+07/08/22, 10:06 pm - +91 70174 96336: <Media omitted>
+07/08/22, 10:06 pm - +91 70174 96336: Sr meeting join nhi kr pa rha hu
+07/08/22, 10:19 pm - Sumant Digikul: You are in which group ?
+08/08/22, 12:40 am - Sumant Digikul: Guys submit your assignments
+08/08/22, 12:40 am - Sumant Digikul: Tomorrow there is no class your next class will be on Tuesday
+08/08/22, 12:41 am - Sumant Digikul: Both groups mentoring will happen on Tuesday Thursday and Saturday
+08/08/22, 12:41 am - Sumant Digikul: One group in the morning 10 to 11
+08/08/22, 12:41 am - Sumant Digikul: And other at night
+08/08/22, 12:42 am - 𝐀’𝟎𝟎𝟏 🐾: Which group is at morning sir?
+08/08/22, 12:43 am - Sumant Digikul: Calendar will be updated tomoy
+08/08/22, 12:43 am - Sumant Digikul: Tomorrow
+08/08/22, 12:43 am - 𝐀’𝟎𝟎𝟏 🐾: Okay sir
+08/08/22, 1:02 am - Pranav Digikull: I am facing problem with replit
+08/08/22, 4:56 pm - Sumant Digikul: Guys join the session at 5 and clear your replit doubts
+08/08/22, 5:06 pm - Sumant Digikul: Guys join the doubt session
+08/08/22, 5:06 pm - Sumant Digikul: after this no other replit doubt session will be given to you
+08/08/22, 5:07 pm - +91 99155 06320: Please take this class on regular class time
+08/08/22, 5:08 pm - +91 99155 06320: Because i am not able to join right now
+09/08/22, 11:18 am - You changed this group's icon
+09/08/22, 10:21 pm - Sumant Digikul: Hi guys tomorrow's session will be at 9 am in the morning
+09/08/22, 10:21 pm - Sumant Digikul: You will get invite in some time
+11/08/22, 12:28 pm - Krishan Kumar Digikull: <Media omitted>
+11/08/22, 9:49 pm - Ashish Digikull: Sumant sir
+Do we have sessions tommorow (Friday)
+11/08/22, 9:50 pm - Ashish Digikull: Calender is not updated
+11/08/22, 10:24 pm - Sumant Digikul: Yes same time from 9 am onwards
+12/08/22, 9:04 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Matplotlib remaining and practice session 
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmU2MDc1OGQtNTc0Ny00YzU3LTllZWItMGRhYTAwM2FkM2Nj%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+12/08/22, 9:04 am - Sumant Digikul: Guys join the session
+13/08/22, 6:41 pm - +91 70174 96336: Sir evening me network nhi chlta hai best
+13/08/22, 6:41 pm - +91 70174 96336: To kya only morning ho skti hai metting
+13/08/22, 6:42 pm - +91 70174 96336: Automatically bahar aa jata hu metting se
+13/08/22, 6:42 pm - +91 70174 96336: Ran into a problem krke show hota hai
+13/08/22, 6:43 pm - +91 70174 96336: Or kabhi kabhi ma aakela hi rahata hu metting me
+13/08/22, 6:56 pm - +91 70665 24796: <Media omitted>
+13/08/22, 7:22 pm - Sumant Digikul: Guys don't join using phone
+13/08/22, 7:23 pm - Sumant Digikul: And if you are using jio network it will give a lot of errors
+13/08/22, 7:23 pm - Sumant Digikul: We are figuring out what's the issue most probably a update of teams is causing this
+13/08/22, 7:24 pm - Pranav Digikull: mobile switch off karke on karke dekho bad me karo
+13/08/22, 7:31 pm - +91 70665 24796: Ok
+13/08/22, 7:59 pm - +91 70174 96336: Sir idea ha
+14/08/22, 5:24 pm - +91 6200 132 423: Hello sumant sir, I'm not able to join correct meeting, whenever I join it looks like i'm only in the meeting
+14/08/22, 5:33 pm - +91 6200 132 423: When someone send message in meeting then only I can go through with that link then i'm able to join otherwise whenever I try to join with teams, it looks like  that's not the same meeting.
+14/08/22, 5:33 pm - +91 6200 132 423: Please fix this issue as soon as possible
+14/08/22, 5:48 pm - Sumant Digikul: Send your I'd and pass to me directly
+14/08/22, 5:52 pm - +91 6200 132 423: ok
+15/08/22, 8:59 am - Krishan Kumar Digikull: <Media omitted>
+19/08/22, 12:36 am - Sumant Digikul: https://forms.office.com/r/BRpGWm6w0Z
+Hi guys Fill the feedback form for sarika
+19/08/22, 2:54 pm - Sumant Digikul: Guys fill fast
+19/08/22, 2:55 pm - Sumant Digikul: And also let me know if you want practice sessions with her
+19/08/22, 3:10 pm - Sajan Digikull: Yes
+19/08/22, 3:14 pm - +91 99155 06320: Yes i also want
+19/08/22, 3:33 pm - Krishan Kumar Digikull: Yes
+19/08/22, 3:36 pm - +91 70174 96336: Sir google form open nhi ho rha
+19/08/22, 3:37 pm - +91 70174 96336: Or hota hai to baar baar sign option khul raha hai
+19/08/22, 3:37 pm - Sumant Digikul: Google nahi hai guys Microsoft form hai
+19/08/22, 3:37 pm - Sumant Digikul: Outlook se jaaake try Karo open karne ki
+19/08/22, 3:51 pm - 𝐀’𝟎𝟎𝟏 🐾: Yes, we want more practice session by her.
+19/08/22, 4:17 pm - Sumant Digikul: Ok great
+19/08/22, 4:17 pm - Sumant Digikul: From Monday onwards you can expect these sessions
+19/08/22, 4:17 pm - Sumant Digikul: And we will begin excel as well
+19/08/22, 4:19 pm - Sajan Digikull: Ok sir
+19/08/22, 6:26 pm - Sumant Digikul: You're invited to a Teams meeting!
+
+Catch Up session with Aryan and Himanshu Sir
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTExMzIyMmUtNjNmOC00ZmRlLWE5ZWItNjkxMzhiOTNkMzU4%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+19/08/22, 6:26 pm - Sumant Digikul: Guys join the session
+19/08/22, 6:30 pm - Sumant Digikul: Guys join fast
+19/08/22, 6:30 pm - Sumant Digikul: Why so less people have joined ?
+19/08/22, 6:33 pm - Sumant Digikul: Guys himanshu sir has joined
+20/08/22, 1:19 pm - Sumant Digikul removed +91 79997 52132
+20/08/22, 1:19 pm - Sumant Digikul removed +91 90241 51973
+20/08/22, 1:20 pm - Sumant Digikul removed +91 98818 88285
+21/08/22, 6:02 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_ZDAzNmNhOGYtNTNjMi00MTVkLWJkMjgtZTNmMWQzNzcxMjM5@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+21/08/22, 6:04 pm - Sumant Digikul: Guys join
+21/08/22, 6:23 pm - +91 70174 96336: <Media omitted>
+21/08/22, 6:23 pm - +91 70174 96336: Sir meeting not showing
+21/08/22, 6:29 pm - +91 70174 96336: Sir 2 din baad class show ho rhi hai
+21/08/22, 6:30 pm - Sumant Digikul: join using link
+25/08/22, 9:03 am - Sumant Digikul: Guys join the session
+25/08/22, 9:04 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Mentorship session - may da
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTQ1ZDAzZTAtN2MwMC00ZTdlLTg4MDktOTNmOWE3MDgxNTBh%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+25/08/22, 6:27 pm - Sumant Digikul: You're invited to a Teams meeting!
+
+Practice session - dict,set,tuple - May DA FT
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmIzNDE0MWUtN2UxMC00ZTJjLWIyNTctNjg3NjViMjRhNzRm%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+25/08/22, 6:27 pm - Sumant Digikul: Guys join the session
+25/08/22, 6:28 pm - Sumant Digikul: <Media omitted>
+28/08/22, 8:31 am - +91 70174 96336: <Media omitted>
+28/08/22, 8:32 am - +91 70174 96336: Sir ye mail mere email pr kyu show ho raha hai
+Mera email to anuragkush879@gmail.com hai
+28/08/22, 8:35 am - +91 70174 96336: Email ke Bcc me mere ko kyu tag kiya hai?
+28/08/22, 10:44 am - Kapil Sharma Digikull: <Media omitted>
+28/08/22, 6:00 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_ZmZlNTk4ZGYtOTNmYi00NTI2LWE4NzItMzBmMmZiOGU1Nzg3@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+28/08/22, 6:00 pm - Sumant Digikul: Guys join the session
+28/08/22, 7:35 pm - Sajan Digikull: Guys join the session kapil sir is waiting
+31/08/22, 9:02 am - Kapil Sharma Digikull: <Media omitted>
+02/09/22, 2:02 pm - Sumant Digikul: https://forms.office.com/r/gYmTLmDngS
+02/09/22, 2:02 pm - Sumant Digikul: Guys Fill the Feedback Form ASAP
+02/09/22, 8:27 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_Yzc0Mzc5NTItMzc4ZS00ZWM1LWI0ZjQtNWRkMzMyY2UxNzJm@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+02/09/22, 8:31 pm - Sumant Digikul: Guys join fast
+02/09/22, 8:32 pm - Sumant Digikul: Why so less people have joined
+02/09/22, 8:32 pm - Sumant Digikul: Rest of you guys join fast
+03/09/22, 10:17 am - +91 99155 06320: @918527162682 yesterday class lecture is not available on team  but i want to access that class because i was absent so how i can access it??
+03/09/22, 6:25 pm - Kapil Sharma Digikull: Hey Everyone,
+Session will start at 7 pm
+03/09/22, 6:31 pm - Sumant Digikul: Will share both classes today
+05/09/22, 9:03 am - +91 99155 06320: Still recorded lecture is not available
+05/09/22, 11:00 pm - Sumant Digikul: Guys Fill this feedback form ASAP
+05/09/22, 11:00 pm - Sumant Digikul: and tomorrow there will be a catch up session of you guys with Himanshu Sir
+05/09/22, 11:01 pm - Sumant Digikul: We will begin the mentoring sessions after that
+07/09/22, 4:57 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_NDk3YzBlNGMtYWZkNS00MTcxLTkyNGEtYWQwOWZjNDU3OGVl@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+07/09/22, 4:57 pm - Sumant Digikul: Guys join the session
+07/09/22, 6:01 pm - Sumant Digikul changed the group description
+08/09/22, 9:01 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Mentorship session- May DA FT
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg2MWE3NjctYWU2My00ZTRkLTgzNTUtYWI1YjQ1NDZlMThi%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+09/09/22, 3:40 pm - Sumant Digikul: Hi guys todays session is rescheduled to 4:00 PM
+11/09/22, 4:01 pm - Sumant Digikul: This message was deleted
+11/09/22, 4:01 pm - Sumant Digikul: Guys join the session
+12/09/22, 3:21 pm - Sumant Digikul: https://forms.office.com/r/bgK31BQgBi
+Guys Fill the feedback form for Vishal sir
+12/09/22, 3:21 pm - Sumant Digikul: guys be detailed and fill ASAP
+12/09/22, 6:33 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_YTFmNTAyZGQtYjRiMi00YmM0LTkyYmItNjczNDE1ZmFhMzYz@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+12/09/22, 6:33 pm - Sumant Digikul: Guys join the session
+14/09/22, 6:45 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_MjViOTY2NTYtNGVmZS00ZTQ0LTg4NmUtZThmYjE3MGQ0Mjkx@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+14/09/22, 6:45 pm - Sumant Digikul: Guys join the session
+14/09/22, 9:34 pm - Sumant Digikul: This message was deleted
+16/09/22, 9:11 am - Sumant Digikul: You're invited to a Teams meeting!
+
+VBA continue - May DA FT
+
+https://teams.microsoft.com/l/meetup-join/19%3aeUpNjOM97DyVj2dZgnAgvw2gl5LUcuQp-oCkRO7Xe-Q1%40thread.tacv2/1663253984589?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+17/09/22, 10:02 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Sheets Functions, Range Functions, Public/Private Subs - May DA FT
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjhiMjA5YjYtOTg2MS00M2U3LTgwODAtODllYTIxNTU5NmQ0%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+17/09/22, 10:02 am - Sumant Digikul: Guys join the session
+17/09/22, 6:43 pm - Sumant Digikul: Guys your live coding is rescheduled to Monday
+17/09/22, 9:06 pm - Pranav Digikull: there is no option for joining the meeting
+17/09/22, 9:06 pm - Sumant Digikul: Which one ?
+17/09/22, 9:06 pm - 𝐀’𝟎𝟎𝟏 🐾: Mentorship session
+17/09/22, 9:06 pm - Pranav Digikull: there is no join buttun on teams app
+17/09/22, 9:07 pm - Sajan Digikull: Joining button is disable
+17/09/22, 9:07 pm - Pranav Digikull: is meeting started
+17/09/22, 9:07 pm - Sajan Digikull: Yes
+17/09/22, 9:07 pm - Pranav Digikull: send someone link
+17/09/22, 9:08 pm - Sajan Digikull: <Media omitted>
+17/09/22, 9:08 pm - Pranav Digikull: same here
+17/09/22, 9:08 pm - Pranav Digikull: how do you join
+17/09/22, 9:09 pm - Sumant Digikul: Try now
+18/09/22, 1:11 pm - Sumant Digikul: Guys no session for today Vishal sir is not available
+19/09/22, 3:33 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_ZGI3ZmZmZGEtNTJmYy00ZGRmLWIwMjctNmE0MDZjOTI5NGUw@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+19/09/22, 3:33 pm - Sumant Digikul: Guys join
+19/09/22, 3:37 pm - Sumant Digikul: Only 8 are presents
+19/09/22, 3:38 pm - Sumant Digikul: will not let absentees attend any further classes
+19/09/22, 3:44 pm - Sumant Digikul: quilgo.com/t/O2qZtinYTckX1W5R
+19/09/22, 6:08 pm - Sumant Digikul: Guys submit before time limit
+19/09/22, 6:09 pm - Pranav Digikull: google form shows 40 min more
+20/09/22, 7:21 am - Sumant Digikul: Guys today's session is not cancelled it's still on
+20/09/22, 7:21 am - Sumant Digikul: So join at 9 am
+20/09/22, 9:05 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Rows,Columns Ranges, errors,Arrays - May DA FT
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjA5NThlNTctOThjZi00ZDk4LWEwZDctOTk3MmQyZGJmODVl%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+20/09/22, 9:05 am - Sumant Digikul: Guys join the session
+20/09/22, 9:06 am - Sumant Digikul: Guys join fast
+20/09/22, 9:08 am - Pranav Digikull: This message was deleted
+20/09/22, 9:08 am - Pranav Digikull: https://www.youtube.com/playlist?list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f
+21/09/22, 9:31 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Practice session - May DA FT 
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWRhZGM1YTQtZDAzNC00MjZkLTg5ZjctZGZhN2MzN2NlMTYz%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+21/09/22, 9:31 am - Sumant Digikul: Hi guys
+21/09/22, 9:31 am - Sumant Digikul: Join the session
+21/09/22, 9:31 am - Sumant Digikul: Sorry for the delay
+21/09/22, 9:31 am - Sumant Digikul: Vishal thought the session was mentorship or something
+22/09/22, 10:03 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Doubt session - May DA FT
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGE3YTE5NTItNmRmOS00YTQyLTgyYmMtZTk4ZmM4ZjAyM2Mw%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+22/09/22, 10:03 am - Sumant Digikul: Guys join the session
+22/09/22, 10:04 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Doubt session - May DA FT
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGE3YTE5NTItNmRmOS00YTQyLTgyYmMtZTk4ZmM4ZjAyM2Mw%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+22/09/22, 10:04 am - Sumant Digikul: Guys join fast
+22/09/22, 10:06 am - Sumant Digikul: Why rest haven't joined?
+23/09/22, 9:03 am - Sumant Digikul: Guys the class is postponed to 10 am
+23/09/22, 9:04 am - Sumant Digikul: Sorry for the last minute update
+23/09/22, 4:42 pm - Sumant Digikul: https://forms.office.com/r/6sAhaTwj8D
+23/09/22, 4:42 pm - Sumant Digikul: Guys fill the feedback form for vishal sir
+23/09/22, 4:42 pm - Sumant Digikul: And guys an update
+23/09/22, 4:43 pm - Sumant Digikul: MAKE SURE EVERYONE IS ACTIVE FROM NOW ON IN EACH AND EVERY SESSION AS YOU ALL ARE GETTING CLOSE TO INTERVIEW PREPERATION
+23/09/22, 4:43 pm - Sumant Digikul: YOU WILL GET YOUR FINAL DA PROJECT NEXT TO NEXT WEEK
+23/09/22, 6:42 pm - Sumant Digikul: Hi Guys I have scheduled mock for some students this weekend kindly check
+24/09/22, 8:55 am - Sumant Digikul: Guys the class will start at 9:10
+24/09/22, 9:10 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Introduction to Power BI - May DA FT
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWY1MTJmN2ItMTM1MS00NTc5LTkzYjQtMTI1MTM5NzdjNTYy%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+24/09/22, 9:10 am - Sumant Digikul: Guys join the session
+24/09/22, 9:11 am - Sumant Digikul: Very few have joined
+24/09/22, 9:11 am - Sumant Digikul: Rest guys join
+25/09/22, 9:00 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Power query editor - May DA FT
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWRiZWQ2MTYtNGNkYS00Mzk2LWE1MWUtNjkwZDkzNTRjOWVm%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+25/09/22, 9:00 am - Sumant Digikul: Guys join the session
+25/09/22, 9:01 am - Sumant Digikul: Guys join the session
+25/09/22, 9:01 am - Sumant Digikul: Only two people have joined
+25/09/22, 9:11 am - Sumant Digikul: <Media omitted>
+26/09/22, 4:26 pm - Sumant Digikul: Hi General
+Kindly Go these recording of web scraping this will be needed in your final project,
+Web Scrapping , How internet works-_ browser, etc host, isp, dns, ip client, server(oct da)-20211120_182242-Meeting Recording.mp4
+We will have classes of Web Scrapping but before that go through this and get an overview of web scrapping,
+Kindly Update me after watching this session and create your own notes by 28th october.4
+27/09/22, 11:20 am - Sumant Digikul: Guys how many of you have watched the web scrapping lecture ?
+27/09/22, 11:24 am - Pranav Digikull: ✋
+27/09/22, 11:28 am - Sumant Digikul: Have you prepared some notes ?
+27/09/22, 11:28 am - Sumant Digikul: Guys what about the rest ?
+27/09/22, 11:28 am - Pranav Digikull: I tried same on google colab
+27/09/22, 11:34 am - 𝐀’𝟎𝟎𝟏 🐾: ✋🏻
+27/09/22, 11:45 am - Ashish Digikull: i
+27/09/22, 8:24 pm - Sumant Digikul: guys todays mentoring session is rescheduled to tomorrow
+27/09/22, 8:25 pm - Sumant Digikul: All kindly view the web scrapping lecture instead and prepare notes and doubts
+28/09/22, 9:00 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Power query editor Menu Tabs- May DA FT 
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2VlNGU1ZWUtOTI0MS00ZmExLTlkOWItNzg4YWM3ZjJiNzI0%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join. Guys join the session
+28/09/22, 9:01 am - Sumant Digikul: Guys join fast only two people have joined
+28/09/22, 4:12 pm - Sumant Digikul: Hi Guys everyone has to give the mock interview their are no exceptions
+28/09/22, 4:12 pm - Sumant Digikul: Athavan
+Krishna
+Shahnawaz 
+Ashish shimpi
+Anurag
+Yogita
+this has given the mock
+28/09/22, 4:12 pm - Sumant Digikul: these Students*
+28/09/22, 4:13 pm - Sumant Digikul: sajan 
+swati 
+shweta 
+pranav 
+krishan 
+these students need to give by this weekend
+29/09/22, 9:02 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Doubt session - May DA FT 
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzc0OTkyNDctYTZjNi00ZGQ1LTk5N2YtNmUxODg2MzllNjc5%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+29/09/22, 9:09 am - Sumant Digikul: Guys join the session
+29/09/22, 9:09 am - Sumant Digikul: ?
+29/09/22, 9:09 am - Sumant Digikul: Only two people have joined it
+29/09/22, 9:10 am - Sumant Digikul: Guys why don't you all join on time ?
+30/09/22, 9:09 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Desktop(Power BI menu tabs ) - May DA FT 
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjM3MjI3NzAtNWQ4Zi00MTBjLWI4NmUtYzcwMDRiY2Q1MzJm%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+30/09/22, 9:09 am - Sumant Digikul: Hi guys Join the session
+30/09/22, 9:10 am - Sumant Digikul: Vishal sir will be 15 minutes late
+30/09/22, 10:18 am - Sumant Digikul: Hi guys today you will have a class from 7pm to 8:30 for SQL
+30/09/22, 10:18 am - Sumant Digikul: You will get invite in some time
+30/09/22, 6:11 pm - Sumant Digikul: Wrong group guys
+30/09/22, 6:11 pm - Sumant Digikul: You have catch up session at 6:30
+30/09/22, 6:11 pm - Sumant Digikul: Kindly join that at time
+30/09/22, 6:34 pm - Pranav Digikull: <Media omitted>
+01/10/22, 8:02 am - Sumant Digikul: Hi guys those who had mock today their interviews is postponed to later today
+01/10/22, 8:03 am - Sumant Digikul: Kindly check the calendar and join accordingly
+02/10/22, 8:54 am - Sumant Digikul: Guys session is postponed by half an hour
+02/10/22, 9:34 am - Sumant Digikul: You're invited to a Teams meeting!
+
+Practice and Closure of POWER BI - May DA FT
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzNjODQ5N2EtMWYyNy00Zjc4LTg5YzAtODY2OGMzMzRlMTU5%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+
+Tap on the link or paste it in a browser to join.
+03/10/22, 9:13 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_YTEzMmJjNDQtNzZlZi00YTZmLTgzNzktMTQ5YTUwY2JmYmZl@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+03/10/22, 9:13 pm - Sumant Digikul: Guys join the session
+07/10/22, 9:47 pm - Kapil Sharma Digikull: <Media omitted>
+07/10/22, 9:50 pm - Kapil Sharma Digikull: https://youtube.com/playlist?list=PLLUqKY4VQM7ft3y1oFdlfc44Ob7Uqk5K0
+07/10/22, 10:21 pm - Pranav Digikull: This message was deleted
+08/10/22, 10:05 am - Sumant Digikul removed +91 73851 31319
+11/10/22, 4:06 pm - Sumant Digikul: @918983015356 @918604666315  Guys you both have your project mock interview today
+11/10/22, 4:08 pm - Sumant Digikul: Kindly check your calendar
+12/10/22, 5:14 pm - Sumant Digikul: https://forms.office.com/r/MgAaY7Ra0D
+Guys Fill this form  ASAP
+12/10/22, 5:14 pm - Sumant Digikul: Detailed feedback of sarika
+12/10/22, 5:14 pm - Sumant Digikul: dont worry about your names wont be shared anywhere you are free to write your views
+12/10/22, 5:34 pm - Sumant Digikul added Kishan Digikull
+12/10/22, 5:35 pm - Kishan Digikull: This message was deleted
+12/10/22, 5:35 pm - Kishan Digikull: This message was deleted
+12/10/22, 5:46 pm - Kishan Digikull: https://forms.office.com/r/RUSxR4xaGG
+12/10/22, 5:46 pm - Kishan Digikull: Fill this form guys
+12/10/22, 5:54 pm - Sumant Digikul: Guys Fill the form ASAP
+12/10/22, 5:54 pm - Sumant Digikul: This at priority
+13/10/22, 8:44 pm - Kapil Sharma Digikull: <Media omitted>
+13/10/22, 11:07 pm - Sumant Digikul: Hi guys
+13/10/22, 11:07 pm - Sumant Digikul: Let me know whose project mock is pending
+13/10/22, 11:08 pm - Sumant Digikul: Those who have submitted but not given the project mock
+13/10/22, 11:10 pm - 𝐀’𝟎𝟎𝟏 🐾: Me
+14/10/22, 8:16 am - Pranav Digikull: Me
+14/10/22, 9:00 am - +91 70665 24796: Me
+14/10/22, 9:27 am - Krishna Kant Digikull: Me
+14/10/22, 12:01 pm - Sumant Digikul: <Media omitted>
+14/10/22, 2:08 pm - Sumant Digikul: Shweta kindly call me ASAP
+14/10/22, 2:10 pm - +91 89820 87239: Ok sir
+14/10/22, 2:13 pm - Sumant Digikul: Yogita , pranav and krishna kant call me ASAP
+14/10/22, 2:20 pm - Sumant Digikul: Pranav call again
+14/10/22, 5:37 pm - Sumant Digikul: HI Guys
+14/10/22, 5:37 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGI3ZjE4OTMtZWEzNC00MjgyLWI1ZmUtZWEzM2UwMGJhYWE2%40thread.v2/0?context=%7b%22Tid%22%3a%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22%2c%22Oid%22%3a%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7d
+14/10/22, 5:37 pm - Sumant Digikul: join the session at 6 PM
+14/10/22, 5:38 pm - Sumant Digikul: Update: In the test you don't need to do the coding on replit
+14/10/22, 5:56 pm - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_MGI3ZjE4OTMtZWEzNC00MjgyLWI1ZmUtZWEzM2UwMGJhYWE2@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+14/10/22, 5:56 pm - Sumant Digikul: Guys join the session
+14/10/22, 5:58 pm - Sumant Digikul: Guys join fast
+14/10/22, 6:22 pm - Sumant Digikul: Guys some of the students mock are rescheduled to Sunday
+15/10/22, 8:56 am - Sumant Digikul: https://teams.microsoft.com/l/meetup-join/19:meeting_ZDY0ZjdiOTItMTMwNy00ZDk1LWI3NTYtMzZiMDdjZTg3NTRl@thread.v2/0?context=%7B%22Tid%22:%22b5e77a2d-6845-4cd5-8cc6-828b3b988bb5%22,%22Oid%22:%228cc1d009-2a43-4669-a554-816e18b2a3f2%22%7D
+15/10/22, 8:56 am - Sumant Digikul: Guys join the test
+15/10/22, 9:01 am - Sumant Digikul: quilgo.com/t/QJRMBTNV1wVofTkQ
+16/10/22, 1:03 pm - Sumant Digikul: Guys join the session
+17/10/22, 7:11 pm - Sumant Digikul: Guys Join the session at 7:30
+17/10/22, 7:25 pm - Sumant Digikul: Everyone should be present in the session its mandatory

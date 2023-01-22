@@ -1,0 +1,17 @@
+[1/11/23, 16:11:21] Group Chat XXX: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[1/11/23, 16:11:21] ‎You created group “Group Chat”
+[1/11/23, 16:11:38] ‎You changed the group description
+[1/11/23, 16:11:56] ‎You changed this group's icon
+[1/11/23, 16:12:48] ‎You changed this group's settings to allow only admins to send messages to this group
+[1/11/23, 16:12:57] ‎You changed this group's settings to allow only admins to edit this group's info
+[1/11/23, 16:13:00] ‎You changed this group's settings to allow all participants to edit this group's info
+[1/11/23, 16:14:32] ‎Elon Musk changed the subject to “Group Chat XXX”
+[1/11/23, 16:14:53] ‎‎‎Elon Musk turned on disappearing messages. ‎New messages will disappear from this chat ‎24 hours after they're sent. ‎Tap to change.
+[1/11/23, 16:14:59] ‎‎‎Elon Musk updated the message timer. ‎New messages will disappear from this chat ‎7 days after they're sent. ‎Tap to change.
+[1/11/23, 16:15:02] ‎‎‎Elon Musk updated the message timer. ‎New messages will disappear from this chat ‎90 days after they're sent. ‎Tap to change.
+[1/11/23, 16:15:05] ‎‎Elon Musk turned off disappearing messages. ‎Tap to change.
+[1/11/23, 16:15:35] ‎Elon Musk changed the group description
+[1/11/23, 16:21:09] ‎Tony Stark joined using this group's invite link
+[1/11/23, 16:21:59] ‎You removed Tony Stark
+[1/11/23, 16:26:02] Dmitry Starkov: Hello all
+[1/11/23, 16:26:11] Dmitry Starkov: This is group chat

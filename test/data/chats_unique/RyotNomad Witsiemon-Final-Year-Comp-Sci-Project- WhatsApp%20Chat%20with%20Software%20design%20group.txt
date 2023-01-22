@@ -1,0 +1,916 @@
+3/17/19, 12:53 PM - Panda🐼: Hopefully you can hear it
+3/17/19, 1:10 PM - Given: Thanks
+3/17/19, 4:43 PM - medici.child🕯: Thank you 👏🏽
+3/17/19, 5:20 PM - Given: Guys we are meeting during lab time?
+3/17/19, 6:43 PM - medici.child🕯: Yes✅
+3/17/19, 6:57 PM - Given: I don't think I will make it, just being informed that there is a funeral at home can I be updated on WhatsApp?
+3/17/19, 7:25 PM - medici.child🕯: Ayt, sorry for ur loss fam 🙏🏽
+3/18/19, 1:14 PM - Panda🐼: Guys, I'm sorry I won't make it to the lab today
+3/18/19, 1:21 PM - Farhaan: Can we  cancel and discuss what to do over whatsapp?
+3/18/19, 1:23 PM - Given: Better
+3/18/19, 1:47 PM - medici.child🕯: Eish guyz we need a picture for the daily scrum, can y'all make it on Wednesday then
+3/18/19, 1:55 PM - Panda🐼: That could work
+3/18/19, 2:21 PM - medici.child🕯: Yo Vasty are u at the lab
+3/18/19, 2:51 PM - Given: As for me will be back on Sunday
+3/18/19, 3:17 PM - Vasty: Hades bro, im in lab 6
+3/18/19, 3:17 PM - Vasty: You still there?
+3/18/19, 3:25 PM - medici.child🕯: Yeah, lab 5 bro
+3/18/19, 3:26 PM - medici.child🕯: Eish 🙆🏽‍♂, ok it's fine, it is what it is 🤷🏽‍♂
+3/18/19, 3:27 PM - Given: But if everyone is available you can meet on Wed for the pic
+3/18/19, 3:54 PM - Vasty: Hmm... Schuks, is anyone available tomorrow?
+3/18/19, 4:16 PM - medici.child🕯: Wednesday fam , let's meet than
+3/18/19, 4:48 PM - Panda🐼: Wednesday is graduation day won't be available
+3/19/19, 12:16 AM - medici.child🕯: Eish, ok, we will have to meet next week then,
+3/19/19, 7:24 AM - Vasty: But can we discuss what to do so long?
+3/19/19, 7:54 AM - medici.child🕯: Yeah
+
+I added what Steve needed us to do, on taiga,  we just have to add tasks and assign them to people
+3/19/19, 8:15 AM - Vasty: Okay awes
+3/19/19, 2:14 PM - Vasty: Gents, can you swing me your student numbers so that Hims can grant us access to lamp
+3/19/19, 2:21 PM - Farhaan: Lmao hims
+3/19/19, 2:21 PM - Farhaan: 1490060
+3/19/19, 4:04 PM - Panda🐼: 1075587
+3/19/19, 4:08 PM - Given: 1145881
+3/19/19, 4:47 PM - medici.child🕯: 1599695
+3/24/19, 3:41 PM - Vasty: Gents, Hims still hasn’t gotten back to me...
+3/24/19, 7:38 PM - medici.child🕯: Ok, let's just work on the stuff we can for now
+
+Let's finish the map, and do it as discussed before
+
+And pls select what y'all wanna work on, the backlog for this sprint on Taiga
+3/24/19, 7:40 PM - Given: So the map we are working according to the way we planned b4?
+3/24/19, 7:40 PM - medici.child🕯: Yes
+3/25/19, 10:39 PM - Given: Guys will you all manage to meet this Wednesday even if it's for 30min?
+3/25/19, 10:41 PM - Vasty: I can make it...
+3/25/19, 10:43 PM - Vasty: Tiled is giving me issues and Hima still hasn’t gotten back to me.
+3/25/19, 10:45 PM - Given: Do you think she is around in the office during this holidays?
+3/26/19, 2:58 PM - medici.child🕯: I can be there as well
+3/26/19, 2:59 PM - medici.child🕯: Try it on windows bro, it's working for me
+3/26/19, 3:46 PM - medici.child🕯: Pls make sure you all design the maps and finish them by this week
+
+We will do all the server side tasks next week, since Hims is not available
+3/26/19, 3:47 PM - medici.child🕯: Should we hold the meeting Wednesday, Thursday or Friday??
+
+Respond as soon as you can
+3/26/19, 4:58 PM - Given: To me any day is fine
+3/27/19, 7:27 AM - Farhaan: Same
+3/27/19, 8:36 AM - Vasty: Wednesday as in Today?
+3/27/19, 8:37 AM - Vasty: I’m okay with today
+3/27/19, 9:10 AM - Panda🐼: I'm not available today between 12 and 3
+3/27/19, 10:30 AM - medici.child🕯: What about tomorrow
+3/27/19, 10:31 AM - Panda🐼: I am available tomorrow
+3/27/19, 10:31 AM - medici.child🕯: Ok let's do it tomorrow, what time is everyone cool with??
+3/27/19, 11:09 AM - Vasty: Lunch seems okay
+3/27/19, 11:15 AM - Farhaan: Yup
+3/27/19, 11:15 AM - Farhaan: Do we need to have our maps done by tomorrow?
+3/27/19, 4:36 PM - Given: Awe👊🏾
+3/27/19, 4:48 PM - medici.child🕯: Nah, that has to been done before the meeting with Steve, which is Friday...next week
+3/27/19, 4:49 PM - Farhaan: cool cool, so what are we meeting on tomorrow?
+3/27/19, 4:50 PM - medici.child🕯: The picture bro 🤷🏽‍♂
+
+And I guess we can just clear any questions people may have
+3/27/19, 4:51 PM - Farhaan: 👍 okay awe,
+3/27/19, 8:45 PM - Vasty: Okay, I finally sorted out my Tiled issues. Gents with the map, what’s scale are we using? And also, we need to have consistent tilesets otherwise each of our maps will look different.
+3/27/19, 8:46 PM - Vasty: If you’ve already started on a map, could you please bring it with tomorrow so we can decide which direction to take with the scale and tileset
+3/27/19, 8:54 PM - medici.child🕯: I just made it 1:5 scale
+
+So each tile map is equal to 5m in real life 
+
+It obviously doesn't have to be exact though, just estimate it. 
+
+Also make sure the tile is 16x16 pixels
+Tuxemon works on that configuration
+3/27/19, 8:58 PM - Vasty: Awes... what tileset did you use though?
+3/27/19, 9:00 PM - medici.child🕯: It's on tuxemon, in resources > gfx > tilesets
+If I remember correctly
+3/27/19, 9:01 PM - Vasty: Awes... those are the ones I’m using too.
+3/27/19, 9:01 PM - Vasty: And your map size is 16x16 or is that the pixel length and pixel width?
+3/27/19, 9:02 PM - medici.child🕯: That's the pixel length
+
+Don't worry about the map size, we can change that anytime, so for now use what ever size
+3/27/19, 9:03 PM - Vasty: Okay, awes
+3/28/19, 10:51 AM - Given: And as for me I'm being assigned to West Lower part is it barnato side or sterock pack?
+3/28/19, 1:12 PM - Panda🐼: We're here outside MSL
+3/28/19, 1:17 PM - Given: I will be there after half 1 how many are you so far?
+3/28/19, 1:19 PM - Panda🐼: <Media omitted>
+3/28/19, 1:19 PM - Panda🐼: <Media omitted>
+3/28/19, 1:40 PM - Farhaan: We're all in the glass lab in msl
+3/28/19, 2:19 PM - Given: IMG-20190328-WA0000.jpg (file attached)
+3/28/19, 2:19 PM - Given: IMG-20190328-WA0001.jpg (file attached)
+3/31/19, 10:12 PM - Farhaan: are our map sections due tomorrow or friday?
+3/31/19, 11:21 PM - medici.child🕯: Friday, it's not necessary for us to meet tomorrow, by the way guyz.
+We just gotta work on the database and events
+4/1/19, 1:18 AM - Given: So the pic we won't take it during lab time we will take it on Friday?
+4/1/19, 12:12 PM - Farhaan: Guys, which tile are we using to indicate walkways?
+4/1/19, 1:21 PM - medici.child🕯: Yeah, or Wednesday 🤷🏽‍♂
+4/1/19, 1:22 PM - medici.child🕯: I just used the gray marble design one
+
+Which one works best??
+4/1/19, 1:23 PM - Farhaan: I used it too but the building roofs are a similar colour. My map is mostly gray so it's a bit difficult to read
+4/1/19, 1:25 PM - medici.child🕯: Eish, ok, try looking for another one...I'll also check
+4/1/19, 2:32 PM - medici.child🕯: Yo Vasty, 
+
+Have u gotten a response from Hims
+4/1/19, 2:36 PM - Vasty: I still haven’t bro 😂😂 I’m gonna go see her now
+4/1/19, 2:37 PM - Vasty: But apparently MSL is having server issues this week and I doubt Hima will be able to give me access
+4/1/19, 3:16 PM - Vasty: I went to see Hima, she says that we should have access by Tomorrow morning
+4/1/19, 3:21 PM - medici.child🕯: That's the thing bro 
+
+I think we should use this
+4/1/19, 3:21 PM - medici.child🕯: IMG-20190401-WA0001.jpg (file attached)
+4/1/19, 3:24 PM - Vasty: We can, set it up so long as a backup incase we still don’t have access tomorrow
+4/1/19, 10:05 PM - medici.child🕯: Team, I was speaking to Vasty about the project today
+
+Apparently, CI integration will be very difficult to run on Tuxemon, 
+
+So we thought  it's best if we rewrite the whole code, as I said before, by copy-pasting from Tuxemon
+
+This way we can detect errors and make daily commits because right now it looks like we not working
+4/1/19, 10:07 PM - Farhaan: So we start a new project and everyday we just select a random tuxemon file and upload it?
+4/1/19, 10:10 PM - medici.child🕯: Yes, but you also have to update it and stuff, because some of the files ain't working anymore
+4/2/19, 7:22 AM - Vasty: Gents Hima is drinking me hardcore... she still hasn’t given me access.
+4/2/19, 3:13 PM - medici.child🕯: It is what it is, let's use the online database
+4/2/19, 4:59 PM - medici.child🕯: Pls Send me ur GitHub usernames
+Apparently
+CI-integration is better there
+4/2/19, 5:30 PM - Vasty: vasty.kilolo@gmail.com
+4/2/19, 5:39 PM - medici.child🕯: So Vasy and Given are working on the Database
+
+I'm doing the events
+
+Someone has to design a box that displays the data on the Database
+
+We using python and we gotta finish all this by Friday
+
+It's not hard, we just gotta sleep late 🤷🏽‍♂
+4/2/19, 5:47 PM - Farhaan: I can do the boz
+4/2/19, 5:47 PM - Farhaan: Box
+4/2/19, 5:48 PM - Farhaan: Wait, so the maps and the display box are due friday?
+4/2/19, 5:53 PM - medici.child🕯: Ayt awe✌🏽
+4/2/19, 5:53 PM - medici.child🕯: Yeah, i mean we just gotta try and finish it, if we can't, we'll have to do it next sprint
+4/2/19, 7:27 PM - Given: Sprint is on Monday?
+4/2/19, 9:40 PM - medici.child🕯: Nah I'm talking about, Steve, cause we gotta show him this by on Friday 
+
+But I'll ask him if we can meet on Monday lunchtime so that we have the weekend
+4/3/19, 6:05 PM - medici.child🕯: Team, pls send me your Github usernames
+
+Vasty I sent you the invitation 
+I managed to get Travis to ran
+We just need coveralls and the badges now
+4/3/19, 6:06 PM - Panda🐼: 1075587@students.wits.ac.za
+4/3/19, 6:06 PM - Farhaan: Do we have to use our wits emails or we can usr personal github accounts?
+4/3/19, 6:07 PM - medici.child🕯: Personal GitHub is cool as well
+4/3/19, 6:08 PM - medici.child🕯: Steve said we can meet him on Monday, very beginning of lunch
+4/3/19, 6:08 PM - Farhaan: RyotNomad
+4/3/19, 8:55 PM - Given: Givengio
+4/4/19, 7:06 PM - Vasty: Awes gents, I finally got access from Hima. I’m thinking isn’t it a bit too late to do the PHP and database stuff now? I’ve setup a basic database to store login details and I wrote some PHP to work with the database.
+4/4/19, 7:07 PM - Vasty: What else is there to do with the database stuff, that is if we’re actually gonna implement it in this sprint
+4/4/19, 10:10 PM - medici.child🕯: Nah, remember Steve wants to see the data store on the database, on the screen, that's all he wants to see
+
+So we will input some input data
+
+
+We gonna have to look at the Tuxemon files and see what other data they want stored for the game
+4/4/19, 10:11 PM - medici.child🕯: BTW, do you have access to guthub
+Cause it looks like it didn't add you in, I think you gotta make a guthub account first
+4/4/19, 10:30 PM - Vasty: I have access I think
+4/4/19, 10:31 PM - Vasty: Wait, I’ve joined the bezos group but I can’t see any repos
+4/5/19, 1:24 PM - Vasty: Gents are we meeting up or what?
+4/5/19, 1:29 PM - Panda🐼: I have a presentation till 4
+4/5/19, 1:42 PM - Farhaan: Aren't we meeting monday lunch time?
+4/5/19, 1:55 PM - Vasty: Awes 😂😂
+4/5/19, 5:52 PM - medici.child🕯: Yeah I can't find a way to upload the repo on to the team dashboard
+
+But I did invite you'll as contributors, so that should of been sent as an invitation as well
+4/5/19, 5:52 PM - medici.child🕯: We meeting Steve on Monday 😔
+4/6/19, 1:33 PM - Farhaan: This message was deleted
+4/6/19, 1:33 PM - Farhaan: This message was deleted
+4/6/19, 2:07 PM - Farhaan: Have yall managed to get tuxemon running in win7?
+4/6/19, 6:47 PM - medici.child🕯: Not sure about 7,but 10 works
+4/6/19, 6:56 PM - Farhaan: You just followed the instructions on the site then double click the tuxemon.py?
+4/6/19, 6:56 PM - medici.child🕯: Yes
+4/6/19, 6:56 PM - medici.child🕯: Why doesn't it work on your side
+4/6/19, 6:56 PM - Farhaan: Hm.... Okay lemme try and figure this out
+4/6/19, 6:57 PM - Farhaan: Double click causes a 0.5sec cmd prompt. I don't have time to see the error. 😂 I'm gonna video record the screen then go through it frame by frame
+4/6/19, 6:58 PM - Farhaan: If you guys make any progress on your maps please send me pictures. I'm looking for guidance on how to do it because i keep repeating the same buildings over and over
+4/6/19, 7:16 PM - medici.child🕯: 😹, gudluck bro 😹😹😹
+4/6/19, 7:16 PM - medici.child🕯: Ayt
+4/6/19, 7:31 PM - Farhaan: IMG-20190406-WA0000.jpg (file attached)
+4/6/19, 7:31 PM - Farhaan: guys that's a really early draft of my map. am I going in the right direction?
+4/6/19, 7:31 PM - Farhaan: also whatsapp jpegs the hell out of these pictures so mind the quality
+4/6/19, 7:32 PM - Farhaan: really struggling with scale
+4/6/19, 7:56 PM - medici.child🕯: Bro don't worry too much about he map 😹
+
+These are all just drafts, we gonna polish everything later on
+4/7/19, 12:06 PM - Farhaan: <Media omitted>
+4/7/19, 12:06 PM - Farhaan: Will we need to be able to retrieve data from the database for tomorrow?
+4/7/19, 12:46 PM - medici.child🕯: You a life saver my guy 👏🏽
+
+Create a new branch and push it up
+4/7/19, 12:47 PM - medici.child🕯: Nah, remember if we can't do it we just have to do it next sprint
+But we gotta state why though
+4/7/19, 12:54 PM - Farhaan: Okay awe
+4/7/19, 12:55 PM - Farhaan: Github still giving issues?
+4/7/19, 2:45 PM - medici.child🕯: Nah it works, the repository is up now
+4/7/19, 6:28 PM - medici.child🕯: Anyone know who to design a user acceptance criteria??
+4/7/19, 6:35 PM - Farhaan: My side is showing it empty. Is there some permission i need?
+4/7/19, 6:37 PM - medici.child🕯: Go to organizations, then repository
+4/7/19, 6:43 PM - Farhaan: I see one with a readme file in master and soke travis stuff in the development branch
+4/7/19, 6:43 PM - Farhaan: No tuxemon files
+4/7/19, 7:15 PM - medici.child🕯: It's because, if I put the tuxemon file in, travis CI won't work 🤷🏽‍♂
+4/7/19, 7:16 PM - medici.child🕯: So try and make a new branch
+4/7/19, 8:51 PM - Farhaan: How do i copy the existing tuxemon code into the new branch?
+4/7/19, 8:51 PM - Farhaan: I tried just uploading the tuxemon folder on my pc but it allows a maximum of 100 files at a time
+4/7/19, 9:16 PM - Vasty: Are you on Windows right?
+4/7/19, 9:17 PM - Vasty: So lemme walk you through pushing via terminal.
+4/7/19, 9:19 PM - Vasty: If you installed Git on Windows you should’ve gotten Git bash along with it.
+Go to the Tuxemon folder and right click and select Git Bash Here.
+4/7/19, 9:20 PM - Vasty: IMG-20190407-WA0004.jpg (file attached)
+Type this into the terminal. Use the online repo’s url
+4/7/19, 9:23 PM - Vasty: Then try:
+git push origin master
+4/8/19, 12:07 AM - Given: My repository is empty
+4/8/19, 10:53 AM - Farhaan: Okay i finally uploaded the thing to gitlab
+4/8/19, 10:53 AM - Farhaan: I had to upload it in the tuxemon folder because it doesn't run if it isn't in a folder labelled tuxemon
+4/8/19, 10:57 AM - Given: Wen is the second sprint?
+4/8/19, 11:14 AM - medici.child🕯: Thats weird bro, we'll have a look at it when we meet
+4/8/19, 11:15 AM - medici.child🕯: We just finished sprint 2 😹
+4/8/19, 11:16 AM - medici.child🕯: 🤦🏽‍♂, this project is something else
+4/8/19, 11:16 AM - medici.child🕯: *Remember We got a meeting today with Steve... 13h15*
+4/8/19, 11:19 AM - Given: B4 we meet Steve or after?
+4/8/19, 11:19 AM - Given: I mean retrospective meeting 2
+4/8/19, 11:20 AM - Given: You can say that again🙆🏽‍♂
+4/8/19, 11:22 AM - Panda🐼: Morning guys. I don't think I will make it to the meeting today. Sorry
+4/8/19, 11:26 AM - medici.child🕯: After, during the Retrospective meeting
+4/8/19, 11:26 AM - medici.child🕯: Oh yeah yeah, it's today
+4/8/19, 11:27 AM - medici.child🕯: But this one is important though, remember we got the retrospective meeting today as well
+4/8/19, 11:27 AM - Farhaan: We'll need the emails to show Hima didn't give ud access that's why we haven't met our goals
+4/8/19, 11:28 AM - medici.child🕯: Vasty...👆🏽
+4/8/19, 11:30 AM - Given: Good point, actually did we achieve anything for this sprint?
+4/8/19, 11:30 AM - medici.child🕯: 😹
+4/8/19, 11:31 AM - Panda🐼: I have fever. I'm sorry guys
+4/8/19, 11:43 AM - medici.child🕯: Eish 🙆🏽‍♂, ayt
+4/8/19, 11:57 AM - Vasty: Awes... I got you
+4/8/19, 1:12 PM - medici.child🕯: Gents im at MSL
+4/15/19, 1:45 PM - Given: Hey guys are we meeting for the picture today?
+4/15/19, 2:14 PM - medici.child🕯: I think it's too soon now, but I'm at the labs if anyone is here today
+4/15/19, 2:16 PM - Farhaan: Eyyy harde Gents
+4/15/19, 2:17 PM - Farhaan: I can't make it today
+4/15/19, 7:56 PM - medici.child🕯: It's all gud fam, no meeting today
+4/15/19, 7:57 PM - medici.child🕯: There is a god👇🏽
+4/15/19, 7:57 PM - medici.child🕯: https://www.youtube.com/playlist?list=PLVOwyy-CHLyrFO9A60_z0Q_x8RfpvgrbM
+4/15/19, 9:51 PM - Given: Thanks bro
+4/15/19, 9:52 PM - medici.child🕯: We can finally do it using android now, we just gotta follow each step of the playlist
+4/15/19, 9:54 PM - medici.child🕯: Vasty wanted to do the whole thing quickly, but I think it's better if we divide the tasks so that the whole team can run commits
+4/15/19, 9:55 PM - Panda🐼: Agree
+4/15/19, 9:58 PM - medici.child🕯: Awesome 🤾🏾‍♂
+
+So the first video is about setting up the code, we should all do that
+
+Then pick the task you are most comfortable with from the video series
+But remember you have to code it while integrating it into Android
+4/15/19, 10:01 PM - medici.child🕯: Do y'all wanna meet tomorrow so that we can better understand the tasks
+4/15/19, 10:06 PM - Farhaan: Yo gents. Don't we have to run this hy Steve first?
+4/15/19, 10:06 PM - Farhaan: By
+4/15/19, 10:25 PM - medici.child🕯: Nah Steve said he wanted a Pokemon like game
+
+Remember the time  we wanted to use Opemon, we asked him first about it. And he said he didn't care about what we used
+He just wants a finished product
+
+The gud thing about this one is that we can give him an android game with a battle front, which is initially what he wanted
+4/15/19, 10:45 PM - Panda🐼: If we are meeting tomorrow what time do you think we should meet?
+4/15/19, 10:48 PM - medici.child🕯: I'm available after 10h15, any time after that
+4/15/19, 10:49 PM - Panda🐼: I'm not available from 12 we can meet in between if people are available
+4/15/19, 10:54 PM - medici.child🕯: Ayt, I guess some people will confirm in the morning if they can make it
+4/15/19, 10:55 PM - Given: 10am is fine or we meet on Wednesday
+4/15/19, 10:56 PM - medici.child🕯: I'm fine with Wednesday as well
+
+But the earlier we meet the better, so that we can get started with coding
+4/16/19, 9:57 AM - medici.child🕯: I'm about to leave, I know Given is here, 
+Anyone else available for the meeting
+4/16/19, 10:00 AM - Panda🐼: I got held up, can make it at 10:30
+4/16/19, 10:03 AM - Panda🐼: If you are in a hurry you can carry on
+4/16/19, 10:05 AM - medici.child🕯: Nah it's cool, I'm still waiting on others to respond
+4/16/19, 10:30 AM - Panda🐼: You at MSL?
+4/16/19, 10:31 AM - medici.child🕯: Yeah I'm inside
+4/16/19, 10:31 AM - Panda🐼: Will be there in few minutes
+4/16/19, 10:31 AM - Farhaan: Sorry guys, i won't be there today
+4/16/19, 10:33 AM - Panda🐼: Tomorrow?
+4/16/19, 10:35 AM - medici.child🕯: Who is available tomorrow?
+4/16/19, 10:35 AM - Panda🐼: I am
+4/16/19, 10:36 AM - medici.child🕯: Ok
+I'm here from 12h15
+I can't do it before then
+4/16/19, 10:37 AM - Panda🐼: I'm available that time
+4/16/19, 10:46 AM - Given: Tomorrow 12 is fine on my side
+4/16/19, 10:51 AM - medici.child🕯: @27825363089 and @27658533909 y'all cool with the time bro
+4/16/19, 10:51 AM - Panda🐼: We meeting tomorrow or today?
+4/16/19, 10:51 AM - medici.child🕯: Tomorrow we all need to be there
+4/16/19, 10:51 AM - Panda🐼: Cool
+4/16/19, 11:27 AM - Farhaan: I've been having transport issues this week. I'll try my best to be there tomorrow
+4/16/19, 12:16 PM - Vasty: I can’t do tomorrow, but I’m here now... if anyone is here I don’t mind meeting now
+4/16/19, 12:16 PM - Vasty: Y’all can fill me in on the minutes of tomorrow’s meeting
+4/16/19, 12:25 PM - medici.child🕯: Ayt, we gonna have to push Next week then
+
+Since well have to be there for the pic 
+
+For now lets choose our tasks on WhatsApp
+4/16/19, 12:39 PM - Vasty: Okay, awes... can you send the link to those videos so long?
+4/16/19, 1:05 PM - medici.child🕯: Yeah yeah 
+
+https://www.youtube.com/playlist?list=PLVOwyy-CHLyrFO9A60_z0Q_x8RfpvgrbM
+4/17/19, 7:35 PM - medici.child🕯: Team we haven't divided tasks yet, we don't have much time we should of already started with the coding 
+
+I wanna get your suggestions on how we should divide tasks??
+4/17/19, 8:12 PM - Farhaan: it doesn't look like the game has any sort of networking capabilities
+4/17/19, 8:13 PM - Farhaan: what tasks are there? Are we going to do the save state thing for this one as well or do we have new tasks?
+4/17/19, 8:17 PM - medici.child🕯: We will have to code it in, 
+
+Some things are missing by the way, it's not complete but it's still way better than the alternative
+4/17/19, 8:18 PM - medici.child🕯: Yes we are, Vasty has an idea on how to do it
+4/17/19, 8:21 PM - Farhaan: okay lemme try fiddling around with the code before I take something I can't do
+4/17/19, 8:21 PM - medici.child🕯: For the tasks I meant coding the game from scratch via the tutorial videos, 
+
+One person can do it, but we all gotta do it since we are all required to make commits on GitHub
+Which means we have to try and divide the tutorial videos
+4/17/19, 8:21 PM - Farhaan: OH
+4/17/19, 8:22 PM - medici.child🕯: Ayt cool, just commit anything you come up with, it doesn't have to work, and use the issue tracker as well
+4/17/19, 8:22 PM - Farhaan: just to clarify, we're buildling the full game from scratch?
+4/17/19, 8:22 PM - Farhaan: not building off the one in the tutorials?
+4/17/19, 8:24 PM - medici.child🕯: Nah we building it off from the tutorials
+But its and Android game, so try to integrate the java code into android
+4/17/19, 8:24 PM - medici.child🕯: an*
+4/17/19, 8:27 PM - medici.child🕯: I think we should all do it like @27658533909, then put the code together later on
+
+Make sure to commit your work. we lost crazy marks, because we didn't do it, in the last sprint
+4/17/19, 8:28 PM - Farhaan: wait
+4/17/19, 8:29 PM - Farhaan: the code doesn't compile
+4/17/19, 8:29 PM - Farhaan: from their github'
+4/17/19, 8:30 PM - medici.child🕯: I'm not sure why, he must of changed something, but it did work on his turtorials 
+
+So we can identify bugs during the coding process
+4/17/19, 8:45 PM - Farhaan: dude, I'm looking at this rn and.......... this is no small task
+4/17/19, 8:45 PM - Farhaan: we sure this is easier than doing the stuff steve asked for tuxemon?
+4/17/19, 8:47 PM - medici.child🕯: Oh yeah its still not easy
+
+But I think it's way better
+
+Do you think Tuxemon would be easier??
+4/17/19, 8:49 PM - Farhaan: hmmm I think so. We'd have to rebuild the entire game and then still add on the additional features we'd need. imo it's just a bit late into the project to get all this up and running in time for the final sprint
+4/17/19, 8:49 PM - Farhaan: i might be wrong and maybe it's easier, i'm just airing my thoughts
+4/17/19, 8:51 PM - medici.child🕯: Nah bro, you should
+Not many people were giving me their opinions so it was hard making final decisions
+4/17/19, 8:51 PM - Farhaan: the code counts 30% so...... maybe we focus on doing basic coding and then go full on in the travis CI and stuff?
+4/17/19, 8:52 PM - Farhaan: as long as we code what Steve asks we should get close to the full 30%
+4/17/19, 8:53 PM - medici.child🕯: Is was about to say
+
+Travis doesn't work on Tuxemon, its very hard finding out why, this is why I wanted to recode Tuxemon so I can find the errors
+4/17/19, 8:55 PM - medici.child🕯: Its a gud idea bro
+
+But, could you pls give me some time, just so that I can work a little bit on the YouTube Tutorials, if nothing comes up by Sunday, I'll focus on Tuxemon
+4/17/19, 8:55 PM - Farhaan: okay yea np. I'll try doing some work my side as well
+4/17/19, 8:56 PM - medici.child🕯: Ayt awe, thanx fam
+
+Again, Don't forget the commits and issue tracker, they care to much about that stuff
+4/17/19, 9:41 PM - Farhaan: i'm starting to understand your hate of travis
+4/17/19, 9:48 PM - medici.child🕯: 😹😹😹😹, that thing hurts bro 😰
+
+But don't give up so soon, maybe you will figure it out with more time 🤷🏽‍♂
+4/22/19, 5:12 AM - medici.child🕯: @27658533909 I've been working on the game
+
+Honestly, it's much better than Tuxemon, I get the flow of code and hence I can implement testing
+
+They use a game library called libGDX, so a lot of the complicated stuff is already done for us 
+
+I'm doing it through java, not android, thinking of implementing that later on
+4/22/19, 5:15 AM - Vasty: Those videos are insightful hey... I also downloaded his project from Git so we can work on that version once we all understand the code
+4/22/19, 5:18 AM - medici.child🕯: Yeah bro🤾🏾‍♂
+I was actually recoding the code so I can customize it for witsiemon,
+It's not that difficult, we can get a working game to Steve by the end of this sprint
+4/22/19, 5:18 AM - Vasty: Awes...
+4/22/19, 10:06 AM - Given: So we have to watch each n every video there?
+4/22/19, 3:36 PM - Farhaan: Okay cool. When does this sprint end?
+4/22/19, 8:44 PM - medici.child🕯: Yes, its not a lot though
+4/22/19, 8:44 PM - medici.child🕯: 6 May
+4/22/19, 8:45 PM - medici.child🕯: When do y'all wanna meet??
+4/23/19, 5:07 PM - Farhaan: How about tomorrow at 12?
+4/23/19, 6:24 PM - Given: Perfect to me
+4/23/19, 6:27 PM - Panda🐼: I will be writing till 1
+4/23/19, 8:41 PM - medici.child🕯: What about Thursday then??
+4/23/19, 9:49 PM - Panda🐼: I'm available
+4/23/19, 9:52 PM - Vasty: What time on Thursday though?
+4/23/19, 9:53 PM - Farhaan: Thursday afternoon i tutor
+4/23/19, 9:53 PM - Farhaan: Morning is good though
+4/23/19, 9:55 PM - medici.child🕯: Friday 🙃??
+4/23/19, 9:56 PM - Given: Thursday is fine during FLA if we are all not attending
+4/23/19, 9:59 PM - medici.child🕯: Eish I don't wanna come early for FLA 🙆🏽‍♂
+
+What about 12h00 Thursday right after FLA ends
+4/23/19, 10:01 PM - Given: Was trying to accommodate @27658533909 wen he said morning
+4/23/19, 10:03 PM - medici.child🕯: @27658533909 does it have to be at the morning morning 😬
+4/23/19, 10:27 PM - Farhaan: Oh yea sorry I'm available at 12
+4/23/19, 10:27 PM - Farhaan: 12-1 I'm good
+4/23/19, 10:37 PM - medici.child🕯: @vasty u cool with the time too
+4/23/19, 11:44 PM - Vasty: I would prefer tomorrow, but Thursday can work
+4/24/19, 5:29 PM - medici.child🕯: Sorry mate 
+
+*12h00 Tommorrow Team.*
+4/25/19, 11:10 AM - Given: Guys we are meeting at msl?
+4/25/19, 11:22 AM - Farhaan: Yea
+4/25/19, 11:45 AM - medici.child🕯: Gents the 11h30 wits bus didn't show up, i might be a few minutes late
+4/25/19, 11:47 AM - Given: You might be in Xul by 12:15?
+4/25/19, 12:08 PM - Farhaan: Ayt I'm ay msl
+4/25/19, 12:08 PM - Farhaan: I'll get a computer in the glass lab
+4/25/19, 12:11 PM - Panda🐼: 1st floor?
+4/25/19, 12:23 PM - Farhaan: Glass lab is packed
+4/25/19, 12:23 PM - Farhaan: I'm in msl 108
+4/25/19, 12:23 PM - Farhaan: Yea
+4/25/19, 7:26 PM - medici.child🕯: Team can we meet tomorrow at 12h00, we just need to take the picture
+4/25/19, 7:39 PM - Given: Picture only we are not discussing about way forward?
+4/25/19, 8:17 PM - medici.child🕯: we are gonna discuss, im just saying that it's important to meet tomorrow so that we can take the picture for this week
+Since people had difficulties arriving today
+4/26/19, 10:03 AM - medici.child🕯: @27825363089 I need to know if you can make it today
+4/26/19, 11:41 AM - Given: Which lab?
+4/26/19, 11:53 AM - Panda🐼: I'm gonna be there at 12:15
+4/26/19, 12:08 PM - medici.child🕯: @27658533909 was suggesting we meet after next weeks test, since we all gonna be there
+4/26/19, 12:09 PM - medici.child🕯: I'm at msl, the last lab
+4/26/19, 12:01 PM - Farhaan: 😦
+4/26/19, 12:01 PM - Farhaan: I think we're meeting monday after the test
+4/26/19, 12:11 PM - Panda🐼: Cool
+4/27/19, 12:12 AM - Vasty: Sorry about this week gents, I was away 😭😭
+4/27/19, 5:40 AM - medici.child🕯: I was getting worried bro, cause I ain't see you at school for a while 😰
+4/27/19, 10:25 AM - Vasty: Sorry about that 😂😅
+4/27/19, 11:38 AM - Given: @27825363089 how far with the database?
+4/27/19, 12:01 PM - Vasty: Bro, I’ve made it, but I don’t know what fields to put into it 😂😂
+4/28/19, 12:05 PM - Given: We will see it on Monday wen we meet and hopefully we will find a way forward
+4/28/19, 2:08 PM - Farhaan: Can we take the picture before thr test since some people leave the venue early
+4/28/19, 8:01 PM - medici.child🕯: I'm ok with that 🙋🏽‍♂
+4/29/19, 1:40 PM - Farhaan: Yall at msl?
+4/29/19, 3:52 PM - Vasty: Are y’all still around?
+4/29/19, 5:35 PM - Farhaan: 🤦🏻‍♂ I totally forgot to wait for the picturr
+4/29/19, 5:35 PM - medici.child🕯: We taking Ls guyz 😹
+4/29/19, 5:36 PM - Given: Lol we searched for you and @27724736297 after test, let's meet tomorrow and plz let's try to be there all of us you can dcd the time am free any time
+4/29/19, 5:40 PM - Farhaan: So sorry dude
+4/29/19, 5:40 PM - Farhaan: I'm writing from 2 tomorrow. Otherwise I'm free
+4/29/19, 5:41 PM - Given: We understand that test can make you to forget everything 🤣
+4/29/19, 5:41 PM - Farhaan: 😂😂😂
+4/29/19, 5:41 PM - Given: @27724736297 what time will you be free
+4/29/19, 5:42 PM - Farhaan: I'm free until 1
+4/29/19, 5:43 PM - Vasty: I’m free the whole day
+4/29/19, 6:08 PM - Panda🐼: Anytime before 2
+4/29/19, 6:36 PM - Given: Okay sorted let's meet at 10am
+4/29/19, 7:18 PM - medici.child🕯: Awe ✌🏽
+4/30/19, 10:03 AM - medici.child🕯: Team, pls text us when u he here, @27658533909 and I are here
+4/30/19, 10:05 AM - Farhaan: Gents I'm at msl
+4/30/19, 10:06 AM - Panda🐼: I'm on my way
+4/30/19, 10:10 AM - Panda🐼: Where are you at MSL?
+4/30/19, 10:11 AM - medici.child🕯: I'm just at the bus stop, I'll be at the collection center once  everyone gets there
+4/30/19, 11:18 AM - Farhaan: IMG-20190506-WA0000.jpg (file attached)
+5/1/19, 3:30 PM - Farhaan: @27790183404, which repositry are we using for the new game?
+5/1/19, 4:08 PM - medici.child🕯: It's the same repo, my code is in the libGdx branch
+5/1/19, 5:26 PM - Farhaan: On github?
+5/1/19, 5:51 PM - medici.child🕯: Yeah
+5/4/19, 5:39 PM - medici.child🕯: Team, I did some work on the Software architecture
+The diagrams are on Taiga.
+Feel free to edit them when if you like
+
+I need some one to work on the acceptance criteria for sprint 1,2 and 3
+5/4/19, 7:47 PM - Vasty: I’ll do that 😂😂
+5/4/19, 7:51 PM - medici.child🕯: Bless up bro 😹🙏🏽
+5/4/19, 7:55 PM - Vasty: I’ll edit some of the user cases too
+5/4/19, 7:56 PM - medici.child🕯: Yeah no problem bro, thanks G ✌🏽
+5/5/19, 5:21 PM - Given: We are meeting Steve tomorrow?
+5/5/19, 6:14 PM - medici.child🕯: Yes, he said we can't meet him during lunch, so we just have to see him after lunch
+5/5/19, 6:16 PM - medici.child🕯: I've been trying to ran the code coverage this while weekend, maven is having trouble connecting to the library files
+
+So imma try do it via gradle
+5/5/19, 9:53 PM - Given: What are we presenting since we are not done with the database part?
+5/5/19, 10:11 PM - medici.child🕯: The game runs on GitHub
+There is like a small green field and an actor that can move around
+That's all i could since i also had to work on the documentation part
+
+Is someone able to bring their laptop so that we can run the game
+5/5/19, 10:12 PM - Given: I can come with the laptop just remind me again tomorrow
+5/5/19, 10:13 PM - medici.child🕯: Awe thanks bro 🙏🏽🤾🏾‍♂
+5/5/19, 10:13 PM - Given: So we won't show him database part tomorrow?
+5/5/19, 10:14 PM - medici.child🕯: It is what it is 🤷🏽‍♂
+
+This project is hard bro 😢
+5/5/19, 10:16 PM - Given: Think tomorrow after showing him what we have we should atleast have like 15 to 20 min to talk about the way forward and showing each other specifically what we have todo
+5/5/19, 10:18 PM - medici.child🕯: Ayt we'll do it during sprint retrospective meeting
+5/6/19, 2:27 AM - medici.child🕯: Yo @27825363089, where did you upload the user acceptance criterias
+5/6/19, 3:50 AM - Vasty: So I put them in the user stories...
+5/6/19, 3:52 AM - medici.child🕯: Oh ok, thanks fam
+5/6/19, 3:55 AM - Vasty: 🙌🙌
+5/6/19, 12:32 PM - medici.child🕯: Hy @27729853253, don't forget the laptop
+5/6/19, 12:42 PM - Given: Okay bro
+5/6/19, 12:44 PM - Farhaan: @27729853253  just make sure your laptop runs the game because it needs us to change path to run
+5/6/19, 1:12 PM - medici.child🕯: You deleted this message
+5/6/19, 1:32 PM - Given: Think my laptop don't have javac😔
+5/6/19, 1:43 PM - medici.child🕯: You just have to install JDK
+5/6/19, 1:44 PM - Given: I must create an account first to download jdk
+5/6/19, 1:47 PM - Farhaan: You can download the jdk from the oracle website
+5/6/19, 1:55 PM - Given: What specifically time suppose to meet project manager cos now I'm afraid if I finish to download late
+5/6/19, 2:04 PM - Vasty: Where are y’all guy?
+5/6/19, 2:04 PM - Vasty: *guys
+5/6/19, 2:15 PM - medici.child🕯: I'm at MSL
+5/6/19, 2:16 PM - medici.child🕯: Yeah
+5/6/19, 2:16 PM - medici.child🕯: Like now bro, 
+
+It's fine if it doesn't ran, we'll figure out a plan
+5/6/19, 2:17 PM - Given: I just finish installing the jdk I'm coming to Xul now now in 20min will be there
+5/6/19, 2:17 PM - medici.child🕯: Ayt bro, pls just text me team
+5/6/19, 2:18 PM - Vasty: Outside?
+5/6/19, 2:20 PM - Farhaan: Passing flower hall now
+5/6/19, 2:22 PM - Farhaan: Wya
+5/6/19, 2:23 PM - medici.child🕯: Inside MSL
+5/6/19, 2:23 PM - medici.child🕯: Entrance
+5/6/19, 3:52 PM - Vasty: IMG-20190506-WA0001.jpg (file attached)
+5/7/19, 8:59 AM - Farhaan: Guys, I'm going to try and work up a rough idea of how exactly the battle system works in terms of data structures and stuff
+5/7/19, 2:49 PM - medici.child🕯: Ayt great
+
+I'll be working on trying to make maven work so I can start working on the test cases
+5/7/19, 2:49 PM - medici.child🕯: @27825363089 told me he is gonna be doing the architecture diagrams
+5/7/19, 2:51 PM - medici.child🕯: @27729853253  I think you should continue with the vids I stopped at "Pokemon 7"
+
+You just have to add his code onto ours
+5/7/19, 2:53 PM - medici.child🕯: @27724736297  pls work on the map
+
+The tutorials for that are video "Pokemon 3"
+And "Pokemon 7"
+5/7/19, 2:57 PM - Vasty: Okay, I’m gonna the revise databases
+5/7/19, 2:59 PM - medici.child🕯: Yeah sure, but I was talking about todays task
+5/7/19, 3:06 PM - Given: So I have to check video 7 or 8?
+5/7/19, 3:07 PM - Panda🐼: Cool
+5/7/19, 3:08 PM - medici.child🕯: Yeah, or you can do other tasks, those were just my suggestions based on priorities 🤷🏽‍♂
+5/7/19, 3:10 PM - Given: I will check it out later
+5/7/19, 3:10 PM - Given: And come back to you if I'm comfortable with it
+5/7/19, 3:14 PM - Farhaan: 👀Gents save some messages for thr other days😂
+5/7/19, 7:04 PM - medici.child🕯: Ayt
+5/7/19, 7:05 PM - medici.child🕯: You mean the WhatsApp messages??
+5/7/19, 7:16 PM - Given: 🤣🤣🤣
+5/7/19, 7:28 PM - medici.child🕯: I don't get it 😕
+5/7/19, 8:57 PM - Farhaan: 😂 Yea cos like we need 3 weeks worth of daily convos so keep some ideas in reserve
+5/7/19, 9:10 PM - medici.child🕯: Oh 😹🤦🏽‍♂...this is gonna be harder then i thought actually
+5/8/19, 6:35 PM - medici.child🕯: Hy Team, I hope everyone had fun voting
+
+Just a reminder, if u come across any issue, even if it's small, make sure you write it down on the issue tracker on GitHub
+
+*This is very important*
+5/8/19, 7:58 PM - Vasty: Oh thanks... I’m a bit preoccupied; writing Optimisation tomorrow so I’ll be scarce for a while 🙌
+5/8/19, 8:18 PM - medici.child🕯: Ayt no problem fam
+5/8/19, 8:20 PM - medici.child🕯: Just an update for today:
+Still working on maven, Im running into a few errors but I'll push the work I've done so far to GitHub
+5/8/19, 8:20 PM - medici.child🕯: Any one wanna add something to the group for today 😹
+5/8/19, 8:47 PM - Farhaan: 😂😂😂Voting day, can't we get the day off
+5/8/19, 8:47 PM - Farhaan: I've reviewed thr videos regarding what's been done so far just to get an understanding of how our current system works
+5/8/19, 10:25 PM - medici.child🕯: Fam i wish😹, but I heard he even checks if we did work during weekends
+5/8/19, 10:26 PM - medici.child🕯: Ayt great 🤟🏽
+5/9/19, 6:40 PM - Farhaan: Sorry guys I'm writing tomorrow so I've been a bit busy. I'll start making progress on the battle system soon
+5/9/19, 9:59 PM - medici.child🕯: Also writing tomorrow 🙋🏽‍♂
+Will do the same tomorrow as well
+5/10/19, 1:43 AM - Given: But think we have a full weekend to work on our tasks
+5/10/19, 7:27 PM - medici.child🕯: Yeah at least, so lets get started remember we just need everyone to make commits on GitHub and use issue tracker
+
+Also update your tasks o. taiga
+5/10/19, 7:27 PM - medici.child🕯: *on
+5/10/19, 7:28 PM - Vasty: Awes... I’ll push my first commit tomorrow morning
+5/10/19, 9:02 PM - Farhaan: Same, I'm a bit drained after the whole test thing and I need some time
+5/10/19, 9:02 PM - Farhaan: Do we have to have scrums on weekends as well?
+5/10/19, 9:29 PM - Given: I think they said everyday
+5/10/19, 9:51 PM - Farhaan: 😔
+5/11/19, 12:37 AM - medici.child🕯: Yeah 🤕
+5/11/19, 10:24 AM - Farhaan: I updated Taiga for the new sprint (100m) and added some stuff from our backlog as well as the new tasks
+5/11/19, 2:34 PM - medici.child🕯: Thank you mate, ill have a look 🤟🏽
+5/11/19, 8:50 PM - Given: Guys which configurations did you use on eclipse?
+5/11/19, 8:51 PM - Given: Game is not running on my laptop
+5/11/19, 9:01 PM - medici.child🕯: Download the version on the java-travis-integration branch, because that one isn't a maven project
+
+Then open the project using an IDE...after that go to the first vid on the tutorial
+He shows you how to add the libGdx library to ur build
+5/12/19, 1:01 AM - medici.child🕯: If this is the case
+5/12/19, 1:01 AM - medici.child🕯: IMG-20190512-WA0000.jpg (file attached)
+5/12/19, 1:01 AM - medici.child🕯: Then it's game over
+5/12/19, 5:47 AM - Farhaan: Isn't that for CGV?
+5/12/19, 5:56 AM - medici.child🕯: *Thank god* 😭
+5/12/19, 11:07 AM - Panda🐼: Should the map be customised?
+5/12/19, 11:12 AM - Given: Yah it's for cgv
+5/12/19, 12:42 PM - medici.child🕯: Yes into the wits map, 
+
+You don't have to do it all, just a partition of it
+5/12/19, 1:17 PM - Farhaan: I'd recommend doing great hall side since it's mostly rectangles and a sjmple layout
+5/12/19, 5:17 PM - Given: Guys do we really have todo transitions?
+5/12/19, 7:06 PM - Vasty: What do you mean by that?
+5/12/19, 7:09 PM - Given: There is a transition tutorial and that's where @27790183404 said I should start
+5/12/19, 7:12 PM - Vasty: Oh yes... of course
+5/12/19, 7:55 PM - medici.child🕯: I think we might need the transitions for the battling game mode
+5/13/19, 12:59 AM - Vasty: Okay team, I’ve started looking at some stuff. I think I might have found a way to use Tilemaps, I’ll work on that and will report to you if things work out
+5/14/19, 11:19 AM - Farhaan: This message was deleted
+5/14/19, 9:34 PM - Farhaan: I've tried working on the battle system. It's quite a few classes all working together so it's taking some time. I'll keep yall updated as I make progress
+5/15/19, 12:05 AM - medici.child🕯: Ayt cool
+
+I've also been working on maven today
+Found out that the libraries need to be installed manually into the maven dependencies 
+So im doing that now
+5/15/19, 4:57 AM - Vasty: Okay guys, so I have found a legit way to use TileMaps instead of hardcoding the maps. I’ll begin working on that from today. 🙌🙌
+5/15/19, 9:21 AM - medici.child🕯: That's awesome bro 🤾🏾‍♂🙆🏽‍♂
+5/15/19, 4:17 PM - Farhaan: Guys, I've been a bit busy today so I haven't made any progress on the battle system
+5/15/19, 4:34 PM - medici.child🕯: Ayt
+
+Can we meet Steve on Friday again team, for the product backlog meeting
+5/15/19, 4:35 PM - medici.child🕯: Or does anyone know if Coms lectures are still available during study breaks
+5/15/19, 4:49 PM - Given: Friday sound cool during lunch
+5/15/19, 7:05 PM - medici.child🕯: What about everyone else I have to send the email today
+5/15/19, 7:08 PM - Panda🐼: I have a meeting between 1 and 2
+5/15/19, 7:21 PM - medici.child🕯: Ayt, well we don't all have to be there since we already know the backlog, we just have to get confirmation 
+
+I know @27658533909 it's gonna be hard to make it so u can stay if u want to 
+
+@27825363089 if u can pls come bro
+5/15/19, 11:33 PM - Given: Did you send email?
+5/16/19, 12:13 AM - medici.child🕯: Yeah yeah, it's sent
+5/16/19, 12:32 AM - medici.child🕯: Team we gotta start making commits, there is still just 2 contributors
+5/16/19, 12:37 AM - Given: I'm finding it hard to do the commit on github, maybe you or vasty can help me today after meeting Steve if we are meeting
+5/16/19, 2:43 AM - medici.child🕯: Ayt awe bro ✌🏽
+5/16/19, 5:16 AM - Vasty: I’m defs be there
+5/16/19, 7:56 PM - medici.child🕯: Awe bro 🙌🏽
+5/16/19, 8:32 PM - Farhaan: Sorry guys, been a bit occupied with other subjects. No progress today
+5/16/19, 9:50 PM - medici.child🕯: Ayt noted 🤟🏽
+5/16/19, 9:53 PM - medici.child🕯: Today i was still working on maven
+I'll be honest, that thing is really killing me, I've tried everything but it looks like it can't still read the dependencies from the Gdx library
+
+So I'll try gradle this time, it might take a while integrating the code into the build file
+5/16/19, 9:53 PM - Given: @27790183404 did you come to Xul today?
+5/16/19, 9:53 PM - medici.child🕯: Yeah yeah, i was there at like 12h00 cause i had a lecture
+5/16/19, 9:54 PM - medici.child🕯: Why u asking bro 👀
+5/16/19, 9:56 PM - Given: About this
+5/16/19, 9:57 PM - medici.child🕯: I thought u meant Friday bro, after we meet Steve
+5/16/19, 9:57 PM - Given: Any day its fine, so we are meeting Steve?
+5/16/19, 9:58 PM - medici.child🕯: *Yeah tomorrow, lunch time*
+
+He said we can meet him then
+5/16/19, 10:00 PM - Given: Okay cool
+5/16/19, 10:00 PM - medici.child🕯: @27724736297 do you have an update on what u have been up to so far, we gonna need yours too
+5/16/19, 11:09 PM - Vasty: Good news guys, I managed to load and render a tiled map ✨✨✨
+5/16/19, 11:09 PM - Vasty: I’ll push the code tomorrow 😂 I’ve been holding up on pushing because I want to only push big changes to the online repo. My local repo is healthy with commits
+5/17/19, 3:50 AM - medici.child🕯: That's perfect bro, pls do 😹
+It's looking bad on GitHub
+5/17/19, 5:56 AM - Vasty: I found a new set of videos that explain the stuff nicely... I’ll forward the link in just a bit
+5/17/19, 8:12 AM - Panda🐼: I have been writing this week haven’t done much but I will do the work this weekend. Will keep you updated
+5/17/19, 8:18 AM - Vasty: Checkout this channel:
+https://m.youtube.com/user/dermetfan
+5/17/19, 11:57 AM - Vasty: Are you guys here?
+5/17/19, 12:17 PM - medici.child🕯: Ayt, thanx bro
+5/17/19, 12:17 PM - medici.child🕯: Nah still on my way
+5/17/19, 12:17 PM - medici.child🕯: Ayt, pls do
+5/17/19, 12:18 PM - medici.child🕯: 🙆🏽‍♂🙆🏽‍♂🙆🏽‍♂🙆🏽‍♂...i see it fam, bless up 🙏🏽🙏🏽🙏🏽🤾🏾‍♂
+5/17/19, 12:21 PM - Given: We are meeting him 13:15 or 13:30?
+5/17/19, 12:22 PM - medici.child🕯: He just said we can meet him lunch time, since its just a 10min meeting
+5/17/19, 12:28 PM - Given: Can we meet him 13:30 or 13:40 if he didn't say anything
+5/17/19, 1:29 PM - medici.child🕯: Ayt, ill be there in 5 mins
+5/17/19, 1:41 PM - medici.child🕯: Yo gents im at MSL
+5/17/19, 1:46 PM - medici.child🕯: ??
+5/17/19, 2:01 PM - Vasty: Where you? Sorry for being late I had prayers
+5/17/19, 2:05 PM - Vasty: Gents Steve isn’t in his office...
+5/17/19, 5:42 PM - medici.child🕯: Oh yeah bro, I thought they u got the messages, 
+
+It's cool bro, We want to him, he also had to leave early 
+But he said he is cool with the Product Backlog
+5/17/19, 6:05 PM - Farhaan: 👍🏻
+5/17/19, 7:57 PM - medici.child🕯: Ok Team, im gonna work on the gradle videos @27825363089 sent me
+
+But tomorrow I don't think I will be able to do much since I will be away from the province attending a funeral
+5/17/19, 8:01 PM - Vasty: No stress bro... while you do that I’ll continue working on the maps and Avatar controls
+5/17/19, 8:01 PM - medici.child🕯: Awe bro 🙏🏽
+5/20/19, 9:32 AM - Farhaan: IMG-20190520-WA0002.jpg (file attached)
+Damn, we got chowed for code
+5/20/19, 2:18 PM - medici.child🕯: Sucks to see us get punished for something we tried really hard to fix
+5/20/19, 5:08 PM - medici.child🕯: Any updates team??
+5/20/19, 5:59 PM - Farhaan: Sorry team. We had a semester long assignment for IS Sunday was the final submission. I've just been pretty tied up in that but I'll start focusing on the battle system now
+5/20/19, 6:52 PM - Farhaan: quick question, are we just copying the code from the github?
+5/20/19, 6:56 PM - medici.child🕯: No problem
+5/20/19, 6:58 PM - medici.child🕯: U can do that, but u might have to change some of the code, otherwise u might experience a lot of bugs
+
+It's better if you follow through the video and copy paste, whilst editing some parts
+5/20/19, 6:58 PM - Farhaan: Hmm the battle system video is pretty lax. I'll try to change as much as I can
+5/20/19, 6:59 PM - Panda🐼: Having problem with setting up libGdx
+5/20/19, 7:01 PM - Farhaan: 🤦🏻‍♂ The battle system uses code from most packages. I'm adding as much as I can rn
+5/20/19, 7:04 PM - medici.child🕯: Check the first video,
+At the very beginning he talks about how to install the libraries into your build
+5/20/19, 7:06 PM - medici.child🕯: Yeah, all u have to do is just call classes basically
+5/20/19, 7:26 PM - Farhaan: 😂🤦🏻‍♂ The ones I need aren't done. I'm going to add all the classes I need and then I'll start the actual battle thing
+5/20/19, 7:26 PM - Farhaan: 😂😂😂 Having fun with code coverage?
+5/20/19, 7:36 PM - Farhaan: 🤦🏻‍♂ gents, this battle system is no joke. at least 10 different classes working together
+5/20/19, 7:59 PM - medici.child🕯: 😹😹😹
+
+A lot bro, so much so that  I cant stop doing it 😹 😭
+5/20/19, 8:00 PM - medici.child🕯: Do u think u will be able to finish it on time
+5/20/19, 8:08 PM - Farhaan: i'm really not sure.......... if I just copy and paste yea but... idk lemme keep trying
+5/20/19, 8:09 PM - Farhaan: does terence check for plagiarism or does he just check if Steve is happy?
+5/20/19, 8:10 PM - medici.child🕯: I mean its not really plagiarism since this is all open source code 🤷🏽‍♂
+5/20/19, 8:10 PM - Farhaan: 🤔 that's a good point.... I'll try to do as much on my own but certain parts are way too complex for me not to copy
+5/20/19, 8:11 PM - Farhaan: like the animation stuff... i don't understand that so i'll just copy that
+5/20/19, 8:13 PM - medici.child🕯: So I went through the videos @27825363089 sent, unfortunately, that guy doesn't specifically talk about integrating libGdx into the gradle dependencies, so i have to figure that out 
+
+I also went back to maven as well, i wanna test if it would work if i just unzip the jar file and put the classes in the main function directory 
+
+I'm just testing everything honestly
+5/20/19, 8:14 PM - medici.child🕯: Yeah bro i also did the same for some classes, some of this stuff is very hard to understand
+5/20/19, 9:28 PM - Farhaan: okay I did quite a bit. The code doesn't actually run yet😂😂😂 but I'm pushing to git just to get our commits higher
+5/20/19, 9:29 PM - Farhaan: damn dude, good luck. shit sounds whack
+5/20/19, 9:29 PM - Given: Guys is it true that he changed the date for sprint?
+5/21/19, 6:34 AM - medici.child🕯: 👌🏾
+5/21/19, 6:35 AM - medici.child🕯: Finally got maven to work 🤾🏾‍♂🤾🏾‍♂🤾🏾‍♂🤾🏾‍♂🤾🏾‍♂🤾🏾‍♂🤾🏾‍♂
+
+We got 0% coverage
+
+So imma start working on those tests 🤧
+5/21/19, 8:50 AM - Farhaan: NICE!
+5/21/19, 8:50 AM - Farhaan: Do we need a unit test for every class
+5/21/19, 1:10 PM - Vasty: Gents I’ve hit a huge wall with Tiled... Collisions detection is turning out to be a huge issue 😂 I’m gonna try to render each black of the Tilemap manually
+5/21/19, 1:15 PM - Farhaan: This message was deleted
+5/21/19, 2:01 PM - medici.child🕯: Bro im not gonna push for 100% coverage😹, I think that's not possible considering the amount of time we have 🤕
+5/21/19, 2:02 PM - medici.child🕯: Enjoy that bro 😹
+5/21/19, 2:06 PM - Vasty: I came up with something... currently writing it, about to compile 😂
+5/21/19, 2:56 PM - Vasty: Gents, I’ve got it 🙌🙌🙌
+5/21/19, 2:56 PM - Vasty: Just need to figure out how to give each block a not colourable property from tiled
+5/21/19, 3:17 PM - Vasty: *not collide-able
+5/21/19, 6:09 PM - Farhaan: Are we meeting Steve this friday or next friday?
+5/21/19, 8:51 PM - medici.child🕯: Damn u really gud at this stuff
+5/21/19, 8:52 PM - medici.child🕯: When is the retrospective, did he move it
+5/21/19, 10:47 PM - Farhaan: just pushed my latest updates. Added 3 new issues
+5/21/19, 10:47 PM - Farhaan: can someone add the issue that the Battle System can't be started in game but has to be forced through the code
+5/21/19, 10:48 PM - Farhaan: just so we have everyone submitting issues
+5/21/19, 10:57 PM - medici.child🕯: Awesome 🤟🏽
+5/21/19, 10:57 PM - medici.child🕯: *team👆🏽*
+5/21/19, 11:03 PM - Given: Let me add it
+5/21/19, 11:03 PM - Farhaan: Also the background of the battle arena is black. Changing the color causes it to be rendered on top of the pokemon so we end up with a blank screen
+5/21/19, 11:04 PM - Farhaan: Maybe @27724736297 should add this one
+5/21/19, 11:13 PM - Panda🐼: Okay
+5/22/19, 2:37 AM - Vasty: Okay guys, someone has to start compiling everything into one project and push to master. How much time do we have?
+5/22/19, 2:00 PM - medici.child🕯: We have until the 30th
+5/22/19, 5:51 PM - medici.child🕯: Team what time and date are you most comfortable with meeting for the scrum daily meeting
+5/22/19, 5:57 PM - medici.child🕯: @27825363089 and @27658533909, since u are the only two to make commits thus far, I suggest one of you merge your code with the master, then the next one does the same
+
+Make sure it builds
+
+After that I'll merge maven and the coverage to your guyz code
+5/22/19, 6:09 PM - Farhaan: My code is really untidy since I still have stuff left over from when I tried to integrate hydrozoas stuff. I'll try to localize my code since I edited stuff vasty might be using and I'll try to merge before the end of tonight
+5/22/19, 9:05 PM - medici.child🕯: Ayt no rush though, we still have this weekend
+5/22/19, 9:06 PM - Farhaan: This message was deleted
+5/22/19, 9:43 PM - Vasty: Awes... then I’ll work a bit more and merge tomorrow night
+5/22/19, 10:16 PM - medici.child🕯: Ayt
+I've just been going through the built it test functions
+Gonna be implementing them today as well
+5/23/19, 5:59 PM - medici.child🕯: Team, what time we meeting tomorrow, for the Sprint Daily Meeting
+5/23/19, 6:14 PM - Given: Think 11am is better
+5/23/19, 6:23 PM - Vasty: 11 is fine
+5/23/19, 6:24 PM - Farhaan: 11 is good
+5/23/19, 6:25 PM - Panda🐼: 11 is okay 👌🏾
+5/23/19, 6:26 PM - medici.child🕯: Ayt awesome 11 it is 🙌🏽
+5/23/19, 6:49 PM - medici.child🕯: @🐼 how far are u with ur side of the code
+We gonna need commits from u too, when we push to the master
+5/23/19, 6:54 PM - Panda🐼: I know I said I was gonna do it over the weekend I was busy with CGV, had presentation today so I haven’t done much. But I just started it . I’m sorry
+5/23/19, 6:55 PM - medici.child🕯: Oh ok, noted 👌🏾
+5/24/19, 10:35 AM - medici.child🕯: I'm on my way team, just still in the bus
+5/24/19, 10:36 AM - Vasty: I’m already here 🙌 I’ll be outside MSL
+5/24/19, 10:43 AM - Panda🐼: Will be there in few minutes
+5/24/19, 10:44 AM - Farhaan: I'm at msl with neko
+5/24/19, 4:40 PM - Farhaan: Which date are we booking
+5/24/19, 4:47 PM - medici.child🕯: @27825363089 could u pls send the picture we took at the meeting today
+5/24/19, 4:49 PM - medici.child🕯: I think we should finish this project during the weekend
+And meet Steve on Tuesday, since we all gonna be at school any way
+5/24/19, 4:53 PM - medici.child🕯: With regards to the rubric
+All we gotta finish up is the user stories, architecture, commits to main and the code coverage
+5/24/19, 6:50 PM - Farhaan: What's happening Tuesday?
+5/24/19, 6:51 PM - Farhaan: bro! We're writing SD next week😭😭. Oh shit I need to start studying
+5/25/19, 1:07 PM - medici.child🕯: 😹, the amount of theory in SD is crazy
+5/25/19, 6:35 PM - Vasty: IMG-20190525-WA0001.jpg (file attached)
+5/25/19, 6:37 PM - medici.child🕯: Team worked on the sprint meetings and architecture
+We just left with 4 more diagrams
+
+Pls have a look at everything on the wiki on GitHub...pls try and correct were I went wrong and stuff 
+
+Also could we at least start making commits today or tomorrow, so that we can merge and write tests
+5/25/19, 9:17 PM - Farhaan: I'll finish up the battle system tonight
+5/25/19, 9:23 PM - Vasty: Alright... I’m gonna combine the stuff. Everything should be up to task by Monday
+5/25/19, 9:37 PM - Farhaan: This message was deleted
+5/25/19, 10:02 PM - Farhaan: @team. I got the battle system working. Only problem is, my battle system runs on it's own screen. The game screen where the char walks aroind is also it's own screen. I can't find a way to switch between the screens in game
+5/25/19, 10:03 PM - Farhaan: If anyone has any ideas, I'm uploading my code to github. Maybe someone can figure this out
+5/25/19, 10:03 PM - Farhaan: I'll comment when a screen change needs to occur on the battle screen
+5/25/19, 10:03 PM - Farhaan: Class
+5/25/19, 10:06 PM - Farhaan: Just pushed the complete battle system. It's very barebones with absolutely no animations. Getting animations to work requires learning a lot of libgdx that I don't think I can do. If anyone has any other suggestions on the battle system please tell me, I'm sure there's a lot missing
+5/25/19, 10:07 PM - Farhaan: I submitted to the Travis integration branch.... 🤦🏻‍♂ No idea why I've been pushing there, mb
+5/25/19, 11:31 PM - medici.child🕯: No stress as long as we got the battle event going 👌🏾
+5/25/19, 11:31 PM - medici.child🕯: Ayt, awesome 🙌🏽
+5/26/19, 1:11 AM - medici.child🕯: Team, when will we all be ready for the retrospective
+Thursday or Friday
+5/26/19, 5:13 AM - Farhaan: What time on friday?
+5/26/19, 5:19 PM - medici.child🕯: Maths guys are writing on Friday at 2, 
+And they said the retrospective of starts at 8-4
+5/26/19, 5:21 PM - Farhaan: Hmm. Maybe Thursday then? Since the math guys won't have to worry about SD thursday night?
+5/26/19, 5:22 PM - medici.child🕯: Ayt cool
+Team we gud??
+5/26/19, 5:23 PM - Given: Thursday sound cool
+5/26/19, 5:23 PM - medici.child🕯: And what about review  
+Is everyone available on a Tuesday or Wednesday
+5/26/19, 5:23 PM - medici.child🕯: Lit
+5/26/19, 5:24 PM - Given: Tuesday you mean b4 or after writing?
+5/26/19, 5:25 PM - medici.child🕯: It has to be before since we writing at 2 for 3hrs
+5/26/19, 5:26 PM - Given: Let's make it Wednesday if everyone is available
+5/26/19, 5:26 PM - medici.child🕯: Ayt noted 👌🏾
+5/26/19, 5:32 PM - Vasty: Thursday is good
+5/26/19, 5:33 PM - Vasty: I have CAM on Wednesday 😂
+5/26/19, 5:38 PM - Farhaan: 👌🏻
+5/26/19, 5:39 PM - Given: Shet then let's make that Tuesday b4 exam
+5/26/19, 5:53 PM - Farhaan: Thursday can we meet at 8? Just to get it over and done with so we can go home and continue prepping for exams
+5/26/19, 6:21 PM - Vasty: Gents the Use case diagram for this project is looking poor 😅
+5/26/19, 6:21 PM - Vasty: IMG-20190526-WA0000.jpg (file attached)
+This is legit all I’ve got 😂 what else can a user do either than what I’ve listed?
+5/26/19, 6:36 PM - medici.child🕯: Go to gitlab, I wrote a use case diagram
+
+Pls have a look and see if it's right
+
+It's on the wiki
+Under architecture
+5/26/19, 6:36 PM - medici.child🕯: Ayt 🤾🏾‍♂
+5/26/19, 6:37 PM - medici.child🕯: Ok, ill send him an email then
+5/26/19, 7:17 PM - Vasty: Oh awes 🙌
+5/26/19, 7:42 PM - medici.child🕯: *It's Thursday 10h40am*
+5/26/19, 10:40 PM - medici.child🕯: @🐼 we haven't got enough commits 
+Could u pls just work on the architecture diagrams
+We got like 3 left
+They are on GitHub under the wiki page 🙏🏽
+5/26/19, 10:55 PM - Panda🐼: Alright
+5/26/19, 10:58 PM - medici.child🕯: Here is a link that would give u a general idea of how the architecture should look 
+
+https://github.com/theWronskians/moodle_dev/wiki/Architecture
+5/27/19, 12:30 PM - medici.child🕯: Yo @27825363089 will u be able to start merging your work with @27658533909's work for this release
+5/27/19, 1:03 PM - Vasty: Aight, I’ll get into it now
+5/27/19, 3:11 PM - medici.child🕯: Thanx
+5/27/19, 3:11 PM - medici.child🕯: Team, Steve wants to meet at 10am tomorrow
+5/27/19, 4:35 PM - Farhaan: 🤦🏻‍♂ I'll be there
+5/27/19, 7:29 PM - Given: Yoo 10am must be there?
+5/27/19, 7:33 PM - medici.child🕯: Yes, he wants us to see him at that time, I wish it was much later bro 😔
+5/27/19, 7:36 PM - Given: Eix will just try n make it
+5/27/19, 9:02 PM - medici.child🕯: Yo @27825363089 how is it going with the merging
+I can help u out if u like
+5/27/19, 11:24 PM - Given: Hey guys our game doesn't run on Ubuntu neh?
+5/27/19, 11:31 PM - medici.child🕯: I haven't completely tried it out yet
+But the I think the java configurations for libGdx won't let it ran there
+5/27/19, 11:32 PM - medici.child🕯: @27658533909 does ur battle system work on the game, I wanna try it out
+5/27/19, 11:53 PM - Given: I want to write it under the acceptance test that won't run
+5/28/19, 12:42 AM - medici.child🕯: @27825363089 I need an update so that we have something to show Steve tomorrow
+5/28/19, 12:43 AM - medici.child🕯: Ok, but we didn't have a user stories for ubuntu though bro
+5/28/19, 4:44 AM - Farhaan: It works. Its just that I can't figure out a way to start the battle system from the game screen
+5/28/19, 4:45 AM - Farhaan: Run the travis integration branch from eclipse, that's hard-coded to start the batyle system
+5/28/19, 8:41 AM - medici.child🕯: Ayt thanx
+5/28/19, 9:01 AM - medici.child🕯: Team just a reminder
+*Meeting with Steve, It's 10h00*
+5/28/19, 9:03 AM - medici.child🕯: @27658533909 can u bring ur computer so that we can ran the battle system
+
+It doesn't seem to work on mine, and I don't have the time to go through all the errors
+5/28/19, 9:04 AM - Farhaan: 🤦🏻‍♂ I'm running it on a desktop
+5/28/19, 9:04 AM - Farhaan: @27729853253 , can you get it to work on your side?
+5/28/19, 9:04 AM - medici.child🕯: Eish 🙆🏽‍♂
+5/28/19, 9:04 AM - Farhaan: I can record a video of it running on my desktop to show steve
+5/28/19, 9:05 AM - medici.child🕯: Ayt that's cool bro 🙌🏽
+5/28/19, 9:05 AM - Given: Let me try it and will get back to you ASAP
+5/28/19, 9:21 AM - Farhaan: I'll make it a bit clearer but we could show Steve that
+5/28/19, 9:21 AM - Farhaan: VID-20190528-WA0002.mp4 (file attached)
+5/28/19, 9:42 AM - medici.child🕯: That's actually pretty good good 👌🏾
+5/28/19, 9:43 AM - medici.child🕯: I'm at MSL if anyone is already here
+5/28/19, 9:45 AM - Farhaan: VID-20190528-WA0007.mp4 (file attached)
+5/28/19, 9:55 AM - medici.child🕯: Team I don't think we can be late for this one again, cause he wasn't happy the last time
+5/28/19, 9:59 AM - Panda🐼: Where are you?
+5/28/19, 9:59 AM - Farhaan: Already at the stairs by msl
+5/28/19, 9:59 AM - medici.child🕯: I'm outside MSL
+5/28/19, 10:00 AM - Panda🐼: I’m by amic deck
+5/28/19, 12:50 PM - medici.child🕯: Team the only available late time slot for friday 1h00-1h20 and we writing at 2h00
+
+Is that still fine or will we be to late for the exam
+5/28/19, 12:54 PM - Farhaan: 👀 I can't make 2... Can't we leave it for Thursday?
+5/28/19, 1:11 PM - medici.child🕯: Yeah I left it there as well, bbecaussewhat if he rans late and doesn't start at 1h00
+5/28/19, 9:21 PM - medici.child🕯: @27825363089 the dropbox link u sent me,
+Does the code have the battle system in it as well
+5/28/19, 9:22 PM - medici.child🕯: Just read this and noticed  👀
+5/28/19, 11:52 PM - Given: So guys we are left with a logical view and process view?
+5/28/19, 11:52 PM - Given: And what do you use to draw those diagrams?
+5/29/19, 2:09 AM - medici.child🕯: Yes
+So for the logical view its the class diagram and the state diagram
+
+For the process view its the activity diagram
+5/29/19, 4:48 AM - Farhaan: Draw.io is pretty good
+5/29/19, 9:57 AM - Farhaan: which branch is Nekos map on? I want to make the screens transition between map and battle system
+5/29/19, 3:20 PM - medici.child🕯: *sprint retrospective Thursday 4h40 PM*
+5/29/19, 3:35 PM - Farhaan: 😳
+5/29/19, 3:36 PM - medici.child🕯: Wouldn't u be able to make it??
+5/29/19, 3:36 PM - Farhaan: I'll be able to make it. 😂 Just a bit shocked at the time
+5/29/19, 3:38 PM - medici.child🕯: Oh, it's just insurance for us, in case we don't get to finish up on time, if we do finish we can push it back up to 10h40
+5/29/19, 3:38 PM - Farhaan: Oh ok cool👍🏻
+5/29/19, 3:42 PM - Given: Lol🤣
+5/29/19, 3:52 PM - medici.child🕯: @vasty i can see ur code, good job 🤾🏾‍♂
+
+The animations at working though? Do u know why
+5/29/19, 4:00 PM - medici.child🕯: Can someone pls work on the user stories as well, 
+They need to be updated on Github wiki

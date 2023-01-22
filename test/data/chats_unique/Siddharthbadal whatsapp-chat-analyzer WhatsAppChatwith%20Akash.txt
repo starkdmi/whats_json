@@ -1,0 +1,488 @@
+25/09/2020, 21:08 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+25/09/2020, 21:08 - Siddharth: Koi python, SQL, django, or ops ki opening ho .. to btana
+25/09/2020, 22:32 - Akash Sharma: Ok
+25/09/2020, 22:32 - Akash Sharma: Ops mein kyaa
+25/09/2020, 22:32 - Akash Sharma: Specfc
+25/09/2020, 23:29 - Siddharth: Ops mai finance/business ops.. data analysis..
+25/09/2020, 23:44 - Siddharth: But I wish I could get in something related to programming
+25/09/2020, 23:44 - Siddharth: Python or other
+26/09/2020, 08:15 - Akash Sharma: I thought devops
+26/09/2020, 08:15 - Akash Sharma: Ok😊
+26/09/2020, 08:16 - Akash Sharma: Agr tu cloud
+26/09/2020, 08:16 - Akash Sharma: Kr le
+26/09/2020, 08:16 - Akash Sharma: Uskee
+26/09/2020, 08:16 - Akash Sharma: Demand hai
+26/09/2020, 08:16 - Akash Sharma: Kaafi
+26/09/2020, 08:16 - Akash Sharma: We hv intrvw
+26/09/2020, 08:16 - Akash Sharma: Keep python n bigdata snalytics
+26/09/2020, 08:16 - Akash Sharma: As complmntry
+26/09/2020, 08:17 - Akash Sharma: Uskee certfcation u cn clear easily in 2 mnths
+26/09/2020, 08:17 - Akash Sharma: Gcp or aws
+26/09/2020, 08:17 - Akash Sharma: 1 yr acct is free
+26/09/2020, 08:17 - Akash Sharma: On these platfrms
+26/09/2020, 08:18 - Akash Sharma: Waise bhi plain programming no one does ..they need some cloud exposure
+26/09/2020, 08:18 - Akash Sharma: These days
+26/09/2020, 08:19 - Akash Sharma: Iske
+26/09/2020, 08:19 - Akash Sharma: Aaj hi intrvw hai lene
+26/09/2020, 12:21 - Siddharth: Which cloud
+26/09/2020, 12:21 - Siddharth: Aws
+26/09/2020, 12:21 - Siddharth: Certification
+26/09/2020, 12:23 - Siddharth: Theek hai voh start karta hu.. aws is certification begging vala
+26/09/2020, 12:53 - Akash Sharma: Aws or gcp
+26/09/2020, 12:53 - Akash Sharma: Gcp ki to bahut demnd hai
+26/09/2020, 12:53 - Akash Sharma: Koi bhi ek kr le
+26/09/2020, 12:53 - Akash Sharma: Log sirf theory ke base pr hi kaafi
+26/09/2020, 12:54 - Akash Sharma: Demand krvrahe hai pkg
+26/09/2020, 12:54 - Akash Sharma: Gcp cloud engineeer
+26/09/2020, 12:54 - Akash Sharma: Kr le
+26/09/2020, 12:54 - Akash Sharma: Pehle
+26/09/2020, 12:54 - Akash Sharma: It's easy u can do in 1 mnth also
+26/09/2020, 12:54 - Akash Sharma: If u wrk hard
+26/09/2020, 12:54 - Akash Sharma: Then developer or architect
+26/09/2020, 12:55 - Akash Sharma: But u can apply on base of cloud engineer u would get thru
+26/09/2020, 12:55 - Akash Sharma: U already knw python sql
+26/09/2020, 12:55 - Akash Sharma: All that will b handy
+26/09/2020, 12:56 - Akash Sharma: I can help
+26/09/2020, 12:56 - Akash Sharma: From my side
+26/09/2020, 12:56 - Akash Sharma: 👍
+26/09/2020, 13:41 - Siddharth: You deleted this message
+26/09/2020, 13:43 - Siddharth: I will start learning then
+26/09/2020, 13:44 - Siddharth: Gcp ka starting certification kon sa hai
+26/09/2020, 13:44 - Siddharth: Vahi se karna padega na
+26/09/2020, 13:45 - Siddharth: Start
+26/09/2020, 13:45 - Siddharth: Koi course link hai
+26/09/2020, 13:53 - Siddharth: I was infact thinking of learning aws
+26/09/2020, 15:10 - Akash Sharma: Ye kr le
+26/09/2020, 15:10 - Akash Sharma: Course mil jaynge
+26/09/2020, 15:10 - Akash Sharma: Udemy
+26/09/2020, 15:10 - Akash Sharma: Pr
+26/09/2020, 15:10 - Akash Sharma: Baaki 1 yr
+26/09/2020, 15:10 - Akash Sharma: It's free gcp u give ur credit card info
+26/09/2020, 15:10 - Akash Sharma: But
+26/09/2020, 15:12 - Akash Sharma: Basic help to gcp documentation se mil jaayegi
+26/09/2020, 15:32 - Akash Sharma: Official guides
+26/09/2020, 15:32 - Akash Sharma: Bhi hai
+26/09/2020, 15:32 - Akash Sharma: But fr first certification basic handson
+26/09/2020, 15:32 - Akash Sharma: Chahiye
+26/09/2020, 15:32 - Akash Sharma: Basic
+26/09/2020, 15:32 - Akash Sharma: Par
+26/09/2020, 15:32 - Akash Sharma: Bahut
+26/09/2020, 15:46 - Siddharth: Okk
+26/09/2020, 15:46 - Siddharth: Haan mai dekh raha tha
+26/09/2020, 15:47 - Siddharth: Theek hai mai start karta hu
+26/09/2020, 15:48 - Siddharth: First certification is google associate cloud engi
+26/09/2020, 15:49 - Siddharth: Hands on to sab kuch mai chahiye
+26/09/2020, 15:49 - Siddharth: Udemy se koi cars le ke will start doing as much as possible
+26/09/2020, 15:49 - Siddharth: Will keep telling u
+26/09/2020, 15:51 - Siddharth: Asking .. wheneve needed
+26/09/2020, 16:01 - Akash Sharma: Ye bahut basic handson
+26/09/2020, 16:01 - Akash Sharma: Hai
+26/09/2020, 16:01 - Akash Sharma: Yes
+26/09/2020, 16:02 - Akash Sharma: Officiall guides bhi hai iskee but will cost u money..n itne sahi nahi..hai
+26/09/2020, 16:02 - Akash Sharma: Get course n then mocks test
+26/09/2020, 16:02 - Akash Sharma: Wahi se
+26/09/2020, 16:02 - Akash Sharma: Plus 1 yr acvount
+26/09/2020, 16:02 - Akash Sharma: Free
+26/09/2020, 16:02 - Akash Sharma: Access to gcp
+26/09/2020, 17:02 - Siddharth: K
+30/09/2020, 00:15 - Siddharth: If anyone's looking for a website developer for their web, pls refer me.
+30/09/2020, 00:15 - Siddharth: Maybe just keep in mind.
+30/09/2020, 06:06 - Akash Sharma: Ok
+27/10/2020, 13:39 - Siddharth: Give me your phone pe number
+27/10/2020, 13:39 - Siddharth: Will start returning some money
+27/10/2020, 13:39 - Siddharth: Gradually
+27/10/2020, 13:40 - Siddharth: 🙂
+27/10/2020, 14:44 - Akash Sharma: Lg kayee kya
+27/10/2020, 14:44 - Akash Sharma: Naukri
+27/10/2020, 15:01 - Siddharth: Nhi yar
+27/10/2020, 15:02 - Siddharth: Mujhe to umeed bhi nhi lg rahi ab
+27/10/2020, 15:02 - Siddharth: Samjh mai aa nahi raha zyada kuch
+27/10/2020, 15:09 - Akash Sharma: Ab to nikal rahee hai
+27/10/2020, 15:09 - Akash Sharma: It jobs
+27/10/2020, 15:09 - Akash Sharma: Kaafi
+27/10/2020, 15:09 - Akash Sharma: Cloud kiya
+27/10/2020, 15:09 - Akash Sharma: Nhi
+27/10/2020, 15:09 - Akash Sharma: Tune
+27/10/2020, 16:01 - Siddharth: Yaar clouds yaha se nahi ho payega..  practice nhi hogi.
+27/10/2020, 16:01 - Siddharth: Laptop bhi purani ho gya hai
+27/10/2020, 16:02 - Siddharth: Aur sirf theory se kuch hoga nahi
+27/10/2020, 16:02 - Siddharth: Jobs to nikal nahi hai per.. mujhe nahi mil rahi.. gap bhi kaafi lamba hai aur
+27/10/2020, 16:03 - Siddharth: IT mai shayad es age mai entry bhi na mile
+27/10/2020, 16:03 - Siddharth: I myself in doubt ki mujhe kya aata hai kya nahi😀
+27/10/2020, 16:05 - Siddharth: Aur shayad IT mai actual work aane k liye time bhi chahiye..
+27/10/2020, 18:56 - Akash Sharma: Cloud mein to wahi krnaa
+27/10/2020, 18:56 - Akash Sharma: Pdta
+27/10/2020, 18:56 - Akash Sharma: Hai
+27/10/2020, 18:56 - Akash Sharma: In their
+27/10/2020, 18:56 - Akash Sharma: Website
+27/10/2020, 18:56 - Akash Sharma: Aisa kuch
+27/10/2020, 18:56 - Akash Sharma: Nhi
+27/10/2020, 18:56 - Akash Sharma: Hai
+27/10/2020, 18:57 - Akash Sharma: Dekh le jo u think
+27/10/2020, 18:57 - Akash Sharma: Is bttr fr u
+27/10/2020, 21:00 - Siddharth: Haan... cloud karna sahi hai. Per mere laptop pe theek se chle bhi to.. abhi kuch kaam ka ho to baat bne aage..
+27/10/2020, 21:01 - Siddharth: Yaar I am applying per no response.. either I need to learn more things .. may be it just not nt working out right now
+27/10/2020, 21:57 - Akash Sharma: Okk
+27/10/2020, 21:58 - Akash Sharma: Wo usne mukul ne
+27/10/2020, 21:58 - Akash Sharma: Ek job
+27/10/2020, 21:58 - Akash Sharma: Post daali
+27/10/2020, 21:58 - Akash Sharma: Thee
+27/10/2020, 21:58 - Siddharth: Mukul?
+27/10/2020, 21:59 - Siddharth: LinkedIn per
+27/10/2020, 21:59 - Akash Sharma: Jo wrkshop
+27/10/2020, 21:59 - Akash Sharma: Mein tha
+27/10/2020, 21:59 - Akash Sharma: Acting
+27/10/2020, 21:59 - Siddharth: Okk
+27/10/2020, 21:59 - Akash Sharma: Fb pr
+27/10/2020, 21:59 - Siddharth: Will chk
+27/10/2020, 22:00 - Akash Sharma: Capture any job that gives sm money
+27/10/2020, 22:00 - Siddharth: Yes
+27/10/2020, 22:00 - Akash Sharma: Side mein u cn pursue
+27/10/2020, 22:00 - Siddharth: Vahi bas
+27/10/2020, 22:00 - Akash Sharma: Cloud etc
+27/10/2020, 22:01 - Siddharth: Job k sath he sahi hoga
+27/10/2020, 22:01 - Akash Sharma: I intrvewed abhi one 50 yr old he was bttr than 25 yrs old
+27/10/2020, 22:01 - Akash Sharma: So don't think age etc
+27/10/2020, 22:01 - Akash Sharma: U just need entry
+27/10/2020, 22:01 - Akash Sharma: Point
+27/10/2020, 22:01 - Siddharth: Yaar there are bootcamps which teach a job oriented things.. full time..
+27/10/2020, 22:02 - Siddharth: They also help in jobs
+27/10/2020, 22:02 - Siddharth: So I am kind of thinking..ki kuch ho jaye vaisa
+27/10/2020, 22:02 - Akash Sharma: Koi bhi job pakad le
+27/10/2020, 22:02 - Akash Sharma: Bas
+27/10/2020, 22:02 - Siddharth: Yaar khud se pdanna ek limit tak he hota hai
+27/10/2020, 22:03 - Akash Sharma: N come in motiin
+27/10/2020, 22:03 - Akash Sharma: Haa
+27/10/2020, 22:03 - Siddharth: One needs some mentorship and feedback
+27/10/2020, 22:03 - Akash Sharma: Practical..
+27/10/2020, 22:03 - Akash Sharma: N experience in job hi milega
+27/10/2020, 22:03 - Siddharth: Haan.
+27/10/2020, 22:29 - Siddharth: What things are asked in interviews for a beginner in programming.
+27/10/2020, 22:29 - Siddharth: Coding.
+27/10/2020, 22:29 - Siddharth: Which topics are must to know.
+28/10/2020, 06:51 - Akash Sharma: Prgramming
+28/10/2020, 06:51 - Akash Sharma: Mein
+28/10/2020, 06:51 - Akash Sharma: They will ask fr ui
+28/10/2020, 06:52 - Akash Sharma: Technologies
+28/10/2020, 06:52 - Akash Sharma: More
+28/10/2020, 06:52 - Akash Sharma: Basic prgramming
+28/10/2020, 06:52 - Akash Sharma: Is nt much req or those skills they assume everyone will knw
+28/10/2020, 06:52 - Akash Sharma: React angular
+28/10/2020, 06:53 - Akash Sharma: Ye they willl ask
+28/10/2020, 06:53 - Akash Sharma: Tbhi I asked u focus on cloud
+28/10/2020, 06:53 - Akash Sharma: Waha competition is less
+28/10/2020, 06:53 - Akash Sharma: N demnd more
+28/10/2020, 13:30 - Siddharth: Okk
+28/10/2020, 13:38 - Siddharth: Cloud mai main practice hai...
+28/10/2020, 13:39 - Siddharth: Vaise sab mai practice hi chahiye
+28/10/2020, 13:40 - Siddharth: React Angular dono frontend  hai.. JavaScript basics are easy to learn.. but to learn deeper and build something in JavaScript is hard..
+28/10/2020, 13:41 - Siddharth: That's why I like python... samjh to aata hai at least kya ho raha hai.. 😀
+28/10/2020, 13:42 - Siddharth: Per mostly jobs JavaScript stack mai hai.. react nodejs
+28/10/2020, 15:18 - Akash Sharma: Alone python wint b enough
+28/10/2020, 15:54 - Siddharth: Yes..learning backend that's why.
+28/10/2020, 16:08 - Akash Sharma: Ok
+02/11/2020, 21:34 - Siddharth: https://myecomshops.herokuapp.com
+02/11/2020, 21:34 - Siddharth: Working on a ecom project
+02/11/2020, 21:34 - Siddharth: Haven't finished it.
+02/11/2020, 22:27 - Akash Sharma: Ok gud👍
+14/11/2020, 18:56 - Akash Sharma: Happy diwali🎉
+14/11/2020, 22:30 - Siddharth: Same to u..
+02/01/2021, 13:24 - Siddharth: Happy new year bro
+02/01/2021, 14:38 - Akash Sharma: Happy new year to u Siddharth bhai hru..🤩🎉
+02/01/2021, 14:46 - Siddharth: Bas theek
+02/01/2021, 14:46 - Siddharth: Apna sunao
+02/01/2021, 15:00 - Akash Sharma: I'm gud too
+08/01/2021, 14:06 - Siddharth: Let's switch to Signal: https://signal.org/install
+08/01/2021, 18:37 - Akash Sharma: Arre kaun se signal pakad rahee ho jaya ji
+08/01/2021, 18:37 - Akash Sharma: 😉
+08/01/2021, 18:42 - Siddharth: Kuch pakad mai aa hi nahi raha
+08/01/2021, 18:46 - Akash Sharma: :)
+08/01/2021, 22:51 - Siddharth: https://sidharthbadal.netlify.app
+08/01/2021, 22:51 - Siddharth: See.. Koi progress dikh rahi hai
+08/01/2021, 22:51 - Siddharth: ?
+08/01/2021, 22:52 - Siddharth: Self learning bahut difficult hoti hai
+09/01/2021, 16:53 - Akash Sharma: It's gud👍
+20/01/2021, 07:12 - Akash Sharma: If anyone is interested in a good job opportunity in Berlin Germany let me know. My company is hiring lots of engineers (developers, devops etc..). Work from home during corona times, 30 days payed leave, great company culture, nice salary and many other perks...  I'm with the company almost 4 years and quite enjoy it.
+
+https://grnh.se/dc0b25613us
+20/01/2021, 12:19 - Siddharth: Thnku
+20/01/2021, 13:10 - Akash Sharma: 👍
+21/01/2021, 13:35 - Siddharth: Kaisa hai bhai
+21/01/2021, 13:35 - Siddharth: How's life and all
+21/01/2021, 13:35 - Siddharth: Ghar vale kaise hai
+21/01/2021, 16:03 - Akash Sharma: Theek hai bhai...going on tu sunaa
+21/01/2021, 16:03 - Akash Sharma: Kahi bnaa kuch
+21/01/2021, 16:38 - Siddharth: Year IT is a long route.. will take time. I don't know ho payega bhi ya nahi
+21/01/2021, 16:38 - Siddharth: Abhi looking for some work.. kuch mil Jaye theek thak saa bhi
+21/01/2021, 16:39 - Siddharth: Applying...bas aur kya kre
+21/01/2021, 16:39 - Siddharth: Gap ke baad ppl don't look at cv 😀
+21/01/2021, 17:03 - Akash Sharma: Haa but the one break
+21/01/2021, 17:03 - Akash Sharma: U need
+21/01/2021, 17:04 - Akash Sharma: Is a small set up
+21/01/2021, 17:04 - Akash Sharma: Also will do
+21/01/2021, 17:04 - Akash Sharma: Pune banglore
+21/01/2021, 17:33 - Siddharth: Haan.. kahi bhi
+21/01/2021, 17:40 - Siddharth: Abe bhai
+21/01/2021, 17:40 - Siddharth: Tune shaddi kar li
+21/01/2021, 17:41 - Siddharth: I mean shayad tu karne vala tha na
+21/01/2021, 19:11 - Akash Sharma: Haa bhai..😉
+21/01/2021, 19:49 - Siddharth: Congrats
+22/01/2021, 07:51 - Akash Sharma: Thx
+11/02/2021, 17:26 - Akash Sharma: Hi koi paid course
+11/02/2021, 17:26 - Akash Sharma: With placemnt
+11/02/2021, 17:26 - Akash Sharma: Kiya kya
+11/02/2021, 17:26 - Akash Sharma: Explore
+11/02/2021, 17:26 - Akash Sharma: Like sap java ke hote hai
+11/02/2021, 17:45 - Siddharth: Nhi bhai
+11/02/2021, 17:46 - Siddharth: Maine to jitna bhi kiya khud YouTube udemy se hi kiya🙂
+11/02/2021, 17:58 - Akash Sharma: Bttr join such instt.
+11/02/2021, 17:58 - Akash Sharma: U need some guarantee
+11/02/2021, 17:58 - Akash Sharma: But
+11/02/2021, 17:58 - Akash Sharma: N credibility
+11/02/2021, 17:58 - Akash Sharma: Of job assurance
+11/02/2021, 17:59 - Akash Sharma: From them
+11/02/2021, 17:59 - Akash Sharma: Pune banglore delhi
+11/02/2021, 17:59 - Akash Sharma: .ein bhi
+11/02/2021, 17:59 - Akash Sharma: Honge
+11/02/2021, 17:59 - Akash Sharma: Aise
+11/02/2021, 17:59 - Akash Sharma: Fees ka bataiyo
+11/02/2021, 17:59 - Akash Sharma: I will help
+11/02/2021, 17:59 - Akash Sharma: Jitna ho skega
+11/02/2021, 17:59 - Akash Sharma: Things r picking up
+11/02/2021, 18:00 - Akash Sharma: So try this way
+11/02/2021, 21:04 - Siddharth: Haan ese courses aur bootcamp hote to hai
+11/02/2021, 21:04 - Siddharth: Per sab costly hai
+11/02/2021, 21:04 - Siddharth: So can't say as if now
+11/02/2021, 21:05 - Siddharth: Per yes I have this in mind
+11/02/2021, 21:35 - Akash Sharma: Hmm
+12/02/2021, 13:19 - Akash Sharma: Work from Home
+Need some genuine candidates for home based Excel work
+Candidate should have basic knowledge of excel
+Contract base excel work
+Typing speed minimum 25 w.p.m.
+Data Entry work
+Laptop/PC required
+Payment on weekly basis
+Male and female both can apply
+Regards
+RUDRA Solutions
+www.rudrasolutions.co.in
+9888199918
+12/02/2021, 22:49 - Siddharth: Sambhal ke bhai.
+13/02/2021, 10:34 - Akash Sharma: Kya hua
+13/02/2021, 11:13 - Siddharth: 😀
+09/03/2021, 09:27 - Akash Sharma: <Media omitted>
+09/03/2021, 09:27 - Akash Sharma: Ye hai kuch kam ka
+09/03/2021, 10:14 - Akash Sharma: Literacy n digital india se
+09/03/2021, 10:14 - Akash Sharma: Tie up
+09/03/2021, 10:14 - Akash Sharma: Hai
+09/03/2021, 10:14 - Akash Sharma: U can chk
+09/03/2021, 10:14 - Akash Sharma: Their site
+09/03/2021, 10:14 - Akash Sharma: Directly too
+09/03/2021, 10:14 - Akash Sharma: It's govt proge
+09/03/2021, 10:14 - Akash Sharma: "ramme
+09/03/2021, 11:05 - Siddharth: Ok
+09/03/2021, 13:14 - Siddharth: Yaar en sab mai bahut sara padna padta hai..
+09/03/2021, 13:15 - Siddharth: Pta nhi ho bhi payega
+09/03/2021, 13:15 - Siddharth: Aur node express react vala stack zyada demand mai hai
+09/03/2021, 13:16 - Siddharth: ..
+09/03/2021, 13:16 - Siddharth: And
+09/03/2021, 13:16 - Siddharth: Honestly I don't know if I could get in.. seems difficult
+09/03/2021, 13:20 - Siddharth: Do teen interviews diye toh samjh aaya ki kaafi lengthy process hai mere jaise k liye..
+09/03/2021, 13:23 - Siddharth: As much as I understand this stack can't get anyone a job..
+09/03/2021, 13:56 - Akash Sharma: Digitl mkting
+09/03/2021, 13:57 - Akash Sharma: Track
+09/03/2021, 13:57 - Akash Sharma: ?
+09/03/2021, 13:57 - Akash Sharma: It's more of business
+09/03/2021, 13:57 - Akash Sharma: Side
+09/03/2021, 14:07 - Siddharth: Haan..
+09/03/2021, 14:08 - Siddharth: I think I should continue with Python... as much as I could.
+09/03/2021, 14:08 - Siddharth: Python for data and web
+09/03/2021, 14:08 - Siddharth: And along with it cloud..
+09/03/2021, 14:08 - Siddharth: If I could.
+09/03/2021, 14:09 - Siddharth: Jina bhi mai kar paau
+09/03/2021, 14:09 - Siddharth: U also suggested to learn cloud..
+09/03/2021, 14:11 - Siddharth: Per abhi I know.. I can't get in. I am exhausted 😀
+09/03/2021, 14:12 - Siddharth: Aur abhi financially bhi accha nhi life.. so may be gradually..
+09/03/2021, 14:12 - Siddharth: Bakki agar job mil gya to phir us taraf..
+09/03/2021, 14:32 - Akash Sharma: Okk bhai
+09/03/2021, 20:10 - Akash Sharma: Ohri painter bnaa
+09/03/2021, 20:10 - Akash Sharma: Hai
+09/03/2021, 20:11 - Akash Sharma: Ad mein
+09/03/2021, 21:23 - Siddharth: Haan
+09/03/2021, 21:23 - Siddharth: Sahi kar  raha hai
+09/03/2021, 21:24 - Siddharth: Ek do baar baat hui meri..
+09/03/2021, 21:25 - Akash Sharma: Ok
+09/03/2021, 21:26 - Siddharth: Tu bhi aayega bhai kisi din.. gaate hue
+09/03/2021, 21:26 - Siddharth: Aayega.
+09/03/2021, 23:02 - Akash Sharma: Mujhe nhi aana
+09/03/2021, 23:02 - Akash Sharma: :)
+09/03/2021, 23:02 - Akash Sharma: Aise hi theek hai
+10/03/2021, 11:32 - Siddharth: Arrey nahi
+10/03/2021, 11:32 - Siddharth: U deserve recognition
+10/03/2021, 11:46 - Akash Sharma: Hahaa
+10/03/2021, 12:00 - Siddharth: One thing for sure I can say, nothing can liberate a human but Art.
+10/03/2021, 12:00 - Siddharth: Everything is false. But art.
+10/03/2021, 12:01 - Siddharth: Keep doing, blessed are those who are allowed to demolish there inner demons through art.
+10/03/2021, 12:02 - Siddharth: This is my own experience.
+10/03/2021, 12:17 - Akash Sharma: Sure buddy it's life long process :) Art also can be in many things .we often look at only one dimension.
+21/03/2021, 21:36 - Siddharth: <Media omitted>
+22/03/2021, 12:05 - Siddharth: Happy bday bhai
+22/03/2021, 12:05 - Siddharth: Mast raho
+22/03/2021, 13:26 - Akash Sharma: Thx bhai❤️
+22/04/2021, 16:36 - Siddharth: Kya haal bhai
+22/04/2021, 16:36 - Siddharth: Sab theek
+22/04/2021, 17:30 - Akash Sharma: Haa ..so far
+22/04/2021, 17:30 - Akash Sharma: Hru
+22/04/2021, 17:35 - Siddharth: Bas bne hai
+22/04/2021, 21:20 - Akash Sharma: Okk
+24/04/2021, 13:35 - Akash Sharma: Cases kaise
+24/04/2021, 13:35 - Akash Sharma: Hai waha
+24/04/2021, 13:35 - Akash Sharma: Stable hai
+24/04/2021, 15:15 - Siddharth: Bhai ye UP hai
+24/04/2021, 15:15 - Siddharth: Yaha actual data Bahar nahi aata
+24/04/2021, 15:15 - Siddharth: Halat buri hai..
+24/04/2021, 15:17 - Akash Sharma: Ok
+24/04/2021, 15:17 - Akash Sharma: Where ru
+24/04/2021, 15:17 - Akash Sharma: Exactly
+24/04/2021, 15:17 - Akash Sharma: In jhansi
+24/04/2021, 15:38 - Siddharth: <Media omitted>
+24/04/2021, 15:39 - Siddharth: Kya hua.. city se thoda Bahar ghar hai
+24/04/2021, 17:18 - Akash Sharma: Ok kya naam hai
+24/04/2021, 17:51 - Siddharth: Kiska
+24/04/2021, 18:26 - Akash Sharma: जगह का
+24/04/2021, 18:26 - Akash Sharma: ओरछा के पास
+24/04/2021, 18:26 - Akash Sharma: Hai kya
+24/04/2021, 21:52 - Siddharth: Nahi main city ke pas
+24/04/2021, 21:53 - Siddharth: Tu kaha hai😀
+25/04/2021, 10:18 - Akash Sharma: Ghr pe delhi
+26/04/2021, 00:21 - Siddharth: Yaar.. kuch help karne ki condition mai hai kya..
+26/04/2021, 00:21 - Siddharth: See if possible. I know pahle ka bhi hai ..
+26/04/2021, 10:33 - Siddharth: <Media omitted>
+26/04/2021, 12:41 - Akash Sharma: Bhai may start btaa paoonga
+26/04/2021, 12:41 - Akash Sharma: Abhi mnth end
+26/04/2021, 12:41 - Akash Sharma: Hai
+26/04/2021, 14:02 - Siddharth: Theek bhai.
+27/04/2021, 17:27 - Siddharth: <Media omitted>
+30/04/2021, 22:21 - Siddharth: <Media omitted>
+01/05/2021, 09:18 - Akash Sharma: 👍
+01/05/2021, 09:18 - Akash Sharma: Thx
+01/05/2021, 15:53 - Akash Sharma: https://youtu.be/mp3f8_7Hho4
+12/05/2021, 10:45 - Akash Sharma: <Media omitted>
+12/05/2021, 10:45 - Akash Sharma: 1200 kiye
+12/05/2021, 10:45 - Akash Sharma: Hai
+12/05/2021, 10:45 - Akash Sharma: Xfer
+12/05/2021, 11:36 - Siddharth: Ok
+04/06/2021, 14:27 - Akash Sharma: Maine ek domainname liya
+04/06/2021, 14:27 - Akash Sharma: Hai
+04/06/2021, 14:28 - Akash Sharma: Is pe kuch bna
+04/06/2021, 14:28 - Akash Sharma: Skta
+04/06/2021, 14:28 - Akash Sharma: Hai
+04/06/2021, 14:28 - Akash Sharma: Aakashsharma.co.in
+04/06/2021, 16:20 - Siddharth: Jo kaho
+04/06/2021, 16:20 - Siddharth: Jaisa kaho
+04/06/2021, 16:20 - Siddharth: .com kyo nahi liya
+04/06/2021, 16:20 - Siddharth: Hosting bhi leni padegi deployment k time😀
+04/06/2021, 17:18 - Akash Sharma: Hosted hai AWS pe
+04/06/2021, 18:17 - Siddharth: Okk
+04/06/2021, 18:18 - Siddharth: Toh mujhe kuch idea de Dena ki kis Tarah ki website banai hai
+04/06/2021, 18:18 - Siddharth: Koi website for example..
+04/06/2021, 18:19 - Siddharth: Content
+04/06/2021, 18:19 - Siddharth: Single page would be great. I think
+04/06/2021, 18:22 - Siddharth: Is it for your work related things or your musical work?
+04/06/2021, 20:44 - Akash Sharma: Story, movies music n tech
+04/06/2021, 20:44 - Akash Sharma: 4 section hi
+04/06/2021, 20:44 - Akash Sharma: Chahiye
+04/06/2021, 20:44 - Akash Sharma: About me
+04/06/2021, 20:44 - Akash Sharma: Also
+04/06/2021, 20:45 - Akash Sharma: Mujhe sketch like look chahiye
+04/06/2021, 20:45 - Akash Sharma: Malgudi days type
+04/06/2021, 20:51 - Siddharth: Bhai
+04/06/2021, 20:51 - Siddharth: Design is different from development.
+04/06/2021, 20:53 - Siddharth: Phir bhi koi ek ruf sketch would be help ful..
+04/06/2021, 20:54 - Siddharth: Har section ke andar kya hoga..
+04/06/2021, 20:54 - Siddharth: Let me try finding few pages..
+04/06/2021, 20:55 - Siddharth: Vaise a website with four section.. will be a big one..
+04/06/2021, 20:57 - Akash Sharma: Personal site hai
+04/06/2021, 20:57 - Akash Sharma: Basic info or links
+04/06/2021, 20:57 - Akash Sharma: Deta hoo u think kya
+04/06/2021, 20:57 - Akash Sharma: Dal sakta hai...
+05/06/2021, 10:16 - Siddharth: Haan
+05/06/2021, 10:17 - Siddharth: Sab kuch ho sakta hai
+05/06/2021, 10:17 - Siddharth: Hone ko to
+05/06/2021, 10:26 - Siddharth: Dekhte hai koi design koi templates..
+05/06/2021, 10:27 - Siddharth: Tu bhi dekh kuch.. idea milega
+05/06/2021, 12:39 - Akash Sharma: Ok
+05/06/2021, 19:07 - Siddharth: Mujhe banane mai time lagega.. dheere dheere kar pauga.. but will do.
+05/06/2021, 19:07 - Siddharth: Last month covid ho gya tha.. to abhi bhi weakness rahti hai
+05/06/2021, 19:08 - Siddharth: Aur apna bhi thode projects kar raha hu.. to thoda time lagega.
+05/06/2021, 19:09 - Siddharth: I will also need to understand few things from u before I start about the web.. will tell u in few days..
+05/06/2021, 21:27 - Akash Sharma: Np
+05/06/2021, 21:27 - Akash Sharma: Itna imp nhi
+05/06/2021, 21:27 - Akash Sharma: Hai
+05/06/2021, 21:28 - Akash Sharma: Take care
+24/06/2021, 19:55 - Siddharth: Can I run a sql query to create a big database on AWS rds?
+24/06/2021, 19:56 - Siddharth: And then connect it on mysql work bench to use it.
+24/06/2021, 19:57 - Siddharth: I have already created an instance but unable to run query from work bench?
+24/06/2021, 19:57 - Siddharth: Is there a way to do it directly on aws. 
+Any idea...
+24/06/2021, 22:10 - Akash Sharma: What kind of data is it..relational
+24/06/2021, 22:13 - Akash Sharma: Create db is not prblm...loading it what iz the source
+24/06/2021, 22:14 - Akash Sharma: Of data
+24/06/2021, 22:14 - Akash Sharma: If it already resides in db...migration can b done AWS supports that
+24/06/2021, 22:19 - Akash Sharma: If it is analytical data redshift etc cn b cinsidered
+24/06/2021, 22:48 - Siddharth: Yes
+24/06/2021, 22:49 - Siddharth: It's a database with multiple tables..  e-commerce dataset
+24/06/2021, 22:58 - Akash Sharma: Try to use migration tools
+24/06/2021, 22:58 - Akash Sharma: Directly
+24/06/2021, 22:58 - Akash Sharma: Of aws
+24/06/2021, 22:59 - Siddharth: Ok.. free slot mai allow hai?
+24/06/2021, 23:01 - Siddharth: Mysql server is throwing error so I have been trying if something could workout. But it looks difficult.
+24/06/2021, 23:07 - Akash Sharma: U mean free trial acct
+24/06/2021, 23:21 - Siddharth: Haan
+24/06/2021, 23:28 - Akash Sharma: Haa
+24/06/2021, 23:29 - Akash Sharma: 1 yr
+24/06/2021, 23:29 - Akash Sharma: U get all features
+24/06/2021, 23:29 - Akash Sharma: It will ask fr credit
+24/06/2021, 23:29 - Akash Sharma: Card
+24/06/2021, 23:29 - Akash Sharma: But
+25/06/2021, 10:33 - Siddharth: Ok
+01/07/2021, 20:46 - Akash Sharma: CorePeelers is inviting applications from Senior Developers for a Full Time Employment. The job is for the Industry leader and currently allows work from home / remotely. Candidates who are willing to deliver value through their skills may apply for the job. This is an urgent requirement for immediate deployment.
+
+ Location : Noida
+
+Currently : WFH currently (Based on business requirements, candidates may relocate to Noida and work from our offices in Noida about 6-9 months later) 
+
+Looking for : People to be onboarded asap. 
+
+Salary range : Best in the industry for the right candidate.
+
+ 
+
+Candidates need to have their experience on various Tech Stack which include: 
+
+Java 1.8+ (Java 11 preferable) , Spring Boot, Junit/Mockito, Hibernate, MongoDB, Mysql, Kafka, Aerospike.
+
+Candidates need to have hands-on experience on AWS (using AWS services like Cognito, SNS, WAF, S3, CloudFront, ElastiCache, Elastic search) and use tools like Splunk, New Relic, Docker, Drool, Jenkins for monitoring and deployment. 
+
+ Technical skills / experience required:
+
+·       Hands on experience with development of RESTful web services, APIs & Spring Boot framework.
+
+·       Sound knowledge on Data structures, Algorithms and Multi-threading.
+
+·       Working knowledge of MySQL, MongoDB, Aerospike, Kafka and ORM technologies (JPA2, Hibernate). 
+
+·       Experience with Splunk, New Relic, Docker, Drool, Jenkins is a plus.
+
+·       Strong Coding Experience in Java/J2EE 11.0, Spring Boot, Mongo DB, MySQL, Aerospike, GIT Architecture
+
+·       DevOps -- Jenkins, Sonar Qube, Docker, AWS Architecture-- Expertise in AWS Architecture(ECS, ELB, API Gateway, AWS Lambda, AWS S3, Cloud Front.
+
+·       Monitoring and Logging-- Expertise in Splunk and New Relic
+
+·       Excellent Verbal and Written Communication.
+
+ 
+
+You are also welcome to share this requirement with your friends. You will be eligible for a grand award (upto 1 Lac) for all successful hires based on our Referral Policy.

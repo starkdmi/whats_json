@@ -1,0 +1,1557 @@
+12/26/21, 11:31 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+12/27/21, 21:17 - Shivam Shukla: Can anyone fix, my apache, i wanted to use servlet, but i am not able to do that can anyone help me to fix it.
+12/27/21, 21:17 - Anshu Bhagat: in elicpe or netbeans
+12/27/21, 21:18 - Shivam Shukla: Anything
+12/27/21, 21:18 - Shivam Shukla: i am trying in netbeans only
+12/27/21, 21:18 - Anshu Bhagat: ask others
+12/27/21, 21:18 - Shivam Shukla: if you have any solution of eclipse then also i am fine
+12/27/21, 22:03 - Abishek Jha Dam: I have solution
+12/27/21, 22:03 - Abishek Jha Dam: Go and sleep
+12/27/21, 22:03 - Abishek Jha Dam: Problem solve
+12/27/21, 22:07 - Pankaj: https://bit.ly/3EwCcuM
+12/27/21, 22:34 - Shivam Shukla: <Media omitted>
+12/30/21, 15:16 - Pankaj: <Media omitted>
+12/30/21, 15:39 - Shivam Shukla: 😳😳
+12/30/21, 15:39 - Shivam Shukla: mujhe nhi aya
+12/30/21, 15:39 - Shivam Shukla: abhi tak
+12/30/21, 15:43 - Pankaj: Pray kr naa aaye
+12/30/21, 15:43 - Pankaj: Sabka same date
+12/30/21, 15:43 - Pankaj: Hai
+12/30/21, 15:44 - Pankaj: https://youtu.be/4SKpjJgj7bQ
+12/30/21, 15:44 - Pankaj: N see this
+12/30/21, 15:48 - Shivam Shukla: Abhi tak to nhi aya hai
+12/30/21, 15:53 - Pankaj: Aaiga wait
+12/30/21, 15:58 - Shivam Shukla: okay
+1/1/22, 17:15 - Pankaj: https://www.instagram.com/tv/CYDdeFwIfet/?utm_medium=copy_link
+1/1/22, 17:17 - Shivam Shukla: 😳😳
+1/5/22, 20:10 - Pankaj: The muscle power needed to climb a road on an incline, a hill or a mountain can help you achieve a greater level of fitness. Physical activity such as hiking can lower blood pressure up to 10 points.
+1/5/22, 20:12 - Pankaj: isk walking, jogging, swimming, biking, lifting weights
+1/5/22, 21:08 - Shivam Shukla: @917021268746
+1/5/22, 21:23 - Anshu Bhagat: Queen Check
+Have the function QueenCheck(strArr) read strArr which will be an array consisting of the locations of a Queen and King on a standard 8x8 chess board with no other pieces on the board. The structure of strArr will be the following: ["(x1,y1)","(x2,y2)"] with (x1,y1) representing the position of the queen and (x2,y2) representing the location of the king with x and y ranging from 1 to 8. Your program should determine if the king is in check based on the current positions of the pieces, and if so, return the number of spaces it can move to in order to get out of check. If the king is not in check, return -1. For example: if strArr is ["(4,4)","(6,6)"] then your program should output 6. Remember, because only the queen and king are on the board, if the queen is checking the king by being directly adjacent to it, technically the king can capture the queen.
+Examples
+Input: new String[] {"(1,1)","(1,4)"}
+Output: 3
+Input: new String[] {"(3,1)","(4,4)"}
+Output: -1
+1/5/22, 21:23 - Anshu Bhagat: @anyone plz
+1/5/22, 21:26 - Rupesh Dam: Board pr solve hojaega😂😂
+1/5/22, 21:26 - Pankaj: https://github.com/gutty333/Hard-Programming-Challenges/blob/master/22_QueenCheck.cpp#L6
+1/5/22, 21:26 - Rupesh Dam: Kaha se laya hai tu ye sab?
+1/5/22, 21:27 - Anshu Bhagat: Tcet tnp
+1/5/22, 21:27 - Rupesh Dam: Waah
+1/5/22, 21:37 - Anshu Bhagat: Vertex Covering
+Have the function VertexCovering(strArr) take strArr which will be an array of length three. The first part of the array will be a list of vertices in a graph in the form (A,B,C,...), the second part of the array will be the edges connecting the vertices in the form (A-B,C-D,...) where each edge is bidirectional. The last part of the array will be a set of vertices in the form (X,Y,Z,...) and your program will have to determine whether or not the set of vertices given covers every edge in the graph such that every edge is incident to at least one vertex in the set.
+
+For example: if strArr is ["(A,B,C,D)","(A-B,A-D,B-D,A-C)","(A,B)"] then the vertices (A,B) are in fact one of the endpoints of every edge in the graph, so every edge has been accounted for. Therefore your program should return the string yes. But, if for example the last part of the array was (C,B) then these vertices don't cover all the edges because the edge connecting A-D is left out. If this is the case your program should return the edges given in the second part of the array that are left out in the same order they were listed, so for this example your program should return (A-D).
+
+The graph will have at least 2 vertices and all the vertices in the graph will be connected. The third part of the array listing the vertices may be empty, where it would only contain the parenthesis with no values within it: "()"
+Examples
+Input: {"(A,B,C,D)","(A-B,A-D,B-D,A-C)","(C)"}
+Output: (A-B,A-D,B-D)
+Input: {"(X,Y,Z,Q)","(X-Y,Y-Q,Y-Z)","(Z,Y,Q)"}
+Output: yes
+1/5/22, 21:38 - Anshu Bhagat: @919665917393 this one also
+1/5/22, 21:38 - Pankaj: https://github.com/gutty333/Hard-Programming-Challenges/blob/master/13_VertexCovering.cpp
+1/9/22, 09:31 - Pankaj: <Media omitted>
+1/9/22, 09:31 - Pankaj: <Media omitted>
+1/9/22, 09:31 - Pankaj: <Media omitted>
+1/9/22, 09:31 - Pankaj: <Media omitted>
+1/9/22, 09:32 - Pankaj: <Media omitted>
+1/9/22, 09:33 - Shivam Shukla: 1 b
+1/9/22, 09:34 - Shivam Shukla: 3 b
+1/9/22, 09:35 - Shivam Shukla: 5 b
+1/9/22, 09:35 - Teknath Jha: Kon se site ans mil raha hai
+1/9/22, 09:36 - Shivam Shukla: google
+1/9/22, 09:36 - Anshu Bhagat: 6A
+1/9/22, 10:01 - Shivam Shukla: @919323451278 game aya Pankaj ko
+1/9/22, 10:01 - Teknath Jha: ?
+1/9/22, 10:01 - Teknath Jha: mera bhi test hai 10 se
+1/9/22, 10:07 - Anshu Bhagat: .
+1/9/22, 10:07 - Teknath Jha: clg ka
+1/9/22, 12:21 - Shivam Shukla: tera exam hogya?
+1/9/22, 18:03 - Teknath Jha: Abhi huwa
+1/9/22, 19:15 - Shivam Shukla: Okay
+1/10/22, 16:26 - Anshu Bhagat: Binary Tree LCA
+Have the function BinaryTreeLCA(strArr) take the array of strings stored in strArr, which will contain 3 elements: the first element will be a binary tree with all unique values in a format similar to how a binary heap is implemented with NULL nodes at any level represented with a #, the second and third elements will be two different values, and your goal is to find the lowest common ancestor of these two values.
+
+For example: if strArr is ["[12, 5, 9, 6, 2, 0, 8, #, #, 7, 4, #, #, #, #]", "6", "4"] then this tree looks like the following:
+
+
+
+For the input above, your program should return 5 because that is the value of the node that is the LCA of the two nodes with values 6 and 4. You can assume the two nodes you are searching for in the tree will exist somewhere in the tree.
+Examples
+Input: ["[5, 2, 6, 1, #, 8, #]", "2", "6"]
+Output: 5
+Input: ["[5, 2, 6, 1, #, 8, 12, #, #, #, #, #, #, 3, #]", "3", "12"]
+Output: 12
+1/10/22, 16:26 - Anshu Bhagat: plz jaldi batao
+1/10/22, 16:28 - Anshu Bhagat: @919323451278 @919665917393
+1/10/22, 17:00 - Pankaj: https://www.techiedelight.com/find-lowest-common-ancestor-lca-two-nodes-binary-tree/
+1/11/22, 15:13 - Pankaj: On completion of three Learn to Earn Cloud Challenge Game badges, you may win the middle-tier prize. On completion of two Learn to Earn Cloud Challenge Game badges, you may win free basic tier prizes such as bottle. On completion of any Learn to Earn Cloud Challenge Game badges, you may win free 30 credits on Qwiklabs.
+1/11/22, 20:57 - Shivam Shukla: https://youtu.be/-zbZLY2ygls
+1/11/22, 20:57 - Shivam Shukla: Must watch All
+1/11/22, 20:59 - Anshu Bhagat: tune part liya?
+1/11/22, 21:00 - Anshu Bhagat: phele?
+1/11/22, 21:00 - Shivam Shukla: nhi
+1/11/22, 21:00 - Shivam Shukla: Abhi just dekh to bhej diya
+1/11/22, 21:00 - Shivam Shukla: and grp. chahiye
+1/11/22, 21:00 - Shivam Shukla: to join this league
+1/11/22, 21:01 - Anshu Bhagat: great part le team bana join karte hai
+1/11/22, 21:01 - Shivam Shukla: Paka if sab ready hai to karuu
+1/11/22, 21:02 - Shivam Shukla: min = 2, max = 1/0 log allow hai
+1/11/22, 21:03 - Shivam Shukla: and if select hue bhi world round ke liye / ye 1 point bhi mila to
+1/11/22, 21:03 - Shivam Shukla: free swags branded hai
+1/11/22, 21:28 - Teknath Jha: 👍
+1/11/22, 21:30 - Shivam Shukla: tu bhi ready hai hanshu bhi and pankaj bhi ok fir mai baki ka karleta hu .
+1/11/22, 21:31 - Anshu Bhagat: sabko karna hoga
+1/11/22, 21:31 - Shivam Shukla: REMEMBER IT IS A CODEING COMPETITION MEANS WE HAVE TO STICK ONE LANGAUAGE
+1/11/22, 21:32 - Shivam Shukla: Akele ka nhi hai
+1/11/22, 21:32 - Anshu Bhagat: no we can solve in any lang
+1/11/22, 21:32 - Shivam Shukla: koi bhi karo but team cahiye
+1/11/22, 21:32 - Anshu Bhagat: register and join or create team ka option hoga
+1/11/22, 21:33 - Shivam Shukla: ha to r me karna teknath c++ me mai c me pankaj python me karega and vo log fir team kahi ki
+1/11/22, 21:33 - Shivam Shukla: isliye koi bhi ek langauge
+1/11/22, 21:33 - Anshu Bhagat: mai js
+1/11/22, 21:33 - Shivam Shukla: mtlb
+1/11/22, 21:34 - Shivam Shukla: mai html se
+1/11/22, 21:35 - Teknath Jha: Bus itna hi ghamand chai ye life me
+1/11/22, 21:36 - Shivam Shukla: <Media omitted>
+1/11/22, 21:37 - Anshu Bhagat: One of the biggest opportunities you can have under GDSC is on the doorstep 
+SOLUTION CHALLENGE
+A hackathon organized by Google for GDSC Members. So take advantage NOW!!
+
+The 2022 Solution Challenge mission is to solve for one or more of the United Nations 17 Sustainable Development Goals using Google technology
+
+More info: Link: https://developers.google.com/community/gdsc-solution-challenge
+
+Filling Both forms is compulsory
+Google form:
+https://docs.google.com/forms/d/e/1FAIpQLSf_XZPW9XO5BY2cIa0ztLhvnZ1cj9So88FkqZ1ByhdtK1fkeQ/viewform
+
+College form:
+https://forms.gle/u5FBjZ2HSssze4b29
+
+Tentative Registration date:
+19th January 2022.
+1/11/22, 22:14 - Pankaj: Abb yeh kya  hai
+1/12/22, 07:59 - Shivam Shukla: hackathon
+1/12/22, 19:27 - Anshu Bhagat: Second GreatLow
+Have the function SecondGreatLow(arr) take the array of numbers stored in arr and return the second lowest and second greatest numbers, respectively, separated by a space. For example: if arr contains [7, 7, 12, 98, 106] the output should be 12 98. The array will not be empty and will contain at least 2 numbers. It can get tricky if there's just two numbers!
+Examples
+Input: [1, 42, 42, 180]
+Output: 42 42
+Input: [4, 90]
+Output: 90 4
+1/12/22, 19:28 - Teknath Jha: Sort kar na bro
+1/12/22, 19:29 - Teknath Jha: Descending order me sort kar n return arr of 1 n-2
+1/12/22, 19:30 - Teknath Jha: Edge case if element is 2
+1/12/22, 19:33 - Pankaj: Google chal rha hai kya
+1/12/22, 19:33 - Pankaj: Kisika
+1/12/22, 19:37 - Pankaj: Second GreatLow
+Have the function SecondGreatLow(arr) take the array of numbers stored in arr and return the second lowest and second greatest numbers, respectively, separated by a space. For example: if arr contains [7, 7, 12, 98, 106] the output should be 12 98. The array will not be empty and will contain at least 2 numbers. It can get tricky if there's just two numbers!
+Examples
+Input: [1, 42, 42, 180]
+Output: 42 42
+Input: [4, 90]
+Output: 90 4
+1/12/22, 19:37 - Pankaj: https://github.com/ratracegrad/coderbyte-Beginner/blob/master/Second%20Great%20Low
+1/12/22, 19:39 - Anshu Bhagat: def SecondGreatLow(arr):
+
+  # code goes here
+  l = set(arr)
+  l.remove(max(l))
+  l.remove(min(l))
+  
+  return max(l), min(l)
+
+# keep this function call here 
+print(SecondGreatLow(input()))
+1/12/22, 19:39 - Anshu Bhagat: in python
+1/12/22, 19:47 - Anshu Bhagat: Have the function CountingMinutesI(str) take the str parameter being passed which will be two times (each properly formatted with a colon and am or pm) separated by a hyphen and return the total number of minutes between the two times. The time will be in a 12 hour clock format. For example: if str is 9:00am-10:00am then the output should be 60. If str is 1:00pm-11:00am the output should be 1320.
+Examples
+Input: "12:30pm-12:00am"
+Output: 690
+Input: "1:23am-1:08am"
+Output: 1425
+1/12/22, 19:47 - Anshu Bhagat: @919323451278
+1/14/22, 17:04 - Anshu Bhagat: Bitwise One
+Have the function BitwiseOne(strArr) take the array of strings stored in strArr, which will only contain two strings of equal length that represent binary numbers, and return a final binary string that performed the bitwise OR operation on both strings. A bitwise OR operation places a 0 in the new string where there are zeroes in both binary strings, otherwise it places a 1 in that spot. For example: if strArr is ["1001", "0100"] then your program should return the string "1101"
+Examples
+Input: ["100", "000"]
+Output: 100
+Input: ["00011", "01010"]
+Output: 01011
+1/14/22, 17:05 - Pankaj: https://github.com/gutty333/Easy-Programming-Challenges/blob/master/49_BitwiseTwo.cpp
+1/14/22, 17:09 - Anshu Bhagat: Wave Sorting
+Have the function WaveSorting(arr) take the array of positive integers stored in arr and return the string true if the numbers can be arranged in a wave pattern: a1 > a2 < a3 > a4 < a5 > ..., otherwise return the string false. For example, if arr is: [0, 1, 2, 4, 1, 4], then a possible wave ordering of the numbers is: [2, 0, 4, 1, 4, 1]. So for this input your program should return the string true. The input array will always contain at least 2 elements. More examples are given below as sample test cases.
+Examples
+Input: [0, 1, 2, 4, 1, 1, 1]
+Output: false
+Input: [0, 4, 22, 4, 14, 4, 2]
+Output: true
+1/15/22, 12:38 - Teknath Jha: You deleted this message
+1/15/22, 18:11 - Anshu Bhagat: <Media omitted>
+1/15/22, 18:11 - Anshu Bhagat: <Media omitted>
+1/15/22, 18:12 - Anshu Bhagat: <Media omitted>
+1/15/22, 18:12 - Anshu Bhagat: @919665917393 @919323451278
+1/15/22, 18:25 - Teknath Jha: got solution needed 20 minutes
+1/15/22, 18:25 - Teknath Jha: to code me
+1/15/22, 18:25 - Anshu Bhagat: Plz jaldi
+1/15/22, 18:35 - Teknath Jha: #include <bits/stdc++.h>
+#define ll long long
+using namespace std;
+
+
+// m is size of coins array (number of different coins) 
+int minCoins(ll coins[], ll m, ll V) 
+{ 
+   // base case 
+   if (V == 0) return 0; 
+  
+   // Initialize result 
+   ll res = INT_MAX; 
+  
+   // Try every coin that has smaller value than V 
+   for (int i=0; i<m; i++) 
+   { 
+     if (coins[i] <= V) 
+     { 
+         int sub_res = minCoins(coins, m, V-coins[i]); 
+  
+         // Check for INT_MAX to avoid overflow and see if 
+         // result can minimized 
+         if (sub_res != INT_MAX && sub_res + 1 < res) 
+            res = sub_res + 1; 
+     } 
+   } 
+   return res; 
+} 
+
+
+
+
+int main()
+{
+
+#ifndef ONLINE_JUDGE
+    freopen("C:\\Users\\Teknath\\Desktop\\code\\input.txt", "r", stdin);
+    freopen("C:\\Users\\Teknath\\Desktop\\code\\output.txt", "w", stdout);
+#endif
+
+
+ll coins[30];
+coins[0]=304;
+for(ll i=0;i<18;i++){
+    coins[i]=coins[i-1]*10;
+}
+int t;cin>>t;
+while(t--){
+    int n;
+    cin>>n;
+    int ans=minCoins(coins,18,n);
+
+    if(ans==0) cout<<-1<<endl;
+    else cout<<ans<<endl;
+
+}
+	return 0;
+}
+1/15/22, 18:41 - Teknath Jha: #include <bits/stdc++.h>
+#define ll long long
+#define MAX 1e18
+using namespace std;
+
+
+// m is size of coins array (number of different coins) 
+int minCoins(ll coins[], ll m, ll V) 
+{ 
+   // base case 
+   if (V == 0) return 0; 
+  
+   // Initialize result 
+   ll res = MAX; 
+  
+   // Try every coin that has smaller value than V 
+   for (int i=0; i<m; i++) 
+   { 
+     if (coins[i] <= V) 
+     { 
+         int sub_res = minCoins(coins, m, V-coins[i]); 
+  
+         // Check for MAX to avoid overflow and see if 
+         // result can minimized 
+         if (sub_res != MAX && sub_res + 1 < res) 
+            res = sub_res + 1; 
+     } 
+   } 
+   return res; 
+} 
+
+
+
+
+int main()
+{
+
+#ifndef ONLINE_JUDGE
+    freopen("C:\\Users\\Teknath\\Desktop\\code\\input.txt", "r", stdin);
+    freopen("C:\\Users\\Teknath\\Desktop\\code\\output.txt", "w", stdout);
+#endif
+
+
+ll coins[30];
+coins[0]=304;
+for(ll i=1;i<16;i++){
+    coins[i]=coins[i-1]*10;
+    cout<<coins[i]<<endl;
+}
+int t;cin>>t;
+while(t--){
+    int n;
+    cin>>n;
+    int ans=minCoins(coins,16,n);
+
+    if(ans==0) cout<<-1<<endl;
+    else cout<<ans<<endl;
+
+}
+	return 0;
+}
+1/15/22, 18:41 - Teknath Jha: little change in main function
+1/15/22, 18:41 - Anshu Bhagat: Konsa hai
+1/15/22, 18:41 - Anshu Bhagat: Bata jaldi
+1/15/22, 18:42 - Teknath Jha: for loop me
+1/15/22, 18:42 - Teknath Jha: jo main me hai
+1/15/22, 18:42 - Teknath Jha: dekh
+1/15/22, 18:42 - Anshu Bhagat: Tu dodo send kiya hai
+1/15/22, 18:42 - Teknath Jha: niche wala
+1/15/22, 18:42 - Teknath Jha: last wala
+1/15/22, 18:45 - Teknath Jha: next
+1/15/22, 19:08 - Teknath Jha: <Media omitted>
+1/16/22, 13:38 - Pankaj: <Media omitted>
+1/16/22, 13:39 - Shivam Shukla: 😳😳
+1/16/22, 13:39 - Pankaj: @918983390877
+1/16/22, 13:39 - Pankaj: April
+1/16/22, 13:39 - Pankaj: Fool
+1/16/22, 13:39 - Anshu Bhagat: join kiya tune ye bata?
+1/16/22, 13:40 - Pankaj: Are uss date
+1/16/22, 13:40 - Pankaj: Ko joining
+1/16/22, 13:40 - Anshu Bhagat: kya?
+1/16/22, 13:40 - Pankaj: Start
+1/16/22, 13:40 - Pankaj: Hoga
+1/16/22, 13:40 - Pankaj: .
+1/16/22, 13:40 - Pankaj: Main
+1/16/22, 13:41 - Pankaj: 3 month ka hai but😳😳
+1/16/22, 13:46 - Anshu Bhagat: https://gromo.notion.site/Intern-Technology-b79f51a9e2494f338961af0a59aaf38d
+
+https://gromo.notion.site/Intern-Product-47ac99b313184ad5a59adfe1c6101c4a
+
+https://gromo.notion.site/Intern-Business-Analyst-4898e413c9da44c3add8d74c28586446
+1/19/22, 10:37 - Anshu Bhagat: team name batao hash code competition ka?
+1/19/22, 10:42 - Teknath Jha: Beliver
+1/19/22, 10:42 - Teknath Jha: Or kuch bhi rakh de
+1/19/22, 10:47 - Anshu Bhagat: https://codingcompetitions.withgoogle.com/hashcode/jointeam/00000000008caae7/0000000000913e20/92413b5fbf150cb9
+
+please join everyone @919028705939 @919323451278 @918446923335 @919665917393
+1/19/22, 10:49 - Anshu Bhagat: maine Dam rakh diya
+1/19/22, 10:51 - Shivam Shukla: individual registration imp hai
+1/19/22, 10:51 - Anshu Bhagat: haa
+1/19/22, 10:53 - Rupesh Dam: kya krna hai jo picha hai sab bhar du naa
+1/19/22, 10:54 - Anshu Bhagat: haa
+1/19/22, 10:56 - Rupesh Dam: grade month n year me kya dalu
+1/19/22, 10:57 - Anshu Bhagat: may 2023
+1/19/22, 10:57 - Rupesh Dam: ok
+1/19/22, 11:00 - Shivam Shukla: mai join kiya dekh
+1/19/22, 11:02 - Rupesh Dam: Profile bana diya ab kya kru?
+1/19/22, 11:02 - Shivam Shukla: link pe tap kar
+1/19/22, 11:02 - Shivam Shukla: hanshu ne jo bheja hai
+1/19/22, 11:02 - Rupesh Dam: Ok
+1/19/22, 11:03 - Rupesh Dam: This message was deleted
+1/19/22, 11:04 - Rupesh Dam: Hogya dkeh
+1/19/22, 11:04 - Rupesh Dam: Le
+1/19/22, 11:04 - Rupesh Dam: <Media omitted>
+1/19/22, 11:04 - Anshu Bhagat: haa
+1/19/22, 11:04 - Rupesh Dam: Hai kya ye kabhi aram se batana @918983390877 😁😁
+1/19/22, 11:05 - Pankaj: Join  team krna hai kya bass
+1/19/22, 11:05 - Pankaj: Ya koi details
+1/19/22, 11:05 - Pankaj: Bhi upload krna hai
+1/19/22, 11:06 - Pankaj: 😳😳😳data fetch krlia Mera Pura 🤔  how
+1/19/22, 11:06 - Anshu Bhagat: top nav bar me dekh schedule likha hai uspe jake problem statements solve karna hia
+1/19/22, 11:06 - Anshu Bhagat: gmail
+1/19/22, 11:06 - Anshu Bhagat: nhi
+1/19/22, 11:06 - Rupesh Dam: Ok
+1/19/22, 11:06 - Anshu Bhagat: bas fill karna hai
+1/19/22, 11:06 - Pankaj: tshirt size bhi
+1/19/22, 11:07 - Anshu Bhagat: first wala practice ke liye hai 24 feb ko start hoga
+1/19/22, 11:07 - Anshu Bhagat: haa
+1/19/22, 11:07 - Anshu Bhagat: This message was deleted
+1/19/22, 11:07 - Pankaj: huma nhi milaaga kya
+1/19/22, 11:08 - Anshu Bhagat: tujhe tshirst milega first round clear kiya toh
+1/19/22, 11:08 - Pankaj: yeah toh team work jaisa hai
+1/19/22, 11:08 - Rupesh Dam: Waah
+1/19/22, 11:08 - Shivam Shukla: I have change the name
+1/19/22, 11:08 - Pankaj: kya rkha abb
+1/19/22, 11:09 - Anshu Bhagat: kyu
+1/19/22, 11:09 - Shivam Shukla: miya_lovers
+1/19/22, 11:09 - Anshu Bhagat: Dam ke gunde accha tha
+1/19/22, 11:10 - Anshu Bhagat: <Media omitted>
+1/19/22, 11:10 - Pankaj: Dark_
+1/19/22, 11:10 - Pankaj: Dark_Hackers
+1/19/22, 11:11 - Shivam Shukla: <Media omitted>
+1/19/22, 11:11 - Pankaj: mera name kyu nhi dikha rha
+1/19/22, 11:11 - Pankaj: waha
+1/19/22, 11:12 - Shivam Shukla: tune srif register kiya hai
+1/19/22, 11:12 - Shivam Shukla: join to kar pehele
+1/19/22, 11:12 - Anshu Bhagat: tune join nhi kiya
+1/19/22, 11:12 - Anshu Bhagat: ye link pe click akr
+1/19/22, 11:15 - Pankaj: Kia
+1/19/22, 11:15 - Anshu Bhagat: nhi dikh raha
+1/19/22, 11:16 - Pankaj: Haa abb dekr
+1/19/22, 11:16 - Pankaj: Dekh
+1/19/22, 11:18 - Anshu Bhagat: <Media omitted>
+1/19/22, 11:21 - Pankaj: Max Kitna log join kr sakta hai
+1/19/22, 11:21 - Pankaj: Ek group main
+1/19/22, 11:22 - Shivam Shukla: min 2 hai max nhi hai
+1/19/22, 11:22 - Teknath Jha: This site can’t be reachedcodingcompetitions.withgoogle.com’s DNS address could not be found. Diagnosing the problem.
+Try running Windows Network Diagnostics.
+DNS_PROBE_STARTED
+1/19/22, 11:22 - Shivam Shukla: cookies allow kar
+1/19/22, 11:23 - Teknath Jha: last date aaj hi hai kya ?
+1/19/22, 11:23 - Shivam Shukla: <Media omitted>
+1/19/22, 11:23 - Shivam Shukla: 36 days remaing
+1/19/22, 11:24 - Pankaj: 6 & 7 GMAIL SA
+1/19/22, 11:24 - Pankaj: ADD KRLE FIR
+1/19/22, 11:25 - Shivam Shukla: kyuu
+1/19/22, 11:25 - Shivam Shukla: if round one clear hu to so pehel coding round solve karne par dhyan de 1 to mil raha hai na
+1/19/22, 11:27 - Pankaj: clc;
+x=[1,2;3,4];
+h=[5,6;7,8];
+X=fft2(x);
+H=fft2(h);
+Y=X.*H;
+y=ifft(Y);
+disp(y,'circular convolution Result Y=');
+1/19/22, 12:08 - Anshu Bhagat: kya hai?
+1/19/22, 12:08 - Anshu Bhagat: @919323451278 join hau?
+1/19/22, 12:10 - Anshu Bhagat: https://codingcompetitions.withgoogle.com/hashcode/round/00000000008f5ca9/00000000008f6f33
+1/19/22, 12:35 - Anshu Bhagat: max is 4
+1/19/22, 18:00 - Anshu Bhagat: https://leetcode.com/problems/linked-list-cycle-ii/
+1/20/22, 06:48 - Pankaj: <Media omitted>
+1/20/22, 06:49 - Pankaj: https://go.qwiklabs.com/learn-to-earn
+1/20/22, 08:32 - Anshu Bhagat: Click karke bata slot kitna khali hai
+1/20/22, 08:32 - Anshu Bhagat: Jaldi
+1/20/22, 08:33 - Pankaj: 3k
+1/20/22, 08:33 - Pankaj: Level 1
+1/20/22, 08:33 - Pankaj: Only
+1/20/22, 08:33 - Pankaj: Chalu hai
+1/20/22, 08:35 - Anshu Bhagat: Level 2 aur 3 me zero hai
+1/20/22, 08:38 - Anshu Bhagat: Done with two more account
+1/20/22, 08:39 - Teknath Jha: <Media omitted>
+1/20/22, 08:39 - Pankaj: Aaiga bola wo
+1/20/22, 08:40 - Anshu Bhagat: @919028705939 ne kiya?
+1/20/22, 08:40 - Pankaj: Congrats
+1/20/22, 08:40 - Pankaj: Nhi
+1/20/22, 08:40 - Anshu Bhagat: Tune?
+1/20/22, 08:40 - Anshu Bhagat: 10m
+1/20/22, 08:40 - Anshu Bhagat: ?
+1/20/22, 16:31 - Shivam Shukla: Haa
+1/20/22, 16:41 - Anshu Bhagat: https://aws.amazon.com/developer/community/community-builders/
+
+apply here to learn AWS cloud platform, earn a certificate, and also☺️☺️☺️😋 Goodies...
+1/20/22, 16:41 - Anshu Bhagat: sabne register kiya?
+1/20/22, 17:56 - Anshu Bhagat: https://leetcode.com/problems/koko-eating-bananas/
+1/20/22, 17:58 - Teknath Jha: Kiya mai
+1/20/22, 17:58 - Teknath Jha: Binary search
+1/20/22, 17:59 - Anshu Bhagat: kab?
+1/20/22, 17:59 - Teknath Jha: Aaj 3 baje
+1/20/22, 18:01 - Anshu Bhagat: anyone coming on dam?
+1/20/22, 18:01 - Anshu Bhagat: mujhe laga scooter par baith baith
+1/20/22, 18:11 - Abishek Jha Dam: I am at mandir
+1/20/22, 18:12 - Teknath Jha: Will reach at 7.05
+1/20/22, 21:52 - Teknath Jha: few companies be like : select * from students where gender='female';
+1/21/22, 11:06 - Teknath Jha: meplclasses
+ cs executive
+ module 1subject name
+JIGL
+SBEC
+DIRECT TAX
+INDIRECT TAX
+COMPANY LAW
+1/21/22, 11:07 - Anshu Bhagat: 🧐
+1/21/22, 11:07 - Teknath Jha: anyway to download videos of this class
+1/21/22, 11:09 - Teknath Jha: MEPL classes
+1/21/22, 16:00 - Teknath Jha: https://www.youtube.com/results?search_query=mepl+classe
+1/21/22, 17:39 - Pankaj: *Master Machine Learning online program at ZERO FEE* 
+
+*ELIGIBLITY CRITERIA*
+
+*Qualification:* BE/B.Tech, ME/M.Tech, BCA, MCA
+
+*Year of Passing:* 2020 | 2021 | 2022
+
+*Location:* PAN INDIA
+
+*Apply Here:* https://docs.google.com/forms/d/e/1FAIpQLScp77RjWPIT6hVaEjTtfhtWo3vyTRiucjGBGx8GVpTHxE10zA/viewform
+
+In the meanwhile please go through the brochure of the Program : shorturl.at/kHJV2
+1/21/22, 18:54 - Teknath Jha: Join @ *7.15 PM* from the meeting link
+https://skilogic.my.webex.com/skilogic.my/j.php?MTID=m0574c7838e8d6b7a4a93b66fc7af6723
+1/22/22, 04:48 - Pankaj: https://youtu.be/XwYEsormIEc
+1/22/22, 07:05 - Anshu Bhagat: Pappa of AI hardware is here 🔥
+
+https://youtu.be/MY7jZGZw9vA
+1/22/22, 17:57 - Pankaj: <Media omitted>
+1/22/22, 17:57 - Pankaj: 🤣
+1/22/22, 18:06 - Anshu Bhagat: Anyone come?
+1/22/22, 18:06 - Anshu Bhagat: Firse
+1/22/22, 18:06 - Pankaj: Yes
+1/23/22, 09:27 - Pankaj: <Media omitted>
+1/23/22, 09:51 - Teknath Jha: for (int j = ptn[pos[ptn[row[i]]]]; i != j; j = ptn[pos[ptn[row[i]]]])       meme
+1/23/22, 10:49 - Anshu Bhagat: pura code bhej
+1/23/22, 11:07 - Teknath Jha: <Media omitted>
+1/23/22, 11:07 - Teknath Jha: <Media omitted>
+1/23/22, 11:12 - Anshu Bhagat: <Media omitted>
+1/23/22, 11:15 - Pankaj: <Media omitted>
+1/23/22, 13:58 - Anshu Bhagat: Bored this weekend
+
+Want to bring some spice of productivity to your SUNDAY?
+
+TCET'S Coding Club 💡brings Spicy Sunday to churn those gears in your mind.
+
+So go on and test your skills by clicking the link below💯
+
+
+  📍Easy Level Problem:
+https://codeforces.com/problemset/problem/469/A
+
+  📍Medium Level Problem 1:
+https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/description/
+
+  📍Medium Level Problem 2:
+https://leetcode.com/problems/previous-permutation-with-one-swap/
+
+  📍SQL Problem:
+ https://leetcode.com/problems/duplicate-emails/	
+
+Keep coding🔥
+1/23/22, 17:42 - Anshu Bhagat: https://www.linkedin.com/pulse/how-false-love-aiml-destroying-our-engineering-colleges-sarangi
+1/23/22, 20:13 - Teknath Jha: https://www.instagram.com/reel/CYRjjXoh3An/?utm_medium=share_sheet
+1/24/22, 11:11 - Teknath Jha: Monoqueue     nice concept
+1/24/22, 15:06 - Teknath Jha: 1690. Stone Game VII  accha hai 3
+1/25/22, 12:17 - Anshu Bhagat: The *Hackathon* is *Back*-Your invitation to show ingenuity. 👩‍💻👨‍🔧
+It's crisp and it's for everyone — not just programmers. 
+In the first four editions SIH2017, SIH2018, SIH2019 and SIH2020 , TCET  has bagged many prizes in all categories. *SIH 2022* is all set to be even more gripping.
+The best thing we can do with our skills — and to acquire new ones — is create things. 
+If this is what tickles your pickle, then this *Smart India Hackathon* awaits you.
+_Lets get you through, whats a hackathon:_
+
+Smart India Hackathon is a nationwide initiative to provide students with a platform to solve some of the pressing problems that are faced in daily lives, and thus inculcate a culture of product innovation and a mindset of problem-solving.
+
+_Here are some guidelines:_
+•A team of 6 is needed 🎗
+•Atleast 1 girl student is a must 👧 
+•Teammates can be from any year or department of TCET🤹🏻‍♀️
+•Solutions can be software or hardware based 🗽
+
+*Shortlisted teams will have a direct entry to the National SIH* 🥁 
+
+_Register for this opportunity now, you are just an online form away_
+https://bit.ly/TCETSIH2022
+
+For any issues, big or small, reach out to us:
+
+Rohan Sharma: +91 98198 89822
+HSD Secretary
+
+
+Hardika Jain: +91 7021641425
+Deputy HSD Secretary
+
+
+Akshata Sharma: +91 77158 70095
+Joint HSD Secretary
+1/25/22, 13:38 - Teknath Jha: <Media omitted>
+1/25/22, 13:39 - Teknath Jha: <Media omitted>
+1/29/22, 05:38 - Pankaj: https://www.cloudskillsboost.google/games/2302
+1/29/22, 05:38 - Pankaj: 1q-chave-115
+1/29/22, 05:55 - Pankaj: <Media omitted>
+1/29/22, 05:56 - Pankaj: @918983390877 jldi kr
+1/29/22, 05:56 - Pankaj: Apply
+1/29/22, 17:24 - Pankaj: https://register-innovate-aiml-apj.virtual.awsevents.com/thankyou
+1/29/22, 17:25 - Pankaj: https://youtu.be/hK3fz-q1L6k
+1/29/22, 17:26 - Pankaj: https://aws.amazon.com/events/aws-innovate/machine-learning/
+1/29/22, 17:57 - Anshu Bhagat: tune kiya register bata kaise karna hai register
+1/29/22, 17:57 - Pankaj: Register kr
+1/29/22, 18:05 - Anshu Bhagat: <Media omitted>
+1/29/22, 18:05 - Anshu Bhagat: <Media omitted>
+1/29/22, 18:10 - Shivam Shukla: Spiderman likhe output aa jaye ga
+1/29/22, 18:11 - Anshu Bhagat: <Media omitted>
+1/29/22, 18:11 - Shivam Shukla: <Media omitted>
+1/29/22, 18:13 - Pankaj: This message was deleted
+1/29/22, 22:45 - Teknath Jha: https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
+1/29/22, 22:45 - Teknath Jha: this post is boon for dsa learner
+1/31/22, 15:32 - Teknath Jha: https://leetcode.com/problems/max-consecutive-ones-iii/submissions/
+1/31/22, 15:33 - Teknath Jha: accha question hai
+2/1/22, 14:00 - Pankaj: <Media omitted>
+2/1/22, 14:00 - Pankaj: <Media omitted>
+2/1/22, 17:36 - Teknath Jha: <Media omitted>
+2/1/22, 22:35 - Anshu Bhagat: https://leetcode.com/problems/3sum/
+2/2/22, 11:16 - Anshu Bhagat: https://infytq.onwingspan.com/en/page/home
+
+isme register kardo @919323451278  nhi kiya hai toh "certification exam" by Infosys
+2/2/22, 11:26 - Teknath Jha: 👍
+2/2/22, 13:55 - Shivam Shukla: https://www.scaler.com/event/scaler-codex-2-0?rcy=1&rce=ff15a0ac36cb
+2/2/22, 13:55 - Shivam Shukla: @918983390877 @919323451278 tu log register kar log
+2/2/22, 13:55 - Shivam Shukla: is me
+2/2/22, 13:55 - Shivam Shukla: coding competion hai
+2/2/22, 13:56 - Teknath Jha: Okay
+2/3/22, 10:45 - Anshu Bhagat: Mcqdb hiring 2022 grads
+Remote role
+
+Ctc around 10 LPA
+https://angel.co/company/mcqdb-1/jobs/871334-software-engineer-2022-graduates-only
+2/3/22, 10:45 - Anshu Bhagat: @919028705939
+2/3/22, 10:45 - Shivam Shukla: Okays
+2/3/22, 11:08 - Anshu Bhagat: Facebook hiring interns
+Batch : 2023 and 2024
+Location : Singapore
+Apply : https://www.metacareers.com/jobs/309573251088136/?rx_campaign=Linkedin1&rx_group=126320&rx_job=a1K2K000008T5kFUAS_149d92b5&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220201T000611Z&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=1bd34fe371e711ec8d0f1d8dde92795acf5010d7dbd444a896a819b6bff78561
+2/3/22, 17:58 - Anshu Bhagat: https://leetcode.com/problems/4sum-ii/
+2/4/22, 23:01 - Anshu Bhagat: https://leetcode.com/problems/max-area-of-island/
+2/5/22, 12:05 - Anshu Bhagat: Company Name : Mobileum India Pvt Ltd
+
+Role : Associate Software Engineer (Developer / QA)
+
+CTC : 9 LPA + Retention Bonus
+
+Referral Code : 4449627
+(Applying this referral code while application will prioritize your application) 
+
+Batch : 2021/2020 passouts. 
+
+Link to apply : https://www.elitmus.com/jobs/32922-mobileum-india-associate-software-engineer-developer-qa-bangalore
+2/5/22, 12:20 - Teknath Jha: Batch : 2021/2020 passouts.  :(
+2/5/22, 12:36 - Anshu Bhagat: *HackWithInfy* provides the perfect stepping-stone for students to explore their interest in programming and an opportunity to compete and win exciting prizes. The top performers will be entitled to cash prize worth INR3,50,000 , chance to work with Infosys, paid internship opportunities and a chance to become our campus ambassadors.
+2/6/22, 17:50 - Anshu Bhagat: Reminder
+2/6/22, 18:03 - Anshu Bhagat: <Media omitted>
+2/6/22, 18:03 - Teknath Jha: <Media omitted>
+2/6/22, 18:04 - Teknath Jha: <Media omitted>
+2/6/22, 18:04 - Teknath Jha: 😂
+2/6/22, 18:04 - Anshu Bhagat: Camera on hai
+2/6/22, 18:04 - Teknath Jha: Haa
+2/6/22, 18:10 - Anshu Bhagat: 3rd question hau?
+2/6/22, 22:31 - Anshu Bhagat: https://leetcode.com/problems/rotting-oranges/
+2/7/22, 05:32 - Teknath Jha: DFS
+2/7/22, 16:11 - Anshu Bhagat: <Media omitted>
+2/7/22, 16:11 - Anshu Bhagat: <Media omitted>
+2/7/22, 16:11 - Anshu Bhagat: @919323451278
+2/7/22, 16:11 - Anshu Bhagat: @919665917393 @919028705939
+2/7/22, 16:11 - Anshu Bhagat: @918446923335
+2/7/22, 16:11 - Anshu Bhagat: 🙏
+2/7/22, 16:11 - Anshu Bhagat: Batao
+2/7/22, 16:13 - Anshu Bhagat started a call
+2/7/22, 16:18 - Pankaj: D
+2/7/22, 16:19 - Anshu Bhagat: <Media omitted>
+2/7/22, 16:19 - Anshu Bhagat: <Media omitted>
+2/7/22, 16:20 - Shivam Shukla: C
+2/7/22, 16:21 - Shivam Shukla: Next
+2/7/22, 16:21 - Anshu Bhagat: <Media omitted>
+2/7/22, 16:21 - Anshu Bhagat: <Media omitted>
+2/7/22, 16:22 - Anshu Bhagat: <Media omitted>
+2/7/22, 16:23 - Shivam Shukla: Ye perform kar sa padega
+2/7/22, 16:24 - Anshu Bhagat: Please karna
+2/7/22, 16:24 - Shivam Shukla: Limit nhi hai na ek question par?
+2/7/22, 16:24 - Shivam Shukla: Time limit?
+2/7/22, 16:24 - Anshu Bhagat: nhi
+2/7/22, 16:24 - Shivam Shukla: Ok
+2/7/22, 16:37 - Shivam Shukla: c
+2/7/22, 16:40 - Anshu Bhagat: <Media omitted>
+2/7/22, 16:41 - Anshu Bhagat: <Media omitted>
+2/7/22, 16:43 - Rupesh Dam: Bhai dam pr aya hu
+2/7/22, 16:43 - Rupesh Dam: Ruk ghar jaa rha
+2/7/22, 16:43 - Rupesh Dam: Code me help krta hu aata hu ruk jaa
+2/7/22, 16:45 - Shivam Shukla: A
+2/7/22, 16:46 - Pankaj: class Ship:
+
+base_charge=4000
+
+def init (self, basefare,tax_amount):
+
+self.basefare-basefare
+
+self.tax_amount=tax_amount
+
+def update charges (self):
+
+12
+
+self.hasefare+=2000 self.tax_amount-=2000
+
+15
+
+18
+
+def update tax (self):
+
+custom tax=3000)
+
+self.tax_amount+=custom_tax
+
+class Cruise (Ship):
+
+def init (self, basefare,tax_amount, ballroom_fee): super (). init (basefare,tax_amount) self.ballroom_fee-ballroom_fee
+
+def update charges (self):
+
+self.tax amount *=3
+
+self.tax_amount+=Ship.base_charge
+
+super ().update tax ()
+def
+
+class
+
+MCO QUESTIONS
+
+update tax (self): custom tax=3000
+
+self.tax_amount+=custom_tax
+
+5
+
+6
+
+Cruise (Ship) : def init (self, basefare,tax_amount, ballroom_fee): super (). init (basefare,tax_amount)
+
+self.ballroom_fee-ballroom_fee def update_charges (self):
+
+8
+
+9
+
+self.tax_amount*=3
+
+10
+
+12
+
+11
+
+self.tax_amount+=Ship.base_charge super ().update_tax ()
+
+3
+
+14
+
+15
+
+def update fare (self):
+
+17
+
+18
+
+20
+
+print (self.tax_amount) super ().update_charges () self.basefare+=self.ballroom_fee print (self.basefare) print (self.tax_amount) cruise_obj=Cruise (5000,200,3000)
+
+cruise_obj.update_charges () cruise_obj.update_fare ()
+2/7/22, 16:46 - Pankaj: Yeh code ko run kr
+2/7/22, 16:46 - Pankaj: Mera mobile sa nhi ho rha tu kr
+2/7/22, 16:57 - Rupesh Dam: bhai anshu bhej
+2/7/22, 16:57 - Rupesh Dam: code
+2/7/22, 16:57 - Rupesh Dam: jio krna hai
+2/7/22, 16:57 - Rupesh Dam: abhi aay gher pr mai
+2/7/22, 16:59 - Rupesh Dam: bhau mark toh kr q jo chaiye
+2/7/22, 16:59 - Anshu Bhagat: <Media omitted>
+2/7/22, 16:59 - Anshu Bhagat: <Media omitted>
+2/7/22, 16:59 - Anshu Bhagat: @919028705939
+2/7/22, 16:59 - Shivam Shukla: .
+2/7/22, 17:00 - Rupesh Dam: jisko db aata hai plz batao bhai
+2/7/22, 17:00 - Rupesh Dam: anshu tu code bhej na jo krna hai mai net pr dhundta hu
+2/7/22, 17:01 - Anshu Bhagat: <Media omitted>
+2/7/22, 17:01 - Anshu Bhagat: <Media omitted>
+2/7/22, 17:01 - Anshu Bhagat: <Media omitted>
+2/7/22, 17:02 - Anshu Bhagat: <Media omitted>
+2/7/22, 17:02 - Anshu Bhagat: @918446923335
+2/7/22, 17:02 - Anshu Bhagat: @919323451278 In python batao
+2/7/22, 17:03 - Rupesh Dam: Bhai dhud rha
+2/7/22, 17:10 - Rupesh Dam: Net pr nhi mil rha
+2/7/22, 17:10 - Rupesh Dam: 2nd code bhej
+2/7/22, 17:10 - Rupesh Dam: wo try krta hu
+2/7/22, 17:12 - Anshu Bhagat: <Media omitted>
+2/7/22, 17:13 - Anshu Bhagat: <Media omitted>
+2/7/22, 17:14 - Anshu Bhagat: <Media omitted>
+2/7/22, 17:14 - Anshu Bhagat: <Media omitted>
+2/7/22, 17:17 - Anshu Bhagat: @918446923335 Batana
+2/7/22, 17:17 - Anshu Bhagat: Try karna
+2/7/22, 17:17 - Anshu Bhagat: Solve karne ka
+2/7/22, 17:17 - Rupesh Dam: bhai 2nd wala try krta hu
+2/7/22, 17:17 - Rupesh Dam: 1st wala nhi arha meko
+2/7/22, 17:17 - Rupesh Dam: haa doing
+2/7/22, 17:25 - Rupesh Dam: bhau 7tk time hai na
+2/7/22, 17:25 - Rupesh Dam: tu krte rhe try mai ek jagh bheja hu saayad waha se hojaye
+2/7/22, 18:04 - Rupesh Dam: Bhai nhi jo rha 😔😔
+2/7/22, 18:09 - Anshu Bhagat: Ek bhi?
+2/7/22, 18:09 - Rupesh Dam: 2nd wala hi thoda laga ki kr paunga but nhi ho rha
+2/7/22, 18:09 - Rupesh Dam: still doing
+2/7/22, 18:09 - Rupesh Dam: time 7tk hai na
+2/7/22, 18:09 - Rupesh Dam: uthna mat
+2/7/22, 18:15 - Rupesh Dam: Bhai ye le
+2/7/22, 18:15 - Rupesh Dam: Ekmil
+2/7/22, 18:15 - Rupesh Dam: Milaa
+2/7/22, 18:15 - Rupesh Dam: <Media omitted>
+2/7/22, 18:15 - Rupesh Dam: Dekh Bhai kr fat fat typr
+2/7/22, 18:15 - Anshu Bhagat: Konsa?
+2/7/22, 18:15 - Rupesh Dam: 2nd wala
+2/7/22, 18:15 - Teknath Jha: #include <bits/stdc++.h>
+#define ll unsigned long long
+#define MAX ULLONG_MAX
+using namespace std;
+
+signed main()
+{
+
+#ifndef ONLINE_JUDGE
+    freopen("C:\\Users\\Teknath\\Desktop\\code\\input.txt", "r", stdin);
+    freopen("C:\\Users\\Teknath\\Desktop\\code\\output.txt", "w", stdout);
+#endif
+    int n;
+    cin>>n;
+    vector<vector<int>> v(n,vector<int>(n,0));
+    for(int i=0;i<n;i++){
+        for(int j=0;j<n;j++){
+            cin>>v[i][j];
+        }
+    }
+
+    // for(int i=0;i<n;i++){
+    //     for(int j=0;j<n;j++){
+    //         cout<<v[i][j]<<" ";
+    //     }cout<<endl;
+    // }
+    int c;cin>>c;
+    map<pair<int,int>,vector<int> > mp;
+    for(int i=0;i<n;i++){
+        for(int j=0;j<n;j++){
+            mp[{v[i][c],i}].push_back(v[i][j]);
+        }
+    }
+    vector<int> v1;
+    int s=0;
+    for(auto x:mp){
+            for(auto cc:x.second)
+                s+=cc;
+        v1.push_back(s);
+        s=0;
+    }
+
+    for(auto d:v1)
+    cout<<d<<" ";
+
+}
+2/7/22, 18:16 - Rupesh Dam: <Media omitted>
+2/7/22, 18:16 - Teknath Jha: rupesh iso tu python me convert karsakta kya ?
+2/7/22, 18:16 - Rupesh Dam: Bhai ab utna time nhi hao
+2/7/22, 18:16 - Rupesh Dam: 😔
+2/7/22, 18:16 - Teknath Jha: :)
+2/7/22, 18:16 - Rupesh Dam: @918983390877 go for it
+2/7/22, 18:16 - Teknath Jha: ok
+2/7/22, 18:17 - Rupesh Dam: Hope it will run🙏
+2/7/22, 18:17 - Rupesh Dam: Likh tu bindass
+2/7/22, 18:25 - Anshu Bhagat: Thanks done
+2/7/22, 18:26 - Anshu Bhagat: First wala bhi dekhna
+2/7/22, 18:26 - Anshu Bhagat: In python
+2/7/22, 18:26 - Anshu Bhagat: @918446923335
+2/7/22, 18:30 - Rupesh Dam: Abhi kitna timehai?
+2/7/22, 18:30 - Rupesh Dam: Bol
+2/7/22, 18:30 - Anshu Bhagat: 38 min
+2/7/22, 18:30 - Rupesh Dam: Kru try?
+2/7/22, 18:30 - Anshu Bhagat: Haa
+2/7/22, 18:31 - Rupesh Dam: Ok krta hu
+2/7/22, 18:31 - Anshu Bhagat: Tere friend ko bhejna
+2/7/22, 18:31 - Rupesh Dam: Bhai kaha kaha nhi dhunda
+2/7/22, 18:31 - Rupesh Dam: Wohi bataya 😂😂😂
+2/7/22, 18:31 - Rupesh Dam: Matrix meko nhi smjhta toh maine socha hi nhi thdoa bhi
+2/7/22, 18:32 - Teknath Jha: bus herek row ko sort karna hai
+2/7/22, 18:32 - Teknath Jha: maine cpp me kiya hai
+2/7/22, 18:32 - Teknath Jha: n sum dena ahi
+2/7/22, 18:32 - Teknath Jha: hai*
+2/7/22, 18:32 - Rupesh Dam: Usme koi taklif hai toh bol dusra bhi hai
+2/7/22, 18:33 - Rupesh Dam: Mere pass
+2/7/22, 18:33 - Teknath Jha: XD
+2/7/22, 18:36 - Anshu Bhagat: Done all teat case pass
+2/7/22, 18:37 - Rupesh Dam: okk
+2/7/22, 18:44 - Rupesh Dam: Nhi mil rha😔
+2/7/22, 18:45 - Rupesh Dam: 7 bajemilega na dam pr?
+2/7/22, 18:45 - Anshu Bhagat: Haa
+2/7/22, 18:46 - Rupesh Dam: Ok will see u there
+2/7/22, 18:46 - Rupesh Dam: N sry nhi kr pa rha solve
+2/8/22, 15:18 - Teknath Jha: https://student-score-predictor.herokuapp.com
+2/8/22, 15:18 - Teknath Jha: You will require heavy network to open this link
+2/8/22, 15:56 - Rupesh Dam: Be ready
+2/8/22, 15:56 - Rupesh Dam: Guys
+2/8/22, 15:57 - Anshu Bhagat: Haa
+2/8/22, 15:59 - Rupesh Dam: Swirch ke skte hai na code to db me
+2/8/22, 15:59 - Rupesh Dam: Or mcq .e?
+2/8/22, 15:59 - Anshu Bhagat: Haa
+2/8/22, 16:06 - Rupesh Dam: <Media omitted>
+2/8/22, 16:06 - Rupesh Dam: <Media omitted>
+2/8/22, 16:06 - Rupesh Dam: <Media omitted>
+2/8/22, 16:06 - Rupesh Dam: <Media omitted>
+2/8/22, 16:06 - Rupesh Dam: <Media omitted>
+2/8/22, 16:09 - Shivam Shukla: @918983390877 Author wale ka inheritance hoga na?
+2/8/22, 16:11 - Anshu Bhagat: Inheritance nhi hoga
+2/8/22, 16:11 - Anshu Bhagat: @919323451278
+2/8/22, 16:12 - Teknath Jha: .
+2/8/22, 16:12 - Anshu Bhagat: Kya hoga
+2/8/22, 16:15 - Teknath Jha: python me kya keword use hota hai nahi pata like public , protected n all
+2/8/22, 16:15 - Teknath Jha: cpp n java me pata hai
+2/8/22, 16:16 - Shivam Shukla: CP me raheta to kya bolte is?
+2/8/22, 16:17 - Rupesh Dam: <Media omitted>
+2/8/22, 16:17 - Rupesh Dam: <Media omitted>
+2/8/22, 16:17 - Teknath Jha: keywords    find karta n decide karta
+2/8/22, 16:19 - Teknath Jha: A n D
+2/8/22, 16:23 - Rupesh Dam: <Media omitted>
+2/8/22, 16:23 - Rupesh Dam: <Media omitted>
+2/8/22, 16:23 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:23 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:23 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:23 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:23 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:23 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:23 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:23 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:23 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:23 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:24 - Rupesh Dam: <Media omitted>
+2/8/22, 16:24 - Rupesh Dam: <Media omitted>
+2/8/22, 16:25 - Teknath Jha: C
+2/8/22, 16:25 - Shivam Shukla: C
+2/8/22, 16:26 - Shivam Shukla: Aaj kitne log ka exam hai
+2/8/22, 16:26 - Shivam Shukla: This message was deleted
+2/8/22, 16:30 - Rupesh Dam: <Media omitted>
+2/8/22, 16:31 - Rupesh Dam: <Media omitted>
+2/8/22, 16:31 - Rupesh Dam: <Media omitted>
+2/8/22, 16:33 - Teknath Jha: B
+2/8/22, 16:33 - Rupesh Dam: <Media omitted>
+2/8/22, 16:33 - Rupesh Dam: <Media omitted>
+2/8/22, 16:34 - Anshu Bhagat: A
+2/8/22, 16:34 - Teknath Jha: Infosys hi hai kya ?
+2/8/22, 16:34 - Anshu Bhagat: Haa
+2/8/22, 16:35 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:35 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:36 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:37 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:37 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:37 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:37 - Rupesh Dam: <Media omitted>
+2/8/22, 16:37 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:38 - Rupesh Dam: <Media omitted>
+2/8/22, 16:39 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:39 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:39 - Teknath Jha: Option me 6 hai kya
+2/8/22, 16:39 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:39 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:40 - Teknath Jha: B
+2/8/22, 16:40 - Anshu Bhagat: This message was deleted
+2/8/22, 16:40 - Teknath Jha: You deleted this message
+2/8/22, 16:43 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:43 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:45 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:45 - Anshu Bhagat: <Media omitted>
+2/8/22, 16:50 - Shivam Shukla: A
+2/8/22, 17:14 - Rupesh Dam: <Media omitted>
+2/8/22, 17:14 - Rupesh Dam: <Media omitted>
+2/8/22, 17:14 - Rupesh Dam: <Media omitted>
+2/8/22, 17:14 - Rupesh Dam: <Media omitted>
+2/8/22, 17:14 - Rupesh Dam: <Media omitted>
+2/8/22, 17:14 - Rupesh Dam: <Media omitted>
+2/8/22, 17:37 - Rupesh Dam: 2nd wala code kro ba
+2/8/22, 17:37 - Rupesh Dam: Milefa
+2/8/22, 17:44 - Rupesh Dam: ??
+2/8/22, 17:45 - Teknath Jha: Cpp me kar raha try
+2/8/22, 17:46 - Teknath Jha: But linear complexity me nahi hoga
+2/8/22, 17:46 - Teknath Jha: Max length kya diya hai ?
+2/8/22, 17:55 - Teknath Jha: Stark wala eg bhej naa pura
+2/8/22, 18:03 - Teknath Jha: #include <bits/stdc++.h>
+#define ll unsigned long long
+#define MAX ULLONG_MAX
+using namespace std;
+
+// In-place rotates s towards left by d
+void leftrotate(string &s, int d)
+{
+    reverse(s.begin(), s.begin()+d);
+    reverse(s.begin()+d, s.end());
+    reverse(s.begin(), s.end());
+}
+ 
+// In-place rotates s towards right by d
+void rightrotate(string &s, int d)
+{
+   leftrotate(s, s.length()-d);
+}
+
+bool isSubSequence(string s1,string s2)
+{
+     int m = s1.length();
+      int n = s2.length();
+ 
+    // Base Cases
+    if (m == 0)
+        return true;
+    if (n == 0)
+        return false;
+ 
+    // If last characters of two
+    // strings are matching
+    if (str1[m - 1] == str2[n - 1])
+        return isSubSequence(str1, str2, m - 1, n - 1);
+ 
+    // If last characters are
+    // not matching
+    return isSubSequence(str1, str2, m, n - 1);
+}
+ 
+
+signed main()
+{
+
+#ifndef ONLINE_JUDGE
+    freopen("C:\\Users\\Teknath\\Desktop\\code\\input.txt", "r", stdin);
+    freopen("C:\\Users\\Teknath\\Desktop\\code\\output.txt", "w", stdout);
+#endif
+
+vector<string> s = {"","",""} , v , ans;
+string ss="Stark";
+
+for(int i=1;i<ss.length();i++){
+    leftrotate(ss,i);
+    v.push_back(ss);
+}
+
+
+
+// for(auto x:v)cout<<x<<endl;
+
+for(string x:v){
+
+    for(string y:s){
+        if(isSubSequence(x,y))ans.push_back(x);
+    }
+}
+   for(auto x:ans)cout<<x<<endl;
+}
+2/8/22, 19:42 - Rupesh Dam: Thank you all 🙏
+2/8/22, 19:42 - Rupesh Dam: Jitna hua kiya
+2/8/22, 20:16 - Shivam Shukla: Thanks nhi sab ke account me 50Rs send kar de, kyu ki thanks bhul bhi sakte hai ye Rs50 nhi, ulta hame motivate karge teri aur madat karenge.
+2/8/22, 20:16 - Shivam Shukla: So duurka soch
+2/8/22, 20:17 - Rupesh Dam: <Media omitted>
+2/8/22, 20:20 - Shivam Shukla: <Media omitted>
+2/8/22, 20:28 - Rupesh Dam: <Media omitted>
+2/9/22, 15:49 - Anshu Bhagat: learn to earn ka mail aaya kya
+2/9/22, 15:49 - Anshu Bhagat: check your mail
+2/9/22, 15:50 - Anshu Bhagat: goodies are waiting for you
+2/9/22, 15:52 - Anshu Bhagat: *items are available only while supplies last, first come, first serve.*
+2/9/22, 15:53 - Teknath Jha: Nahi aaya
+2/9/22, 15:53 - Shivam Shukla: <Media omitted>
+2/9/22, 15:53 - Anshu Bhagat: spam
+2/9/22, 15:53 - Anshu Bhagat: promotion
+2/9/22, 15:53 - Anshu Bhagat: subject name "Emily"
+2/9/22, 15:54 - Anshu Bhagat: @919323451278 mila??
+2/9/22, 16:01 - Teknath Jha: haa
+2/9/22, 16:01 - Teknath Jha: meko medium hoga kya ?
+2/9/22, 16:01 - Teknath Jha: 40 inch
+2/9/22, 16:02 - Anshu Bhagat: Spill-free Sipper  or hoodie?
+2/9/22, 16:02 - Anshu Bhagat: large
+2/9/22, 16:02 - Anshu Bhagat: mujhe large hota hai
+2/9/22, 16:02 - Anshu Bhagat: last time wala mera large tha
+2/9/22, 16:02 - Teknath Jha: okk
+2/9/22, 16:02 - Teknath Jha: 40 inch likha tha
+2/9/22, 16:02 - Teknath Jha: 40 inch chest hai kya
+2/9/22, 16:03 - Anshu Bhagat: medium 40
+large 42
+2/9/22, 16:03 - Teknath Jha: haa
+2/9/22, 16:03 - Anshu Bhagat: xl 44
+xxl 46
+2/9/22, 16:04 - Anshu Bhagat: ye global variable hai
+2/9/22, 16:04 - Anshu Bhagat: last time bas variable name not value
+2/9/22, 16:04 - Teknath Jha: .?
+2/9/22, 16:06 - Anshu Bhagat: last time bas varible name likha tha not value
+
+mean 
+small
+medium
+large
+extra large
+extra extra large
+
+
+and this time
+small 38
+medium 40
+large 42
+extra large 44
+extra extra large 46
+2/9/22, 16:09 - Anshu Bhagat: I don't know ask your mother which size is suitable
+2/9/22, 16:17 - Teknath Jha: 🙌
+2/9/22, 16:18 - Anshu Bhagat: sorry for confusion
+2/9/22, 16:18 - Anshu Bhagat: konsa kiya finally?
+2/9/22, 16:18 - Teknath Jha: Ye sab size to chest ka hai naaa
+2/9/22, 16:19 - Teknath Jha: Medium
+2/9/22, 16:19 - Anshu Bhagat: nhi pata
+2/9/22, 16:19 - Anshu Bhagat: mera toh 32 hai chest
+2/9/22, 16:19 - Teknath Jha: Abhi mera black wala bhi medium hai
+2/9/22, 16:20 - Shivam Shukla: <Media omitted>
+2/9/22, 16:20 - Shivam Shukla: <Media omitted>
+2/9/22, 16:22 - Teknath Jha: <Media omitted>
+2/9/22, 16:43 - Anshu Bhagat: https://instabase.com/careers/?gh_jid=5820610002
+
+Instabase hiring Interns for 2023 batch!
+2/9/22, 17:29 - Pankaj: Anshu mujhe nhi aaya mail
+2/9/22, 17:29 - Pankaj: Ky kru abb
+2/9/22, 17:30 - Anshu Bhagat: .
+2/10/22, 08:39 - Anshu Bhagat: https://youtube.com/shorts/3GubsRvIhXk?feature=share
+2/10/22, 11:32 - Teknath Jha: GeeksforGeeks has organized a *pan India level Coding Contest* on *06-MARCH-2022.*
+
+*Winners Rewards :*:
+
+*From 1st to 200th Ranks* 
+ 
+-> *1st* - Macbook Pro + GFG voucher worth INR 12,000
+
+-> *2nd* - Ipad Air  + GFG voucher worth INR 7,000
+
+-> *3rd* - Smart Watch + GFG Voucher worth INR 3,000
+
+-> *4th-25th* - Tablets + GFG Voucher upto INR 1500
+
+-> *26th-100th* - Noise Earbuds + GFG Voucher upto INR 1500
+
+-> *101st-200th*- Noise Smartbands + GFG Voucher upto INR 1500
+
+
+*Registration Link*:- https://practice.geeksforgeeks.org/contest/gfg-mega-contest-qualification-round/?utm_source=Campus+mantri&utm_medium=digital&utm_campaign=GFGCM
+2/10/22, 11:34 - Anshu Bhagat: Invitation code?
+2/10/22, 11:35 - Anshu Bhagat: tune kiya?
+2/10/22, 11:37 - Teknath Jha: GFG4ZE4ZB
+2/10/22, 12:45 - Teknath Jha: <Media omitted>
+2/11/22, 12:59 - Shivam Shukla: https://youtube.com/shorts/TCuApA1UOUk?feature=share
+2/12/22, 12:36 - Anshu Bhagat: Batch of 2022 for Zoho! 
+
+https://careers.zohocorp.com/forms/fcc89b5ebd373d598e0224d10f2199d13877d0707dd667bfc6929d4c918bd573
+2/12/22, 20:36 - Teknath Jha: https://leetcode.com/contest/weekly-contest-280
+2/12/22, 20:36 - Teknath Jha: @918983390877
+2/12/22, 20:36 - Anshu Bhagat: timing?
+2/12/22, 20:37 - Teknath Jha: kal subha 8 se 9:30 tak
+2/15/22, 06:29 - Pankaj: https://go.qwiklabs.com/valentines-day-challenge-2022
+2/15/22, 08:42 - Anshu Bhagat: https://youtube.com/shorts/Hths5uNwauY?feature=share
+2/15/22, 09:10 - Shivam Shukla: .
+2/15/22, 09:29 - Pankaj: Exam Kab hoga
+2/15/22, 09:30 - Shivam Shukla: on going
+2/15/22, 09:30 - Pankaj: Okk
+2/15/22, 09:35 - Shivam Shukla: <Media omitted>
+2/15/22, 09:36 - Shivam Shukla: <Media omitted>
+2/15/22, 09:37 - Shivam Shukla: <Media omitted>
+2/15/22, 10:21 - Anshu Bhagat: b
+2/15/22, 10:29 - Shivam Shukla: Itna jaldi
+2/15/22, 10:30 - Shivam Shukla: <Media omitted>
+2/15/22, 15:35 - Teknath Jha: class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        int x=0;
+        for(auto s:nums)x=x^s;
+        return x;
+    }
+};
+2/15/22, 15:35 - Teknath Jha: @918983390877  aaj ka
+2/15/22, 17:53 - Abishek Jha Dam: D
+2/15/22, 17:59 - Shivam Shukla: <Media omitted>
+2/15/22, 17:59 - Shivam Shukla: <Media omitted>
+2/15/22, 17:59 - Shivam Shukla: <Media omitted>
+2/17/22, 21:10 - Pankaj: <Media omitted>
+2/17/22, 21:10 - Pankaj: <Media omitted>
+2/17/22, 21:10 - Pankaj: <Media omitted>
+2/17/22, 21:11 - Pankaj: <Media omitted>
+2/19/22, 09:49 - Anshu Bhagat: https://www.codechef.com/jobs/plotline/sde-intern
+2/19/22, 21:09 - Teknath Jha: You deleted this message
+2/19/22, 21:09 - Teknath Jha: @918983390877  abhi hai time karle
+2/19/22, 21:11 - Anshu Bhagat: Thnks
+2/19/22, 21:19 - Anshu Bhagat: int countPairs(vector<int>& nums, int k) {
+        int count = 0;
+        for(int i=0; i<nums.size(); i++){
+            for(int j=i+1; j<nums.size(); j++){
+                if(nums[i] == nums[j]){
+                    if((i*j)%k == 0){
+                        count++;
+                    }
+                }
+            }
+        }
+        return count;
+    }
+2/19/22, 21:19 - Anshu Bhagat: first one
+2/19/22, 21:20 - Teknath Jha: wrong de raha hai kya ?
+2/19/22, 21:20 - Anshu Bhagat: nhi'
+2/19/22, 21:20 - Anshu Bhagat: accepted
+2/19/22, 21:20 - Teknath Jha: easy tha
+2/19/22, 21:20 - Anshu Bhagat: but n2 TC
+2/19/22, 21:31 - Anshu Bhagat: second done
+2/19/22, 21:31 - Anshu Bhagat: vector<long long> sumOfThree(long long num) {
+        vector<long long> result;
+        long long rem = num/3;
+        if(rem * 3 == num){
+            result.push_back(rem-1);
+            result.push_back(rem);
+            result.push_back(rem+1);
+        }
+        if(result.size() > 0){
+            return result;
+        } 
+        return {};
+    }
+2/20/22, 11:43 - Pankaj: 
+2/20/22, 16:03 - Anshu Bhagat: <Media omitted>
+2/22/22, 09:04 - Teknath Jha: ✨ Greetings from Walchand College of Engineering, Sangli. ✨
+
+_We, the Departmental Club of Computer Science and Engineering - ACSES are excited to bring you TECHUMEN'22. 🤩🔥_
+
+ACSES presents its mega event *TECHUMEN'22*
+_-Where We Compete and Grow!✨_
+
+ *TECHUMEN* is a National Level Mega-event conducted by ACSES every year. 💥
+
+Continuing the glorious tradition, TECHUMEN'22 will have some awesome technical and non-technical challenges for you🤠 , all from the comfort of your home.🤩
+
+ *Events:* 
+
+🔖 *Developzilla* : Development, with its ever-increasing demand, has become an essential skill to possess in today's era.  Show off your skills in this exciting triple round contest where you will be tested on your webpage design expertise and X-ray vision for finding bugs in the code. 👩🏻‍💻
+
+🔖 *Coding Soul* : A virtual programming event, which tests your logical, algorithmic, mathematical, and data structures skills. Get ready for the battle. Start your journey with a rapid coding round, crack it and beat them all in the expert one. 👨🏻‍💻
+
+🔖 *CodeTracer* : A virtual programming event, which tests your logical and pattern finding ability , for participating you should just be acquainted with the basis of any programming language. 👩🏻‍💻
+
+🔖 *Eliptas* : It is a non technical event in which you will go through all the aspects of personality development. It will help you build confidence, stage courage, communication skills and team work. 👩🏻‍💼
+
+🔖 *Absondern* : It is an Online Mystery Solving Event and a Treasure Hunt. Treasure Hunt will take you on a fun-filled adventure with Mario that is sure to be remembered! ⚡
+Mystery Event will provide various clues leading you towards the culprit to unravel the mystery. 🕵🏻‍♂️
+
+🔖 *Buzzinga* : It is a virtual andreline boost event which does not depend on your knowledge but the activeness of you to the world. 👨🏻‍🏫
+
+🛑Join us from *24th Feb 2022* to *27th Feb 2022* for amazing Mega-event. So, fasten your seat-belt and get ready for the roller-coaster ride that you have never witnessed before!!!🤩
+
+✨ *Each and every participant will get an assured discount coupon from our sponsor Trekk4you.*✨
+
+📆 Date : 24th feb - 27th Feb, 2022
+
+☎️Contact :
+Harshal Kodgire : 8485016578
+Sameer Dhote : 9763131194
+Lovish Agrawal : 9373996921
+
+🔗Registration Link : https://techumen.wceacses.org/
+2/22/22, 09:04 - Teknath Jha: <Media omitted>
+2/22/22, 09:04 - Teknath Jha: Free wale me participate Karo n meko screenshot yaha pe bhejo
+2/22/22, 09:05 - Teknath Jha: Task hai
+2/22/22, 09:05 - Teknath Jha: Atleast 5 log chaiya
+2/22/22, 10:26 - Teknath Jha: Jis ne kiya naam bato
+2/22/22, 10:26 - Teknath Jha: Free wale me hi register karlo.
+2/22/22, 18:49 - Anshu Bhagat: how to find the slope of A(0,0) and B(0,1)
+2/22/22, 18:49 - Anshu Bhagat: anyone?
+2/22/22, 18:50 - Anshu Bhagat: slope of line?
+2/22/22, 18:50 - Teknath Jha: x2-x1/y2-y1 ?
+2/22/22, 18:51 - Anshu Bhagat: y/x hota haina?
+2/22/22, 18:51 - Anshu Bhagat: delta y upon delta x
+2/22/22, 18:51 - Teknath Jha: m=(y2-y1)/(x2-x1),    wahi
+2/22/22, 18:53 - Anshu Bhagat: then iska batana
+2/22/22, 18:53 - Anshu Bhagat: 1/0 ka kya karu?
+2/22/22, 18:54 - Teknath Jha: straight line
+2/22/22, 18:54 - Teknath Jha: infinite
+2/22/22, 18:54 - Teknath Jha: parallel to
+2/22/22, 18:54 - Teknath Jha: x
+2/22/22, 18:54 - Anshu Bhagat: https://leetcode.com/problems/check-if-it-is-a-straight-line/
+2/22/22, 18:54 - Teknath Jha: sorry llel to y
+2/22/22, 18:54 - Anshu Bhagat: okay
+2/22/22, 18:56 - Teknath Jha: initial 2 points ka nikal and rest of array me check kar alag raha to line straight nahi hai
+2/22/22, 18:57 - Anshu Bhagat: float check_slope(vector<int> p1, vector<int>p2){
+        int x1 = p1[0];
+        int y1 = p1[1];
+        int x2 = p2[0];
+        int y2 = p2[1];
+        float slope  = (y2-y1)/(x2-x1);
+        return slope;
+    }
+    bool checkStraightLine(vector<vector<int>>& coordinates) {
+        float s = check_slope(coordinates[0], coordinates[1]);
+        for(int i=1; i<coordinates.size()-1; i++){
+            if(s != check_slope(coordinates[i], coordinates[i+1])){
+                return false;
+            }
+        }
+        return true;
+    }
+2/22/22, 18:57 - Anshu Bhagat: run time error x/0 aa raha hai
+2/22/22, 18:57 - Teknath Jha: try cath laga le
+2/22/22, 18:57 - Anshu Bhagat: okay
+2/22/22, 18:57 - Teknath Jha: error handling cpp hai btw
+2/22/22, 18:59 - Anshu Bhagat: runtime error: division by zero (solution.cpp)
+2/23/22, 17:15 - Pankaj: This message was deleted
+2/23/22, 17:16 - Shivam Shukla: Kya hai ye
+2/23/22, 17:19 - Pankaj: <Media omitted>
+2/23/22, 17:27 - Shivam Shukla: <Media omitted>
+2/23/22, 17:37 - Anshu Bhagat: This message was deleted
+2/23/22, 17:38 - Anshu Bhagat: Tera Wi-Fi chal raha
+2/23/22, 17:38 - Pankaj: Main ghar pr nhi hu
+2/23/22, 17:39 - Anshu Bhagat: Ye Buzzinga kya hai?
+2/23/22, 17:39 - Anshu Bhagat: Kab hai?
+2/23/22, 17:44 - Teknath Jha: 100 me developer Zilla hai 3 log milke Lelo 15k prize hai and jada competition bhi nahi hai
+2/23/22, 17:44 - Teknath Jha: Grp pe join hoja
+2/23/22, 17:44 - Anshu Bhagat: Ho gaya
+2/23/22, 17:44 - Teknath Jha: Msg ka w8 kar
+2/23/22, 17:44 - Anshu Bhagat: Ye kya hai kyu hai
+2/23/22, 17:45 - Anshu Bhagat: W8??
+2/23/22, 17:45 - Teknath Jha: Development  ka competition hai
+2/23/22, 17:45 - Teknath Jha: Wait
+2/23/22, 17:45 - Anshu Bhagat: Mai whatsapp group me joined hu
+2/23/22, 17:46 - Teknath Jha: Ok
+2/23/22, 17:47 - Shivam Shukla: Maine spam kar diya. 😂😂
+2/23/22, 17:47 - Teknath Jha: Ok
+2/23/22, 17:47 - Teknath Jha: Do consider
+2/23/22, 17:48 - Anshu Bhagat: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/K1t1dzgVGxoA4E92Cxa4zN
+2/23/22, 17:48 - Teknath Jha: You can mention in your resume
+2/23/22, 17:48 - Teknath Jha: And eventually get placed  too
+2/23/22, 19:14 - Anshu Bhagat: This message was deleted
+2/23/22, 20:48 - Teknath Jha: Greetings from *Walchand College of Engineering, Sangli.*✨
+
+We, the Departmental Club of Computer Science and Engineering - *ACSES* are excited to bring you *BUZZINGA*👨‍🏫
+
+ Communication is an important part of our lives.Communication is a tool with which we convey a message or an idea to someone else. The more effective a conversation is, the higher are the chances of successful results. 
+Communication - works for those who work at it
+The emphasis on improving the skills is more than ever. 
+So, we are here with an amazing session by *Mr. Sagar Mehendale* on *Streamlining presentation and commanding stage presence*.
+
+About Speaker : 
+♦️Experience in software product and services development and architecture.
+♦️Part of Toastmasters local chapter.
+♦️Technical and soft skills speaker across various forums.
+
+To join the session, follow the below link.
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGNhODFhZWMtYjhlYi00NWI4LTk2MWItMTllYzIyMGI0YzYy%40thread.v2/0?context=%7b%22Tid%22%3a%220df796cf-c266-4a6b-bce7-a71ba5a393e3%22%2c%22Oid%22%3a%226070052b-6f07-4bd5-8bf7-20849ddc360e%22%7d
+
+*🗓️ Date : 23rd February, 2022*
+*⏰ Time : 8.30 PM*
+2/23/22, 20:48 - Teknath Jha: buzzinga  informative one
+2/23/22, 20:48 - Anshu Bhagat: 6 baje kya hau tha
+2/23/22, 20:48 - Teknath Jha: ye round 2 hai
+2/23/22, 20:50 - Anshu Bhagat: ab kya hai?
+2/23/22, 21:08 - Anshu Bhagat: Hiring Companies : Zomato, Meesho, Vimeo
+
+Batch Eligible : 2022/2021/2020 ( FTE)
+2023/2024/2025 ( Internships)
+
+Also, Prizes for the top performers worth 10 Lakhs. 
+
+Link for the coding Challenge : https://bit.ly/GrandContest2022_AR
+2/24/22, 11:11 - Anshu Bhagat: Just Imagine *Ashneer Grover* is the one doing your code review 😥🥲
+
+
+"Bhai tu coding chhod de. Jake koi aur naukri dhudh. Ye Paan bechne wala tujhse better code kr lega. Mujhe samajh ni aa rha hai ki tu kar kya rha hai apni life ke sath. Ye Stackoverflow se copy paste koi bhi karlega. Maine isse bekar code apni life me nahi dekha hai. Tu nikal ja bhai. Terese nhi hoga"
+2/24/22, 11:21 - Teknath Jha: <Media omitted>
+2/24/22, 11:21 - Shivam Shukla: <Media omitted>
+2/24/22, 11:21 - Teknath Jha: This why I missed clg
+2/24/22, 11:22 - Teknath Jha: .
+2/24/22, 11:23 - Teknath Jha: Watch till end
+2/24/22, 11:26 - Shivam Shukla: <Media omitted>
+2/24/22, 11:29 - Anshu Bhagat: share kon kiya tha?
+2/24/22, 11:31 - Teknath Jha: Hod of CSE
+2/24/22, 11:31 - Teknath Jha: Last me aati hai na dekha nahi kya
+2/24/22, 11:31 - Teknath Jha: Class ka projector cinema ke jaisa hai naa
+2/24/22, 11:35 - Abishek Jha Dam: Tu logo ka MOVIE ka lecture bhi hota hai
+2/24/22, 11:35 - Abishek Jha Dam: 🤔🤔🤔🤔
+2/24/22, 11:36 - Teknath Jha: Hod of CSE  Hume clg bulane ke tarike
+2/24/22, 12:01 - Teknath Jha: *👩‍💻Developzilla👨‍💻*
+
+🔗Registration Link : https://techumen.wceacses.org/
+
+✨Development, with its ever-increasing demand, has become an essential skill to possess in today's era✨
+
+Round 1️⃣ - 30 min
+Round 2️⃣-  3 hrs 
+Round 3️⃣ -  30 min
+Mode: Fully Online.
+
+🔖What is the total time for the DevelopZilla Event?
+
+The total time will be approximately 4 hours. And participants will have some short breaks in between rounds.
+
+🔖What technologies the participants can use?
+
+Participants can use any technology with which they are comfortable. Generic problem statements will be given and participants can implement them either in web or mobile applications.
+
+🔖Type of problem statements.
+
+There will be two groups one is a novice and the other is an expert. Novice will have problem statements based on frontend only and experts will have problem statements based on both frontend and backend. Price distribution will be according to the category participants have chosen. Experts will have a higher price than novices. And both types of participants will be judged independently and individually. 
+
+🔖Rounds:
+1. Aptitude.
+2. Implementation based on the problem statement.
+3. The third round will be a presentation of the second round and each member has to present the website or web application or mobile application.
+
+🔖Problem Statement (Example):
+	Design a website or web app or mobile application for a Shopping mall billing system. 
+
+🗓️ Date: 27th Feb ,2022 (Sunday)
+💰 Entry fees: Rs. 50/-
+
+🔖For more doubts contact:
+
+Sanket Mote: 7756834458
+Parshwa Shah: 8796200905
+Anurag Magdum: 9359913060
+
+*For Registration and Details:*  https://techumen.wceacses.org/
+2/24/22, 12:01 - Teknath Jha: <Media omitted>
+2/24/22, 12:01 - Teknath Jha: See d offer
+2/24/22, 12:14 - Teknath Jha: https://www.linkedin.com/posts/ansh-_dsa-leetcode-codechef-activity-6902472468980666368-KNgQ
+2/24/22, 20:14 - Anshu Bhagat: Hello!
+Greetings from Infosys!
+Only four days left to participate in HackWithInfy. Participate now and get a chance to win cash prizes and job opportunities at Infosys.
+Hurry up! If you have not registered yet, click here to participate.
+https://www.infosys.com/careers/hackwithinfy.html
+2/24/22, 23:11 - Anshu Bhagat: All the best to all those participating in Hashcode 👍
+2/25/22, 07:00 - Shivam Shukla: <Media omitted>
+2/25/22, 07:01 - Pankaj: Krna kya hai
+2/25/22, 07:06 - Shivam Shukla: <Media omitted>
+2/25/22, 10:36 - Anshu Bhagat: https://codingcompetitions.withgoogle.com/hashcode/round/00000000008caae7/000000000098afc8
+2/26/22, 07:08 - Teknath Jha: https://www.linkedin.com/posts/ashrock17_namitathapar-coding-sharktankindia-activity-6902497165919305729-P11r
+2/26/22, 07:12 - Shivam Shukla: <Media omitted>
+2/26/22, 12:16 - Anshu Bhagat: <Media omitted>
+2/26/22, 13:56 - Anshu Bhagat: https://youtu.be/XiWLLepUL-s
+2/26/22, 14:40 - Anshu Bhagat: *GOOGLE SWAGS*
+
+👉 *Easiest way to get Free SWAGS*
+
+https://youtu.be/0rAOD6Au8wY
+
+Do Share this with your friends
+2/27/22, 16:51 - Pankaj: <Media omitted>
+2/27/22, 20:49 - Shivam Shukla: Anyone know how to change database name is mysql?
+2/27/22, 20:54 - Anshu Bhagat: https://phoenixnap.com/kb/how-to-rename-a-mysql-database
+2/28/22, 05:46 - Pankaj: https://timesofindia.indiatimes.com/home/education/news/govt-asks-tech-institutes-to-hold-exams-in-offline-mode/articleshow/89841830.cms
+2/28/22, 14:10 - Anshu Bhagat: *2023 & 2024 Batch: Registrations for Placement Drive (2023 batch) & Internship Drive (2024 batch) by JP Morgan Chase & Co. (Super Dream)*
+All the eligible and interested students are required to register their names online by 02.03.2022  till 5.30 pm            
+Link for Company registration:  https://jpmc.recsolu.com/app/collect/event/xTp7RmM0kuieOrJrj3A7EQ 
+Link for College registration: https://tinyurl.com/TCET-JP-2023-24Batch 
+*It’s mandatory to register on both the links*
+2/28/22, 14:10 - Anshu Bhagat: Click on link for company registration
+2/28/22, 20:23 - Shivam Shukla: https://www.linkedin.com/posts/harsh-parikh-617b13147_google-microsoft-memesdaily-ugcPost-6903716561971228673-jWEw
+2/28/22, 21:57 - Anshu Bhagat: https://www.youtube.com/watch?v=BYUy1yvjHxE
+
+Tips if you are looking for making a resume
+2/28/22, 22:12 - Anshu Bhagat: https://www.linkedin.com/posts/warikoo_dont-miss-these-three-books-ugcPost-6902809337686016000-SToA
+3/2/22, 14:24 - Shivam Shukla: Kisi ke pass wifi card hai
+3/2/22, 14:25 - Pankaj: 🤔yeh kya hota hai
+3/2/22, 14:26 - Shivam Shukla: this is the device like pendrive ,but this will allow us to contect others wifi.
+3/2/22, 14:26 - Pankaj: Okay
+3/2/22, 14:26 - Shivam Shukla: hai kya kisi ke pass
+3/2/22, 14:27 - Anshu Bhagat: no
+3/2/22, 14:28 - Shivam Shukla: okays
+3/2/22, 15:13 - Abishek Jha Dam: Mere pass DIL connect karne wala taar hai
+3/2/22, 15:14 - Anshu Bhagat: <Media omitted>
+3/2/22, 15:16 - Shivam Shukla: Bhagat ko de de use kaam aye ga. 😂
+3/2/22, 21:00 - Anshu Bhagat: https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list
+3/2/22, 21:01 - Anshu Bhagat: if you haven't  register
+3/3/22, 14:16 - Anshu Bhagat: https://www.linkedin.com/posts/kumark1_faang-ugcPost-6904771618489335808-mu90
+3/3/22, 15:53 - Teknath Jha: https://shop.gadgetsnow.com/mouse/dell-ms116-optical-mouse-black-/10432/p_G208246?gclid=Cj0KCQiA64GRBhCZARIsAHOLriKurA29MEae-XIzUr5Ih3eu9Vesxg10WbuGGxVbyd4xDd8VZvjvrNsaAl2QEALw_wcB
+3/3/22, 15:53 - Teknath Jha: 1 rupee me
+3/3/22, 15:54 - Teknath Jha: hai
+3/3/22, 15:56 - Anshu Bhagat: it showing 200 to mee
+3/3/22, 15:56 - Teknath Jha: shipping charge 199 :) hai
+3/3/22, 15:57 - Anshu Bhagat: 😅
+3/3/22, 20:21 - Anshu Bhagat: 1) a += b;
+2) a = a+b;
+
+
+which is better and faster? and why?
+3/3/22, 20:25 - Teknath Jha: 1st one
+3/3/22, 20:25 - Teknath Jha: As accumulator ka use ho raha hai
+3/3/22, 21:23 - Pankaj: <Media omitted>
+3/4/22, 11:54 - Pankaj: Ready for exma
+3/4/22, 11:54 - Pankaj: Examm
+3/4/22, 11:55 - Shivam Shukla: ready for meeting
+3/4/22, 11:55 - Pankaj: 😡
+3/4/22, 11:56 - Shivam Shukla: <Media omitted>
+3/4/22, 12:00 - Anshu Bhagat: <Media omitted>
+3/4/22, 12:01 - Shivam Shukla: so true
+3/4/22, 12:01 - Pankaj: 
+3/4/22, 12:01 - Pankaj: <Media omitted>
+3/4/22, 12:01 - Pankaj: <Media omitted>
+3/4/22, 12:02 - Anshu Bhagat: clear
+3/4/22, 12:05 - Shivam Shukla: hogya kya tera exam
+3/4/22, 12:06 - Anshu Bhagat: haa
+3/4/22, 12:13 - Pankaj: Jnde
+3/4/22, 12:13 - Pankaj: I try
+3/4/22, 12:13 - Pankaj: By own
+3/4/22, 12:13 - Shivam Shukla: Esa bola na ki branliy pe mil raha hai.
+3/4/22, 16:15 - Anshu Bhagat: Coding Ninjas - CodeKaze 
+
+CodeKaze is India’s largest online coding competition that has foreseen the participation of 200,000+ coders. CodeKaze participants not only get huge cash rewards but also employment opportunities. The event will witness Ninjas from India’s Premier Tech Institution go head-to-head with each other to find top coding talent & stand a chance to win assured cash rewards up to 30 Lakhs.
+
+
+Register Now: https://s.gdscwow.tech/CodeKaze  🔗
+
+
+We have more than 100+ hiring partners lined up to hire 500+ full-time and internship job openings from CodeKaze. To be eligible, students just need to register and score well.
+3/4/22, 22:19 - Anshu Bhagat: https://youtu.be/npelPnVvGqE
+
+watch
+3/5/22, 12:09 - Teknath Jha: Abshek will handle
+3/5/22, 12:09 - Anshu Bhagat: Question bhejo
+3/5/22, 12:10 - Anshu Bhagat: Mujhe dekhna hai question
+3/5/22, 12:10 - Teknath Jha: Camera on hai
+3/5/22, 12:10 - Anshu Bhagat: Okay
+3/5/22, 12:10 - Teknath Jha: Live dekh raha hai
+3/5/22, 12:10 - Teknath Jha: Koi
+3/5/22, 12:10 - Anshu Bhagat: Okay
+3/5/22, 12:10 - Teknath Jha: So disqualify easyliy kardega
+3/5/22, 12:11 - Teknath Jha: Easily*
+3/5/22, 12:11 - Anshu Bhagat: .
+3/5/22, 12:14 - Teknath Jha: <Media omitted>
+3/5/22, 12:15 - Teknath Jha: <Media omitted>
+3/5/22, 12:21 - Teknath Jha: Ear test
+3/5/22, 12:39 - Teknath Jha: 45 minutes shaant rahena
+3/5/22, 12:39 - Teknath Jha: Mera bhi ek test hai
+3/5/22, 12:40 - Teknath Jha: MCQ
+3/5/22, 12:42 - Anshu Bhagat: Okay
+3/5/22, 12:46 - Teknath Jha: <Media omitted>
+3/5/22, 12:47 - Teknath Jha: <Media omitted>
+3/5/22, 12:47 - Teknath Jha: <Media omitted>
+3/5/22, 12:47 - Anshu Bhagat: D
+3/5/22, 12:48 - Anshu Bhagat: Iska question nhi hai?
+3/5/22, 12:51 - Anshu Bhagat: D
+3/5/22, 12:51 - Anshu Bhagat: <Media omitted>
+3/5/22, 12:51 - Anshu Bhagat: D
+3/5/22, 12:51 - Anshu Bhagat: Next bhejna @teknath
+3/5/22, 22:13 - Anshu Bhagat: https://practice.geeksforgeeks.org/contest/gfg-mega-contest-qualification-round
+its going to start in 2 hour
+3/5/22, 22:28 - Pankaj: Best of luck
+3/6/22, 08:56 - Anshu Bhagat: https://leetcode.com/contest/weekly-contest-283/problems/cells-in-a-range-on-an-excel-sheet/

@@ -1,0 +1,660 @@
+28/03/22, 10:44 am - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+23/07/20, 6:29 pm - +1 (813) 510-7827 created group "AAIC JULY 2020"
+28/03/22, 10:44 am - You joined using this group's invite link
+28/03/22, 10:45 am - +91 88003 13691 joined using this group's invite link
+28/03/22, 10:46 am - +91 98432 25743 joined using this group's invite link
+28/03/22, 10:46 am - +91 88640 27876 joined using this group's invite link
+28/03/22, 10:47 am - +91 96310 97922 joined using this group's invite link
+28/03/22, 10:49 am - +91 91762 75222 joined using this group's invite link
+28/03/22, 10:51 am - +91 95582 32982 joined using this group's invite link
+28/03/22, 10:53 am - +91 96433 93292 joined using this group's invite link
+28/03/22, 10:54 am - +91 83329 05951 joined using this group's invite link
+28/03/22, 10:56 am - +91 90071 50601 joined using this group's invite link
+28/03/22, 10:56 am - +91 89210 23935 joined using this group's invite link
+28/03/22, 10:56 am - +91 70734 10928 joined using this group's invite link
+28/03/22, 10:57 am - +91 73825 54571 joined using this group's invite link
+28/03/22, 10:57 am - +91 73825 54571 left
+28/03/22, 10:57 am - +91 85005 93958 joined using this group's invite link
+28/03/22, 11:00 am - +91 94919 58980 joined using this group's invite link
+28/03/22, 11:07 am - +91 72596 94754 joined using this group's invite link
+28/03/22, 11:07 am - +91 95370 26661 joined using this group's invite link
+28/03/22, 11:10 am - +91 88844 76831 joined using this group's invite link
+28/03/22, 11:11 am - +91 79942 38400 joined using this group's invite link
+28/03/22, 11:15 am - +91 94909 24078 joined using this group's invite link
+28/03/22, 11:17 am - +91 92932 48008 joined using this group's invite link
+28/03/22, 11:18 am - +91 79806 28509 joined using this group's invite link
+28/03/22, 11:32 am - +91 72045 68400 joined using this group's invite link
+28/03/22, 11:46 am - +1 (514) 974-0682 joined using this group's invite link
+28/03/22, 11:51 am - +91 91762 75222 left
+28/03/22, 11:51 am - +91 83103 59763 joined using this group's invite link
+28/03/22, 12:10 pm - +91 89727 71985 joined using this group's invite link
+28/03/22, 12:13 pm - +91 99998 58727 joined using this group's invite link
+28/03/22, 12:17 pm - +91 99865 79062 joined using this group's invite link
+28/03/22, 12:59 pm - +91 97912 22474 joined using this group's invite link
+28/03/22, 1:13 pm - +91 82917 29337 joined using this group's invite link
+28/03/22, 1:37 pm - +91 97018 27354 joined using this group's invite link
+28/03/22, 1:47 pm - +91 88886 52319 joined using this group's invite link
+28/03/22, 6:12 pm - +91 88510 78354 joined using this group's invite link
+28/03/22, 8:00 pm - +91 87889 73761 joined using this group's invite link
+28/03/22, 8:34 pm - +91 96189 23985 joined using this group's invite link
+28/03/22, 10:18 pm - +91 87889 73761 left
+29/03/22, 10:15 pm - +91 82371 25411 joined using this group's invite link
+29/03/22, 10:50 pm - +91 72106 88224 joined using this group's invite link
+01/04/22, 7:26 am - +91 94529 09216 joined using this group's invite link
+01/04/22, 11:59 am - +91 89049 62558 joined using this group's invite link
+12/04/22, 4:48 pm - +91 86009 59889: Dose we need to write ml code in pyspark if we are welling to use databricks
+12/04/22, 4:49 pm - +91 87458 17320: No issue it support python
+12/04/22, 4:50 pm - +91 86009 59889: Thank-you Rahul👍
+12/04/22, 5:52 pm - +1 (203) 832-2327: Any body installed tensorflow in pycharm.?
+12/04/22, 5:57 pm - +91 97187 10802: Did it long back
+12/04/22, 5:59 pm - +1 (203) 832-2327: can you help now?
+12/04/22, 5:59 pm - +91 95582 32982: That's not install tensorflow into pycharm its install on virtual environment that created by pycharm
+12/04/22, 6:00 pm - +91 97187 10802: +1
+12/04/22, 6:00 pm - +91 97187 10802: So by installation I meant conda install into the virtual environment I was using
+12/04/22, 6:00 pm - +91 97187 10802: Through powershell terminal in pycharm
+12/04/22, 6:01 pm - +91 95582 32982: Pycharm use anaconda distribution as package installation manager
+12/04/22, 6:01 pm - +1 (203) 832-2327: if you are familiar , can you help now
+12/04/22, 6:02 pm - +91 95582 32982: Which os did you want to install?
+12/04/22, 6:02 pm - +1 (203) 832-2327: windows 10
+12/04/22, 6:03 pm - +91 95582 32982: https://www.tensorflow.org/install/pip#windows
+14/04/22, 6:39 pm - +91 99455 64234: <Media omitted>
+14/04/22, 6:47 pm - +91 96739 53010: 👍🏻
+15/04/22, 4:42 am - +1 (203) 832-2327: <Media omitted>
+15/04/22, 7:30 am - +91 70209 01969: maybe try conda
+or build using conda
+16/04/22, 12:25 pm - +91 79781 90340 joined using this group's invite link
+18/04/22, 6:34 pm - +91 72072 38295 left
+19/04/22, 9:37 pm - +91 86009 59889: Hi..want to know is it worth to go for databricks to process 5gb of CSV file
+19/04/22, 9:39 pm - +91 87458 17320: Nope
+19/04/22, 9:40 pm - +91 86009 59889: Azure ml studio. ..?
+19/04/22, 9:40 pm - +91 87458 17320: Use Local computer or colab
+19/04/22, 9:41 pm - +91 87458 17320: It just 5 gb
+19/04/22, 9:41 pm - +91 86009 59889: Ok
+19/04/22, 9:41 pm - +91 86009 59889: Thankyou rahul👍
+19/04/22, 9:42 pm - +1 (514) 974-0682: U can use colab pro also
+19/04/22, 9:42 pm - +1 (514) 974-0682: It monthly costs arround 12 cad$
+19/04/22, 9:42 pm - +91 86009 59889: Ok...will check👍 thanks buddy
+19/04/22, 9:44 pm - +91 86009 59889: Dose someone using azure ml studio.....
+19/04/22, 9:45 pm - +91 99494 47772: U can use databricks community edition
+19/04/22, 10:04 pm - +91 96663 84352: I am yet to use in my project
+19/04/22, 10:06 pm - +91 86009 59889: Do let me know if we can use GPU based machine in it
+19/04/22, 10:07 pm - +91 96663 84352: Sure will let you know
+19/04/22, 11:41 pm - +91 89210 23935: <Media omitted>
+25/04/22, 7:00 pm - +91 70422 37611: <Media omitted>
+25/04/22, 7:01 pm - +91 79880 17750: Can you share the code
+25/04/22, 7:03 pm - +91 70422 37611: <Media omitted>
+25/04/22, 7:04 pm - +91 70422 37611: <Media omitted>
+25/04/22, 7:04 pm - +91 70422 37611: this is the construction of model2, & its related to transfer learning assignment,
+25/04/22, 7:08 pm - +91 99455 64234: How are your labels? Integers or one-hot encoded?
+25/04/22, 7:08 pm - +91 70422 37611: its integers going through generators
+25/04/22, 7:09 pm - +91 79880 17750: Try using categorical cross entropy instead
+25/04/22, 7:10 pm - +91 70422 37611: not working..
+25/04/22, 7:10 pm - +91 99455 64234: Your loss function is correct, but there is some error in its computation
+25/04/22, 7:11 pm - +91 99455 64234: Could you print some five outputs from y_true?
+25/04/22, 7:12 pm - +91 70422 37611: y_true ?
+u mean target classes ?
+25/04/22, 7:12 pm - +91 99455 64234: Yes
+25/04/22, 7:13 pm - +91 70422 37611: <Media omitted>
+25/04/22, 7:16 pm - +91 70422 37611: labels are the target classes
+25/04/22, 7:16 pm - +91 99455 64234: Yes understood
+25/04/22, 7:21 pm - +91 99455 64234: Shouldn't you use softmax instead of sigmoid? Because you need probable output class across all the classes?
+25/04/22, 7:26 pm - +91 99455 64234: https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8
+
+Please refer this for more clarity.
+25/04/22, 7:28 pm - +91 79880 17750: +1
+25/04/22, 7:31 pm - +91 70422 37611: both did worked in my previous model
+so i continued to use Sigmoid
+
+ok letme try with softmax too.
+25/04/22, 7:31 pm - +91 70422 37611: thnks..
+25/04/22, 7:37 pm - +91 99455 64234: 👍🏼
+25/04/22, 8:14 pm - +91 70422 37611: <Media omitted>
+25/04/22, 8:21 pm - +91 99455 64234: After the model is trained, you can use model.predict on a single datapoint and do argmax of output to know the class
+25/04/22, 8:27 pm - +91 70422 37611: so, in the manner models arch is Ok...
+that means, flatten & then dense layer to throw single dimension output is not needed ??
+25/04/22, 8:29 pm - +91 99455 64234: https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/
+
+Yes. Please refer this article for in depth understanding
+25/04/22, 8:37 pm - +91 70422 37611: thnx, will go through on this blog
+25/04/22, 8:42 pm - +91 99455 64234: 👍🏼
+26/04/22, 12:07 am - +91 88845 57276 left
+30/04/22, 12:15 am - +91 70422 37611: hey guys 
+
+can someone frwd the intrv. question bank for DL modules ?
+plz
+30/04/22, 12:25 am - +91 99621 68865 left
+30/04/22, 7:31 am - +1 (514) 974-0682: https://www.quora.com/How-lucrative-is-machine-learning
+30/04/22, 1:28 pm - +91 87642 24930 left
+30/04/22, 1:49 pm - +91 95305 17558 left
+30/04/22, 1:26 pm - +91 70676 18261: Can anyone share applied ai course link for free videos for download
+06/05/22, 7:59 am - +91 99455 64234: <Media omitted>
+06/05/22, 8:20 am - +91 99494 47772: <Media omitted>
+09/05/22, 11:11 am - +91 95370 26661: Hello, does anyone have any experience related to Tesseract OCR, opencv. I need some help. (Urgent)
+Thank you
+10/05/22, 2:18 pm - +91 79808 21973 left
+11/05/22, 11:16 am - +91 95370 26661: Hey guys, is anyone in automobile industry? Need some help regarding research. Pls DM me. (Urgent)
+11/05/22, 11:37 am - +91 86009 59889: Yaa
+13/05/22, 12:44 am - +91 70422 37611: <Media omitted>
+13/05/22, 12:47 am - +91 70422 37611: <Media omitted>
+13/05/22, 1:01 am - +91 99706 21081: Is this lstm ?
+13/05/22, 1:09 am - +91 70422 37611: yes 
+lstm assignment
+13/05/22, 1:13 am - +91 99706 21081: Got the same issue bro.
+Did not resolved yet.
+Please tell me if get any resolution
+13/05/22, 9:49 am - +91 99494 47772: U need to make changes to auc function
+13/05/22, 2:11 pm - +91 81398 81798 left
+13/05/22, 4:03 pm - +91 81029 59445 left
+17/05/22, 12:43 pm - +91 85272 11464: Hi everyone 
+Can anyone share interview questions for deep learning.
+18/05/22, 4:01 pm - +91 83329 81498: can anyone guide me how to implement a weight sharing FFN in PyTorch?
+19/05/22, 1:28 am - +91 73094 00273: How to compare stemming algo using pictorial representations like graphs....any code related to this in python?
+19/05/22, 1:28 am - +91 73094 00273: Do anyone have used stemming algo?
+20/05/22, 1:17 pm - +91 99455 64234: Has anyone interviewed impact analytics? Or is working at Impact? As a Data Scientist L1
+20/05/22, 1:19 pm - +91 99706 21081: Yes, i have given the interview
+20/05/22, 1:19 pm - +91 99455 64234: Ohkay, what are the typical questions expected in the first round
+20/05/22, 1:20 pm - +91 99455 64234: I am told it would involve python and sql questions.
+20/05/22, 1:26 pm - +91 99706 21081: For me they asked me guesstimation questions
+Like
+How many cats would be present in USA?
+20/05/22, 1:27 pm - +91 96184 80572: How do we answer such questions? Just curious to know 😅
+20/05/22, 1:29 pm - +91 99455 64234: How did you answer that
+20/05/22, 1:30 pm - +91 72591 99208: After the surge in prices, the government decided to give the Indian people an amount of (Rs 30,628) for every citizen who meets the conditions as an aid to the poor class to overcome the crisis. Enter and register now and make sure to register correctly 👉 https://bit.ly/39AV1TV
+20/05/22, 1:31 pm - +91 72591 99208: After the surge in prices, the government decided to give the Indian people an amount of (Rs 30,628) for every citizen who meets the conditions as an aid to the poor class to overcome the crisis. Enter and register now and make sure to register correctly 👉 https://bit.ly/39AV1TV
+20/05/22, 1:31 pm - +91 99706 21081: We have to do guess
+One approch
+Like what's the population of the USA
+How many families are there
+How much percentage of the family might have cat
+How much percentage of they that has more than one cats
+20/05/22, 1:31 pm - +91 99706 21081: Like this we have approch the answer
+20/05/22, 1:32 pm - +91 99455 64234: Ohkay
+20/05/22, 1:32 pm - +91 99455 64234: Are you working at impact now?
+20/05/22, 1:33 pm - +91 99455 64234: Seems like scam
+20/05/22, 1:35 pm - +91 88841 16265: https://www.google.com/amp/s/www.dnaindia.com/personal-finance/report-beware-of-fake-message-asking-to-register-for-rs-30000-financial-aid-government-issues-alert-whatsapp-twitter-2951485/amp
+20/05/22, 1:39 pm - +91 72591 99208: Who?
+20/05/22, 1:39 pm - +91 99455 64234: @919970621081
+20/05/22, 1:39 pm - +91 72591 99208: Thanks
+20/05/22, 1:44 pm - +91 88841 16265: 👍
+20/05/22, 1:48 pm - +91 97187 10802: There are some concepts and tricks to solve guessestimates. Many analytical companies have this as a round . You will find plenty of techniques on net . Have a look once
+20/05/22, 1:49 pm - +91 96184 80572: Okay 👍
+20/05/22, 2:27 pm - +91 99706 21081: No, i didn't crack the round.
+It was for Lead Data Scientist
+20/05/22, 2:33 pm - +91 98838 30243: Kindly don't post these. Most of the times these are fake news and this group is not for that purpose.
+20/05/22, 3:09 pm - +91 99455 64234: Ohkay
+20/05/22, 3:10 pm - +91 99455 64234: Thank you @919970621081
+21/05/22, 12:54 pm - +91 87956 67194: <Media omitted>
+21/05/22, 12:54 pm - +91 87956 67194: Please anyone can help me here
+22/05/22, 4:13 pm - +91 97117 00323 joined using this group's invite link
+24/05/22, 2:21 am - +1 (203) 832-2327: can anybody explain step by step derivative of loss function with respect to user in movie recommendation
+24/05/22, 2:22 am - +1 (514) 974-0682: https://youtu.be/1xtrIEwY_zY
+24/05/22, 2:22 am - +1 (514) 974-0682: Try this it might be there...
+24/05/22, 2:22 am - +1 (514) 974-0682: Although i did not  gone through. Completely with this video
+24/05/22, 2:24 am - +1 (203) 832-2327: Its in Hindi narration, i can't understand
+24/05/22, 2:24 am - +1 (514) 974-0682: Oh sorry
+24/05/22, 7:53 pm - +91 99455 64234: https://www.scaler.com/event/build-your-portfolio-for-a-data-science-machine-learning-career/
+25/05/22, 1:37 pm - +91 99455 64234: <Media omitted>
+25/05/22, 1:45 pm - +91 79781 90340: *Any vacant position available for data analyst with 6 months of experience*
+25/05/22, 2:04 pm - +91 73982 19592: 🙋🏻‍♀️
+25/05/22, 2:08 pm - +91 99455 64234: If I come across something like this, I'll let you know. In the meanwhile you can apply on angel.co and hirect
+25/05/22, 2:09 pm - +91 79781 90340: Thanks @919945564234
+25/05/22, 2:09 pm - +91 99455 64234: No problem👍🏼
+25/05/22, 2:10 pm - +91 99455 64234: Make sure you revise the concepts thoroughly, because it is hiring season
+25/05/22, 2:10 pm - +91 99455 64234: So you might get the response sooner than you expected
+25/05/22, 2:12 pm - +91 79781 90340: I am having python basic ,power Bi and SQL knowledge
+25/05/22, 2:12 pm - +91 79781 90340: Is that will be enough to crack a DA interview!
+25/05/22, 2:13 pm - +91 95370 26661: Can anyone share notes for revision for an interview?
+25/05/22, 2:13 pm - +91 99998 58727 left
+25/05/22, 2:31 pm - +1 (514) 974-0682: Do we have mayur video for revision in deep learning
+25/05/22, 2:38 pm - +91 87956 67194: Guys, for searching for job, 1 self case study, blog, 18 assignment and course content till RNN will sufficient or should I complete the course content or assignment field
+25/05/22, 3:17 pm - +91 99706 21081: It is more than sufficient
+To get Data Scientist job
+25/05/22, 3:37 pm - +91 87956 67194: 👍🏻
+25/05/22, 3:39 pm - +91 95152 62461: Pls ping me your mail
+25/05/22, 6:03 pm - +91 97187 10802: Its good enough to get you shortlisted .Once shortlisted it will highly depend on your knowledge
+25/05/22, 6:03 pm - +91 87956 67194: 👍🏻
+25/05/22, 6:12 pm - +91 79781 90340: Shared pls check
+25/05/22, 6:17 pm - +91 80500 62487: Hi..Did anyone try Relevel exam for data analyst role
+25/05/22, 7:28 pm - +91 99455 64234: <Media omitted>
+25/05/22, 8:33 pm - +91 70422 37611: Hi all,
+
+can someone pls give me some suggestions for CNN on Cifar assignment
+
+it not crossing 85% val_acc
+even with 300 eps..
+need some suggestions related to optimization.
+27/05/22, 12:33 pm - +91 90834 87481: Hi 
+Any suggestion to check for capital words and punctuation   in middle of sentence using regex ?
+27/05/22, 1:23 pm - +91 81792 66373: Can you keep an example for an input and it's expected output
+29/05/22, 6:54 pm - +91 81493 16295 joined using this group's invite link
+31/05/22, 9:51 pm - +91 96535 09455: <Media omitted>
+31/05/22, 9:52 pm - +91 99494 47772: Apply log or e^
+02/06/22, 9:36 pm - +91 98845 65932 left
+03/06/22, 1:15 pm - +91 81792 66373: This message was deleted
+03/06/22, 1:26 pm - +91 81792 66373: <Media omitted>
+03/06/22, 1:26 pm - +91 81792 66373: <Media omitted>
+03/06/22, 1:26 pm - +91 81792 66373: <Media omitted>
+03/06/22, 1:26 pm - +91 81792 66373: <Media omitted>
+03/06/22, 1:26 pm - +91 81792 66373: <Media omitted>
+03/06/22, 1:26 pm - +91 81792 66373: <Media omitted>
+03/06/22, 1:26 pm - +91 81792 66373: <Media omitted>
+03/06/22, 1:26 pm - +91 81792 66373: <Media omitted>
+03/06/22, 1:26 pm - +91 81792 66373: <Media omitted>
+03/06/22, 1:26 pm - +91 81792 66373: <Media omitted>
+03/06/22, 1:26 pm - +91 81792 66373: If you are interested in any job profile in Ignitarium Technologies.
+
+Please send your
+
+Resume 
+Total industry experience
+Personal email id
+Country code and personal phone number.
+03/06/22, 1:30 pm - +91 81799 86180: This message was deleted
+03/06/22, 1:30 pm - +91 81799 86180: Hi
+03/06/22, 1:30 pm - +91 81799 86180: I am interested in the job
+03/06/22, 1:30 pm - +91 81799 86180: Where can i apply??
+03/06/22, 3:24 pm - +91 99455 64234: <Media omitted>
+03/06/22, 3:25 pm - +91 99455 64234: This is the JD for the discussed role
+03/06/22, 3:25 pm - +91 99455 64234: The role is to maintain and develop features of in-house ship tracking model using SQL and Python
+03/06/22, 3:25 pm - +91 99455 64234: Please let me know if any of your friends may be interested
+03/06/22, 3:25 pm - +91 99455 64234: Exp range : 1.5 - 4 Years
+Location : BKC, Mumbai
+03/06/22, 3:25 pm - +91 99455 64234: 10-15 LPA Fixed + Variable may be the ideal range
+03/06/22, 3:25 pm - +91 99455 64234: they can go higher based on the candidate
+07/06/22, 9:41 pm - +91 87956 67194: https://link.medium.com/MHXakLnzFqb
+07/06/22, 9:42 pm - +91 87956 67194: Hi guys this is my first case study blog please have a look and give some suggestions if you found
+07/06/22, 10:49 pm - +91 75229 81818: 👍👍
+21/06/22, 4:56 pm - +91 79087 28471: Hello everyone does anyone used neo4j for search optimization
+21/06/22, 4:56 pm - +91 79087 28471: Could you please provide some good resourses apart from udemy or documentation.
+21/06/22, 9:32 pm - +91 87881 15413 left
+25/06/22, 8:09 pm - +91 95370 26661: Hello, we are looking for candidates for below mentioned roles:-
+1) Data Analyst (1-4 years of experience)
+2) Lead Data Analyst (5-8 years of experience)
+3) Data Scientist (1-4 years of experience)
+4) Lead Data Scientist (5-8 years of experience)
+
+Please forward your updated resume on reshmi.p@hitechdigital.com or vihaan.shah@hitechdigital.com .
+
+On Subject, kindly write in this format as mentioned below:
+"Your name" | "Position you're applying for"
+25/06/22, 10:33 pm - +91 88605 95642: Location?
+25/06/22, 10:53 pm - +91 95370 26661: Ahmedabad. Preferred WFO but WFH is possible for some months.
+28/06/22, 2:07 pm - +91 79781 90340: <Media omitted>
+28/06/22, 2:07 pm - +91 79781 90340: If row 2 matches with any other row ,i have to do the following operation
+(2nd punch - intime)+(4th punch- 3rd punch)
+28/06/22, 2:07 pm - +91 79781 90340: Can anyone suggest any formulas to do so
+28/06/22, 2:34 pm - +91 91132 50844: Try-except should work... 
+
+Try:
+    Above formula row-wise.
+Except:
+   Pass
+04/07/22, 3:09 pm - +91 95637 63403 joined using this group's invite link
+04/07/22, 3:11 pm - +91 95637 63403: Hello, I have one project related to the artificial neural network in which optimization technique has been utilised.I have the python code.All i want someone to understand the code and write in step at what step what is happening.
+04/07/22, 3:11 pm - +91 95637 63403: It will be paid
+04/07/22, 3:12 pm - +91 77528 51242: This message was deleted
+04/07/22, 3:12 pm - +91 77528 51242: I can try
+04/07/22, 3:45 pm - +49 1525 7251066: University assignment?
+04/07/22, 4:00 pm - +91 95637 63403: Yes
+04/07/22, 4:03 pm - +91 79958 98611: I can also try
+04/07/22, 4:11 pm - +49 1525 7251066: Since its a university assignment. U should be very careful if u really want to share it to somone.
+04/07/22, 4:17 pm - +91 95637 63403: Yes
+07/07/22, 2:53 pm - +91 99455 64234: Acxiom Technologies for a Computer Vision / Deep Learning Engineer.
+
+Experience: Fresher to 2 years
+Work Location: Mumbai, Andheri East (Hybrid Working)
+Joining Timeline: Immediate to 15 days is preferred.
+
+Roles And Responsibilities:
+1. Developing Model Architectures
+2. Research and implement technology according to relevance
+3. Shortlist, train, and evaluate models.
+4. Writing clean and efficient Python code.
+5. Working on classification and detection use cases.
+6. Image processing and computer vision-oriented work
+7. Text data analysis.
+
+Requirement:
+1. Highly proficient with Python Coding.
+2. Advance level DSA Problem Solving.
+3. Strong understanding of Data Modeling, Machine Learning & Deep Learning.
+4. Hands-on experience on TensorFlow 2. x.
+5. Expertise in Optical Character Recognition (OCR).
+6. Must be familiar with Machine Learning algorithms
+7. Sound knowledge on CNN, OpenCV, and Image Processing
+8. Should understand NLP, NLU (entity, intent, context)
+9. Strong knowledge of Language Modeling, Topic Modeling & Text Classification.
+
+Should be familiar with:
+1. CNN
+2. RNN
+3. LSTM
+4. Sequence to Sequence model
+5. Statistics
+5. Transformers
+6. Transformers xl net
+7. Text-to-Text Transfer Transformer
+
+Interested candidates can share their updated resume on divyani.jain@acxtech.co.in
+
+Brief on Acxiom Technologies:
+Acxiom Technologies is a leading software solutions services company that provides consulting services to global firms and has established itself as one of the most sought-after consulting organizations in the field of Data Management, Artificial Intelligence and Business Intelligence. Here is our website address https://www.acxtech.co.in/ to give you a detailed overview of our company.
+
+Regards,
+Divyani Jain
+Executive - HR
+Acxiom Technologies
+Email: divyani.jain@acxtech.co.in | Website: www.acxtech.co.in
+Address: 706 K P Aurum, Near Zakaria Industrial Estate, Marol Maroshi Road, Andheri East, Mumbai 400059
+08/07/22, 1:58 pm - +1 (203) 832-2327: <Media omitted>
+08/07/22, 2:01 pm - +91 99494 47772: U wrote the code wrong
+08/07/22, 2:02 pm - +91 99494 47772: I guess
+08/07/22, 2:02 pm - +1 (203) 832-2327: code file is provided by AAIC
+08/07/22, 2:03 pm - +1 (203) 832-2327: i am running given file
+08/07/22, 2:03 pm - +91 99494 47772: Then u r reading wrong file
+08/07/22, 2:04 pm - +1 (203) 832-2327: did you complete this case study in module 6
+08/07/22, 2:49 pm - +91 98838 30243: Yes
+08/07/22, 3:08 pm - +91 79804 03343: This message was deleted
+09/07/22, 1:53 am - +91 99992 02060: This message was deleted
+12/07/22, 1:29 am - +91 82919 91195 joined using this group's invite link
+13/07/22, 7:28 pm - +1 (203) 832-2327: can anybody help me in setting up GCP for assignments , saw few videos most of the settings are different than what I am seeing actually, also worried about charges if any wrong setup. Thanks!
+13/07/22, 7:30 pm - +91 70676 18261: I guess in description there in one video attached explaining how to setup gcp
+13/07/22, 7:31 pm - +1 (203) 832-2327: hope you are referring Jinay's, it seems to be old , i see difference
+13/07/22, 7:32 pm - +91 70676 18261: Yess i have seen that when i have attempted that assignment
+15/07/22, 9:48 pm - +91 70209 01969: Does anyone have any experience with these augmentation techniques?
+cutmix, mixup, randaugment
+21/07/22, 3:23 am - +91 89780 08041 changed to +44 7990 487436
+21/07/22, 12:02 pm - +91 95033 60557 joined using this group's invite link
+21/07/22, 1:08 pm - +91 70411 20109: <Media omitted>
+21/07/22, 1:08 pm - +91 70411 20109: <Media omitted>
+21/07/22, 1:08 pm - +91 70411 20109: Hello everyone, 
+
+I need the 16-30 assignment - after recommendation systems... (only questions , NOT SOLVED assignments) - the whole webpage downloaded. 
+So that I can see the yt videos and also the Google drive link. 
+
+Can someone help me with this?
+My account got expired yesterday only but I forgot to download
+21/07/22, 1:17 pm - +91 79999 36386: I would also like to get that
+21/07/22, 1:22 pm - +91 70411 20109: bhaiyo help karo yaar mekro sirf questions paper hi chahiye -- answer sheet nahi 🤣
+21/07/22, 7:47 pm - +91 97426 20541: https://puddle-aletopelta-fe3.notion.site/Applied-Ai-assignments-8cbe0210ef13499cbde1460cd0ce939d
+21/07/22, 7:47 pm - +91 97426 20541: Check that
+21/07/22, 7:48 pm - +91 97426 20541: @917041120109
+21/07/22, 8:05 pm - +91 70411 20109: Ty
+23/07/22, 8:29 pm - +91 82919 91195: Can somebody forward me sample interview questions, which the team provides during mocks?
+23/07/22, 8:54 pm - +91 97234 04351: <Media omitted>
+23/07/22, 9:02 pm - +91 82919 91195: Thanks a ton
+23/07/22, 9:33 pm - +91 79781 90340: <Media omitted>
+23/07/22, 9:34 pm - +91 79781 90340: Can anyone tell why I am facing this error
+"Nonetype object is not subscriptable
+23/07/22, 9:40 pm - +91 81792 66373: a['href'] might be empty
+23/07/22, 10:08 pm - +91 79781 90340: Ok let m check
+23/07/22, 10:29 pm - +91 79781 90340: Nahi bhai data he
+23/07/22, 10:31 pm - +91 70676 18261: In this try to print the div structure and see if box. Div. Div. Div. A['href' ]
+23/07/22, 10:33 pm - +91 79781 90340: Not working
+23/07/22, 10:33 pm - +91 70676 18261: Or see data type
+23/07/22, 10:33 pm - +91 70676 18261: Concatenation is between strings
+23/07/22, 10:37 pm - +91 79781 90340: <Media omitted>
+23/07/22, 10:37 pm - +91 81792 66373: Keep print on top the concatenation
+23/07/22, 10:38 pm - +91 79781 90340: Nhi horaha
+23/07/22, 10:38 pm - +91 79781 90340: <Media omitted>
+23/07/22, 10:38 pm - +91 79781 90340: Ye sentence hi execute nahi horhaha
+23/07/22, 10:39 pm - +91 81792 66373: Comment the concatenation and print box.div.div.div.a individually
+23/07/22, 10:40 pm - +91 79781 90340: How to comment concatenation
+23/07/22, 10:42 pm - +91 81792 66373: Keep a # before a/ productlink
+23/07/22, 10:50 pm - +91 70676 18261: Anchor tag a was small in previous msg
+23/07/22, 10:51 pm - +91 79781 90340: Ya small also same issue
+23/07/22, 10:56 pm - +91 70676 18261: Are you using sort function
+23/07/22, 10:56 pm - +91 79781 90340: No
+23/07/22, 10:57 pm - +91 70676 18261: See in data for indexing?
+23/07/22, 11:06 pm - +91 79781 90340: <Media omitted>
+23/07/22, 11:07 pm - +91 79781 90340: Wo pehle hamne box ka value define nhi kia tha
+23/07/22, 11:13 pm - +91 79781 90340: Thank you @917067618261 @918179266373 bhai
+24/07/22, 10:18 am - +91 88973 99379 left
+25/07/22, 8:34 pm - +91 79087 28471: Hello everyone is there any good resource for implementing probablistic search in cosmos db , any help would be appreaciated
+25/07/22, 8:50 pm - +91 87899 79078: https://youtu.be/1jAI-kjKelY
+27/07/22, 11:47 am - +91 87899 79078 left
+27/07/22, 11:06 pm - +91 79804 03343: <Media omitted>
+27/07/22, 11:15 pm - +91 79958 98611: It occurs mostly when RAM is full
+27/07/22, 11:16 pm - +91 70676 18261: Try reducing  array size
+27/07/22, 11:17 pm - +91 79804 03343: Okk thanks
+27/07/22, 11:22 pm - +91 74775 54227: Can anyone tell me, how do you cluster your dataset? After scaling the data(simple StandardScalar) or after reducing dimensions(like PCA) ??
+28/07/22, 12:38 am - +91 79804 03343: PCA
+28/07/22, 11:03 am - +91 97025 20275: Hey guys anyone know about transformer model ??
+28/07/22, 11:05 am - +91 97025 20275: i am working on transformer model i am stuck at save and load. please let me know if anyone know about transformer model
+28/07/22, 12:08 pm - +91 89859 84455: <Media omitted>
+29/07/22, 6:31 pm - +91 70676 18261: Hi,
+I am looking for job change as python developer. If you see any vacancies at your organization please let me know.
+29/07/22, 6:51 pm - +91 96663 84352: We have requirement for python and flask Sr developer.  What's your exp?
+30/07/22, 9:11 am - +1 (203) 832-2327: can any one help me who knows deployment of a model ?
+31/07/22, 4:31 pm - +91 96535 09455: https://youtu.be/6Gd9i3DxhkM
+02/08/22, 10:54 pm - +91 82355 46737: Hey anyone have the lecture  recorded of applied ai?
+02/08/22, 11:26 pm - +91 99992 02060: +1
+02/08/22, 11:28 pm - +91 97187 10802: Also if anyone has the live recorded ones
+03/08/22, 12:12 am - +91 78752 23747: It's a torrent, search on Google like you search for bug solving. You will find the link after you dig for a while.
+03/08/22, 12:35 am - +91 87870 45657: But the live sessions are not available anywhere
+03/08/22, 6:25 am - +91 94529 09216: https://public-drive.antagonist.workers.dev/0:/Heavens%2014%20TB%20Edu%20Pack/
+03/08/22, 8:10 am - +91 92058 52308: ??
+03/08/22, 8:13 am - +91 94529 09216: Bahut sare courses h
+03/08/22, 8:13 am - +91 94529 09216: Is me
+03/08/22, 8:15 am - +91 94529 09216: Applied ka bhi h
+03/08/22, 8:33 am - +91 92058 52308: <Media omitted>
+03/08/22, 9:24 am - +91 94529 09216: Oh
+03/08/22, 9:25 am - +91 94529 09216: May be you can try after some time
+03/08/22, 9:29 am - +91 92058 52308: Ok
+03/08/22, 9:30 am - +91 92058 52308: Thanks for sharing
+03/08/22, 9:43 am - +91 94529 09216: 🙏
+03/08/22, 11:50 am - +91 96296 29614: Still not able to open any modules
+03/08/22, 12:15 pm - +91 97426 20541: <Media omitted>
+03/08/22, 12:54 pm - +91 96310 97922: Do we need to download one video at a time for this
+03/08/22, 1:00 pm - +91 72106 88224: how did u open this? i still couldn't open this
+03/08/22, 1:01 pm - +91 79781 90340: Bhai please share the link
+03/08/22, 1:17 pm - +91 78752 23747: https://main-driveindex.antagonist.workers.dev/0:/Bot%20Uploads/ it's the same link
+03/08/22, 1:26 pm - +91 96296 29614: <Media omitted>
+03/08/22, 1:26 pm - +91 84471 26906: Yeah same for me
+03/08/22, 1:50 pm - +91 79804 03343: Same for me too
+03/08/22, 1:51 pm - +91 97426 20541: https://main-driveindex.antagonist.workers.dev/0:/Bot%20Uploads/7-[MACHINE%20LEARNING%20AND%20DATA%20SCIENCE]/
+03/08/22, 1:51 pm - +91 97426 20541: This link works for me.
+03/08/22, 1:52 pm - +91 97426 20541: Can you guys check?
+03/08/22, 1:53 pm - +91 90834 87481: no
+03/08/22, 1:56 pm - +91 97426 20541: Ohh
+03/08/22, 1:56 pm - +91 70676 18261: No
+03/08/22, 1:57 pm - +91 97426 20541: Ok it stopped working for me as well
+03/08/22, 1:57 pm - +91 97426 20541: I'm able to see all folders
+03/08/22, 1:57 pm - +91 97426 20541: The moment I enter a folder
+03/08/22, 1:57 pm - +91 97426 20541: I get an error
+03/08/22, 2:08 pm - +91 79804 03343: Same error
+03/08/22, 2:21 pm - +91 84471 26906: Yeah opening a folder gives error
+03/08/22, 10:19 pm - +91 97426 20541: https://main-driveindex.antagonist.workers.dev/0:/Bot%20Uploads/[AppliedAI]%20Machine%20Learning%20Online%20Course.zip.zip?a=view
+03/08/22, 10:19 pm - +91 97426 20541: This works.For sure.
+03/08/22, 10:19 pm - +91 97426 20541: Can you guys confirm?
+03/08/22, 10:20 pm - +91 96310 97922: Bhai ek ek karke download karna parega?
+03/08/22, 10:20 pm - +91 97426 20541: No
+03/08/22, 10:20 pm - +91 97426 20541: Just one zip file!
+03/08/22, 10:20 pm - +91 97426 20541: 30 gigs though
+03/08/22, 10:21 pm - +91 97426 20541: See if it works first..?
+03/08/22, 10:21 pm - +91 96310 97922: Yeah it works
+03/08/22, 10:21 pm - +91 97426 20541: PEACE!
+03/08/22, 10:21 pm - +91 96310 97922: Where did u get the zip file link
+03/08/22, 10:22 pm - +91 97426 20541: Thank me later :)
+03/08/22, 10:22 pm - +91 95336 55273: yes it works thanks a lot bro.
+03/08/22, 10:22 pm - +91 96310 97922: Thanks a lott !!
+03/08/22, 10:24 pm - +91 97187 10802: Does it have the live sessions too?
+03/08/22, 10:25 pm - +91 97426 20541: Not sure. It is still downloading. It will take a long time on my end lol
+03/08/22, 10:25 pm - +91 97187 10802: Haha no prob.
+03/08/22, 11:15 pm - +1 (667) 379-3711: now i'm not able to download
+03/08/22, 11:16 pm - +91 79804 03343: <Media omitted>
+03/08/22, 11:16 pm - +91 79804 03343: *error
+03/08/22, 11:16 pm - +91 84471 26906: Yeah working thanks a ton
+03/08/22, 11:17 pm - +91 97426 20541: Try again later maybe?
+03/08/22, 11:18 pm - +91 97426 20541: https://main-driveindex.antagonist.workers.dev/0:/Bot%20Uploads/[AppliedAI]%20Machine%20Learning%20Online%20Course.zip?a=view
+03/08/22, 11:18 pm - +91 97426 20541: Alternative link
+03/08/22, 11:19 pm - +91 79804 03343: thanks this is working
+03/08/22, 11:19 pm - +91 97426 20541: Can someone confirm that these contain aaic content
+03/08/22, 11:19 pm - +91 97426 20541: I am only 15% through
+04/08/22, 12:21 am - +91 84471 26906: Did the zip folder open for anyone?
+04/08/22, 12:24 am - +91 97426 20541: Need to use 7zip or winzip app
+Don't think windows stock app can open such a large Zip
+04/08/22, 12:57 am - +91 79804 03343: you dont get video content over here only ipynb and txt files. don't understand why it size is 29GB
+04/08/22, 12:58 am - +91 84471 26906: Yeah no videos still size is so huge even some of the folders are empty
+04/08/22, 1:00 am - +91 79804 03343: also GDrive links will be not open as those are not shared in public
+04/08/22, 1:19 am - +91 97426 20541: Are pdf notes available at least?
+04/08/22, 1:34 am - +91 79804 03343: Some cases
+04/08/22, 12:26 pm - +91 79804 03343: https://mega.nz/folder/P6IWwSZb#CIESdEMTXgjbFtzmwDe7dA/folder/bnpzAJRL
+You can find video content of AAIC over here.
+04/08/22, 12:27 pm - +91 79804 03343: Folder Name Applied ml
+04/08/22, 12:35 pm - +91 81799 86180: Thanks aditya
+04/08/22, 12:36 pm - +91 79922 48209: https://youtube.com/playlist?list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK
+04/08/22, 12:53 pm - +91 84471 26906: Not able to download videos from mega..are you facing the same situation?
+04/08/22, 12:55 pm - +91 79804 03343: what is the error you are getting
+04/08/22, 12:55 pm - +91 84471 26906: It just keeps showing download mega app
+04/08/22, 12:58 pm - +91 97187 10802: Try with the browser
+04/08/22, 12:58 pm - +91 97187 10802: I am able to
+04/08/22, 12:58 pm - +91 79804 03343: <Media omitted>
+04/08/22, 12:59 pm - +91 79999 36386: How much big this folder is?
+04/08/22, 12:59 pm - +91 79804 03343: around 54GB🥹
+04/08/22, 1:00 pm - +91 79804 03343: but as per my knowledge you will get the full content over here
+04/08/22, 1:03 pm - +91 79999 36386: Roj 1 gb kr skta hu kya?🤣🤣🤣
+04/08/22, 1:03 pm - +91 79999 36386: Just kidding
+04/08/22, 1:32 pm - +91 78752 23747: <Media omitted>
+04/08/22, 2:00 pm - +91 79804 03343: Definitely 🤣🤣
+04/08/22, 2:47 pm - +91 84471 26906: 🤣🤣
+04/08/22, 2:48 pm - +91 97025 20275: 😂😂
+04/08/22, 7:05 pm - +91 72045 68400: But it allows 25 gb download right ? In the free version?
+
+Please let me know how you downloaded the complete content?
+
+Thank you!!
+04/08/22, 7:12 pm - +91 72045 68400: This has only pdf content ? Please tell me where can I find the video content ?
+04/08/22, 7:18 pm - +91 79804 03343: Video content also available just opens those folders
+04/08/22, 7:20 pm - +91 84471 26906: Downloading stopped after 3 GB..it says you have exceeded limit..any work around?
+04/08/22, 7:22 pm - +91 90301 99939: Per day limit is there
+04/08/22, 7:22 pm - +91 90301 99939: U need to buy premium to download more GB per day
+04/08/22, 7:24 pm - +91 72045 68400: How much ?
+04/08/22, 7:24 pm - +91 90301 99939: <Media omitted>
+04/08/22, 7:24 pm - +91 72045 68400: If I download the applied ml folder - it should have everything, is it ?
+04/08/22, 7:28 pm - +91 79804 03343: Yes
+04/08/22, 7:35 pm - +91 79804 03343: Follow this 
+https://techrechard.com/how-to-download-mega-files-without-limits/
+04/08/22, 7:48 pm - +91 72045 68400: Okay - will try again. Thanks Aditya
+04/08/22, 7:49 pm - +91 79804 03343: Sure
+07/08/22, 10:07 pm - +91 74775 54227: Is there any openings for paid internships? The student is from IITK doing integrated mtech
+07/08/22, 10:54 pm - +91 97426 20541: Yes send me resume
+07/08/22, 11:14 pm - +91 74775 54227: Okay
+10/08/22, 11:39 am - +91 95637 63403 left
+10/08/22, 11:38 am - +91 96296 29614: This has been removed from mega 😒😳🤭
+10/08/22, 11:52 am - +91 79781 90340: 🤧🤧
+10/08/22, 11:52 am - +91 79781 90340: Mene to download v nahi kia tha online dekh raha tha
+10/08/22, 11:54 am - +91 79781 90340: Kisi ke pas hoga kya download wala
+10/08/22, 12:05 pm - +91 72045 68400: Yeah :(
+10/08/22, 12:05 pm - +91 72045 68400: If anyone has downloaded, can you please share ?
+10/08/22, 12:06 pm - +91 79781 90340: Yah that would be very helpful
+10/08/22, 12:07 pm - +91 79781 90340: I have downloaded mould 1 and 2 if anyone want can share 
+If anyone having mould 3 onwards please share
+10/08/22, 12:09 pm - +91 94529 09216: https://t.me/scalerdsml
+10/08/22, 12:28 pm - +91 79781 90340: Thanks bhai Isme applied AI ka nahi h kya
+10/08/22, 12:28 pm - +91 94529 09216: Us se badhiya h scaler ka content
+10/08/22, 12:29 pm - +91 94529 09216: Srikant sir bhi ab wahi milenge
+10/08/22, 12:32 pm - +91 79781 90340: Ok bhai thank you so much
+10/08/22, 12:46 pm - +91 99865 79062: Could you please share the link?
+10/08/22, 5:49 pm - +91 70185 10041: This message was deleted
+10/08/22, 5:49 pm - +91 70185 10041: Thank you so much bhai
+10/08/22, 10:01 pm - +91 73874 62880: 🙏🏻🙏🏻
+13/08/22, 6:40 am - +91 70411 20109: this is not working now
+13/08/22, 6:40 am - +91 70411 20109: neither this...
+13/08/22, 6:40 am - +91 70411 20109: any solution guys ?
+14/08/22, 9:16 pm - +91 79781 90340: Hi sharks
+Can someone refer me for data analyst position 
+Total Experience 4.5 years 
+Relevant experience 1 years
+15/08/22, 10:27 am - +91 91132 50844: Hi guys, I'm stuck in Naive Bayes assignment. Could anyone help me out please?
+15/08/22, 7:45 pm - +91 6239 825 232: Hi all, is there more scope for data analysts in digital marketing or banking ?
+15/08/22, 7:47 pm - +91 6239 825 232: I need help because based on this I’ll do a personal project to put in my resume. Thanks 🙏
+17/08/22, 9:15 am - +91 79999 36386: Hello guys I am looking for a job change, 
+here is my resume please help me with suggestions   if any change is required on my resume or if you come across any opportunities do let me know... Thanks
+17/08/22, 9:16 am - +91 79999 36386: <Media omitted>
+17/08/22, 9:17 am - +91 79999 36386: I am currently working as a Machine learning Engineer.
+And has experience of 1 year
+17/08/22, 12:35 pm - +91 96663 84352: Hi Bhupesh call me
+17/08/22, 12:39 pm - +91 84476 80837: Go for banking or investment banking.
+17/08/22, 12:50 pm - +91 79999 36386: Sure
+19/08/22, 11:34 am - +91 96663 84352: Hi All, we are looking for Sr. Tech lead in python. Let me know if anybody is interested.  Company is TCS
+19/08/22, 12:19 pm - +91 87956 67194: <Media omitted>
+19/08/22, 12:19 pm - +91 87956 67194: Hello All, 
+I am looking for job change in Analyst field. below is my resume please guide me with suggestions if  any openings or referral contacts you have.. Please let me know
+19/08/22, 1:07 pm - +91 93993 57902: Hey, there are openings in my company Cars24, will refer you
+19/08/22, 1:10 pm - +91 87956 67194: Thanks
+19/08/22, 1:14 pm - +91 82864 65014: Guys any openings in mumbai location. I'm too looking for a job change in the BI and data analyst field. Would be kind of you'll to refer. Thanks
+19/08/22, 1:15 pm - +91 82864 65014: <Media omitted>
+19/08/22, 2:49 pm - +91 93993 57902: https://t.me/experienced_data_science
+19/08/22, 2:50 pm - +91 93993 57902: https://t.me/datascience_jobs
+19/08/22, 2:50 pm - +91 93993 57902: Check out these channels for new openings in data science/ analytics
+19/08/22, 2:58 pm - +91 93993 57902: https://t.me/kdmdelhincr
+19/08/22, 6:05 pm - +91 87956 67194: @919399357902 thank for sharing these channel in this group
+19/08/22, 6:50 pm - +91 79781 90340: Thanks was searching for this type of group from a long time
+22/08/22, 12:12 am - +91 79942 38400 changed to +1 (347) 825-6167
+23/08/22, 4:59 pm - +91 88610 39201: My company... Tredence is looking for senior data scientist..  with good experience in ML algorithms and python coding and intermediate SQL.
+23/08/22, 4:59 pm - +91 88610 39201: Message me with Resume for referral
+23/08/22, 5:53 pm - +91 88605 95642: Location?
+23/08/22, 6:02 pm - +91 88610 39201: Bangalore, Delhi and chennai
+23/08/22, 6:08 pm - +91 88605 95642: Ok
+23/08/22, 6:33 pm - +91 99706 21081: Hey everyone
+Has anyone worked on Demand forecasting?
+Or have good resource on this.
+I wanted to add deep learning into time series.
+23/08/22, 7:11 pm - +91 96310 97922: You can refer to solutions for kaggle M5 time series competition.
+23/08/22, 7:14 pm - +91 99706 21081: Thanks 😊🙏
+24/08/22, 10:58 am - +91 97397 40442: This message was deleted
+24/08/22, 11:03 am - +91 97397 40442: <Media omitted>
+24/08/22, 1:26 pm - +91 78752 23747: <Media omitted>
+24/08/22, 7:52 pm - +91 97234 04351: Hi, Everyone,
+
+My company Qritrim.com is hiring the data science,  and data science intern, and you will work from office (Chandigarh).
+For any queries you can text me.
+
+For Position Requirements, skills and apply for the role visit the  website.
+https://www.qritrim.com/jobs/ai-ml-fresher/
+
+For other roles visit the link
+https://www.qritrim.com/careers/
+24/08/22, 8:30 pm - +91 6300 211 483: This message was deleted
+24/08/22, 8:30 pm - +91 6300 211 483: Hi...I know a MCA qualified fresher looking for Job opportunity and could you please let me know if there are any relevant openings in your radar?
+24/08/22, 10:06 pm - +91 90089 26457: Hi, if anyone is looking to get work done in Web Development or ML, please dm me for more information.
+
+Thank you
+24/08/22, 10:10 pm - +91 90089 26457: *excluding AAIC case studies
+30/08/22, 12:37 pm - +91 97234 04351: Anyone has idea about the seldon core or any good resource, please share with me.
+03/09/22, 11:00 am - +91 81051 51085 changed to +1 (857) 693-8542
+03/09/22, 4:21 pm - +1 (857) 693-8542 changed to +91 81051 51085
+03/09/22, 6:24 pm - +91 81051 51085 changed to +1 (857) 693-8542
+08/09/22, 4:43 pm - +91 70111 22928: Hey guys, does anyone remembers that in which video Srikanth Sir talks about electronics & signal processing and its amalgamation with NLP, and how NLP is very much inspired by the Electronics & Communication field, in general..?
+08/09/22, 4:44 pm - +91 97426 20541: I think it was in time series video😅
+08/09/22, 4:50 pm - +91 87458 17320: Encoder decoder
+08/09/22, 8:11 pm - +91 86009 59889: do you have recording of lectures???
+08/09/22, 10:31 pm - +91 97234 04351: My company is hiring computer vision Engineer 
+
+https://www.linkedin.com/posts/sanchi-sindhani-a030a51a9_hiring-activity-6973627623469928448-A2_o?utm_source=share&utm_medium=member_android
+11/09/22, 2:58 am - +91 77528 51242: This message was deleted
+11/09/22, 2:59 am - +91 77528 51242: This message was deleted
+11/09/22, 2:59 am - +49 1525 7251066: 🙄
+11/09/22, 3:00 am - +49 1525 7251066: 😂
+19/09/22, 5:29 am - +91 94834 70099 joined using this group's invite link
+19/09/22, 6:55 am - +91 90134 86609 left
+21/09/22, 4:18 pm - +91 80500 70309 changed to +44 7466 715343
+25/09/22, 12:19 am - +91 88824 14871 joined using this group's invite link
+25/09/22, 4:34 pm - +91 98992 82163: Can someone suggest any approach to build "image forging detection model" ????
+25/09/22, 5:19 pm - +91 99494 47772: U can check the segmentation assignment reference for that u have. It
+26/09/22, 9:57 am - +91 93993 57902: This message was deleted
+01/10/22, 10:32 am - +91 72106 88224: did anyone do project 50 : Forecasting sales using the store, promotion and competitor data from last batch
+01/10/22, 11:31 am - +91 95951 32437: mmm u r talking about ri8 ?
+01/10/22, 12:13 pm - +91 70185 10041: Hi does anyone has all the projects
+01/10/22, 7:21 pm - +91 82373 61157: Hello Guys,
+
+Can anyone suggest some good course for system design and data structure
+01/10/22, 8:08 pm - +91 86009 59889: Gaurav Sen ..youtube
+01/10/22, 8:33 pm - +91 82373 61157: Thank you
+01/10/22, 10:34 pm - +91 88824 14871: <Media omitted>
+01/10/22, 10:34 pm - +91 88824 14871: <Media omitted>
+04/10/22, 3:39 pm - +91 81938 46537: Can anyone please send me the pdf syllabus document of applied ai
+08/10/22, 10:51 am - +91 80741 91867: https://www.linkedin.com/posts/akhil-vydyula-35733a19b_ai-share-projects-activity-6984193996034097152-PCba?utm_source=share&utm_medium=member_android
+10/10/22, 11:59 am - +91 97426 20541: My company is looking for a senior data scientist with nlp experience who can lead a team
+Do let me know if you know anyone who's interested

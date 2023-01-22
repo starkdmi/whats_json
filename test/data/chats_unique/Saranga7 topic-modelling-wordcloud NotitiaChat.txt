@@ -1,0 +1,2449 @@
+5/24/20, 11:02 - Messages to this group are now secured with end-to-end encryption. Tap for more info.
+5/24/20, 11:02 - AI Derek created group "Notitia AI"
+5/24/20, 11:02 - AI Derek added you
+5/24/20, 11:02 - AI Derek: Good morning guys and I’m happy to have you here
+5/24/20, 11:03 - AI Derek: So today we gonna have our webinar on data science
+5/24/20, 11:03 - AI Derek: And so that means soon we should be launching our platform as well
+5/24/20, 11:05 - AI Derek: By way of roles and responsibilities 
+
+Myself, Derek is Cofounder and CEO, Data scientist 
+
+@233249435529 is the software developer 
+
+@233247936396 is the creative lead and social media manager, software development too
+
+@233554349393 is the product manager 
+
+@233504782862 this young lad is joining us as the Machine Learning Engineer.
+5/24/20, 11:05 - AI Derek: Gentlemen I welcome you all
+5/24/20, 11:06 - AI Derek: Let’s feel free to interact and share with others how we should be going with stuff
+5/24/20, 11:10 - Norbert Notitia: Thanks for the opportunity once again. Can't wait to join in
+5/24/20, 11:12 - AI Derek: Great
+5/24/20, 11:13 - AI Derek: Also please do well to send us a portrait of yourself so @233247936396 can use it to design something great as we introduce the team behind Notitia to the world
+5/24/20, 11:13 - AI Derek: Also add a small bio of yourself and your role at Notitia
+5/24/20, 11:14 - Norbert Notitia: <Media omitted>
+5/24/20, 11:14 - AI Derek: Your social media details too
+@233249435529 will need it to add to your profile 
+
+So 
+LinkedIn 
+Twitter 
+Facebook 
+Email
+5/24/20, 11:15 - AI Derek: For the email address we all gonna use notitia 
+So currently I’m using derek@notitia.site
+5/24/20, 11:15 - AI Derek: 🔥
+5/24/20, 14:26 - AI Derek: We’ve few minutes to start
+5/24/20, 14:26 - AI Derek: <Media omitted>
+5/24/20, 14:27 - Norbert Notitia: Sharp👌🏽
+5/24/20, 14:36 - AI Derek: <Media omitted>
+5/24/20, 14:36 - AI Derek: <Media omitted>
+5/24/20, 14:41 - Ḅj: 🤯
+5/24/20, 15:02 - AI Derek: We start
+5/24/20, 15:02 - AI Derek: Hope we all now
+5/24/20, 19:02 - AI Derek: Paul Azunre is on now
+5/24/20, 19:02 - AI Derek: He’s speaking next
+5/24/20, 19:02 - AI Derek: Let’s hype it
+5/24/20, 19:02 - Ḅj: alright
+5/24/20, 19:40 - AI Derek: @233504782862 please record
+5/24/20, 19:40 - Ḅj: alright
+5/24/20, 19:40 - AI Derek: Gimme hosting right too
+5/24/20, 19:43 - Ḅj: Done
+5/24/20, 19:45 - AI Derek: Sure
+5/24/20, 19:46 - AI Derek: @233247936396 are you able to take pictures too
+5/24/20, 19:47 - Sadat Notitia: No. I'm moving now so I can't do that at the moment
+5/24/20, 19:47 - AI Derek: We need to to design thank you flyer  with some pics
+5/24/20, 19:47 - AI Derek: Sure
+5/24/20, 19:47 - AI Derek: I’ve some
+5/24/20, 19:47 - AI Derek: So we can use
+5/24/20, 20:00 - Sadat Notitia: Sharp
+5/24/20, 21:57 - AI Derek: <Media omitted>
+5/24/20, 21:57 - AI Derek: <Media omitted>
+5/24/20, 21:57 - AI Derek: <Media omitted>
+5/24/20, 21:57 - AI Derek: <Media omitted>
+5/24/20, 21:57 - AI Derek: <Media omitted>
+5/24/20, 21:57 - AI Derek: <Media omitted>
+5/24/20, 21:57 - AI Derek: <Media omitted>
+5/24/20, 21:57 - AI Derek: <Media omitted>
+5/24/20, 21:57 - AI Derek: <Media omitted>
+5/24/20, 21:57 - AI Derek: <Media omitted>
+5/24/20, 21:57 - AI Derek: <Media omitted>
+5/24/20, 21:57 - AI Derek: <Media omitted>
+5/24/20, 21:57 - AI Derek: <Media omitted>
+5/24/20, 22:10 - Sadat Notitia: Sharp
+5/24/20, 22:13 - Norbert Notitia: Great Job. Big ups to Derrick for pulling this up. Great Great. Traction was great
+5/24/20, 22:13 - Ḅj: exactly
+5/24/20, 22:15 - AI Derek: 🔥🙌🏿
+5/24/20, 23:54 - Alex Notitia: Fantastic.
+5/24/20, 23:59 - AI Derek: @233247936396 send me ur email address please
+5/25/20, 00:01 - Sadat Notitia: ssaeed581@gmail.com
+5/25/20, 00:04 - AI Derek: Ah send you the certificate sample
+5/25/20, 00:05 - Sadat Notitia: Okay boss
+5/25/20, 00:05 - AI Derek: Take design make we take do give them
+5/25/20, 00:06 - Sadat Notitia: Sure
+5/25/20, 07:43 - Norbert Notitia: @233243319300 can you put the next steps here, what to expect and how we can all get to work.
+5/25/20, 07:43 - Norbert Notitia: Thanks
+5/25/20, 07:44 - AI Derek: Sure sure
+5/25/20, 07:44 - AI Derek: @233249435529 will give us state of the platform
+5/25/20, 07:45 - AI Derek: @233247936396 will work on the thank you flyer for the webinar 
+And also design the certificate of participation too
+5/25/20, 07:45 - AI Derek: Myself and @233504782862 will start working on some models to be integrated
+5/25/20, 07:45 - Norbert Notitia: Great.
+5/25/20, 07:46 - Norbert Notitia: Perfect
+5/25/20, 07:46 - Norbert Notitia: Great. Are there timelines
+5/25/20, 07:46 - Alex Notitia: Great.
+5/25/20, 07:46 - AI Derek: @233554349393 our reach has to be expanded still so we need to be talking to people about it 
+
+
+What do you suggest we keep doing 
+Social media?
+5/25/20, 07:47 - AI Derek: @233247936396 should be done with thank you flyer before close of today 
+
+And the certificate too
+5/25/20, 07:47 - Norbert Notitia: Let's get more  content out there. On data science. Latest trend news etc. Locally and globally.
+5/25/20, 07:47 - Norbert Notitia: Post opportunities
+5/25/20, 07:47 - AI Derek: Myself and @233504782862 will have up to Wednesday to get our work together
+5/25/20, 07:48 - AI Derek: Great
+5/25/20, 07:48 - Norbert Notitia: Can we schedule a call to plan this further. I can help with a content strategy then the person doing social media will populate it
+5/25/20, 07:49 - Norbert Notitia: So we know what we're posting at each point in time.
+5/25/20, 07:49 - AI Derek: @233247936396
+5/25/20, 07:49 - AI Derek: He will get in touch
+5/25/20, 07:49 - AI Derek: True
+5/25/20, 07:49 - Norbert Notitia: We could do some live Twitter chats as well.
+5/25/20, 07:49 - Norbert Notitia: I'll be waiting my boss
+5/25/20, 07:49 - AI Derek: Sure
+5/25/20, 07:50 - AI Derek: So If everything go as planned notitia should be live by 15th June
+5/25/20, 07:50 - AI Derek: And we will have a webinar on 14th June to introduce it
+5/25/20, 07:51 - Norbert Notitia: There should be a hype prior to the launch.
+5/25/20, 07:51 - Norbert Notitia: And what should happen before and after the launch.
+5/25/20, 07:51 - AI Derek: Anyone here good with visuals and animations stuff ?
+5/25/20, 07:51 - AI Derek: Yes yes
+5/25/20, 07:51 - AI Derek: True
+5/25/20, 07:51 - AI Derek: So we need to start thinking about it
+5/25/20, 07:51 - AI Derek: Every idea is welcome
+5/25/20, 07:52 - AI Derek: But this time it should be a better and better version of yesterday webinar
+5/25/20, 07:52 - AI Derek: Yesterday was great but we can do more than that
+5/25/20, 07:52 - Norbert Notitia: @233243319300 can we have a call within the week on zoom so we can all put things together quickly
+5/25/20, 07:53 - Alex Notitia: We're mostly done with the frontend.
+Majority of the work left has to do with the user dashboard.
+I've successfully implemented the following features.
+
+1.User login.
+2.User logout.
+3.User registration.
+4.User access to profile
+5.User profile modification.
+And many other features.
+
+Am currently improving the CV builder.
+5/25/20, 07:53 - AI Derek: Yes 
+We can do Thursday
+5/25/20, 07:54 - AI Derek: Great
+5/25/20, 07:54 - AI Derek: How is the profile created
+5/25/20, 07:54 - AI Derek: And the CV too
+5/25/20, 07:54 - Norbert Notitia: Perfect. Great progress out there great job boss.
+5/25/20, 07:55 - Alex Notitia: Well, it's based on the data you provide during the registration process.
+5/25/20, 07:55 - Alex Notitia: Other features would be added.
+5/25/20, 07:55 - Norbert Notitia: Impressive. Do we have anything close to this locally
+5/25/20, 07:56 - Norbert Notitia: Can you please set it up
+5/25/20, 07:56 - AI Derek: No
+5/25/20, 07:56 - Norbert Notitia: We can do 7
+5/25/20, 07:56 - AI Derek: None I know of
+5/25/20, 07:56 - Norbert Notitia: Then we're positioned
+5/25/20, 07:56 - AI Derek: That’s why it’s AI powered 
+It learns from the data provided
+5/25/20, 07:57 - AI Derek: One other thing myself and @233504782862 are gonna put together is the recommender system
+5/25/20, 07:58 - AI Derek: That will give idea on what next to do after our model analyse your CV and profile
+5/25/20, 07:58 - AI Derek: It will recommend courses or a particular type of mentor for you
+5/25/20, 07:58 - AI Derek: @233249435529 can we also integrate something like a dashboard for companies to post job opportunities?
+5/25/20, 07:59 - AI Derek: Or we should be posting them
+5/25/20, 08:01 - Norbert Notitia: This is very very impressive. Can't wait. So when we meet on Thursday we'll design the launch strategy
+5/25/20, 08:01 - Norbert Notitia: David who does graphics
+5/25/20, 08:02 - AI Derek: Great
+5/25/20, 08:02 - AI Derek: @233247936396
+5/25/20, 08:03 - AI Derek: Also send your preferred email address to @233249435529 so he can use notitia to create for you
+5/25/20, 08:03 - Norbert Notitia: norbert@notitia.ai
+5/25/20, 08:03 - AI Derek: @233249435529 please send me the info@notitia.site email logins too
+5/25/20, 08:04 - Norbert Notitia: Hi Boss. Can we link up
+5/25/20, 08:04 - AI Derek: Sure
+5/25/20, 08:04 - AI Derek: Sure say he bed
+
+He be chief PizzaMan
+5/25/20, 08:05 - Norbert Notitia: 😅
+5/25/20, 08:06 - AI Derek: I think Femi should be on our next webinar
+5/25/20, 08:06 - AI Derek: Cos we need MEST
+5/25/20, 08:06 - Norbert Notitia: Most def
+5/25/20, 08:07 - AI Derek: Sharp
+5/25/20, 08:07 - Norbert Notitia: MEST will be a partner
+5/25/20, 08:07 - Norbert Notitia: GTL will be a partner
+5/25/20, 08:07 - AI Derek: Perfect
+5/25/20, 08:07 - AI Derek: Sure
+5/25/20, 08:07 - Norbert Notitia: Derek we could Also work on some internships opps as well after the take off
+5/25/20, 08:07 - AI Derek: Can we get Accra Digital center CEO
+5/25/20, 08:08 - AI Derek: Kofi is my friend 
+
+I’ll tell him about it to see
+5/25/20, 08:08 - Norbert Notitia: That will be cool.
+5/25/20, 08:08 - AI Derek: Oh yes 
+Most definitely 
+Kinda Residency
+5/25/20, 08:09 - Norbert Notitia: Yes.
+5/25/20, 08:09 - Norbert Notitia: So we're doing something with SG Bank I'll work on bringing them on board
+5/25/20, 08:12 - AI Derek: Nice one
+5/25/20, 08:12 - Norbert Notitia: 👌🏽👌🏽
+5/25/20, 08:39 - Alex Notitia: Sure. I would make everyones email and password available tomorrow.
+5/25/20, 08:39 - Alex Notitia: Great.
+5/25/20, 08:39 - Norbert Notitia: Perfect
+5/25/20, 08:39 - Alex Notitia: Even better.
+5/25/20, 08:40 - Norbert Notitia: Lol
+5/25/20, 09:17 - AI Derek: @jerry check this out 
+
+https://www.quora.com/q/abcofdatascienceandml/How-can-ML-and-AI-help-mobile-app-development?ch=3&share=3f8bce26&srid=2lAzD
+5/25/20, 10:36 - Sadat Notitia: Oh boss
+5/25/20, 10:48 - Ḅj: Alright
+5/25/20, 10:57 - AI Derek: 😀
+5/25/20, 11:00 - Ḅj: Very powerf kit by Huawei. I'll look into the usage and integration
+5/25/20, 11:01 - AI Derek: Sure
+5/25/20, 11:01 - AI Derek: <Media omitted>
+5/25/20, 11:03 - Ḅj: Awesome
+5/25/20, 11:03 - Ḅj: 🔥
+5/25/20, 11:18 - AI Derek: 🙌🏿🙌🏿
+5/25/20, 19:06 - AI Derek: @233247936396 is the thank you flyer ready ?
+5/25/20, 20:04 - Sadat Notitia: I would send it soon please
+5/25/20, 20:11 - AI Derek: Sure
+5/25/20, 20:11 - AI Derek: Do add some of the pics on it
+5/25/20, 20:33 - Sadat Notitia: Sure
+5/26/20, 01:38 - Alex Notitia: norbert@notitia.site  secret22&&
+
+sadat@notitia.site  secret22&&
+
+jerry@notitia.site secret22&&
+
+info@notitia.site secret22&&
+
+Login Url
+
+https://bit.ly/2X32T7O
+5/26/20, 01:40 - Alex Notitia: Hello everyone these are your various emails and passwords. You can request for any modification.
+5/26/20, 01:40 - Sadat Notitia: Thanks
+5/26/20, 01:41 - Alex Notitia: Sure.
+5/26/20, 01:41 - Ḅj: thanks
+5/26/20, 01:41 - Alex Notitia: 👍🏿
+5/26/20, 05:16 - AI Derek: <Media omitted>
+5/26/20, 05:16 - AI Derek: <Media omitted>
+5/26/20, 10:37 - AI Derek: This message was deleted
+5/27/20, 08:14 - AI Derek: Good morning everyone
+5/27/20, 08:15 - AI Derek: This message was deleted
+5/27/20, 08:15 - AI Derek: Hope we all good
+5/27/20, 08:15 - AI Derek: @233249435529 anything new
+5/27/20, 08:15 - AI Derek: @233247936396 is the certificate design too ready
+5/27/20, 08:16 - AI Derek: @233504782862 we need to do something but my Mac is with repairs so let’s wait for tomorrow
+5/27/20, 08:16 - Ḅj: Good morning Derek
+5/27/20, 08:16 - Ḅj: Yes please.
+What about you?
+5/27/20, 08:17 - Ḅj: Alright, sure.
+5/27/20, 08:33 - Alex Notitia: Yeah. For now am using a basic user selected specialization to give them a randomly selected  mentor from their specialized field.
+5/27/20, 08:34 - AI Derek: How does it work
+5/27/20, 08:36 - Alex Notitia: The user is made to select a specialization e.g Data Science during the registration process.
+
+From that option, i randomly select a mentor from a list of mentors for Data Science for that user.
+5/27/20, 08:36 - AI Derek: <Media omitted>
+5/27/20, 08:36 - AI Derek: Great
+5/27/20, 08:39 - Norbert Notitia: <Media omitted>
+5/27/20, 08:39 - Alex Notitia: Aptitude tests would be great.
+We would add it later.
+For now i want the current system to be robust.
+5/27/20, 08:41 - AI Derek: Great
+5/27/20, 08:41 - Ḅj: Sure
+5/27/20, 08:41 - AI Derek: One mentor can take up to 3 mentees
+5/27/20, 08:41 - AI Derek: Maximum 4
+5/27/20, 08:42 - Norbert Notitia: <Media omitted>
+5/27/20, 08:42 - AI Derek: But for now depending on the number of mentors available
+5/27/20, 08:42 - AI Derek: Yes
+5/27/20, 08:42 - AI Derek: @233249435529 work on that one too
+5/27/20, 08:42 - AI Derek: Sure
+5/27/20, 08:42 - Norbert Notitia: Ohk cool.
+5/27/20, 08:43 - Norbert Notitia: But Notitia looks good already
+5/27/20, 08:43 - AI Derek: Most definitely
+5/27/20, 08:44 - AI Derek: Our first major pitch competition it should be a straight win
+5/27/20, 08:50 - Norbert Notitia: Yea. major win
+5/27/20, 09:09 - AI Derek: Sure
+5/27/20, 10:37 - Sadat Notitia: Yes it is
+5/27/20, 10:41 - AI Derek: Great
+5/27/20, 10:43 - AI Derek: @233249435529 please send the data on all those who registered so he can make certificate for them since my Mac isn’t available 
+
+@233504782862 you’ll help with putting names on the individual certificates please
+5/27/20, 10:53 - Ḅj: Sure
+5/27/20, 10:53 - Ḅj: I'm available
+5/27/20, 10:54 - Alex Notitia: Sure.
+5/27/20, 10:56 - Alex Notitia: <Media omitted>
+5/27/20, 11:27 - AI Derek: Bring the excel sheet too
+5/27/20, 12:50 - Alex Notitia: Sure
+5/27/20, 12:50 - Alex Notitia: <Media omitted>
+5/27/20, 13:15 - AI Derek: Great
+5/27/20, 13:15 - AI Derek: I’ll be sending you those who sent their names to me as well
+5/27/20, 14:37 - AI Derek: TAGCROWD. 
+
+What is it? 
+
+A word cloud program that visualizes text based on the FREQUENCY of words used. 
+
+It’s the closest we can get to keywording in order to pass ATS. 
+
+How? 
+
+1. Save your ATS compliant resume as Master Resume.
+2. Copy/paste into tagcrowd field and press VISUALIZE.
+3. Take screenshot of Master Resume tagcrowd and save to Desktop. 
+
+Then for ALL future job applications: 
+
+1. Copy/paste full job description into tagcrowd field and press VISUALIZE.
+2. Compare JD visualization to Desktop saved visualization of Master Resume and tweak by add or removing words accordingly. 
+3. Send tweaked resume for that specific role. 
+
+Remember: tagcrowd is based on FREQUENCY so some common sense is needed. 
+
+You don’t need several resumes! 
+You just need one that is very heavily focused on Core Competencies and Achievements plus.....
+
+
+TAGCROWD! 
+
+Link to the program in the comments below, and it’s FREE! 
+
+I have never shared this tip on LinkedIn 
+before, only with clients. 
+So use it and share it please. 
+
+Together we can beat ATS! 
+
+*ATS= Applicant Tracking System
+5/27/20, 14:37 - AI Derek: @233504782862 @233249435529 check this out
+5/27/20, 14:42 - Ḅj: wow
+5/27/20, 14:45 - AI Derek: Checkout jobscan too
+https://www.jobscan.co/blog/7-reasons-jobscan-is-more-effective-than-word-cloud-tools/
+5/27/20, 19:02 - Alex Notitia: Good Evening everyone.
+Did anyone record the Webinar ?.
+5/27/20, 19:03 - Ḅj: I recorded the last session with Dr Ansah
+5/27/20, 19:04 - Ḅj: https://drive.google.com/open?id=1GFmm6wWGJdjmgw0t9NVxpL4SjldSgGHB
+5/27/20, 19:04 - Alex Notitia: Cul.
+5/27/20, 19:05 - Alex Notitia: Is it very big in terms of size ?.
+5/27/20, 19:05 - Ḅj: About 62mb
+5/27/20, 19:11 - Alex Notitia: Cul. Can you please zip and mail it to @ edze.worla@gmail.com.
+5/27/20, 19:13 - Ḅj: sure
+5/27/20, 19:13 - Alex Notitia: Thanks
+5/27/20, 19:16 - Ḅj: too large to send. limit is 33mb
+5/27/20, 19:17 - Ḅj: lemme zip
+5/27/20, 19:17 - Alex Notitia: Kindly WhatsApp it to me.
+5/27/20, 19:25 - Ḅj: sending
+5/27/20, 19:25 - Alex Notitia: Nice
+5/28/20, 04:38 - Alex Notitia: Hello guys, hope everyone is doing well. I won't be able to partake in your meeting today.
+i would be very greatfull if the meeting is rescheduled to tomorrow    29/05/2020 4:00pm.
+5/28/20, 06:53 - AI Derek: Oh okay
+5/28/20, 06:53 - AI Derek: Good morning
+5/28/20, 06:54 - AI Derek: Let’s see if we can do this
+5/28/20, 07:04 - AI Derek: For the meantime 
+We’ve started working towards our webinar on the 14th June 
+
+These speakers are likely to be on:
+1. AI Kenya CEO
+
+2. Data science Nigeria CEO
+
+3. AI Expo Africa  leader 
+
+4. Any Kaggle Grandmaster 
+
+5. Femi from MEST
+
+6. Zindi Africa CEO
+
+7. Top ranked data scientist on Zindi
+
+8. Accra Digital centre.
+
+
+I’m in touch with the first 7.
+
+@233554349393 you need to work on the 8th person from ADC.
+
+Also, we need to write specific emails to them.
+So we need to get a letterhead and @233247936396 will work on one for us
+5/28/20, 07:09 - Norbert Notitia: @233243319300 I'll get in touch with you on that.
+5/28/20, 07:10 - AI Derek: Sure sure
+5/28/20, 09:16 - AI Derek: https://www.linkedin.com/posts/notitia-ai_notitia-activity-6671700328091566080-VeTa
+5/28/20, 12:29 - Sadat Notitia: Sure
+5/28/20, 20:36 - Norbert Notitia: Hello
+5/28/20, 20:37 - Ḅj: hello Norbert
+5/28/20, 20:37 - Norbert Notitia: How are you boss
+5/28/20, 20:38 - Ḅj: very fine sir
+5/28/20, 20:38 - Ḅj: you?
+5/28/20, 21:41 - Norbert Notitia: Doing great.
+5/28/20, 21:41 - Norbert Notitia: What's the latest at your end
+5/28/20, 21:43 - Ḅj: Nothing much
+5/28/20, 21:43 - Ḅj: Just occupied with some school assignments
+5/28/20, 21:43 - Ḅj: What about you?
+5/28/20, 23:19 - Norbert Notitia: Just work as usual
+5/28/20, 23:45 - Ḅj: great
+5/29/20, 01:23 - AI Derek: My phone was off 
+
+Light out 
+
+Just had light
+5/29/20, 17:07 - AI Derek: Good evening everyone
+5/29/20, 17:07 - AI Derek: I think for availability sake let’s move the meeting to Sunday at 7pm
+5/29/20, 17:07 - AI Derek: Thank you
+5/29/20, 17:08 - AI Derek: @233247936396 please do drop the certificate in my mail
+5/29/20, 17:08 - Ḅj: Good evening Derek
+5/29/20, 17:08 - Ḅj: sure
+5/29/20, 17:08 - AI Derek: The one we can edit and put names on it 
+By Monday we can send to the participants
+5/29/20, 17:09 - AI Derek: Also the letterhead 
+
+Need to send invitation letters to the speakers for the next webinar
+5/29/20, 17:09 - AI Derek: @233554349393 we need to do podcast.
+Let’s find time next week to work on it
+5/29/20, 17:09 - AI Derek: @233249435529 will make the platform available so we can all test it
+5/29/20, 17:10 - Ḅj: Great
+5/29/20, 17:10 - AI Derek: Boot camps, data science programs, and online courses tend to focus on training algorithms (which is great!) but they rarely discuss deploying models. Below is a series of 8 articles about ML deployment in production - my reading list for June!
+
+Why it matters: We are moving to a place where doing machine learning means also being able to deploy models into production. This is a lengthy process with lots of pitfalls.
+
+What you'll learn: You won't become an ML engineer just by reading articles but this will help you identify potential weaknesses or gaps you need to address if that's your desired path.
+
+1. What does "deploy" mean? https://lnkd.in/dU8RN8K
+2. Software interfaces: https://lnkd.in/dFmRwkg
+3. Batch inference: https://lnkd.in/dEWyBFD
+4. Online inference: https://lnkd.in/dUXCKw7
+5. Online inference 2: https://lnkd.in/duT_E6h
+6. Model registries: https://lnkd.in/dCcM3-f
+7. Test driven ML development: https://lnkd.in/dGyUAPR
+8. A/B testing ML models: https://lnkd.in/d4m6EVP
+
+Check out the main site ML in production: https://lnkd.in/dqnex8Q
+5/29/20, 17:10 - AI Derek: @233504782862 this is for you
+5/29/20, 17:10 - Ḅj: awesome
+5/29/20, 17:12 - AI Derek: Sure
+5/29/20, 17:22 - Alex Notitia: Great.
+5/29/20, 17:23 - Alex Notitia: Sorry we couldn't make the meeting happen today.
+Let's do that on Sunday.
+I would also make the platform available for testing after the meeting.
+5/29/20, 17:23 - Ḅj: sure
+5/29/20, 21:54 - Norbert Notitia: Cool works for me
+5/29/20, 21:55 - Norbert Notitia: Sure boss. When can we brainstorm on it
+5/29/20, 22:03 - AI Derek: Let’s put all on the Sunday meeting
+5/29/20, 22:12 - Norbert Notitia: Works for me
+5/29/20, 22:14 - AI Derek: Sure
+5/31/20, 18:34 - Alex Notitia: Hello, Good Evening guys.
+5/31/20, 18:34 - Ḅj: hello Alex
+5/31/20, 18:35 - Alex Notitia: We're having the meeting @ 7:00 pm right ?.
+5/31/20, 18:35 - Alex Notitia: Is everyone on board.
+5/31/20, 18:36 - Ḅj: sure
+5/31/20, 18:45 - Alex Notitia: Worla Alex is inviting you to a scheduled Zoom meeting.
+
+Topic: Worla Alex's Zoom Meeting
+Time: May 31, 2020 07:00 PM Africa/Accra
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/87809644659?pwd=K0Q1UEFmRk0yTkVjMktORWVWUWZ4dz09
+
+Meeting ID: 878 0964 4659
+Password: 6w3JwW
+5/31/20, 18:45 - AI Derek: Nice one
+5/31/20, 19:02 - Alex Notitia: @233243319300 we're waiting for you to join the session.
+5/31/20, 19:03 - AI Derek: I just joined
+6/1/20, 10:56 - Ḅj: Hello guys
+6/1/20, 10:56 - Ḅj: Good morning
+6/1/20, 10:57 - Ḅj: <Media omitted>
+6/1/20, 10:57 - Ḅj: <Media omitted>
+6/1/20, 11:02 - AI Derek: @233554349393 @233247936396
+6/1/20, 15:42 - AI Derek: Check if we use this to set up mentee and mentor virtually on notitia 
+https://socrative.com/
+6/1/20, 15:45 - AI Derek: Check this too but I think Socrative is great 
+https://padlet.com/
+6/1/20, 15:48 - AI Derek: This is for videoing stuff 
+https://go.playposit.com/corporate
+6/2/20, 07:50 - AI Derek added Adwoa Notitia
+6/2/20, 07:48 - AI Derek: Good morning everyone
+6/2/20, 07:48 - AI Derek: Hope we good
+6/2/20, 07:49 - AI Derek: So @233554349393 I spoke to Adwoa and she accepted the role
+6/2/20, 07:49 - AI Derek: I am of the view that in order for people to succeed in this challenging environment, young people will have to cultivate and imbibe the habit of continuous learning in addition to identifying opportunities.
+
+I have the passion for learning different skills all the time and some how, these skills always contribute to my career journey. Now, I can confidently say I am VERSATILE and people agree with me. 
+
+I hold a Bsc. Agricultural Science degree, a postgraduate diploma in project management and I am currently in my final year MPhil Agricultural Extension. I have worked in the agricultural space for three years and i have gained valuable experience in the areas of entrepreneurship, project management and technology dissemination as a result. I have also worked as a Teaching Assistant where I gathered the skill of research and quick adaptability to changing processes and trends.
+
+Now I am happily a part of Notitia AI team with:
+
+1. A passion for collaborating with people to solve problems from my agricultural field experience. 
+
+2. The administration of training programs in AI for people using communication as a tool from my project management knowledge.
+
+3. The ability to learn and adapt to changing processes and trends in Technology from my research background.
+
+
+Superpower: Leadership and research 
+Favorite algorithm: K -nearest neighbors (KNN).
+#1 Favorite Book: Rich Dad Poor Dad by Robert Kiyosaki
+Motivated by: Improving smallholder farmers livelihoods through technology in Africa. 
+When not working you are: Creating a vlog of my day on social media, watching action series and eating all the food i can get lol.
+Favorite fictional character: Manisha Chetri in Strike Back
+6/2/20, 07:49 - AI Derek: This is her profile
+6/2/20, 07:50 - AI Derek: So @233249435529 we may all have to get you some profile so you update the site with it
+6/2/20, 07:50 - AI Derek: Lemme add her too
+6/2/20, 07:50 - AI Derek: Hello @233246521995
+6/2/20, 07:50 - AI Derek: You’re welcome
+6/2/20, 07:50 - AI Derek: Glad to have you join notitia
+6/2/20, 07:50 - AI Derek: So updates on our next webinar
+6/2/20, 07:51 - AI Derek: I just had emails from the speakers confirming participation
+6/2/20, 07:52 - AI Derek: Zindi africa 
+MEST Ghana 
+AI Expo Africa 
+AI Kenya 
+Chika. He’s the number one data scientist on zindi platform 
+
+
+These guys have all confirmed to speak 
+
+And like I said the last time some of them will be put on a panel discussion
+6/2/20, 07:53 - AI Derek: And also for the date they all confirmed to be available on Monday June 15th at 5pm to 8pm
+6/2/20, 07:53 - AI Derek: So that’s our new date for the webinar and launch of notitia
+6/2/20, 07:54 - AI Derek: @233554349393 @233247936396 let’s get some flyer designed on the proposed webinar so we can even start sharing this evening
+6/2/20, 07:54 - AI Derek: For the ideas please come up with your own 😀
+6/2/20, 07:54 - AI Derek: Thank you
+6/2/20, 07:57 - Adwoa Notitia: Hi
+6/2/20, 07:58 - Adwoa Notitia: Thank you 🙏🏾🙏🏾
+6/2/20, 08:00 - AI Derek: Sure
+6/2/20, 08:00 - AI Derek: And @233554349393 the ADC man too
+6/2/20, 08:01 - AI Derek: Get him to join us
+6/2/20, 10:23 - Alex Notitia: Great stuffs.
+6/2/20, 10:23 - Alex Notitia: Welcome to the team. @233246521995.
+6/2/20, 10:23 - Alex Notitia: @233243319300 ive been expecting the updates.
+6/2/20, 10:25 - Alex Notitia: The site would be available for pre-testing tomorrow. We can always add the updates later.
+6/2/20, 10:25 - AI Derek: Yh o
+
+Still not got my Mac back
+6/2/20, 10:25 - AI Derek: But will get it today so I can send them
+6/2/20, 10:26 - AI Derek: Cool
+6/2/20, 10:26 - Alex Notitia: Great.
+6/2/20, 10:51 - Adwoa Notitia: Thank you boss🙏🏾
+6/2/20, 12:55 - AI Derek: https://www.linkedin.com/posts/notitia-ai_deepmind-x-ucl-deep-learning-lecture-series-activity-6673567386253221888-2e_n
+6/2/20, 20:46 - Norbert Notitia: Nice nice
+6/2/20, 20:47 - Norbert Notitia: Welcome Adwoa
+6/3/20, 10:33 - Alex Notitia: Hello everyone.
+6/3/20, 10:33 - Norbert Notitia: Hi Chief
+6/3/20, 10:33 - Ḅj: Hello
+6/3/20, 10:33 - Adwoa Notitia: Thanks Norbert
+6/3/20, 10:34 - Adwoa Notitia: Hii
+6/3/20, 10:37 - Alex Notitia: Kindly note that the website is available for testing purposes. The only feature am yet to fix is the avatar upload. Kindly ignore that feature for now. Kindly report any issues you encounter collectively on Monday.
+6/3/20, 10:37 - AI Derek: Send link
+6/3/20, 10:38 - Adwoa Notitia: Please any links?
+6/3/20, 10:38 - Norbert Notitia: Are the web mails ready
+6/3/20, 10:39 - Alex Notitia: Yeah. You can use them. I posted everyone's own here some time ago.
+6/3/20, 10:40 - Alex Notitia: This is the link to our site.  https://notitia.site
+6/3/20, 10:40 - Adwoa Notitia: Many thanks🙏🏾
+6/3/20, 10:41 - Alex Notitia: The webmails
+6/3/20, 10:42 - Alex Notitia: Am yet to create one for you. I would work on it. When it's ready, i would inform you.
+6/3/20, 10:47 - AI Derek: Check become a mentor side
+6/3/20, 10:48 - AI Derek: It’s Become a hiring partner details there
+6/3/20, 10:50 - AI Derek: And our partners too
+
+The logos
+I said look for:
+
+Amalitech Training institute
+Blossom academy 
+Ghana Tech Lab 
+Accra digital centre 
+AI Kenya 
+Zindi africa 
+AI expo africa 
+Runmila AI institute
+Ethical AI club 
+MEST Africa 
+Data science Nigeria
+6/3/20, 10:57 - Adwoa Notitia: I find the home page too long with too many information dispaly.....i kept scrolling down🥺....(maybe its nothing though)😃
+6/3/20, 10:57 - AI Derek: @233249435529 the courses don’t need to be on the homepage
+6/3/20, 10:57 - Adwoa Notitia: The courses were plenty
+6/3/20, 10:58 - AI Derek: Mentees will get access to them only after signing up
+6/3/20, 10:58 - Adwoa Notitia: <Media omitted>
+6/3/20, 10:58 - Adwoa Notitia: Well done @233249435529
+6/3/20, 10:58 - AI Derek: The details are not even there 😀
+6/3/20, 10:58 - AI Derek: You think it’s easy
+6/3/20, 10:58 - Adwoa Notitia: Chaiii
+6/3/20, 10:58 - Adwoa Notitia: 😂😂😂
+6/3/20, 10:59 - AI Derek: This is Notitia 
+
+Ready for the world after this mentoring
+6/3/20, 10:59 - Adwoa Notitia: 🙌🏾🙌🏾🙌🏾🙌🏾🚀🚀🚀🚀
+6/3/20, 11:01 - Alex Notitia: Wow. I just followed through from the reference.
+6/3/20, 11:03 - AI Derek: When we meet tomorrow I’ll show you all so you do it wai
+6/3/20, 11:03 - Alex Notitia: Cul
+6/3/20, 11:03 - AI Derek: I’ve some additional stuff to give you
+6/3/20, 11:03 - Ḅj: @233249435529 please if it's a pwa why would you build android and ios apps again?
+6/3/20, 11:03 - AI Derek: @233504782862 I’ve not got my laptop yet o
+6/3/20, 11:03 - AI Derek: Let’s see today
+6/3/20, 11:04 - Ḅj: Oh okay
+6/3/20, 11:04 - Ḅj: Anytime
+6/3/20, 11:04 - AI Derek: That might even be in the future
+6/3/20, 11:05 - Ḅj: Sure
+6/3/20, 11:05 - Alex Notitia: @233243319300 suggested we added one.
+6/3/20, 11:05 - Ḅj: Alright
+6/3/20, 11:06 - Ḅj: The mobile UI at the coming soon banner isn't responsive
+6/3/20, 11:07 - Alex Notitia: Yeah.
+6/3/20, 11:10 - AI Derek: No it won’t be
+6/3/20, 11:10 - AI Derek: @233249435529 our social media handles should be active on the site 
+
+When you click on it should be taken you to the social media handle
+6/3/20, 11:11 - Alex Notitia: I think that, there would be a lot of issues. What we should do is that, everyone would make a list of their issues and possible suggestions if available. Preferably in a document. We can then submit and do re-editing of the site with the suggestions provided. Monday would be cul.
+6/3/20, 11:11 - Alex Notitia: Sure.
+6/3/20, 11:11 - Ḅj: Sure
+6/3/20, 11:12 - AI Derek: Through
+6/3/20, 11:12 - AI Derek: So let’s keep looking at all the functions and make recommendations
+6/3/20, 11:13 - AI Derek: @233249435529 I’ll be waiting for the google form too
+6/3/20, 11:13 - Ḅj: I'll run a security vulnerability scan on the site to make sure the database isn't prone to exploitation and SQL injection
+6/3/20, 11:13 - AI Derek: @233554349393 the design o
+
+@233247936396 dey write exams for now 
+So he make tight small
+6/3/20, 11:13 - Alex Notitia: Yeah. I would work on that right away.
+6/3/20, 11:14 - AI Derek: @233249435529 Norbert Role is Product Manager
+6/3/20, 11:14 - AI Derek: And then @233246521995’s own too 
+
+Including the profile
+6/3/20, 11:14 - AI Derek: For the profile we all need to work on ours ASAP
+6/3/20, 11:18 - Norbert Notitia: I'm working on it. Will share it shortly.
+6/3/20, 11:18 - Norbert Notitia: Send me the logo as well
+6/3/20, 11:19 - AI Derek: <Media omitted>
+6/3/20, 11:20 - Adwoa Notitia: 🙏🏾
+6/3/20, 11:45 - Norbert Notitia: 👌
+6/3/20, 11:46 - AI Derek: Derek k. Degbedzui 
+Cofounder and CEO 
+
+When I started in data science,  I had virtually no experience and I was stuck in a number of materials while studying for my master’s degree in Management Information Systems with no career prospects. 
+I struggled to break into the field for months and was just as frustrated as anybody else.
+With a lot of hard work, persistence, and experimentation, I was finally able to prove those people wrong, crack the code, and land my first job in the field.
+
+I developed my data science job search strategies over time and eventually became a known name in Data science in Ghana as one of the young people helping students particularly to find interest in Data science opportunities. Along the way mentored and guided hundreds of aspiring data scientists across all levels especially in our universities.
+
+Once I made the transition into data science, I knew I had to share my knowledge to help others start do the same and even do better . It became my mission to help others succeed where I struggled. I worked with number of students on campuses through Ethical AI club and it’s been fantastic.
+With both job seeker and hiring manager perspectives in mind, I worked tirelessly to distill my years of knowledge into the battle-tested Notitia intelligent platform . And since its inception in COVID-19 era in 2020, Notitia platform is positioned to helping aspiring data scientists from my homeland Ghana and the African continent at large to get jobs and develop faster on it.
+I believe that it shouldn't be so difficult for curious, hardworking, committed people like you to find a job that you love, and that's why I started Notitia Intelligent Mentoring Program- so that you don't have to go through months or years of heartache like I did or others so that you can have an exciting, fulfilling career and live the life you’ve been dreaming of.
+
+Data science Superpower: Actuarial studies, Strategic thinking, project management and commitment to implementing  ideas.
+Favorite Algorithm: Deep Q Reinforcement Learning: I believe that this algorithm has potential to help is leverage the the true machine learning concept.
+
+#1 Favorite Book: Better Angels of our Nature by Steven Pinker 
+
+Motivated By: Constant learning. I strive to be the best I possibly can be so I can make lasting, positive impacts in domains like softwares and Acturial studies 
+
+When not working you are: Reading, chatting and doing Disk Jockeying 
+Favorite Movie character: Jack Ryan from Tom Clancy’s books.
+6/3/20, 11:46 - AI Derek: @233249435529 this is my profile
+6/3/20, 11:46 - AI Derek: You can add it
+6/3/20, 11:47 - Alex Notitia: We would review that.
+6/3/20, 11:50 - Adwoa Notitia: Should i send mine too @233243319300
+6/3/20, 11:50 - AI Derek: You already did
+6/3/20, 11:50 - AI Derek: Okay send here
+6/3/20, 11:50 - Adwoa Notitia: Ok
+6/3/20, 11:51 - Adwoa Notitia: Chaiii🥺🤕🤒😷
+6/3/20, 11:51 - Adwoa Notitia: Where is my eye mask
+6/3/20, 11:51 - Adwoa Notitia: Ok
+6/3/20, 11:51 - AI Derek: Eeii
+6/3/20, 11:52 - Ḅj: Alright
+6/3/20, 11:52 - Alex Notitia: I've disabled that for now.
+6/3/20, 11:52 - Adwoa Notitia: I am of the view that in order for people to succeed in this challenging environment, young people will have to cultivate and imbibe the habit of continuous learning in addition to identifying opportunities.
+
+I have the passion for learning different skills all the time and some how, these skills always contribute to my career journey. Now, I can confidently say I am VERSATILE and people agree with me. 
+
+I hold a Bsc. Agricultural Science degree, a postgraduate diploma in project management and I am currently in my final year MPhil Agricultural Extension. I have worked in the agricultural space for three years and i have gained valuable experience in the areas of entrepreneurship, project management and technology dissemination as a result. I have also worked as a Teaching Assistant where I gathered the skill of research and quick adaptability to changing processes and trends.
+
+Now I am happily a part of Notitia AI team with:
+
+1. A passion for collaborating with people to solve problems from my agricultural field experience. 
+
+2. The administration of training programs in AI for people using communication as a tool from my project management knowledge.
+
+3. The ability to learn and adapt to changing processes and trends in Technology from my research background.
+
+
+Superpower: Leadership and research 
+Favorite algorithm: K -nearest neighbors (KNN).
+#1 Favorite Book: Rich Dad Poor Dad by Robert Kiyosaki
+Motivated by: Improving smallholder farmers livelihoods through technology in Africa. 
+When not working you are: Creating a vlog of my day on social media, watching action series and eating all the food i can get lol.
+Favorite fictional character: Manisha Chetri in Strike Back
+6/3/20, 11:53 - Alex Notitia: Great.
+6/3/20, 11:53 - AI Derek: Cool
+6/3/20, 11:54 - Alex Notitia: Everyone should work on their own  so i can collectively update that section.
+6/3/20, 11:55 - Ḅj: Sure
+6/3/20, 11:56 - AI Derek: Yes
+6/3/20, 11:57 - AI Derek: And then please do send him your handles on Facebook, Twitter and LinkedIn too
+6/3/20, 11:57 - Alex Notitia: You would have to help me with this one oh.
+6/3/20, 11:58 - AI Derek: I’ll send you their logos
+6/3/20, 11:58 - Alex Notitia: Thanks.
+6/3/20, 11:58 - Adwoa Notitia: Ok sure.
+
+Can we send it here so we can have others handle too?🥴
+6/3/20, 11:59 - AI Derek: Yh sure
+6/3/20, 11:59 - Adwoa Notitia: 🙌🏾
+6/3/20, 11:59 - AI Derek: Just copy the url or the user name
+6/3/20, 11:59 - Adwoa Notitia: Ok
+6/3/20, 12:00 - AI Derek: Facebook: Derek Kweku 
+
+Twitter: @K.D Derek1
+
+LinkedIn: Derek K Degbedzui
+6/3/20, 12:15 - AI Derek: Hey Everyboy 👋
+
+
+We are thrilled to invite you with our partners (AI Kenya, Zindi Africa, AI Expo Africa) to our collaborative workshop. During this event, we will explore the best ways to build right ecosystem to support Data science mentoring and job opportunities in Africa. 
+
+We bring our new intelligent mentoring platform through Notitia AI , so you can begin your Data science job mentoring process.
+
+Join us on Monday , June 15th at 5pm GMT. This event is open to all aspiring Data professionals and will allow maximum interaction.
+
+Theme: Building the right ecosystem to support Data science mentoring and job opportunities in Africa
+
+— Why should you wisely build your specifications skills prior to seeking Data science job opportunities 
+— Deep dive in the most important courses on the Notitia intelligent platform 
+— Where to start?
+— Exploring best practices through use case(s)
+— Open discussion and panel discussion 
+ 
+We are looking forward to seeing you next June 15th at 5pm GMT! 
+
+Register here: https://docs.google.com/forms/d/162IYWXQlrBEgs82NlrUaUnxPPppHCvsusH4tJf0EOmc
+
+Best regards,
+
+Notitia AI Team
+6/3/20, 12:15 - AI Derek: So let’s check it out
+6/3/20, 12:15 - AI Derek: @233246521995 you’ll handling future ones
+6/3/20, 12:16 - Adwoa Notitia: Ok sure
+6/3/20, 12:16 - AI Derek: @233554349393 to add the flyer so it goes out
+6/3/20, 12:20 - Alex Notitia: Nice stuffs.
+6/3/20, 12:22 - AI Derek: Sure
+6/3/20, 13:40 - Adwoa Notitia changed this group's icon
+6/3/20, 23:44 - AI Derek: <Media omitted>
+6/3/20, 23:44 - AI Derek: So we are adding this
+6/3/20, 23:44 - AI Derek: At 12am we can share to our networks
+6/3/20, 23:44 - AI Derek: Thank you
+6/3/20, 23:45 - Ḅj: Great
+6/3/20, 23:45 - AI Derek: <Media omitted>
+6/3/20, 23:46 - AI Derek: Just in case Mac is messing
+6/3/20, 23:46 - AI Derek: I got tired
+6/3/20, 23:46 - Ḅj: Cool
+6/5/20, 11:06 - Norbert Notitia: Hi who has Handle to our IG account
+6/5/20, 11:35 - AI Derek: No we don’t have one yet
+6/5/20, 12:07 - Norbert Notitia: Can we create one.
+6/5/20, 12:42 - AI Derek: Yh
+6/5/20, 16:05 - Adwoa Notitia: Facebook: @adwoa farmer
+
+Instagram: @adwoa_farmer
+
+LinkedIn: http://linkedin.com/in/ernestina-asiamah-agyei-0b0777122
+
+Twitter: adwoa_farmer
+6/5/20, 16:08 - AI Derek: @233249435529
+6/5/20, 16:09 - Alex Notitia: Yea. well noted
+6/5/20, 16:45 - Alex Notitia: Hello, team. You  can submit your issues and possible solutions here. 
+You can also register and login to the dashboard. 
+
+@Jerry & @Samuel 
+Please kindly provide me with following.
+
+Profile picture :
+Social Media handles :
+6/5/20, 16:46 - Alex Notitia: with following => with the following
+6/5/20, 16:50 - AI Derek: @233504782862 @233247936396
+6/5/20, 17:20 - Sadat Notitia: Sure
+6/5/20, 23:52 - AI Derek: https://docs.google.com/forms/d/162IYWXQlrBEgs82NlrUaUnxPPppHCvsusH4tJf0EOmc
+
+
+Keep registering for our webinar on Monday June 15th at 5pm GMT in Ghana.
+Join us launch Notitia AI with our partners in the future of Data science jobs in Africa.
+
+Stay tune for more updates!!
+
+Follow on social media networks.
+
+@Notitia AI on:
+Facebook 
+Twitter 
+LinkedIn
+6/5/20, 23:52 - AI Derek: <Media omitted>
+6/5/20, 23:52 - AI Derek: We can share this at 12am
+6/5/20, 23:52 - Alex Notitia: Great.
+6/7/20, 20:02 - Alex Notitia: Good evening team.
+Am putting the site under maintenance to work on payment intergration.
+If you're unable to access the site,  it's because of this reason.
+The site would not be available until Wednesday 10th June 2020.
+Am also fixing some of the issues reported so far.
+1. Social Media Links not working.
+2. Team page redesign with every team members information
+3. Unresponsive section
+And many others.
+6/7/20, 20:03 - Ḅj: Awesome
+6/7/20, 20:03 - Adwoa Notitia: Ok thanks
+6/7/20, 20:09 - AI Derek: ive sent the mail
+6/7/20, 20:09 - AI Derek: adwoa I’m sending yours
+6/7/20, 20:09 - Ḅj: Okay
+6/7/20, 20:10 - Adwoa Notitia: Ok
+6/7/20, 20:15 - Ḅj: Derek you didn't send the sample certificate just  the data
+6/7/20, 20:17 - AI Derek: sorry
+6/7/20, 20:17 - AI Derek: lemme send asap
+6/7/20, 20:17 - AI Derek: thanks
+6/7/20, 20:17 - Ḅj: sure
+6/7/20, 20:17 - Ḅj: psd file right
+6/8/20, 09:31 - AI Derek: Good morning everyone
+6/8/20, 09:31 - AI Derek: hope we good
+6/8/20, 09:32 - Ḅj: Good morning
+6/8/20, 09:32 - AI Derek: sent some couple of certificates out already and I’m glad about the feedbacks
+6/8/20, 09:32 - AI Derek: its great
+6/8/20, 09:32 - Ḅj: I'm fine thanks
+You?
+6/8/20, 09:32 - AI Derek: People expect a lot from Notitia
+6/8/20, 09:32 - AI Derek: so Jerry and Adwoa i hope you’re working on yours too
+6/8/20, 09:33 - Ḅj: Me too
+6/8/20, 09:33 - Ḅj: I finished before sleeping
+6/8/20, 09:33 - AI Derek: we are going to release flyers for the speakers for the webinar from today
+6/8/20, 09:33 - AI Derek: oh wow
+6/8/20, 09:33 - AI Derek: That’s great
+6/8/20, 09:33 - Ḅj: Great
+6/8/20, 09:33 - AI Derek: by grace chaley
+6/8/20, 09:34 - Ḅj: Good to know
+6/8/20, 09:34 - AI Derek: sure
+6/8/20, 09:36 - Ḅj: Yeah
+6/8/20, 10:35 - Adwoa Notitia: Awesome
+6/8/20, 10:35 - Adwoa Notitia: Will be done before the close of the day too🙌🏾
+6/8/20, 10:35 - Ḅj: Great
+6/8/20, 10:36 - Ḅj: @233243319300 can we compile the list of emails and send them a general, gender-neutral mail concerning the upcoming event?
+6/8/20, 11:06 - AI Derek: Sure
+6/8/20, 11:07 - AI Derek: Nice one
+6/8/20, 18:12 - AI Derek: <Media omitted>
+6/8/20, 18:12 - AI Derek: We can share this now
+6/8/20, 18:25 - AI Derek: <Media omitted>
+6/8/20, 18:31 - Alex Notitia: Great.
+6/9/20, 17:55 - AI Derek: <Media omitted>
+6/9/20, 18:03 - AI Derek: <Media omitted>
+6/9/20, 18:03 - AI Derek: Good evening
+6/9/20, 18:03 - AI Derek: Our webinar is getting closer
+6/9/20, 18:03 - AI Derek: And I can see the momentum already
+6/9/20, 18:04 - AI Derek: @233246521995 will Moderate the panel discussion on the webinar
+6/9/20, 18:04 - AI Derek: Do we all agree ?
+6/9/20, 18:04 - AI Derek: And this is the proposed questions for the panel
+6/9/20, 19:24 - Ḅj: Yes please
+6/10/20, 06:51 - AI Derek: <Media omitted>
+6/10/20, 06:52 - AI Derek: Great
+6/10/20, 10:43 - Ḅj: Wow🔥
+6/10/20, 11:41 - Alex Notitia: Good morning, team. Our site would be available for further testing Tomorrow.
+We still have a lot of changes pending, i want to ensure most are fixed before i make the site available.
+Meanwhile get ready to offer a helping hand when called upon.
+Below is a basic software specification.
+
+Basic Software Specifications
+==========================
+Programming Languages : Php, JavaScript, Css, Html
+Frameworks : WordPress, Vue, Bootstrap
+Frontend Editor : Elementor
+***Note***
+You can always use a different framework or programming language.
+6/10/20, 11:44 - Ḅj: Sure
+6/10/20, 15:37 - AI Derek: <Media omitted>
+6/10/20, 15:37 - Alex Notitia: Great
+6/10/20, 15:37 - Ḅj: Sure
+6/10/20, 17:10 - AI Derek: Topic: Notitia Webinar 
+Time: Jun 15, 2020 04:00 PM Africa/Accra
+
+Join Zoom Meeting
+https://zoom.us/j/91327088293?pwd=QXZ2Y21YVC90OVR2b1NJZzY0S09zUT09
+
+Meeting ID: 913 2708 8293
+Password: 609521
+6/10/20, 17:10 - AI Derek: Webinar link Via zoom
+6/10/20, 17:10 - AI Derek: @233554349393 will add it to the rest of the flyers too
+6/10/20, 17:18 - Norbert Notitia: Yes please
+6/11/20, 07:11 - Alex Notitia: Good morning.
+6/11/20, 07:11 - Alex Notitia: <Media omitted>
+6/11/20, 07:12 - Alex Notitia: Our site is available for testing.
+6/11/20, 07:13 - AI Derek: Sure
+6/11/20, 07:13 - AI Derek: Send link
+6/11/20, 07:13 - Alex Notitia: https://notitia.site
+6/11/20, 07:14 - Alex Notitia: https://notitia.site/index.php/my-account
+6/11/20, 07:14 - AI Derek: Okay
+6/11/20, 08:07 - AI Derek: <Media omitted>
+6/11/20, 08:07 - Alex Notitia: Great
+6/11/20, 08:44 - Adwoa Notitia: Ok
+6/11/20, 08:44 - Adwoa Notitia: 👍🏾
+6/11/20, 08:44 - Adwoa Notitia: 🙌🏾
+6/11/20, 09:32 - Alex Notitia: Kindly note that if the site loads very slowly, it's because it's still under development.
+6/11/20, 09:32 - Alex Notitia: Checkout this document for details.
+6/11/20, 12:34 - AI Derek: <Media omitted>
+6/11/20, 16:09 - Alex Notitia: @Sadat, Kindly send me a psd of our logo.
+6/11/20, 16:11 - AI Derek: But you did the logo
+6/11/20, 16:12 - Alex Notitia: Yeah.
+The first one.
+
+Am searching for the other one.
+6/11/20, 21:23 - AI Derek: <Media omitted>
+6/11/20, 21:31 - Sadat Notitia: Sure
+6/11/20, 21:31 - Norbert Notitia: @233243319300 how many applications received so far?
+6/11/20, 22:26 - AI Derek: @233249435529
+6/12/20, 01:00 - Alex Notitia: Good morning, team.
+
+We have a total of 230 responses.
+6/12/20, 07:58 - AI Derek: That’s cool
+6/12/20, 07:58 - AI Derek: We should do 300 then
+6/12/20, 12:22 - AI Derek: <Media omitted>
+6/12/20, 12:22 - AI Derek: Good afternoon
+6/12/20, 12:23 - Ḅj: Wow
+6/12/20, 12:23 - Ḅj: So many big people
+6/12/20, 12:23 - Alex Notitia: Great
+6/12/20, 14:46 - Adwoa Notitia: Chaiiii🙌🏾🙌🏾🙌🏾
+6/12/20, 15:02 - Norbert Notitia: Cool. From how many countries
+6/12/20, 16:54 - Alex Notitia: I can't tell but I think there is feature in Google forms like that. If anyone knows how to find statistics in Google forms, kindly guide me and let me get the data on it.
+6/12/20, 16:54 - AI Derek: Check the number now
+6/12/20, 16:55 - AI Derek: And download it and send it here
+6/12/20, 16:55 - AI Derek: Need to start sending out emails and create the WhatsApp group for them
+6/12/20, 16:55 - Alex Notitia: We have a total of 241 responses so far.
+6/12/20, 16:55 - AI Derek: Last time most of them said they didn’t get it
+6/12/20, 16:55 - AI Derek: Okay
+6/12/20, 16:55 - AI Derek: So download it and send
+6/12/20, 16:57 - Alex Notitia: Sure
+6/12/20, 16:57 - Ḅj: google forms doesn't track location. you'll have to ask users to input
+6/12/20, 17:05 - Alex Notitia: Ok.
+6/12/20, 17:07 - Alex Notitia: <Media omitted>
+6/12/20, 17:07 - Alex Notitia: The responses so far.
+6/12/20, 17:08 - Adwoa Notitia: 🙌🏾🙌🏾
+6/12/20, 17:09 - AI Derek: Great
+6/12/20, 17:09 - AI Derek: So let’s all share and save the numbers so we can create a group
+6/12/20, 17:10 - AI Derek: So those who always fill forms with just their first names are they okay
+6/12/20, 17:10 - Adwoa Notitia: Exactly what was on my mind now
+6/12/20, 17:10 - Ḅj: 😂
+6/12/20, 17:11 - Adwoa Notitia: 😂😂😂
+6/12/20, 17:11 - AI Derek: So @233246521995 @233504782862 and myself 
+
+Let’s take 80 contacts each and save it
+6/12/20, 17:11 - Ḅj: Maybe we have to make both fields required next time
+6/12/20, 17:11 - Adwoa Notitia: Ok
+6/12/20, 17:11 - AI Derek: Lemme create a group and make you all admins so you add them up
+6/12/20, 17:11 - AI Derek: Exactly
+6/12/20, 17:11 - Ḅj: Sure
+6/12/20, 17:12 - Adwoa Notitia: Please where does my 80 start from??
+6/12/20, 17:12 - AI Derek: Those who did that in the first one I didn’t bother given them certificates
+6/12/20, 17:12 - Ḅj: Imagine sending a certificate with Kwesi as the name 😂
+6/12/20, 17:12 - AI Derek: 81—161
+6/12/20, 17:12 - Adwoa Notitia: Oh me i sent two people with their first names like that😂😂
+6/12/20, 17:12 - Adwoa Notitia: Ok
+6/12/20, 17:12 - Adwoa Notitia: 🙏🏾
+6/12/20, 17:13 - AI Derek: @233504782862 starts from 162– and continue
+6/12/20, 17:13 - Ḅj: Sure
+6/12/20, 17:13 - AI Derek: I’m starting from 1 to 80
+6/13/20, 07:51 - AI Derek: This message was deleted
+6/13/20, 07:51 - AI Derek: <Media omitted>
+6/13/20, 07:52 - AI Derek: On Monday June 15th , join us for a complimentary webinar to learn how this world-class Notitia virtual mentoring will future-proof your Data science career.
+
+This session will include a walkthrough of our dynamic remote mentoring platform that will allow you to continue your studies and guidance while physical distancing measures are in place.
+
+We'll also discuss:
+
+Africa ecosystem for data science development and its ability to solve the continent’s most pressing matters.
+Join our moderator, Ernestina Asiamah Agyei as she discuss this with the great personalities leading data science and AI in Africa.
+The panelists include: Celina Lee, CEO of Zindi Africa, Nick Bradshaw of AI Media, Alfred Ongere of AI Kenya, Sarah Adekunle of Data science Nigeria, Olefemi Adewumi of MEST Africa and Edward Akani of Ghana Tech Lab.
+
+#Notitia AI
+#Journeywithus
+6/13/20, 07:52 - AI Derek: Good morning
+6/13/20, 07:53 - AI Derek: And we can share this
+6/14/20, 07:37 - AI Derek: <Media omitted>
+6/14/20, 07:42 - AI Derek: On Monday June 15th at exactly 5pm GMT, join us for  webinar to learn how this world-class Notitia virtual mentoring will future-proof your data science career.
+
+This session will include a walkthrough of our dynamic remote mentoring platform that will allow you to learn the data science skills while identifying and improving your super powerful skills development with your mentor.
+
+We'll also discuss:
+
+Our flexible schedule designed for working professionals who wants a career in data science as well as people with no experience in data science.
+Our practical course modules.
+
+How you can join our platform to be mentored including an introduction to our dedicated Application processes.
+
+Join Derek as he take you through this and lots more.
+6/14/20, 16:03 - AI Derek: <Media omitted>
+6/14/20, 16:04 - Ḅj: awesome
+6/14/20, 18:16 - AI Derek: <Media omitted>
+6/14/20, 18:16 - AI Derek: We can share this now
+6/14/20, 18:25 - Adwoa Notitia: 🙌🏾🙌🏾🙌🏾🙌🏾🙌🏾
+6/14/20, 21:44 - AI Derek: Oh we couldn’t do our meeting today
+6/14/20, 21:44 - AI Derek: Forgive me o
+6/14/20, 21:44 - AI Derek: Up and down saaa
+6/14/20, 22:41 - AI Derek: @233246521995 are you able to finish all ?
+6/14/20, 22:41 - AI Derek: Anyway our webinar is less than 24 hours ahead
+6/14/20, 22:41 - AI Derek: And thank you all for the work we’ve done so far 
+
+It’s been amazing working on this together
+6/14/20, 22:42 - AI Derek: Few things we need to put in place for Tomorrow however are these;
+6/14/20, 22:42 - AI Derek: 1. @233247936396 please let’s get the Twitter active with tweets throughout the program. Before, during and after
+6/14/20, 22:43 - AI Derek: 2. @233246521995 as moderator need to be reminding the participants to follow our pages on Twitter and LinkedIn to follow what’s happening there
+6/14/20, 22:43 - Sadat Notitia: I will be available by then to handle it after my paper
+6/14/20, 22:43 - Sadat Notitia: 👍🏼
+6/14/20, 22:44 - AI Derek: 3. @233554349393 we need a flyer to promote that Twitter buzzing tomorrow
+6/14/20, 22:44 - Adwoa Notitia: Will be done before 9am tomorrow Godwilling
+6/14/20, 22:44 - Adwoa Notitia: Ok
+6/14/20, 22:44 - AI Derek: 4. @233554349393 should also be working on the thank you flyer for the webinar so we release at least an hour after the program
+6/14/20, 22:46 - AI Derek: 5. @233246521995 per the proposed questions sent to you we didn’t have for Eddie from Ghana tech lab. So do find a question for him to answer before the general ones.
+He need to touch on the role GTL is playing locally and even on the continent
+6/14/20, 22:46 - AI Derek: Sure
+6/14/20, 22:46 - AI Derek: Great
+6/14/20, 22:49 - AI Derek: 6. @233246521995 the official time for the webinar to begin is 5pm. However the meeting room will be made open from 4pm.
+
+Order of speaker presentations.
+
+5:00pm to 5:55pm is my presentation on what notitia is really about.
+
+6:00pm to 6:30pm is Yinka of Stanbic Bank from
+Nigeria 
+
+At 6:35pm to 7:30pm is the panel discussion with the panelists 
+
+At 7:35pm to 8:10pm is Valeriy
+6/14/20, 22:49 - AI Derek: And that’s how we gonna end it
+6/14/20, 22:49 - AI Derek: Make sure as a moderator we get all things in place
+6/14/20, 22:50 - Norbert Notitia: Sharp
+6/14/20, 22:50 - AI Derek: I’ll be prompting you when a speaker is available to speak
+6/14/20, 22:50 - AI Derek: You can check their profiles on LinkedIn to use it in introducing them as well
+6/14/20, 22:51 - AI Derek: 7. This webinar need to be recorded from beginning to end.
+We need it to make a podcast and for which we will make it available to the participants on the platform too
+6/14/20, 22:52 - Adwoa Notitia: Ok🙏🏾
+6/14/20, 22:56 - AI Derek: 8. Also after tomorrow’s webinar our next thing is to start a CALL FOR MENTORS application 
+
+And we should have it out by Tuesday morning so zindi and AI Expo can advertise for us to attract the best Data scientists across africa to be available to mentor the people who sig up to our platform
+6/14/20, 22:59 - AI Derek: 9. The general application for people to be mentored will not be cohort based.
+It should be based on who’s ready at any time to be mentored for which we assign mentors to and their lessons begins right away
+6/15/20, 08:18 - Adwoa Notitia: Ok
+6/15/20, 10:50 - Alex Notitia: Good morning team.
+Hope everyone is doing well.
+
+Let's put all our support behind @233243319300.
+
+Everything would surely workout.
+
+Meanwhile, we have a slack channel now.
+
+https://join.slack.com/t/notitiaaiplatform/shared_invite/zt-fewkjprk-_FU0zV1ageAW2XCiqUjWCQ
+
+
+If your expertise with slack is great, dm me and let me make you admin.
+6/15/20, 10:55 - Alex Notitia: We're to organize it better before we can make it publicly available.
+For now let's keep it private.
+
+After the Webinar let's see the way forward with it.
+6/15/20, 10:58 - Adwoa Notitia: 🙌🏾🙌🏾🙌🏾
+6/15/20, 11:04 - AI Derek: Sure
+6/15/20, 16:46 - AI Derek: Hope we are ready
+6/15/20, 16:46 - Adwoa Notitia: Yep🙌🏾🙌🏾
+6/15/20, 16:46 - AI Derek: We starting in 10 minutes
+6/15/20, 16:46 - Adwoa Notitia: 👍🏾
+6/15/20, 16:48 - Alex Notitia: 🔥🔥 🔥
+6/15/20, 16:48 - Ḅj: 🔥
+6/15/20, 17:04 - Alex Notitia: The background noises are a lot oh
+@233554349393 can you mute them.
+6/15/20, 17:41 - Alex Notitia: Lightsout.
+Who's also experiencing same ?
+6/15/20, 17:42 - Ḅj: oww
+6/15/20, 17:42 - Adwoa Notitia: Derek
+6/15/20, 17:48 - Adwoa Notitia: Please unmute me
+6/15/20, 21:03 - Ḅj: awesome one guyss
+6/15/20, 21:04 - Alex Notitia: Everything went really well.
+
+Although there was a lot of hitches with sound stuffs.
+
+Great Stuffs.
+6/15/20, 21:05 - Adwoa Notitia: Awesome 👏🏾 guys 🙌🏾🙌🏾🙌🏾
+6/15/20, 21:38 - AI Derek: Well doe everyone
+6/15/20, 21:40 - Ḅj: 🔥
+6/15/20, 21:53 - AI Derek: I’m very exhausted
+6/16/20, 12:14 - AI Derek: Thank you flyer ready ?
+6/16/20, 12:32 - Norbert Notitia: Almost
+6/16/20, 13:21 - Norbert Notitia: <Media omitted>
+6/16/20, 13:36 - Ḅj: I think you missed "for"
+6/16/20, 13:36 - Ḅj: "thank you for making it successful"
+6/16/20, 13:38 - AI Derek: Yh
+6/16/20, 13:38 - AI Derek: For is missing
+6/17/20, 10:08 - AI Derek: <Media omitted>
+6/17/20, 10:08 - Ḅj: Great
+6/17/20, 10:35 - AI Derek: We can share
+6/17/20, 10:35 - Ḅj: Sure
+6/17/20, 11:12 - AI Derek: @233247936396 please re work on the certificate so we can use it for this one too
+6/17/20, 18:34 - Sadat Notitia: Okay
+6/19/20, 10:15 - AI Derek: Good morning everyone
+6/19/20, 10:15 - AI Derek: Hope we good
+6/19/20, 10:16 - AI Derek: Our webinar on Monday has given us a lot of opportunities so let’s keep working hard
+6/19/20, 10:16 - AI Derek: @233247936396 I’m still waiting for the certificate design 
+
+
+When done @233246521995 and @233504782862 will work on the certificate for the participants
+6/19/20, 10:17 - AI Derek: @233249435529 I’ll use this weekend to finish up on the rest of the courses to be updated on the platform
+6/19/20, 10:18 - AI Derek: And @233554349393 will work on the designs for the mentoring program and the mentee sign up so we move from there
+6/19/20, 10:33 - Adwoa Notitia: 🙏🏾
+6/19/20, 20:50 - AI Derek: https://www.ghanaweb.com/GhanaHomePage/business/Govt-launches-GH-1m-Presidential-Pitch-to-support-young-entrepreneurs-983962
+6/19/20, 20:50 - AI Derek: Are we pitching?
+6/19/20, 20:53 - Adwoa Notitia: 😂
+6/19/20, 20:53 - Adwoa Notitia: Looks like
+6/19/20, 21:05 - AI Derek: Hehe
+6/19/20, 21:39 - Adwoa Notitia: Yeah, there is no harm in trying oo🙈
+6/21/20, 18:25 - AI Derek: https://www.youtube.com/watch?v=NvaXLIC-7yU
+6/21/20, 18:26 - AI Derek: lets check it out
+6/21/20, 18:45 - Ḅj: It's very good
+6/21/20, 18:45 - Ḅj: Great job
+6/21/20, 19:46 - AI Derek: sure
+6/21/20, 19:46 - AI Derek: so we can share from tomorrow
+6/21/20, 19:46 - AI Derek: but please subscribe too
+6/21/20, 19:51 - Ḅj: I have
+6/21/20, 19:52 - Adwoa Notitia: Done ✅
+6/21/20, 19:52 - AI Derek: Sure
+6/21/20, 19:52 - Adwoa Notitia: But why does the account have a different logo? Or its fine like that?
+6/21/20, 19:53 - AI Derek: We will change the logo
+6/21/20, 19:53 - Adwoa Notitia: Ok
+6/21/20, 19:53 - Adwoa Notitia: 👍🏾
+6/22/20, 09:08 - AI Derek: From we all here we say happy birthday our dependable @233246521995 
+
+Have the Best of today 
+
+After corona we owe you a big party 🎉
+6/22/20, 09:23 - Alex Notitia: Happy birthday, Adwoa.
+6/22/20, 09:40 - AI Derek: Dear Data Scientist,
+As part of our efforts to make relevant skills and networking opportunities available to you and to help in your journey to becoming a successful Data scientist we do organize webinars from time to time and we do so with industry players who has huge impact and experience in the field of data science.
+On Monday June 15th we had our monthly webinar on the development of Right Ecosystem to support Data science mentoring and development in Africa.
+We were fortunate to host a panel discussion which included; Celina Lee of Zindi Africa, Alfred Ongere of Al Kenya, Nick Bradshaw(PhD) of AI Media Group, Sarah Adekunle of DSN, Edward Akani of Ghana Tech Lab and Omar of AIA-Ghana.
+We had Yinka Fadahunsi of Stanbic Bank and Valeriy Babushen of X5 Retail Group to give us an in-depth knowledge on Data science profession.
+For those who for one reason missed it here is an opportunity to see all that happened.
+
+https://www.youtube.com/watch?v=NvaXLIC-7yU
+
+Remember to subscribe to our YouTube channel and like our video too.
+
+Happy Learning,
+Notitia AI
+6/22/20, 09:40 - AI Derek: We can share this
+6/22/20, 09:43 - Adwoa Notitia: Thank youuuuuu🔥🔥🙌🏾🙌🏾🥰💃🏾💌💌🙏🏾
+6/22/20, 09:43 - Adwoa Notitia: Thanks Alex💯💜
+6/22/20, 09:51 - AI Derek: <Media omitted>
+6/22/20, 10:00 - Adwoa Notitia: Woooooooooow
+6/22/20, 10:00 - Adwoa Notitia: OmG 😳
+6/22/20, 10:01 - Adwoa Notitia: Thank youuuuuuuu💜💕💯💃🏾🙏🏾💌🔥🙌🏾
+6/23/20, 11:59 - Adwoa Notitia: <Media omitted>
+6/23/20, 11:59 - Adwoa Notitia: When our birthday comes around, there's almost nothing as fun as getting wishes, messages, and texts from friends all over the world. Thanks to Facebook, Instagram, and texts, we hear from almost everybody we know and care about.👏🏾💋💌...It makes birthdays special and exciting. It was a beautiful day yesterday and i am thankful for all the beauty I have in my life because you colored it with your warm wishes💐🌻🌼🌸🥀🍄🍁🍃🌱☘️☘️🎍✨🔥🌈🌈🌈🌈. Thanks for being a part of this great feeling and thanks  for the  birthday wishes, gifts, laughs,  birthday jokes, and everything. God bless you.🙏🏾
+6/29/20, 12:16 - AI Derek: Good afternoon house
+6/29/20, 12:16 - AI Derek: It’s been a while
+6/29/20, 12:17 - Ḅj: Good afternoon Derek
+6/29/20, 12:17 - Ḅj: Yeah
+6/29/20, 12:17 - AI Derek: Work and stress I know
+6/29/20, 12:17 - AI Derek: I wanted us to have a meeting yesterday but I couldn’t manage to pull through 🙆🏾‍♀️
+6/29/20, 12:17 - AI Derek: So we can discuss it today
+6/29/20, 12:18 - AI Derek: I’ll put everything here so we all look at it
+6/29/20, 12:18 - Ḅj: Sure sure
+6/29/20, 12:21 - Alex Notitia: Great. Am also super occupied with work. The little time that comes,  i would  use it to make changes necessary for the commencement.
+
+Let's all keep working hard.
+6/29/20, 12:21 - Ḅj: Definitely
+6/29/20, 12:21 - Ḅj: Best of luck with work
+6/29/20, 12:22 - Alex Notitia: Sure.
+6/29/20, 12:22 - Ḅj: 😊
+6/29/20, 12:25 - AI Derek: I was supposed to send you something to update on the courses side
+6/29/20, 12:25 - AI Derek: I even forgot 😀
+6/29/20, 12:25 - AI Derek: This life is stressful
+6/29/20, 12:25 - Alex Notitia: Asem oh.
+6/29/20, 12:25 - Alex Notitia: 😊
+6/29/20, 15:44 - Ḅj: please when you are free you can send me your emails so i send you the special invites to the slack workspace
+6/29/20, 16:19 - Alex Notitia: Sure
+7/2/20, 11:41 - AI Derek: Good morning everyone
+7/2/20, 11:42 - AI Derek: Hope we all good
+7/2/20, 11:42 - AI Derek: So quick one
+7/2/20, 11:42 - AI Derek: @233247936396 can you get us the certificate design today ?
+7/2/20, 11:42 - AI Derek: @233249435529 we need some slight modification to the site
+7/2/20, 11:42 - AI Derek: And also
+7/2/20, 11:43 - AI Derek: I want us to start our virtual mentoring program from next week Sunday.
+
+I’m busy through out Monday to Saturday
+7/2/20, 11:43 - AI Derek: And only Sunday is available
+7/2/20, 11:43 - AI Derek: For the mentoring program 
+So this is what I’m proposing we start with
+7/2/20, 11:45 - AI Derek: We are going to release a form for people to sign 
+After we do an interviews to select just 20 people for the mentoring for the next two months for free.
+
+It has to be competitive for people to get the 20 slots available
+7/2/20, 11:45 - AI Derek: And we sign up the few mentors we know to be on the call every Sunday from 5pm to 8pm
+7/2/20, 11:45 - AI Derek: This is to help us gain the right traction for the future
+7/2/20, 11:45 - AI Derek: Any suggestions
+7/2/20, 11:45 - AI Derek: ??
+7/2/20, 11:46 - Ḅj: i think its a good Idea
+7/2/20, 11:46 - AI Derek: So @233504782862 you’re gonna be working on a form that will be a requirement for anyone who want to be mentored
+7/2/20, 11:46 - AI Derek: Best Data Science Interview Questions
+
+Below I am sharing top data science interview questions and this time I am not providing the answers. Now it is your turn to answer. Try to answer them and then share your answer with us. Trust me this is the best practice for any interview preparations. So, here are the questions –
+
+Q.1 Tell us about your favorite machine learning algorithm and why you like this?
+
+Q.2 If you are a data scientist, how will you collect the data. What will be your data acquisition and retention strategy?
+
+Q.3 Which uncommon skills you can add to your data science team?
+
+Q.4 How did you upgrade your analytical skills? Tell us your practices
+
+Q.5 If I will give you a data set, what will you do with it to know whether it suits your business needs or not?
+
+Q.6 Tell us how to effectively represent data using 5 dimensions.
+
+Q.7 What do you know about an exact test?
+
+Q.8 What makes a good data scientist?
+
+Q.9 Which tools will help you to succeed in your role as a data scientist?
+
+Q.10 How would you resolve a dispute with a colleague?
+
+Q.11 Have you ever changed someone’s opinion at work?
+
+Q.12 According to you, what makes data science so popular?
+
+These were some of the most asked data science interview questions. I hope you will try to frame the answers on your own, and share with us . Let’s check how much you know about Data Science, Machine Learning, and R.
+7/2/20, 11:47 - AI Derek: Use these questions to create the form
+7/2/20, 11:47 - AI Derek: @233554349393 will work on additional information to be added
+7/2/20, 11:47 - AI Derek: So we can roll it out by weekend
+7/2/20, 11:47 - AI Derek: And see how people can sign up to be mentored
+7/2/20, 11:48 - Ḅj: okay
+7/2/20, 11:48 - AI Derek: There’s an article I want @233246521995 to stark thinking about it so we can write and publish 
+
+Title: How webinars are changing the face of MOOC in a pandemic world
+7/2/20, 11:56 - Ḅj: Is there an email for Notitia I can use? @233243319300 @233249435529
+7/2/20, 11:58 - AI Derek: Info@notitia.site
+7/2/20, 12:00 - Ḅj: and password please
+7/2/20, 12:01 - Ḅj: okay i have it
+7/2/20, 12:04 - Ḅj: where can i find the inbox to this account
+7/2/20, 12:05 - AI Derek: @233249435529 help him out
+7/2/20, 12:06 - Alex Notitia: These are the credentials and the login link.
+7/2/20, 12:12 - Alex Notitia: The platform would be getting some good face lift with regards to the Cv builder.
+
+The Cv builder is now designed to  be dynamic. 
+
+The Cv builder now has multiple templates.
+
+It has options for color theming.
+
+It's a total package.
+
+I would make it available for testing next week Wednesday.
+7/2/20, 12:13 - Alex Notitia: Use these credentials.
+
+norbert@notitia.site  secret22&&
+
+sadat@notitia.site  secret22&&
+
+jerry@notitia.site secret22&&
+
+info@notitia.site secret22&&
+
+Login Url
+
+https://bit.ly/2X32T7O
+7/2/20, 12:15 - Ḅj: awesome
+7/2/20, 12:15 - Ḅj: the login url is not working
+7/2/20, 12:16 - Alex Notitia: Am coming.
+7/2/20, 12:17 - Sadat Notitia: Yes
+7/2/20, 12:20 - Alex Notitia: Try this and give me a feedback.
+
+https://server4.stormerhost.com:2096
+7/2/20, 12:20 - Alex Notitia: Try this and give me a feedback.
+
+https://server4.stormerhost.com:2096
+7/2/20, 12:22 - Ḅj: this url is working but all the credentials are invalid
+7/2/20, 12:24 - Alex Notitia: I would get back to you in a minute.
+7/2/20, 12:24 - Ḅj: okay
+7/2/20, 12:36 - Alex Notitia: Please try again.
+7/2/20, 12:42 - Alex Notitia: @233246521995 
+you can use
+adwoa@notitia.site
+password : secret22&&
+7/2/20, 19:36 - Adwoa Notitia: Ok thanks
+7/2/20, 19:36 - Adwoa Notitia: Awesome....will look into it
+7/3/20, 17:03 - Ḅj: good evening guys
+7/3/20, 17:04 - Ḅj: I made two forms for the assessment
+7/3/20, 17:05 - Ḅj: The typeform is more elegant but i can't add all the questions because my account is a free account
+7/3/20, 17:05 - Ḅj: https://bit.ly/2ZAcJyb check it out
+7/3/20, 17:05 - Ḅj: The other one is the google form
+7/3/20, 17:06 - Ḅj: https://forms.gle/AK6tTe38oCpcgsce6
+7/3/20, 17:06 - AI Derek: Perfect
+7/3/20, 17:06 - Ḅj: this one has all the questions but its quite lengthy
+7/3/20, 17:06 - AI Derek: But can you change name to notitia
+7/3/20, 17:07 - AI Derek: Let’s use the typeform
+7/3/20, 17:07 - Ḅj: yeah. I'm working on getting to use the Notita email.
+7/3/20, 17:07 - Ḅj: okay.
+7/3/20, 17:07 - AI Derek: Sure
+7/3/20, 17:07 - Ḅj: typeform it is then
+7/3/20, 17:08 - AI Derek: Yes
+7/3/20, 17:08 - Ḅj: ✌️
+7/3/20, 17:14 - Ḅj: You deleted this message
+7/3/20, 17:19 - Ḅj: This is the Notitia Typeform Link https://bit.ly/3gpeWDA
+7/3/20, 17:26 - AI Derek: Alright
+7/3/20, 17:27 - Ḅj: yeah
+7/5/20, 08:50 - AI Derek: Good morning everyone
+7/5/20, 08:50 - AI Derek: Hello Data scientists ,
+
+Thank you for your interest in joining Notitia AI virtual mentoring platform , your true mentor.
+
+Notitia AI is on a mission to deliver world-class qualitative practical oriented learning experiences to every aspiring Data scientist who’s looking for an opportunity to change the way we live. Our expertise is in the shaping of dreams through our carefully curated collection of Data science mentoring programs for you and the future.
+
+In the months of May and June, we successfully had two amazing webinars that featured great mentors, industry players and innovators across Africa and had  more than 200 participants and their feedback reflects our quality. 
+We are in partnership with amazing institutions across the world and we are committed to helping our people realize their dream of landing great Data science jobs through our virtual mentoring programs.
+
+Hurry up if you are interested, in our new Mentoring program about to begin.
+
+Come and join us to explore the world of opportunities that tomorrow is offering us today. Please do share the program details with your fellow mates, so that you can be a part of someone’s fruitful career. 
+
+All you have to do is to fill the typeform ( https://bit.ly/3gpeWDA)  and let’s begin the interview and selection process.
+
+Thanks and Regards,
+Notitia AI Team
+7/5/20, 08:50 - AI Derek: Read this
+7/5/20, 08:50 - AI Derek: The form is ready and we are good to go
+7/5/20, 08:58 - Norbert Notitia: Looks good
+7/5/20, 09:05 - Alex Notitia: Great stuffs.
+7/5/20, 09:23 - AI Derek: Sure
+7/5/20, 09:24 - AI Derek: So we can share this afternoon
+7/5/20, 09:24 - AI Derek: @233554349393 can you add any flyer to it ?
+7/5/20, 09:24 - Norbert Notitia: Yeah sure
+7/5/20, 09:25 - AI Derek: Sharp
+7/5/20, 11:47 - Alex Notitia: @233504782862 Hello, can you generate a token for me.
+https://developer.typeform.com/get-started/personal-access-token/
+7/5/20, 11:48 - Ḅj: Okay. Give me a few minutes
+7/5/20, 11:49 - Alex Notitia: Sure
+7/5/20, 16:24 - Adwoa Notitia: Awesome 👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾
+7/5/20, 19:59 - Ḅj: hello guys
+7/5/20, 20:00 - Ḅj: the form can take only the first 100 submissions
+7/5/20, 20:00 - Ḅj: currently at 70
+7/5/20, 20:06 - Norbert Notitia: Wow
+7/5/20, 20:06 - Norbert Notitia: That's huge.
+7/5/20, 20:07 - Ḅj: yeah
+7/5/20, 20:07 - Ḅj: i was surprised
+7/5/20, 20:07 - Ḅj: responses increase anytime i refresh
+7/5/20, 20:08 - Ḅj: many people from other african countries too
+7/5/20, 20:08 - Ḅj: we have a big audience
+7/5/20, 20:13 - Adwoa Notitia: Chaiiiiiiiiiiiiii
+7/5/20, 20:17 - Ḅj: 🙌🙌
+7/5/20, 21:15 - AI Derek: Oh wow
+7/5/20, 21:15 - AI Derek: Then we die o 😹
+7/5/20, 21:15 - Adwoa Notitia: 🤣🤣🤣
+7/5/20, 21:15 - AI Derek: How to do the selection
+7/5/20, 21:15 - AI Derek: 😹😹
+7/5/20, 21:15 - AI Derek: Bribe go come inside
+7/5/20, 21:16 - Ḅj: 😂
+7/5/20, 21:16 - Ḅj: it won't be difficult to select😂😂
+7/5/20, 21:17 - Ḅj: What is your favorite machine learning algorithm and why you like this?
+Rstudio ,is very crucial for data science
+7/5/20, 21:17 - Ḅj: plenty of answers like this
+7/5/20, 21:18 - AI Derek: Eeii 😹
+7/5/20, 21:18 - AI Derek: Rstudio paa
+7/5/20, 21:18 - Adwoa Notitia: 🤣🤣🤣🤣🤣🤣🤣
+7/5/20, 21:18 - Adwoa Notitia: Eeeeeeeeeeiiii
+7/5/20, 21:18 - Ḅj: 😂
+7/5/20, 21:18 - Adwoa Notitia: Saaa i am better mpo 🤭
+7/5/20, 21:18 - Adwoa Notitia: Yeeeeeeeee Awurade medawase
+7/5/20, 21:18 - Ḅj: better kraa
+7/5/20, 21:19 - Adwoa Notitia: 😂😂
+7/5/20, 21:19 - AI Derek: 😹😹😹
+7/5/20, 21:50 - Norbert Notitia: But Charley we can use AI to do this selection o. It's going to be big traction for us as well.
+7/5/20, 21:50 - Norbert Notitia: Derek. Can we get some of the Speakers to be part of the selection process?
+7/5/20, 21:51 - Norbert Notitia: And can we structure the selection process to be more standardized.
+7/5/20, 21:51 - Norbert Notitia: And also the aftermath etx
+7/5/20, 21:57 - AI Derek: Yh sure
+7/5/20, 21:57 - Norbert Notitia: Cool.
+7/5/20, 21:58 - Norbert Notitia: Can we get an interview plan
+7/5/20, 21:58 - AI Derek: Let’s discuss this tomorrow
+7/5/20, 22:00 - Norbert Notitia: 👍🏽
+7/6/20, 13:50 - AI Derek: Can you add the google form
+7/6/20, 13:51 - AI Derek: How many have you received so far
+7/6/20, 13:51 - Ḅj: Last I checked we were around 85
+7/6/20, 13:53 - AI Derek: Okay
+7/6/20, 13:53 - Ḅj: I'm not at home now, I've been sent
+7/6/20, 13:53 - AI Derek: Sure
+7/7/20, 21:25 - Ḅj: hey guys
+7/7/20, 21:25 - Ḅj: we've reached our limit
+7/7/20, 21:25 - Ḅj: <Media omitted>
+7/7/20, 21:30 - AI Derek: Oh okay
+7/7/20, 21:31 - AI Derek: Let’s add the google form then
+7/7/20, 21:31 - Ḅj: then we'll have to share that link
+7/7/20, 21:48 - Alex Notitia: Wow.
+7/7/20, 21:49 - Alex Notitia: This message was deleted
+7/7/20, 21:50 - Alex Notitia: I've also received some applications from the site.
+7/7/20, 22:03 - AI Derek: Okay
+7/7/20, 22:04 - Alex Notitia: Cv builder dropping tomorrow.
+7/7/20, 22:04 - Ḅj: great
+7/8/20, 08:44 - Alex Notitia: Good morning, everyone.
+This is the link to the Cv Builder.
+https://notitia.site/cv.php
+ It's not mobile compatible yet.
+
+Features yet to be added
+LinkedIn + Google auto import.
+7/8/20, 08:45 - Alex Notitia: It doesn't require login.
+Try it on desktop/laptop and provide a feedback.
+7/8/20, 08:47 - Ḅj: definitely
+7/8/20, 08:53 - Ḅj: its awesome
+7/8/20, 08:59 - Alex Notitia: That's what you think.
+It's because it's full of JavaScript.
+Vue + React + es6.
+😂😂😂
+7/8/20, 09:00 - Alex Notitia: Monster libraries.
+7/8/20, 09:00 - Ḅj: wow😂😂
+7/8/20, 09:00 - Ḅj: killer paa
+7/8/20, 09:01 - Ḅj: the UI is soo smooothh and its flexible
+7/8/20, 09:03 - Alex Notitia: Yeah. 
+I had some react Ui expert assist me.
+7/8/20, 09:04 - Ḅj: thats nice🙌
+7/8/20, 09:04 - Alex Notitia: 👍
+7/8/20, 09:36 - AI Derek: Perfect
+7/8/20, 09:36 - AI Derek: Adding the LinkedIn and Google will be a major hit
+7/8/20, 09:41 - Norbert Notitia: Great Job. Tested and it looks good
+7/8/20, 10:36 - Alex Notitia: Sure
+7/8/20, 10:36 - Alex Notitia: 👍
+7/8/20, 22:23 - AI Derek: Can we send it out for others to try ?
+7/8/20, 22:24 - AI Derek: @233504782862 send mails to the participants for the interview
+7/8/20, 22:24 - AI Derek: @233554349393 what day this weekend is it gonna be good for us to have the interview
+7/8/20, 22:25 - Ḅj: all of them?
+7/8/20, 22:25 - AI Derek: Yes please
+7/8/20, 22:25 - AI Derek: And let’s interview them all
+7/8/20, 22:26 - Ḅj: okay
+7/8/20, 22:27 - Ḅj: when the day is decided and the time for the interview is scheduled or?
+7/8/20, 22:27 - AI Derek: Use the notitia official mail to send
+7/8/20, 22:28 - AI Derek: Yh
+
+Buh this mail is to remind them of the next step we are taking
+7/8/20, 22:28 - Ḅj: okay
+7/8/20, 22:28 - Ḅj: okay
+7/8/20, 22:39 - Ḅj: @233243319300  how is this
+7/8/20, 22:40 - Ḅj: Dear Data Science Aspirant, 
+
+I hope this message reaches you well. I am glad to announce to you that you have made it to the next stage on your journey to becoming a Data Scientist at Notitia AI. You have been selected out of many applicants for an interview session with the team at Notitia AI. This meeting will be held virtually and the details will be communicated to you later.
+
+Best wishes
+Notitia AI
+7/8/20, 22:40 - AI Derek: Good good
+7/8/20, 22:41 - AI Derek: You can get @233246521995 to help too
+7/8/20, 22:41 - Ḅj: oh okay
+7/9/20, 11:19 - Alex Notitia: Good morning, everyone.
+Am working on intergrating the Cv builder into the dashboard.
+You would therefore not be able to access it directly.
+I would make the whole dashboard available Saturday.
+Am adding LinkedIn + Google + Facebook + Yahoo signin and basic auto import support.
+Thank you.
+7/9/20, 11:28 - AI Derek: Alright thanks
+7/9/20, 15:02 - Norbert Notitia: Sorry now seeing this. Yes. Sunday will work
+7/9/20, 15:03 - Norbert Notitia: This message was deleted
+7/9/20, 15:05 - Norbert Notitia: Awesome. Can Adwoa do the emailing? so we can have a point of contact in case they need further info
+7/9/20, 15:05 - AI Derek: Yh that’s better too
+7/9/20, 15:05 - Norbert Notitia: How many are we shortlisting ?
+7/9/20, 15:06 - AI Derek: @233504782862 we’ve some project coming up too soon
+7/9/20, 15:06 - AI Derek: We are taking only 20
+7/9/20, 15:07 - Norbert Notitia: Ohk. Are we interviewing all applicants?
+7/9/20, 15:07 - Ḅj: Great
+7/9/20, 15:08 - AI Derek: Yes let’s do all
+7/9/20, 15:08 - AI Derek: It’s 100
+7/9/20, 15:08 - AI Derek: We can do 5 minutes each
+7/9/20, 15:08 - Norbert Notitia: Wow thats alot
+7/9/20, 15:08 - Norbert Notitia: Can we shortlist say 40-30 based on quality of applications submitted
+7/9/20, 15:10 - AI Derek: @233504782862
+7/9/20, 15:10 - AI Derek: Do the shortlist
+7/9/20, 15:10 - Ḅj: Sure
+7/9/20, 15:10 - AI Derek: And let @233246521995 send them mails
+7/9/20, 15:10 - Adwoa Notitia: 🙏🏾🙌🏾
+7/9/20, 15:11 - Norbert Notitia: But first what are we measuring and assessing. We need a selection framework. For future reference
+7/9/20, 15:11 - Norbert Notitia: A scoring sheets is very important. If we can put together that our work will be easier
+7/9/20, 15:12 - Norbert Notitia: And with the final number we are selecting i think we should also know how many will be from Ghana, Nigeria, SA etc
+7/9/20, 15:12 - AI Derek: We can consider the answers provided to the questions too
+7/9/20, 15:12 - Norbert Notitia: Yes
+7/9/20, 15:13 - AI Derek: And maybe in August Notitia can collaborate with Ethical ai to run an online Bootcamp for members across Ghana
+7/9/20, 15:13 - AI Derek: What do you think
+7/9/20, 15:15 - Ḅj: Yeah, for now, shortlisting based on answers provided won't be a problem because going through the responses, you can see that many people have no idea what is going on, but others did excellent with the questions
+7/9/20, 15:15 - Ḅj: Good idea
+7/9/20, 15:15 - Norbert Notitia: Awesome
+7/9/20, 15:16 - Norbert Notitia: Awesome
+7/11/20, 01:03 - Alex Notitia: Good morning, everyone.
+7/11/20, 01:04 - Alex Notitia: <Media omitted>
+7/11/20, 01:05 - Alex Notitia: Please check the document for information update on the platform.
+7/11/20, 11:43 - Ḅj: its great Alex!
+7/11/20, 11:44 - Ḅj: I love the creative use of illustrative designs, it really makes the UI very engaging
+7/11/20, 11:48 - Alex Notitia: 👍
+7/11/20, 11:48 - Ḅj: 🙌🙌
+7/11/20, 11:49 - Alex Notitia: The aim is to get a very good investor onboard.
+The design from the frontend to the dashboard should do the trick.
+7/11/20, 11:50 - Ḅj: i agree
+7/11/20, 12:50 - Adwoa Notitia: Awesome 🙌🏾🙌🏾🙌🏾🙌🏾🙌🏾
+7/11/20, 12:51 - Alex Notitia: Please do register so i can approve your access to the dashboard.
+7/11/20, 12:53 - Alex Notitia: so => so that
+7/11/20, 12:56 - Adwoa Notitia: Ok
+7/12/20, 08:47 - AI Derek: Good morning everyone
+7/12/20, 08:48 - AI Derek: I think for the interview we need to enable waiting room on zoom so no one get to hear anything until it’s their time to be interviewed
+7/12/20, 08:48 - AI Derek: Or
+7/12/20, 08:49 - AI Derek: Let’s ask them questions around python and data science
+7/12/20, 08:50 - Norbert Notitia: Sure
+7/12/20, 10:04 - AI Derek: Great
+7/12/20, 10:04 - Ḅj: awesome
+7/12/20, 12:17 - AI Derek: Are we starting at 1pm ?
+7/12/20, 12:53 - Adwoa Notitia: Please i just forwarded the list of applicants to your mail @233243319300
+7/12/20, 12:55 - Adwoa Notitia: The first 23 are for 1pm now
+7/12/20, 12:57 - Adwoa Notitia: Waiting for the meeting to start
+7/12/20, 12:58 - Norbert Notitia: Meeting Started. Some 5 people on the call already
+7/12/20, 12:59 - Adwoa Notitia: Ok
+7/12/20, 13:01 - Norbert Notitia: Hi Ernestina Can you moderate the session. So just welcome them. Tell them what Notitia is about and the interview. Then I'll put them in a waiting room and accept them as and when each one is ready.
+7/12/20, 13:06 - Adwoa Notitia: Awwww i think Jerry just fid
+7/12/20, 13:06 - Adwoa Notitia: did*
+7/12/20, 13:06 - Adwoa Notitia: Thanks Jerry
+7/12/20, 13:06 - Adwoa Notitia: I lost my voice too
+7/12/20, 13:06 - Adwoa Notitia: 😭😭
+7/12/20, 13:07 - Ḅj: I just asked them to be patient while we wait for the others
+7/12/20, 13:07 - Ḅj: yie
+7/12/20, 13:07 - Adwoa Notitia: Hmmmmmm
+7/12/20, 13:08 - Ḅj: is @233243319300 available?
+7/12/20, 13:08 - AI Derek: Yes I’m available
+7/12/20, 13:08 - AI Derek: What time does it start
+7/12/20, 13:09 - Ḅj: great
+7/12/20, 13:09 - AI Derek: Sure
+7/12/20, 13:09 - Ḅj: it has started
+7/12/20, 13:09 - Adwoa Notitia: It has oo
+7/12/20, 13:09 - AI Derek: They need to open their video
+7/12/20, 13:09 - Adwoa Notitia: 1pm
+7/12/20, 13:09 - AI Derek: Oh saaaa
+7/12/20, 13:09 - AI Derek: Gimme 10 minutes I’ll join
+7/12/20, 13:09 - Ḅj: sure
+7/12/20, 13:10 - AI Derek: Cool
+7/12/20, 13:10 - Alex Notitia: Please where is the link to the meeting?.
+7/12/20, 13:11 - Adwoa Notitia: Norbert is inviting you to a scheduled Zoom meeting.
+
+Topic: Notitia Interview 
+Time: Jul 12, 2020 01:00 PM Africa/Accra
+
+Join Zoom Meeting
+https://zoom.us/j/99550320632?pwd=eTJtbDV4YjBCMXBPSEpJK2dNVzBrZz09
+
+Meeting ID: 995 5032 0632
+Password: 737928
+One tap mobile
++16699006833,,99550320632# US (San Jose)
++19294362866,,99550320632# US (New York)
+
+Dial by your location
+        +1 669 900 6833 US (San Jose)
+        +1 929 436 2866 US (New York)
+        +1 253 215 8782 US (Tacoma)
+        +1 301 715 8592 US (Germantown)
+        +1 312 626 6799 US (Chicago)
+        +1 346 248 7799 US (Houston)
+Meeting ID: 995 5032 0632
+Find your local number: https://zoom.us/u/acsWRUZ2nd
+7/12/20, 13:11 - Ḅj: https://zoom.us/j/99550320632?pwd=eTJtbDV4YjBCMXBPSEpJK2dNVzBrZz09
+7/12/20, 13:12 - Alex Notitia: Thanks. I can only join via mobile. I wouldn't be able to contribute though.
+7/12/20, 13:14 - Norbert Notitia: Hi. So let me do the intro
+7/12/20, 13:14 - AI Derek: Yes
+7/12/20, 13:14 - Alex Notitia: Thanks
+7/12/20, 13:14 - Ḅj: sure
+7/12/20, 13:14 - Norbert Notitia: Who is doing the interview.
+7/12/20, 13:14 - AI Derek: I’ll do it with @233504782862
+7/12/20, 13:14 - Norbert Notitia: Cool
+7/12/20, 13:14 - AI Derek: For the technical part
+7/12/20, 13:15 - AI Derek: Each of them has to share their screen showing their cv
+7/12/20, 13:20 - Norbert Notitia: Sure. So are we cool to start.
+7/12/20, 13:21 - Ḅj: great
+7/12/20, 13:22 - Norbert Notitia: So Are we ready?
+7/12/20, 13:23 - Ḅj: I think so
+7/12/20, 13:23 - Adwoa Notitia: Has it started
+7/12/20, 13:23 - Ḅj: waiting on Derek
+7/12/20, 13:23 - Adwoa Notitia: I can’t hear anything anymore
+7/12/20, 13:23 - AI Derek: You can start
+7/12/20, 13:23 - AI Derek: https://www.linkedin.com/posts/hackmakers_data-science-interview-questions-ugcPost-6688039982202023936-2FBx
+7/12/20, 13:23 - AI Derek: @233504782862 let’s use this sort of questions
+7/12/20, 13:23 - AI Derek: At least 3 questions each
+7/12/20, 13:24 - AI Derek: But they need to tell a bit about themselves first
+7/12/20, 13:24 - Norbert Notitia: So 3mins each.
+7/12/20, 13:24 - Norbert Notitia: I'm adding the first person.
+7/12/20, 13:24 - Ḅj: okay
+7/12/20, 13:24 - Norbert Notitia: Derek are you on the call?
+7/12/20, 13:24 - AI Derek: Yh if they can finish up
+7/12/20, 13:25 - AI Derek: Now joining
+7/12/20, 13:27 - Norbert Notitia: Someone should take note
+7/12/20, 13:38 - Norbert Notitia: Questions on commitment
+7/12/20, 13:54 - Adwoa Notitia: The guy said “aahhhh”🤣🤣🤣🤣
+7/12/20, 13:57 - AI Derek: 😹
+7/12/20, 13:57 - AI Derek: Nigerians
+7/12/20, 13:58 - Adwoa Notitia: 😂😂😂😂
+7/12/20, 13:59 - Alex Notitia: 😊
+7/12/20, 14:06 - AI Derek: This guy has to be selected
+7/12/20, 14:06 - Adwoa Notitia: Paaaaaaa
+7/12/20, 14:06 - Norbert Notitia: Hahaha
+7/12/20, 14:06 - Alex Notitia: Yeah.
+7/12/20, 14:06 - Adwoa Notitia: He should go bed sef
+7/12/20, 14:06 - Norbert Notitia: The guy is good
+7/12/20, 14:06 - Ḅj: i agree
+7/12/20, 14:06 - AI Derek: Very good 
+
+I’m impressed
+7/12/20, 14:06 - Alex Notitia: 😊
+7/12/20, 14:06 - AI Derek: That’s why I didn’t disturb him
+7/12/20, 14:07 - Alex Notitia: 😊
+7/12/20, 14:35 - AI Derek: Nigerians dey worry o
+7/12/20, 14:36 - AI Derek: The call has ended o
+7/12/20, 14:36 - AI Derek: Host removed me
+7/12/20, 14:46 - Ḅj: join again
+7/12/20, 14:47 - AI Derek: <Media omitted>
+7/12/20, 14:49 - Ḅj: you're in now
+7/12/20, 14:55 - Adwoa Notitia: @233554349393, please this same ID will be used for the evening session right?
+7/12/20, 14:55 - Norbert Notitia: No please
+7/12/20, 15:05 - Adwoa Notitia: Really??
+7/12/20, 15:05 - Adwoa Notitia: Sent the same link for the 7pm oo
+7/12/20, 15:06 - Adwoa Notitia: Please then kindly send another lD so i update them through email
+7/12/20, 15:17 - Norbert Notitia: Norbert is inviting you to a scheduled Zoom meeting.
+
+Topic: Notitia Interview 
+Time: Jul 12, 2020 07:00 PM Africa/Accra
+
+Join Zoom Meeting
+https://zoom.us/j/96256256352?pwd=WEZWbmVObVN0SlllSG5CQmtDd1RWQT09
+
+Meeting ID: 962 5625 6352
+Password: 737928
+One tap mobile
++12532158782,,96256256352# US (Tacoma)
++13017158592,,96256256352# US (Germantown)
+
+Dial by your location
+        +1 253 215 8782 US (Tacoma)
+        +1 301 715 8592 US (Germantown)
+        +1 312 626 6799 US (Chicago)
+        +1 346 248 7799 US (Houston)
+        +1 669 900 6833 US (San Jose)
+        +1 929 436 2866 US (New York)
+Meeting ID: 962 5625 6352
+Find your local number: https://zoom.us/u/aytuFvkL2
+7/12/20, 15:17 - Alex Notitia: I've got a little challenge with my network oh.
+7/12/20, 15:19 - Adwoa Notitia: Thanks
+7/12/20, 15:42 - Alex Notitia: Good Idea with the portfolio.
+7/12/20, 15:43 - Alex Notitia: Great stuffs. Sorry i couldn't participate.
+7/12/20, 15:43 - Ḅj: oh don't worry
+7/12/20, 15:44 - Alex Notitia: You guys did great though.
+
+Some of the applicants are advanced ruff.
+7/12/20, 15:45 - Adwoa Notitia: Yes oo
+7/12/20, 15:45 - Adwoa Notitia: Some too are like me😂😂
+7/12/20, 15:46 - Adwoa Notitia: The Nigerians are peculiar tho🙆🏾‍♀️
+7/12/20, 15:45 - Ḅj: @233243319300 how many people in total are we taking?
+7/12/20, 15:46 - Adwoa Notitia: They have this aggression
+7/12/20, 15:46 - Alex Notitia: Looking at the way some of them answered the questions, we can recruit them to join us.
+7/12/20, 15:46 - Alex Notitia: 😊😊😊
+7/12/20, 15:47 - Adwoa Notitia: Yeah
+7/12/20, 15:47 - Adwoa Notitia: 20 he said
+7/12/20, 15:48 - Ḅj: okay
+7/12/20, 15:49 - Ḅj: yeah some are very good. But it cuts across sometimes. Some people were great with technical skills and others were good with concepts and principles
+7/12/20, 15:49 - Alex Notitia: True
+7/12/20, 15:50 - Ḅj: yeah
+7/12/20, 15:51 - AI Derek: Yh
+7/12/20, 15:51 - AI Derek: 20
+7/12/20, 15:51 - AI Derek: Yh
+7/12/20, 15:52 - AI Derek: I sent you something 
+Use that to develop the portfolio index for the mentees
+7/12/20, 15:52 - Ḅj: great
+7/12/20, 17:00 - AI Derek: It looks like you’ve to move meeting to 8 
+Else I won’t be available in the first hour
+7/12/20, 19:09 - Norbert Notitia: Hi guys.
+7/12/20, 19:09 - Norbert Notitia: Some people are on the call.
+7/12/20, 19:13 - Ḅj: A minute please
+7/12/20, 19:14 - Alex Notitia: Wow. 
+If It's going to cause any misunderstandings just proceed.
+
+I can join @ 7:30.
+I believe Derek won't be able to.
+7/12/20, 19:15 - Ḅj: Okay
+7/12/20, 19:15 - Ḅj: I'll start
+7/12/20, 19:15 - Alex Notitia: Sure
+7/12/20, 19:25 - AI Derek: I’ll join after my meeting ends
+7/12/20, 19:26 - Norbert Notitia: This guy is good
+7/12/20, 19:26 - Alex Notitia: Wow. Great stuffs.
+7/12/20, 19:27 - Alex Notitia: I would have to join @ 7:45 rather.
+7/12/20, 19:55 - Alex Notitia: Guys sorry oh, my internet connection is terrible.
+7/12/20, 19:55 - Alex Notitia: @233554349393 I've been removed.
+7/12/20, 19:55 - Ḅj: oww
+7/12/20, 19:56 - Ḅj: can you rejoin?
+7/12/20, 19:56 - Alex Notitia: Ok
+7/12/20, 19:56 - Norbert Notitia: I'm off
+7/12/20, 19:56 - Alex Notitia: Wow. Telcos are disturbing us oh.
+7/12/20, 19:57 - Ḅj: really disturbing
+7/12/20, 19:58 - Alex Notitia: I can't join again though. You guys can proceed.
+Do ask them about deployment.
+7/12/20, 19:58 - Ḅj: okay
+7/12/20, 20:17 - Ḅj: we're done
+7/12/20, 20:17 - Ḅj: no one else is on the call
+7/12/20, 20:18 - Alex Notitia: Great
+7/12/20, 20:18 - Alex Notitia: How did the mentees fare with the deployment questions ?.
+7/12/20, 20:19 - Ḅj: poorly
+7/12/20, 20:20 - Alex Notitia: We would guide them through.
+7/12/20, 20:20 - Alex Notitia: No worries.
+7/12/20, 20:20 - Ḅj: definitely
+7/12/20, 20:25 - AI Derek: Are you done ?
+7/12/20, 20:25 - Ḅj: last person
+7/12/20, 20:27 - AI Derek: Okay
+7/12/20, 20:29 - Ḅj: we're done
+7/12/20, 20:29 - AI Derek: Cool
+7/12/20, 20:29 - AI Derek: How many people came
+7/12/20, 20:30 - Ḅj: @233249435529 the last person was more of a backend guy so he's good at the deployment aspect
+7/12/20, 20:30 - Ḅj: about 6 people
+7/12/20, 20:30 - AI Derek: Okay
+7/12/20, 20:31 - Ḅj: yeah
+7/12/20, 20:31 - Norbert Notitia: 9 instead
+7/12/20, 20:31 - Ḅj: not all waited
+7/12/20, 20:32 - AI Derek: Okay
+7/12/20, 20:32 - AI Derek: So the shortlist
+7/12/20, 20:32 - AI Derek: Let’s have it done by tomorrow
+7/12/20, 20:33 - Ḅj: sure
+7/14/20, 08:30 - AI Derek: Any updates
+7/14/20, 08:30 - AI Derek: Good morning
+7/14/20, 08:30 - AI Derek: @233504782862 do you have any shortlist
+7/14/20, 08:30 - Ḅj: good morning
+7/14/20, 08:30 - Ḅj: yeah
+7/14/20, 08:30 - Ḅj: I sent it to Adwoa
+7/14/20, 08:30 - AI Derek: Okay
+7/14/20, 08:31 - AI Derek: How many people
+7/14/20, 08:31 - Ḅj: 17 i think
+7/14/20, 08:31 - AI Derek: That’s fine
+7/14/20, 08:31 - AI Derek: I’ve 3 to add
+7/14/20, 08:31 - Ḅj: great
+7/14/20, 11:39 - Alex Notitia: Great
+@233246521995 
+
+Once you have the complete list, send them a mail to register via this link.
+https://notitia.site/index.php/membership-account/membership-checkout/?level=1#pmpro_user_fields
+
+Do inform them it's free though.
+
+I can then approve them if the need be.
+7/14/20, 11:44 - Adwoa Notitia: Ok sure
+7/14/20, 11:45 - Adwoa Notitia: @233243319300 please can i have the three and please let me know when i can send them the confirmation mail.
+7/14/20, 12:00 - AI Derek: WhatsApp number: 0595125562
+Mail address: yakubjalal89@yahoo.com
+Name :Jalaludeen Yakubu
+7/14/20, 12:04 - AI Derek: Antoinette Brew-Wartemberg 
+annette.karikari@gmail.com
+7/14/20, 12:05 - AI Derek: @233504782862 did you short list Linda Oranyo ?
+7/14/20, 12:05 - AI Derek: If not add her please
+7/14/20, 12:05 - Ḅj: yes
+7/14/20, 12:05 - AI Derek: Okay
+7/14/20, 12:05 - AI Derek: Then add any other person you can
+7/14/20, 12:07 - Ḅj: okay
+7/14/20, 17:03 - Ḅj: https://picampus-school.com/programme/school-of-ai/
+i guess what Notitia is doing is very similar to this but virtual
+7/14/20, 17:09 - AI Derek: The requirements alone
+7/14/20, 17:09 - AI Derek: lol
+7/14/20, 17:10 - Ḅj: 😂😂
+7/14/20, 17:10 - Ḅj: and it requires you to travel to rome
+7/14/20, 17:17 - AI Derek: Waaa look
+7/14/20, 17:18 - Ḅj: 😂
+7/14/20, 18:12 - Adwoa Notitia: Thats a good adventure, don’t you think 😂🤔?
+7/14/20, 18:13 - Ḅj: 😂😂
+7/14/20, 18:18 - Adwoa Notitia: Mails going out at 8pm today to winners - Content includes
+1. Congratulatory message
+2. Attached link for registration 
+3. Request for a portrait 
+
+
+Anything else please?
+7/14/20, 18:21 - AI Derek: That’s fine
+7/14/20, 18:27 - AI Derek: @233249435529 delete the charges for now
+7/14/20, 18:27 - Alex Notitia: Sure.
+7/14/20, 18:36 - Alex Notitia: Done.
+7/14/20, 18:36 - AI Derek: Nice
+7/14/20, 18:37 - AI Derek: When they are almost done with their mentoring program then we roll out the payment part for them to continue
+7/14/20, 18:38 - Ḅj: oh okay
+7/14/20, 18:41 - Ḅj: @233243319300 how far with the Africa AI Accelerator? Will we take part?
+7/14/20, 18:54 - AI Derek: No please
+7/14/20, 18:54 - AI Derek: We can look for others once we gain traction
+7/14/20, 18:55 - Ḅj: oh okay
+7/14/20, 18:55 - AI Derek: @233504782862 and @233249435529 we’ve got to work on this app for taxi drivers in Ghana
+7/14/20, 18:55 - AI Derek: And it should be powered by ML
+7/14/20, 18:56 - Ḅj: Oh okay
+7/14/20, 18:55 - AI Derek: I’ve discussed this with @233554349393 but we can make it more interesting if we are able to think through it
+7/14/20, 18:56 - AI Derek: It’s also going to be an Uber like app 
+
+But we are interested in the security of passengers
+7/14/20, 18:57 - AI Derek: So assuming you go to tech junction to pick a taxi going to campus all you need to do is to open your app and make sure you input the taxi car number and your destination on it
+7/14/20, 18:58 - AI Derek: And also if you take dropping or stop a taxi anywhere you make sure you input the car number and your destination on it
+7/14/20, 18:58 - AI Derek: This is to ensure your own security and to prevent cases of missing items and even robbery by some taxi drivers
+7/14/20, 18:59 - AI Derek: The driver will also have his app to get notifications of passengers who onboard his or her car
+7/14/20, 18:59 - AI Derek: What do you think?
+7/14/20, 18:59 - Ḅj: interesting
+7/14/20, 18:59 - AI Derek: It’s not for charging as in the case of Uber and others
+7/14/20, 18:59 - AI Derek: We are interested in Security first
+7/14/20, 19:00 - AI Derek: For drivers they can have dashboards that has information on their daily routines and how to maximize their work efficiently
+7/14/20, 19:00 - AI Derek: For this I can get a Reinforcement Learning model to do that
+7/14/20, 19:01 - AI Derek: By using maps drivers can locate places they can get passengers and where to pass to get them
+7/14/20, 19:02 - Ḅj: is there a way we can get a dataset of taxis in ghana corresponding to the car number and driver detail so we use computer vision in the app for users to just scan the plates instead of having to input the car number? for location we can use the geolocation handlers
+7/14/20, 19:03 - Ḅj: sure
+7/14/20, 19:03 - Ḅj: awesome
+7/14/20, 19:10 - AI Derek: I’ll find it
+7/14/20, 19:10 - AI Derek: If not we use the simulated data
+7/14/20, 19:11 - Ḅj: sure
+7/15/20, 11:09 - AI Derek: agelab.mit.edu/driveseg
+7/15/20, 11:09 - AI Derek: @233504782862
+7/15/20, 11:09 - AI Derek: Latest from MIT and Toyota
+7/15/20, 11:09 - AI Derek: We can use this simulated data
+7/15/20, 15:04 - Alex Notitia: The site is catching up fast with applicants. We now have 33 mentees.
+Somehow others got to know they can also apply via  the page. What's the next step of action ?.
+7/15/20, 15:05 - AI Derek: No Please we can’t allow
+7/15/20, 15:06 - AI Derek: Our 20 is our benchmark
+7/15/20, 15:07 - AI Derek: And they’ve not gone through our interviews
+7/15/20, 15:07 - AI Derek: So just let them sign up
+7/15/20, 15:07 - AI Derek: But we will attend to them later
+7/15/20, 15:07 - AI Derek: Not now
+7/15/20, 15:07 - Alex Notitia: Yeah. Am aware. I would only allow those on the list when it's time. @233246521995  send me the list.
+7/15/20, 15:08 - Norbert Notitia: <Media omitted>
+7/15/20, 15:17 - AI Derek: @233246521995 once they send please do send to Norbert
+7/15/20, 16:04 - Ḅj: okay
+7/15/20, 16:06 - Ḅj: I thinks some people posted their congratulatory mails on social media and this made others see the link
+7/15/20, 16:06 - Alex Notitia: Wow.
+7/15/20, 16:07 - Alex Notitia: Nice stuffs anyway.
+7/15/20, 16:07 - Ḅj: yeah
+7/15/20, 16:08 - Alex Notitia: No worries bro.
+7/15/20, 16:08 - Ḅj: sure
+7/15/20, 18:32 - Adwoa Notitia: 🥵🥵🥵.....how did they get the link?
+7/15/20, 18:32 - Adwoa Notitia: Ok
+7/15/20, 18:32 - Adwoa Notitia: @233504782862 please can you forward to @233249435529 for me please
+7/15/20, 18:32 - Adwoa Notitia: I am not by my laptop at the moment
+7/15/20, 18:33 - Ḅj: okay
+7/15/20, 18:33 - Adwoa Notitia: Ok sure....some people have
+7/15/20, 18:34 - Adwoa Notitia: I will forward them
+7/15/20, 18:34 - Adwoa Notitia: @233554349393 please send me your email address
+7/15/20, 18:36 - Adwoa Notitia: Thanks
+7/15/20, 18:38 - Ḅj: I have 19 people
+7/15/20, 18:38 - Adwoa Notitia: Yes it was 19 yesterday
+7/15/20, 18:38 - Adwoa Notitia: And two people’s email get bouncing back
+7/15/20, 18:39 - Adwoa Notitia: Racheal obafumilayo lijadu
+7/15/20, 18:39 - Ḅj: oh okay
+7/15/20, 18:40 - Ḅj: i'll cross check
+7/15/20, 18:41 - Adwoa Notitia: *Racheal and obafumilayo lijadu
+7/15/20, 18:41 - Ḅj: sure
+7/15/20, 18:49 - Ḅj: these are the correct ones
+7/15/20, 18:49 - Ḅj: Racheal Arkorful - rachealarkorful@gmail.com
+7/15/20, 18:50 - Ḅj: Obafunmilayo Lijadu - lijsamobafunmilayo@gmail.com
+7/15/20, 18:50 - Adwoa Notitia: Ok thanks
+7/15/20, 18:51 - Ḅj: don't mention
+7/18/20, 09:22 - AI Derek: Good morning everyone
+7/18/20, 09:22 - AI Derek: Hope we good
+7/18/20, 09:23 - AI Derek: @233246521995 & @233504782862 were you able to send the mails
+7/18/20, 09:23 - AI Derek: And have you got all the feedbacks
+7/18/20, 09:24 - Ḅj: good morning Derek
+7/18/20, 09:24 - Ḅj: yes please
+7/18/20, 09:25 - Ḅj: yeah we did
+7/18/20, 09:25 - Ḅj: @233246521995
+7/18/20, 09:59 - Adwoa Notitia: Good morning
+7/18/20, 10:00 - Adwoa Notitia: Yes, i forwarded the portraits i got to @233554349393 yesterday
+7/18/20, 10:31 - AI Derek: Great
+7/18/20, 10:32 - AI Derek: If all the 20 are ready we can create a group for them then
+7/18/20, 10:32 - AI Derek: And add us so we can communicate with them
+7/18/20, 11:05 - Norbert Notitia: Sure👌🏽
+7/18/20, 11:05 - Norbert Notitia: Working on flier templates and Welcome templates as well
+7/18/20, 11:08 - Ḅj: nicee
+7/20/20, 17:55 - Norbert Notitia: @233246521995 can you send me names attached to the pictures?
+7/20/20, 19:38 - Adwoa Notitia: Ok sure
+7/22/20, 14:16 - Norbert Notitia: <Media omitted>
+7/22/20, 14:17 - Ḅj: awesome
+7/22/20, 14:24 - AI Derek: Nice
+7/22/20, 14:24 - AI Derek: @233504782862 I’m sending you something to edit
+7/22/20, 14:26 - Ḅj: sure
+7/22/20, 15:37 - Alex Notitia: Great
+7/22/20, 16:20 - Norbert Notitia: Hi Derek, As discussed yesterday can we get the timetable for the mentoring program, the list of the mentors, the activity plan, curriculum etc. We also need to schedule a call with the participants and take them through some short orientation on what to expect
+7/22/20, 16:21 - Norbert Notitia: If we can start working on this as soon as possible we can make some real progree
+7/22/20, 18:17 - AI Derek: You’ve to gimme up to Friday
+7/22/20, 18:17 - AI Derek: Got some tight work to do ASAP
+7/22/20, 18:17 - Norbert Notitia: Sure
+7/23/20, 15:06 - Ḅj: Hello guys
+7/23/20, 15:06 - Ḅj: good afternoon
+7/23/20, 15:06 - Ḅj: I have completed the Onboarding survey for the applicants the @233243319300 asked me to do
+7/23/20, 15:06 - Ḅj: https://notitia-ai.typeform.com/to/HfRyZrpu
+7/23/20, 15:07 - Ḅj: please try to go through ans submit a response for every question so i can know if verything is working
+7/23/20, 15:08 - Ḅj: and*
+7/23/20, 16:14 - AI Derek: Perfect @233504782862
+7/23/20, 16:15 - Ḅj: 🙌
+7/23/20, 16:15 - AI Derek: So guys this is supposed to be our terms and conditions with the mentees
+7/23/20, 16:15 - AI Derek: @233554349393 review it
+7/23/20, 16:15 - Ḅj: sure
+7/23/20, 16:15 - AI Derek: We can send to them their emails tomorrow’s
+7/23/20, 16:15 - Ḅj: okay
+7/23/20, 16:15 - AI Derek: We are starting the mentoring program from August 3rd
+7/23/20, 16:16 - Ḅj: okay
+7/23/20, 16:29 - Norbert Notitia: Looks good
+7/23/20, 16:31 - Ḅj: did you receive a notification email after completing it?
+7/23/20, 16:32 - Norbert Notitia: Not Yet
+7/23/20, 16:32 - Ḅj: okay
+7/23/20, 16:33 - Ḅj: you should receive it in a few minutes
+7/23/20, 16:35 - AI Derek: Cool
+7/23/20, 16:55 - Norbert Notitia: Received
+7/23/20, 16:55 - Ḅj: great
+7/23/20, 17:17 - AI Derek: <Media omitted>
+7/23/20, 17:17 - Ḅj: okay
+7/23/20, 17:18 - Ḅj: done
+7/23/20, 17:18 - AI Derek: Sharp
+7/23/20, 17:19 - Ḅj: 😁
+7/23/20, 18:05 - Norbert Notitia: I need the list of selected participants with their name attached and nationality and other info that i may need
+7/23/20, 18:06 - Ḅj: okay
+7/23/20, 21:45 - Norbert Notitia: <Media omitted>
+7/23/20, 21:46 - Ḅj: cool😍
+7/23/20, 22:07 - AI Derek: Cool
+7/23/20, 22:51 - Norbert Notitia: <Media omitted>
+7/23/20, 22:52 - Ḅj: awesome
+7/23/20, 22:55 - AI Derek: 🔥🔥
+7/24/20, 00:06 - Alex Notitia: Great stuffs, guys.
+Once you're ready alert me.
+They would be approved asap.
+7/24/20, 00:07 - Ḅj: sure
+7/24/20, 09:46 - Norbert Notitia: Hi guys. Kindly send me your pictures as well.
+7/24/20, 09:46 - Norbert Notitia: Thanks.
+7/24/20, 10:28 - Norbert Notitia: <Media omitted>
+7/24/20, 10:28 - Norbert Notitia: <Media omitted>
+7/24/20, 10:28 - Norbert Notitia: <Media omitted>
+7/24/20, 10:28 - Norbert Notitia: <Media omitted>
+7/24/20, 10:28 - Norbert Notitia: <Media omitted>
+7/24/20, 10:28 - Adwoa Notitia: Niceee
+7/24/20, 10:28 - Adwoa Notitia: Ok
+7/24/20, 10:29 - Adwoa Notitia: 🙏🏾
+7/24/20, 10:34 - AI Derek: Cool 😎
+7/24/20, 13:11 - Norbert Notitia: Can we create the group and add them all?
+7/24/20, 13:12 - Norbert Notitia: So we can start with the orientation and on-boarding
+7/24/20, 13:12 - Norbert Notitia: its been like 3 weeks since we did the interview
+7/24/20, 13:12 - Ḅj: okay
+7/24/20, 13:13 - Ḅj: let's create the group and send the invite links to their emails when we send the flyers and onboarding email
+7/24/20, 13:13 - Norbert Notitia: So Adwoa can handle communications there
+7/24/20, 13:14 - Norbert Notitia: Can we all jump on a quick call on Saturday evening @233243319300
+7/24/20, 13:16 - Ḅj: sure
+7/24/20, 13:18 - AI Derek: No problem
+7/24/20, 13:18 - AI Derek: I dey
+7/24/20, 13:34 - Adwoa Notitia: 🤝
+7/24/20, 13:34 - Adwoa Notitia: 👍🏾
+7/24/20, 21:38 - Norbert Notitia: Any updates on this?
+7/24/20, 21:39 - Ḅj: are the flyers ready?
+7/24/20, 21:40 - Norbert Notitia: Yes.
+7/24/20, 21:41 - Ḅj: great
+7/24/20, 21:41 - Adwoa Notitia: Please i need confirmation on the email and the content
+7/24/20, 21:44 - Norbert Notitia: <Media omitted>
+7/24/20, 21:44 - Ḅj: do you have a draft?
+7/24/20, 21:45 - Norbert Notitia: For the Onboarding?
+7/24/20, 21:45 - Adwoa Notitia: Yes please
+7/24/20, 21:46 - Adwoa Notitia: I mean what exactly is the onboarding mail going to contain apart from the fliers and WhatsApp link?
+7/24/20, 21:46 - Ḅj: like finalizing the application process i think
+7/24/20, 21:48 - Adwoa Notitia: Ok but what are the final content for that bit please??
+7/24/20, 21:48 - Adwoa Notitia: Contents*
+7/24/20, 21:53 - Adwoa Notitia: https://chat.whatsapp.com/KNP2uZEcI4e8hW0otRnPb6
+7/24/20, 21:58 - Ḅj: Notitia AI Onboarding
+
+Dear Aspiring Data Scientist,
+I hope this email reaches you in good health. Congrats on making it this far with your application. You're almost there, complete our onboarding survey and accept our terms and conditions to finalize your application. You will find attached to this email a link to take the onboarding survey and another link to join our whatsapp group so we can reach you faster.
+
+Best wishes,
+Notitia AI
+
+Onboarding survey link: https://notitia-ai.typeform.com/to/HfRyZrpu
+
+Whatsapp group link: https://chat.whatsapp.com/KNP2uZEcI4e8hW0otRnPb6
+7/24/20, 21:59 - Ḅj: @233246521995 how's this?
+7/24/20, 21:59 - Adwoa Notitia: Ohk its a survey link
+7/24/20, 21:59 - Adwoa Notitia: Got it thanks
+7/24/20, 22:00 - Ḅj: yeah
+7/24/20, 22:00 - Ḅj: ahh oh okay
+7/24/20, 22:00 - Adwoa Notitia: 😂
+7/24/20, 22:00 - Ḅj: i now understand what you meant
+7/24/20, 22:00 - Adwoa Notitia: Confusion left right center 😂
+7/24/20, 22:00 - Ḅj: 😂
+7/24/20, 22:00 - Adwoa Notitia: Thanks for the draft😂
+7/24/20, 22:00 - Adwoa Notitia: You like writing ampa
+7/24/20, 22:01 - Ḅj: 😂😂😂
+7/24/20, 22:02 - Ḅj: ask then to tag us on social media when they post their flyers😁
+7/24/20, 22:02 - Adwoa Notitia: Will send the mail when the fliers are ready🙏🏾😍
+7/24/20, 22:03 - Adwoa Notitia: 👍🏾👍🏾👍🏾🔥🔥🔥🔥🔥
+7/24/20, 22:03 - Ḅj: sure
+7/24/20, 22:30 - Norbert Notitia: @233243319300 for the mentors can we get some from Zindi, Deep learning Indaba Data Science Kenya, Data Science Nigeria
+7/24/20, 22:31 - Norbert Notitia: So we'll have them as partners.
+7/24/20, 22:36 - Norbert Notitia: @233504782862 can you prepare an orientation and Onboarding plan and schedule?
+7/24/20, 22:37 - Ḅj: sure
+7/24/20, 22:37 - Norbert Notitia: Sure. So we'll start sharing their profile on our socials
+7/24/20, 22:38 - Ḅj: okay
+7/24/20, 22:39 - Adwoa Notitia: Can i start sending the emails with the fliers i have?
+7/24/20, 22:40 - Norbert Notitia: Yes Madam
+7/24/20, 22:40 - Adwoa Notitia: 👍🏾
+7/24/20, 22:41 - Norbert Notitia: In our call tomorrow we'll discuss the plan @233504782862 will be working on, we'll work on our plan for next 3 months and the way forward
+7/24/20, 22:42 - Norbert Notitia: @233246521995 there's much work to do from your side. We'll have to onboard some few partners to let's work on That. Once @233243319300 confirms we can proceed
+7/24/20, 22:43 - Adwoa Notitia: Ok 👍🏾
+7/24/20, 22:43 - Adwoa Notitia: Standing by
+7/24/20, 22:54 - Norbert Notitia: @233504782862 what programing language did you use for the site
+7/24/20, 22:54 - Ḅj: the notitia site?
+7/24/20, 22:54 - Norbert Notitia: Yes Sir
+7/24/20, 22:54 - Ḅj: @233249435529 built it
+7/24/20, 22:55 - Norbert Notitia: What language did he use
+7/24/20, 22:57 - Ḅj: since its on the wp engine he used php and idk for the general frontend nut he used vue and react for some parts
+7/24/20, 23:00 - AI Derek: Oh yes
+7/24/20, 23:00 - AI Derek: From Monday the mentors will be joining
+7/24/20, 23:00 - AI Derek: Had worked on 5 so far
+7/24/20, 23:00 - AI Derek: Gonna be exciting too
+7/24/20, 23:01 - AI Derek: Will work on the materials this weekend too
+7/24/20, 23:01 - Ḅj: awesome
+7/24/20, 23:06 - AI Derek: When can we start our project too
+7/24/20, 23:07 - AI Derek: You’ve got dataset now ?
+7/24/20, 23:07 - Ḅj: the career model?
+7/24/20, 23:07 - Ḅj: or the taxi project
+7/24/20, 23:07 - Norbert Notitia: Awesome. Can we get their details. We can create a googl forms and share with them. So we can have all these things documented
+7/24/20, 23:08 - Norbert Notitia: @233246521995 can work on the partnerships bit
+7/24/20, 23:09 - AI Derek: The taxi one
+7/24/20, 23:10 - AI Derek: The career one too we’ve to work on it
+7/24/20, 23:10 - Ḅj: okay
+7/24/20, 23:10 - AI Derek: Sure
+7/24/20, 23:10 - AI Derek: I’ll get their details tomorrow
+7/24/20, 23:10 - Norbert Notitia: @233243319300 the project I dicsus plus you too
+7/24/20, 23:11 - Ḅj: i checked out the simulated data you sent. It was pretty much like for self-driving cars
+7/24/20, 23:11 - AI Derek: Okay
+7/24/20, 23:11 - AI Derek: Let’s see from next week
+7/24/20, 23:11 - Ḅj: sure
+7/24/20, 23:11 - Ḅj: i'll dm about it
+7/24/20, 23:12 - AI Derek: Okay cool
+7/24/20, 23:12 - Ḅj: sure
+7/25/20, 01:06 - Alex Notitia: Great stuffs.
+7/25/20, 08:30 - Norbert Notitia: <Media omitted>
+7/25/20, 08:30 - Norbert Notitia: Kindly share
+7/25/20, 09:47 - AI Derek: Sharp
+7/25/20, 12:25 - Ḅj: please check this out and let me know what you think
+7/25/20, 12:25 - Ḅj: https://docs.google.com/document/d/1N9eMYW1U-dg7Ec1sIhotdIJa_U1Ilmai4_KrG_vwGwY/edit?usp=sharing
+7/25/20, 12:26 - Ḅj: @233554349393 @233246521995 @233243319300
+7/25/20, 13:08 - AI Derek: Cool
+7/25/20, 13:34 - Norbert Notitia: Awesome
+7/25/20, 13:35 - Norbert Notitia: Do you have the code of conduct drafted?
+7/25/20, 13:35 - Norbert Notitia: And other items ready so once we jump on the call with them we can share?
+7/25/20, 13:37 - Ḅj: sure
+7/25/20, 13:37 - Ḅj: I'll work on it
+7/25/20, 13:39 - Ḅj: i think we should also create a github organization for code submissions and projects
+7/25/20, 13:58 - AI Derek: yes do it
+7/25/20, 14:05 - Ḅj: okay
+7/25/20, 14:47 - Ḅj: done with the code of conduct and organization
+7/25/20, 14:48 - Ḅj: i think i have sent invites to your emails to join the organization
+7/25/20, 14:48 - Ḅj: i'll add the mentees soon
+7/25/20, 19:23 - Norbert Notitia: Hi everyone
+7/25/20, 19:35 - Ḅj: hello Norbert
+7/25/20, 20:01 - AI Derek: Meeting time ?
+7/25/20, 20:01 - Norbert Notitia: 8 30
+7/25/20, 20:01 - Sadat Notitia: Hi
+7/25/20, 20:01 - Sadat Notitia: Noted*
+7/25/20, 20:02 - Ḅj: 👍🏾
+7/25/20, 20:02 - AI Derek: Okay
+7/25/20, 20:28 - Norbert Notitia: Meeting URL: https://meet.google.com/wxx-iuqj-gdz
+Phone: +27 10 823 0706 PIN: 216 128 885#
+More numbers: https://t.meet/wxx-iuqj-gdz
+7/25/20, 20:40 - Norbert Notitia: Hi Guys Please its time
+7/25/20, 20:47 - AI Derek: Cool
+7/25/20, 20:47 - AI Derek: Joining now
+7/25/20, 20:50 - AI Derek: Allow me in please
+7/25/20, 21:46 - Adwoa Notitia: This message was deleted
+7/25/20, 21:48 - Adwoa Notitia: This message was deleted
+7/25/20, 22:19 - Adwoa Notitia: Updated Notitia minutes 25/07/2020
+
+✨Moderator: Norbert
+Opening remarks: Norbert gave an overview of Notitia and commended the team for a good work done so  far. 
+Jerry was asked to finalize the last bit of the onboarding arrangements and also get a full weekly program schedule till the end of the mentoring program.
+
+Norbert also highlighted on the projects to be done and adopt some project models and gigs for the mentees. This would help them get real industry experiences. 
+
+Mentees will be divided into 4 groups to enable effective mentoring between mentees and mentors.
+
+Ernestina will correspond with team to work on negotiation and partnership acquisitions.
+Jerry suggested that skilled mentees be made to serve as volunteers in the future for Notitia.
+He also mentioned that, mentees with different backgrounds should be given tailored projects to boost their expertise. Norbert added that, mentees would be asked their areas of interest.
+
+There will be an agile training too for mentees.
+Derek added that, mentees will be made to work on 6 projects and highlighted that mentorship needs commitment.
+He also said he has spoken to about 4 mentors to be on board.
+
+Tasks: 
+1. Jerry- i. To work on onboarding schedule and contents. 
+ii. Creation of weekly program schedule till the end of the mentorship.
+
+2. Ernestina- i. Letter of Partnership request and project negotiations. 
+
+3. Sadat- In charge of soft skills and professional development of mentees
+
+4. Derek and Norbert- overall correspondence.
+
+
+Conclusion:
+-Team mates were cautioned to exhibit professionalism in everything that will be done in the name of Notitia.
+-Onboarding participants through a virtual call has been scheduled for 26/07/2020, 6pm /8pm.
+7/25/20, 22:27 - Adwoa Notitia: Notitia AI Virtual Meeting 
+
+Dear Aspiring Data Scientist,
+
+You are invited to a virtual meeting tomorrow 26/07/2020 at 6pm Ghana time. 
+
+Purpose of meeting: Mentees Orientation and onboarding.
+Please find attached the zoom details.
+
+Best wishes
+Notitia
+
+Zoom Details👇🏾:
+You have been invited to the following event.
+Onboarding of Participants
+When
+Sun Jul 26, 2020 6pm – 8pm Greenwich Mean Time - Accra	
+Where
+https://zoom.us/j/94945565957?pwd=SlVuOENLbnJGcVJrNGNmOTRtV2cvZz09 (map)	
+Joining info
+Join with Google Meet		meet.google.com/mda-tqqa-ohd				Join by phone		+27 10 823 0396 (PIN: 824722086)				More phone numbers	
+Calendar
+ernestina6229@gmail.com	
+Who
+•	
+norbert@ghanatechlab.com - organizer
+•	
+buabajerry@gmail.com
+•	
+ernestina6229@gmail.com
+ more details »
+Norbert is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://zoom.us/j/94945565957?pwd=SlVuOENLbnJGcVJrNGNmOTRtV2cvZz09
+
+Meeting ID: 949 4556 5957
+Passcode: 981735
+One tap mobile
++13017158592,,94945565957# US (Germantown)
++13126266799,,94945565957# US (Chicago)
+
+Dial by your location
+        +1 301 715 8592 US (Germantown)
+        +1 312 626 6799 US (Chicago)
+        +1 346 248 7799 US (Houston)
+        +1 669 900 6833 US (San Jose)
+        +1 929 436 2866 US (New York)
+        +1 253 215 8782 US (Tacoma)
+Meeting ID: 949 4556 5957
+Find your local number: https://zoom.us/u/ad52ANmdoY
+
+Going (ernestina6229@gmail.com)?   Yes - Maybe - No    more options »
+Invitation from Google Calendar
+
+You are receiving this email at the account ernestina6229@gmail.com because you are subscribed for invitations on calendar ernestina6229@gmail.com.
+
+To stop receiving these emails, please log in to https://www.google.com/calendar/ and change your notification settings for this calendar.
+
+Forwarding this invitation could allow any recipient to send a response to the organizer and be added to the guest list, or invite others regardless of their own invitation status, or to modify your RSVP. Learn More.
+7/25/20, 22:28 - Adwoa Notitia: Please i hope its okay?
+7/25/20, 22:28 - Ḅj: Yeah it is
+7/25/20, 22:29 - Adwoa Notitia: Alright
+7/25/20, 22:29 - Adwoa Notitia: Sending now
+7/25/20, 22:31 - Norbert Notitia: 🙆🏾‍♂️
+7/25/20, 22:32 - Norbert Notitia: My work email 🙆🏾‍♂️
+7/25/20, 22:33 - Ḅj: Yie
+7/25/20, 22:33 - Adwoa Notitia: I took it off now
+7/25/20, 22:34 - Adwoa Notitia: Only two participants saw it
+7/26/20, 00:10 - Alex Notitia: Great stuffs guys.
+Am now available to join the party.
+I've missed a lot papa.
+7/26/20, 07:08 - Norbert Notitia: Lol
+7/26/20, 07:08 - Norbert Notitia: We'll brief you
+7/26/20, 12:22 - Ḅj: Good morning bosses
+7/26/20, 12:23 - Ḅj: Did a little something with the data i collected
+7/26/20, 12:23 - Norbert Notitia: From the participants?
+7/26/20, 12:23 - Ḅj: yeah
+7/26/20, 12:24 - Ḅj: <Media omitted>
+7/26/20, 12:24 - Ḅj: <Media omitted>
+7/26/20, 12:24 - Ḅj: <Media omitted>
+7/26/20, 12:24 - Ḅj: <Media omitted>
+7/26/20, 12:24 - Ḅj: <Media omitted>
+7/26/20, 12:24 - Ḅj: <Media omitted>
+7/26/20, 12:24 - Ḅj: <Media omitted>
+7/26/20, 12:26 - AI Derek: Good one
+7/26/20, 12:26 - AI Derek: Happy to see no non science people
+7/26/20, 12:27 - Ḅj: 😂
+7/26/20, 12:27 - AI Derek: Hehe
+7/26/20, 12:28 - AI Derek: @233247936396 read sociology 
+
+Buh he’s more than a com science student
+7/26/20, 12:28 - AI Derek: And @233554349393 too
+7/26/20, 12:28 - Sadat Notitia: 🤣🤣
+7/26/20, 12:28 - Ḅj: and me😁
+7/26/20, 12:28 - AI Derek: You dea different level
+7/26/20, 12:28 - Ḅj: I remember Sadat from cybertekvalley
+7/26/20, 12:29 - Ḅj: 😂
+7/26/20, 12:29 - Sadat Notitia: Comp science department say them no go take me oo sake of ano read science for shs, wey ano do am for uni so common msc I.t kraa ab) me 🤣
+7/26/20, 12:29 - AI Derek: Wassup with that group
+7/26/20, 12:29 - Sadat Notitia: Yh yh I remember you paa
+7/26/20, 12:29 - AI Derek: 😹😹
+7/26/20, 12:29 - Ḅj: oh
+7/26/20, 12:29 - AI Derek: Unless PhD
+7/26/20, 12:30 - Ḅj: nothing really. Once a while then we talk about something
+7/26/20, 12:30 - Sadat Notitia: Permanent halt
+7/26/20, 12:30 - Ḅj: 🙌
+7/26/20, 12:30 - AI Derek: If medical school pick me like by now o turn Doctor
+7/26/20, 12:30 - Sadat Notitia: Waa look
+7/26/20, 12:30 - AI Derek: Oh okay
+7/26/20, 12:30 - Sadat Notitia: Dr leaf🤣
+7/26/20, 12:31 - AI Derek: Yh PhD dea you fi do am in anything
+7/26/20, 12:31 - AI Derek: E be study of philosophies
+7/26/20, 12:31 - Ḅj: 😂😂😂
+7/26/20, 12:31 - AI Derek: Nothing special
+7/26/20, 12:31 - AI Derek: 😹😹😹😹
+7/26/20, 12:31 - Sadat Notitia: It's all good now interest has brought all of us here
+7/26/20, 12:32 - Ḅj: exactly
+7/26/20, 12:32 - AI Derek: Oh yh
+7/26/20, 12:32 - AI Derek: Cos me ankasa dea the Doctor like ah to kill more people
+7/26/20, 12:32 - Sadat Notitia: <Media omitted>
+7/26/20, 12:32 - Ḅj: 😂😂😂😂😂😂😂
+7/26/20, 12:33 - AI Derek: Cos den e be my old boy he dey wan make I read Medicine
+7/26/20, 12:33 - AI Derek: Den my mind dey consulting that time
+7/26/20, 12:33 - Ḅj: oh okay
+7/26/20, 12:34 - Ḅj: how did he take it?
+7/26/20, 12:34 - AI Derek: He die before ah finish SHS saf
+7/26/20, 12:35 - Ḅj: oh slow
+7/26/20, 12:35 - AI Derek: Buh den old girl say ah for do sicof old boy talk
+7/26/20, 12:35 - AI Derek: So ah for fulfil am
+7/26/20, 12:35 - Sadat Notitia: <Media omitted>
+7/26/20, 12:35 - Ḅj: 😂
+7/26/20, 12:36 - AI Derek: Buh as e no work dea 
+
+The Actuarial science saf still dem no dey barb
+7/26/20, 12:36 - AI Derek: 😹😹
+7/26/20, 12:36 - Ḅj: 😂😂
+7/26/20, 12:36 - Sadat Notitia: Lol
+7/26/20, 12:40 - Adwoa Notitia: 😍🔥👍🏾
+7/26/20, 12:42 - Ḅj: 🙌🙌
+7/26/20, 17:28 - Norbert Notitia: <Media omitted>
+7/26/20, 17:28 - Norbert Notitia: @233246521995
+7/26/20, 17:29 - Norbert Notitia: @233246521995 I don't have Clare's picture
+7/26/20, 17:29 - Norbert Notitia: Can you double check from your end?
+7/26/20, 17:29 - Norbert Notitia: And with Her possibly.
+7/26/20, 17:30 - Adwoa Notitia: Sending it now
+7/26/20, 17:55 - AI Derek: Time for meeting?
+7/26/20, 17:55 - Ḅj: 6pm
+7/26/20, 17:55 - AI Derek: @233554349393 Start the meeting
+7/26/20, 17:55 - AI Derek: I’m in the waiting area
+7/26/20, 17:55 - AI Derek: Okay
+7/26/20, 17:55 - Norbert Notitia: Started
+7/26/20, 17:56 - AI Derek: Sure
+7/26/20, 18:04 - Norbert Notitia: <Media omitted>
+7/26/20, 18:05 - Norbert Notitia: So we are starting
+7/26/20, 18:05 - Norbert Notitia: Jerry
+7/26/20, 18:06 - Norbert Notitia: Are you ready?
+7/26/20, 18:06 - Ḅj: sure
+7/26/20, 18:06 - Norbert Notitia: Derek?
+7/26/20, 18:06 - AI Derek: Ready
+7/26/20, 18:06 - Norbert Notitia: Awesome
+7/26/20, 18:06 - Norbert Notitia: Is the entire team on the call?
+7/26/20, 18:07 - Norbert Notitia: I will be doing intros
+7/26/20, 18:07 - Ḅj: @233246521995 @233249435529 @233247936396
+7/26/20, 18:07 - Adwoa Notitia: 👍🏾
+7/26/20, 19:00 - Norbert Notitia: Clare's picture
+7/26/20, 19:01 - Adwoa Notitia: Please i sent it oo
+7/26/20, 19:09 - Norbert Notitia: <Media omitted>
+7/26/20, 19:09 - Adwoa Notitia: 🙏🏾🙏🏾
+7/26/20, 19:09 - Adwoa Notitia: I will forward tothe page
+7/26/20, 19:10 - Norbert Notitia: <Media omitted>
+7/26/20, 19:10 - Adwoa Notitia: Norbert
+7/26/20, 19:11 - Adwoa Notitia: His name is Obaf un milayo
+7/26/20, 19:11 - Adwoa Notitia: Kindly recheck
+7/26/20, 19:12 - Norbert Notitia: <Media omitted>
+7/26/20, 19:13 - Norbert Notitia: Just checked with his zoom name. It matches with the one I kept there
+7/26/20, 19:14 - Adwoa Notitia: Woow
+7/26/20, 19:14 - Adwoa Notitia: <Media omitted>
+7/26/20, 19:14 - Ḅj: you made it double m instead of nm
+7/26/20, 19:15 - Adwoa Notitia: This is what he himself wrote
+7/26/20, 19:18 - Norbert Notitia: <Media omitted>
+7/26/20, 19:19 - Norbert Notitia: Now getting what you were pointing at
+7/26/20, 19:19 - Norbert Notitia: I'll correct it
+7/26/20, 19:21 - Norbert Notitia: <Media omitted>
+7/26/20, 19:21 - Norbert Notitia: Corrected
+7/26/20, 19:22 - Adwoa Notitia: 🙏🏾
+7/26/20, 19:30 - Norbert Notitia: <Media omitted>
+7/26/20, 19:44 - Adwoa Notitia: Notitia AI Mentees Orientation Minutes 26/07/2020
+Total number on call: 25
+Moderator: Norbert 
+
+Norbert gave a welcome message. Team mates introduced themselves followed by a welcome message from co-founder Derek.
+
+Mentees also introduced themselves and highlighted on their expectations for joining Notitia. Co-founder Derek took over from there  to talk about what being a data scientist is all about, the challenges of being a data scientist and things to know before one gets into data science. He also added what Notitia is about and how Notitia will help mentees realize their dream. 
+In conclusion, Derek shared some productivity tips and applications. 
+
+Jerry took mentees through the Notitia site. 
+Norbert concluded the meeting by asking for questions, comments, feedback etc 
+He also added that the program timetable would be shared with the mentees in the coming weeks.
+
+Signed📝
+Ernestina
+7/26/20, 19:46 - Sadat Notitia: 🤝🏼🤝🏼
+7/26/20, 19:48 - AI Derek: 😘😘
+7/26/20, 19:49 - AI Derek: Adwoa I’ve shared the slides with you
+7/26/20, 19:49 - AI Derek: So please share with them
+7/26/20, 19:50 - Adwoa Notitia: 🙏🏾🙏🏾🙏🏾👍🏾
+7/26/20, 20:26 - Ḅj: I think we did great
+7/26/20, 20:27 - AI Derek: Oh yes
+7/26/20, 20:28 - Ḅj: 🙌
+7/26/20, 22:00 - Sadat Notitia: 👍🏼
+7/26/20, 22:38 - Alex Notitia: Hello everyone. When should i approve our mentees ?
+7/26/20, 22:40 - Ḅj: are the courses ready?
+7/26/20, 22:41 - Ḅj: i think we should approve when the first course is ready
+7/26/20, 23:41 - Alex Notitia: Great
+7/26/20, 23:41 - Ḅj: And Alex with what we spoke about the responsive progress bars..
+7/26/20, 23:42 - Alex Notitia: Yeah. No worries bro.
+7/26/20, 23:42 - Ḅj: sure🙌
+7/26/20, 23:42 - Ḅj: We'll chat tomorrow😁
+7/26/20, 23:44 - Alex Notitia: Vim
+7/27/20, 05:57 - AI Derek: Yes you’ve to
+7/27/20, 17:13 - Norbert Notitia: Hi @233243319300 any updates on the mentors?
+7/27/20, 18:26 - AI Derek: Yes I’ll confirm their availability for a session soon
+7/27/20, 18:27 - AI Derek: But in the mean time we’ve to arrange for 5 day session for the mentees by @233504782862
+7/27/20, 18:27 - AI Derek: I’ll upload the outline this evening
+7/27/20, 18:28 - Ḅj: 5 day consecutive?
+7/27/20, 18:29 - Norbert Notitia: Can we get their details once they confirm. We'll profile them as well
+7/27/20, 18:30 - AI Derek: Oh it can be for a week
+7/27/20, 18:37 - Ḅj: sure
+7/27/20, 18:38 - Ḅj: also, I installed a voting bot on the slack workspace so we'll choose a few times we'll be available to meet then we'll set them as options for the people to vote and select one
+7/28/20, 08:51 - AI Derek: Good morning everyone
+7/28/20, 08:51 - AI Derek: hope we good
+7/28/20, 08:52 - AI Derek: <Media omitted>
+7/28/20, 08:52 - AI Derek: this is the 5 day training i was talking about
+7/28/20, 08:52 - AI Derek: @233504782862 hope you can take it
+7/28/20, 09:00 - Ḅj: Sure u can take most of it
+7/28/20, 09:00 - Ḅj: I*
+7/28/20, 09:01 - AI Derek: sure
+7/28/20, 09:02 - AI Derek: so prepare and lets see if we can start this friday
+7/28/20, 09:02 - Ḅj: Okay
+7/28/20, 09:02 - AI Derek: the mentors are. likely to be on this sunday too
+7/28/20, 09:02 - Ḅj: Great
+7/28/20, 09:03 - Ḅj: *understanding the role of the stakeholders
+
+You're referring to the Notitia stakeholders here?
+7/28/20, 09:03 - AI Derek: leave that part
+7/28/20, 09:04 - AI Derek: i will handle
+7/28/20, 09:04 - Ḅj: Okay
+7/28/20, 09:05 - AI Derek: sure
+7/28/20, 09:29 - Norbert Notitia: @233243319300 e do aaa I go hia dema pictures and details for profiling
+7/28/20, 10:16 - AI Derek: Sure
+7/28/20, 10:19 - Alex Notitia: Am available guys.
+
+@233504782862 ,am working on the newsletter stuffs. 
+I would make it available tomorrow.
+7/28/20, 10:20 - Norbert Notitia: Awesome
+7/28/20, 10:20 - Alex Notitia: @233246521995 what's your experience level with CRM tools ?.
+7/28/20, 10:21 - Alex Notitia: 👍🏿
+7/28/20, 11:00 - AI Derek: <Media omitted>
+7/28/20, 11:01 - AI Derek: check it out before. i send to mentors
+7/28/20, 11:03 - Alex Notitia: Sure
+7/28/20, 11:11 - Alex Notitia: It looks ok.
+7/28/20, 11:11 - AI Derek: sure
+7/28/20, 11:44 - Ḅj: great!
+7/28/20, 12:27 - Ḅj: @233554349393 please is the recording for the on-boarding available?
+7/28/20, 13:24 - Norbert Notitia: Yes please
+7/28/20, 13:25 - Ḅj: Please send me the link to it
+7/28/20, 13:25 - Norbert Notitia: Share recording with viewers:
+https://zoom.us/rec/share/udxaBIHf819LY4nTxWzwZIMjAJzrX6a8gCBP-PIOyk0qf0HqO2yT19QiDRJBEXpP Password: jXL3t6*?
+7/28/20, 13:30 - Ḅj: Thanks!
+7/28/20, 13:34 - AI Derek: Nice
+7/28/20, 13:35 - Norbert Notitia: That's the link with the password
+7/28/20, 13:38 - Ḅj: Yeah thank you
+7/28/20, 21:26 - Norbert Notitia: Hi Team.
+7/28/20, 21:26 - Norbert Notitia: @233246521995 has everyone received their welcome fliers?
+7/28/20, 22:52 - AI Derek: Norbert the certificate too how far
+7/29/20, 05:44 - Norbert Notitia: E make ready o. I forget I go send
+7/29/20, 13:15 - Ḅj: @233554349393 I'm working on the newsletters
+7/29/20, 13:15 - Ḅj: can i have the Logo
+7/29/20, 13:41 - Adwoa Notitia: No please...its left with Jalaludeen
+7/29/20, 13:41 - Adwoa Notitia: I haven’t seen that of Racheal Akorful too
+7/29/20, 13:54 - Ḅj: She has hers
+7/29/20, 14:01 - Norbert Notitia: <Media omitted>
+7/29/20, 14:03 - AI Derek: Send the certificate
+7/30/20, 16:51 - Ḅj: Please check this out guys
+7/30/20, 16:51 - Ḅj: http://www.thegradientboost.com/
+7/30/20, 16:53 - Norbert Notitia: Wow
+7/30/20, 16:53 - Norbert Notitia: Same as we're doing.
+7/30/20, 16:55 - Ḅj: Yeah. But it's relatively quite new and now looking for a team of mentors and all
+7/30/20, 16:55 - Norbert Notitia: Yeahhh
+7/30/20, 16:55 - Ḅj: We can easily win this space through publicizing our brand
+7/30/20, 16:56 - Ḅj: More active social media engagements and pushing our name out there and we'll easily overshadow them
+7/30/20, 16:57 - Ḅj: We can also make certain preparations and incentives for our mentees and make our program more desirable than it is now
+7/30/20, 17:12 - Norbert Notitia: We're strongly positioned.
+7/30/20, 17:12 - Norbert Notitia: We just need to make our first cohort work
+7/30/20, 17:16 - Ḅj: Exactly
+7/30/20, 17:17 - AI Derek: Oh yh
+7/30/20, 17:17 - AI Derek: Everything is set
+7/30/20, 17:18 - AI Derek: We should communicate with the students that mentoring officially start on August 1
+7/30/20, 17:18 - Norbert Notitia: Sure. We need the timetable.
+7/30/20, 17:18 - Norbert Notitia: Share a schedule with them.
+7/30/20, 17:19 - Norbert Notitia: @233504782862 can we jump on something
+7/30/20, 17:19 - AI Derek: Just break this down and share
+7/30/20, 17:19 - Ḅj: Sure
+7/30/20, 17:40 - Norbert Notitia: Derek we need a template for some of the things. Like creating a data science career path. So even before they start
+7/30/20, 17:42 - Norbert Notitia: Jerry can we work on a needs assessment form where we can assess their needs before the program kickstarts
+7/30/20, 17:43 - Norbert Notitia: We need to know their strength weekends, where they want to get to in their data science careers and how we can help them get there
+7/30/20, 17:43 - Norbert Notitia: what their expectations are
+7/30/20, 17:43 - Norbert Notitia: what tools resources and expertise they will require
+7/30/20, 17:45 - Norbert Notitia: If we can create a form and make it available form them to undertake on the platform maybe today. So we can profile them based on their needs and how best to support them throughout the data science journey
+7/30/20, 17:48 - Ḅj: sure i'll work on a form tonight
+7/30/20, 17:48 - Norbert Notitia: Awesome
+7/30/20, 17:48 - Ḅj: and we should keep them engaged from time to time
+7/30/20, 17:48 - Norbert Notitia: @233249435529 what is the state of product?
+7/30/20, 19:33 - Alex Notitia: Thank you for your message. I am unavailable right now, but will respond as soon as possible.
+7/30/20, 19:36 - Norbert Notitia: Sure.
+7/30/20, 19:56 - Alex Notitia: Well, much update hasn't occurred at the core of the dashboard design.
+Am compiling a list of features which would be great for us to have on the dashboard.
+Once we have some funds available, we can go on and implement those features.
+We would have to depend on external tools to fill in the blanks for now.
+7/30/20, 22:34 - Norbert Notitia: Cool. How much is needed to do this.
+7/30/20, 23:58 - Ḅj: hello guys
+7/30/20, 23:58 - Ḅj: @233554349393 i'm done with the needs assessment form
+7/30/20, 23:59 - Ḅj: everyone should kindly go through and let me know if you have any contributions or suggestions
+7/30/20, 23:59 - Ḅj: https://notitia-ai.typeform.com/to/okk3ZG43
+7/31/20, 00:01 - Sadat Notitia: Sure
+7/31/20, 00:05 - Ḅj: Yeah
+7/31/20, 00:09 - Alex Notitia: I started drafting a budget together with an agile development plan.
+Let's see how it turns out.
+7/31/20, 00:13 - Ḅj: Great
+7/31/20, 00:29 - Ḅj: this is the slack workspace link
+7/31/20, 00:29 - Ḅj: we can share it tomorrow
+7/31/20, 00:41 - Ḅj: https://join.slack.com/t/notitia-ai/shared_invite/zt-g8hg42xh-XeKZFyXRrfNHt3Yn8L4REA
+7/31/20, 01:19 - Alex Notitia: Great.
+
+I believe i already have a previous link integrated into the dashboard.
+
+I would update it  ASAP.
+7/31/20, 06:42 - Norbert Notitia: Awesome. We need the agile part in the curriculum
+7/31/20, 09:39 - Ḅj: Good morning team
+7/31/20, 09:39 - Ḅj: Can I share the needs assessment now?
+7/31/20, 09:40 - AI Derek: Yh I think so
+7/31/20, 09:41 - Ḅj: Great
+7/31/20, 09:45 - AI Derek: Hi all,
+ 
+Hope you are doing well.
+
+We have come up with a new and updated version of the 12 Weeks of Data Science, a study plan, covering everything from basics of Data Science to core concepts, to its applications.
+ 
+This study plan will not only help you learn data science methodically but also help you create a social profile in Data Science communities. In the next 12 weeks, you will work on multiple projects, build a strong Data Science portfolio, have a strong network of Data Science Professionals.
+ 
+YOU will be getting free access to this. 
+Please expect us to begin the program with you officially from August 1st, 2020.
+
+We will continue to give you updates on when and we will be having our sessions.
+
+Happy Learning,
+
+Notitia AI
+7/31/20, 09:45 - AI Derek: @233504782862 and @233246521995 check this out and share with them
+7/31/20, 09:48 - Ḅj: Looks great
+7/31/20, 09:48 - AI Derek: Checking
+7/31/20, 21:02 - Norbert Notitia: <Media omitted>
+7/31/20, 21:02 - Norbert Notitia: <Media omitted>
+7/31/20, 21:04 - Sadat Notitia: 🙌🏾
+7/31/20, 21:07 - Ḅj: 😍
+7/31/20, 21:15 - Adwoa Notitia: Mehhhnnnnnnnnnn🔥🔥🔥🔥🔥🥰
+7/31/20, 21:15 - Norbert Notitia: Lol
+7/31/20, 21:16 - AI Derek: The Brand Notitia

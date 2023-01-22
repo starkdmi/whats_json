@@ -1,0 +1,573 @@
+16/03/2021, 13:30 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+16/03/2021, 12:56 - Mike created group "Web App Dev - Group F"
+16/03/2021, 13:30 - You joined using this group's invite link
+16/03/2021, 14:37 - Daire joined using this group's invite link
+16/03/2021, 14:37 - Daire: Hi guys! 😊
+16/03/2021, 15:46 - Remi joined using this group's invite link
+16/03/2021, 17:42 - Corentin joined using this group's invite link
+16/03/2021, 18:10 - Ciaran joined using this group's invite link
+16/03/2021, 18:10 - Ciaran: Hi folks
+16/03/2021, 18:14 - Remi: Hi everyone
+16/03/2021, 18:20 - Corentin: Hi 🙂
+18/03/2021, 12:27 - Remi: Hi everyone, at one time is the call today ?
+18/03/2021, 12:37 - Mike: Hi all I made a repo we can use for storing code and managing the project. 
+
+If you all could make a student github account and I can add you all as collaborators on the project
+
+https://github.com/oharam29/EE417_WebAppDev_GroupF_Project
+18/03/2021, 15:31 - Mark: <Media omitted>
+18/03/2021, 15:31 - Mark: <Media omitted>
+18/03/2021, 15:32 - Mark: Thanks Mike. Here are the meeting minutes from today. Could everyone review them? There are a number of actions to be done. Also, if I got anything wrong or you want to add anything then just let me know and I'll update the document. Chat later.
+18/03/2021, 15:36 - Mike: All seems good to me!
+18/03/2021, 15:37 - Mark: 👍
+18/03/2021, 15:43 - Daire: Thanks Mark, I can take the minutes of the next meeting!
+18/03/2021, 15:44 - Mark: thats great daire.
+18/03/2021, 16:09 - Corentin: Good work mark, thanks for the report👍
+
+In regard to the distribution of roles. I can take care of the part concerning the development of the server, if other people want to take care of this part I can fall back on Database designer and JDBC connectivity (even if I have no idea how it works yet)
+
+I would like say also that I am a beginner in web development and that I am not an expert in any field (I imagine like many of us).
+And English is not my native language so if I have to write documents, i can do it, but they won't be very well written.😅
+18/03/2021, 16:25 - Ciaran: Thanks Mark and Mike, that all looks good to me too. I’m a total beginner in web design and would be more confident with one of the pure-coding roles. Given a choice, I’d go for one of “database design”, client side interactive features”, or “server side dev”
+18/03/2021, 18:40 - Mathieu: I’m also a beginner in web development but I have already done a project where I took care of the database and the jdbc so the role of database designer is my first choice
+19/03/2021, 10:10 - Daire: Yea this module is my first time doing any html so I don't particularly have a preference at all if I'm being honest!
+19/03/2021, 15:51 - Daire: Or maybe the JavaScript role I would be happy with!
+19/03/2021, 15:55 - Remi: If front end developer is more the UI I’ll be happy to do it. 
+Or the client side interactive features.
+I can also do the testing and quality or project demonstration of needed !
+19/03/2021, 19:58 - Mark: Hi all, I have collated all the responses about roles into a table. I'm attaching the pdf and excel version. Entries with a P are team members preferences and with an O are optional. You can see that we have no-one for for two of the roles, Bus Req's Analysis and Cloud Deployment. The Bus Req's analysis is a crucial role as it will set the stage for everything else and is directly linked to a testing plan. Suggestion was that anyone who does testing would also perform the Bus Req's analysis role. We really need to have that stage of the project sorted by the end of next week. Also, two of the team have not yet engaged with the group, Saima and Sipeng. I'll email them separately to see what the story is with them on the project. Could you all have a look at the table again and make sure I have completed it properly? We need then to finalise the roles, I don't whether we can agree that on whatsapp chat? Prob better to look at it again during the next Zoom call. In any case, we really need to produce some sort of requirements/web design document by the end of next week so anybody willing to step up and take that role would be hero material 😬
+19/03/2021, 19:58 - Mark: <Media omitted>
+19/03/2021, 19:58 - Mark: <Media omitted>
+19/03/2021, 20:37 - Ciaran: Hi mark, those preferences I gave you clash with daire, remi, corentin and Mathieu. I’d be a bad choice for bus-req but I’d be ok covering the unwanted cloud deployment task if that helps?
+19/03/2021, 20:38 - Mark: Hi Ciaran, yeah the table is just reflecting preferences and options so we just need to agree finally a person to a role. It's just we can see everything in one place with the table.
+19/03/2021, 20:38 - Mark: but yeah, sure cloud deployment is yours if you are ok with it 🙂
+19/03/2021, 20:39 - Mark: Just missing the other two team members who arn't on board yet so we will not be filling two of the roles anyway until we know what the craic is with them.
+19/03/2021, 21:00 - Ciaran: 👍
+19/03/2021, 21:04 - Mark: You know what? Maybe we could all do the reqs and web application structure designer role together through a zoom meeting. Just layout the requirements for the application and what is going to go where. Would take a couple of hours maye to get it done but would really kick off the project and we would all have an idea of what we need to do. What does everyone think?
+19/03/2021, 21:04 - Mark: Maybe ask Ali for any document templates he has for this piece of the project.
+19/03/2021, 22:45 - Daire: I think that's good mark!
+20/03/2021, 15:35 - Mark: Thanks Daire, I think we can keep it simple enough in functionality but demonstrate all the features necessary for the assignment.
+
+Admin Login:
+
+Create accounts for users, either current or savings or both (depends on user registration preferences)
+Delete accounts
+Display list of users and account balances
+Apply fees to current accounts and interest to deposit accounts
+
+User Login:
+
+Register details to setup accounts
+Login to online banking
+Make withdrawals to accounts
+Make deposits to accounts
+Transfer between accounts
+Pay bills through BIC and IBAN numbers (not actually do this , just collect the details)
+Setup standing orders through BIC and IBAN numbers (not actualy do this, just collect the details)
+Display statements of accounts
+
+Anything else that the team may suggest? We need to keep it simple. My partner is a graphic designer so she will design a logo which we can brand the website with. I suggest we call the online bank GFB (Group F Bank).
+
+Anyway, these are just some thoughts so we can agree requirements and design at our next meeting on Thursday at 12pm. I'd suggest we allow 2 hours to make sure we get everything sorted out.
+
+I'd also suggest that the team look at existing banking applications for inspiration but please remember, keep it simple and make sure we can actually create a full stack website. We were looking at using Rui's previous assignment as the HTML/CSS template for the group assignment.
+
+Chat on Thursday at the Zoom call at 12pm.
+
+All the best
+22/03/2021, 11:55 - Remi: Hi everyone, regarding the group project, as we need to submit informations about the project tomorrow, are some of you available for a zoom meeting let’s say this afternoon or tomorrow? If think it’s easier to plan those things together. If some of you can’t attend the meeting due to jet lag or because you have a lot of work it’s fine I guess, just send a message with everything you have/want to say.
+22/03/2021, 11:58 - Mark: Hi Remi, what are we due to submit tomorrow?
+22/03/2021, 12:01 - Mark: We just need to finalise the roles from the table, we have already decided on the project (banking) and we have minutes from or last meeting and I have tried to kick off the analysis piece through my previous message on whatsapp which hopefully we can finalise through our Zoom call on Thursday.
+22/03/2021, 12:14 - Remi: I don’t think we are supposed to have only one role. In his email, M.Intizar says we have to equally share the work load. From my understanding, we can have different roles. Oh and there are two group representatives.
+22/03/2021, 12:22 - Mark: Have you got 5 minutes now Remi and we can have a chat? Just join this meeting I have setup.
+
+https://us02web.zoom.us/j/81172701704
+22/03/2021, 12:23 - Remi: Sûre
+22/03/2021, 12:23 - Mark: ok cool, I'm waiting, just click on the link
+22/03/2021, 13:13 - Daire: I think we do need to discuss the roles because the person/people in charge of JavaScript can't really start until the HTML code is done and it needs the server side code as well to see what information is being passed back so the html code kind of needs to be started sooner to give the JavaScript guys a chance to code!
+22/03/2021, 13:18 - Mark: Hi Daire, yes, you are right. I'm hoping at our zoom call on thursday we can agree the requirements, the web application design, a plan of actions with dependencies (like you mention) and also the roles.
+22/03/2021, 13:21 - Daire: Sounds good mark!
+22/03/2021, 13:22 - Mark: Thanks Daire. Wish my assignment 3 was coming along a bit better though :( Remi and I had a chat and we will just send an update to Ali with what we have done so far and what we will do on Thursday. Attached to the update will be the minutes of the zoom meeting we all had last week, the table of preferred roles so far and the basic requirements for the banking app to be discussed on Thursday between us.
+22/03/2021, 13:26 - Daire: Yea mark I'm finding that assignment rough too! Especially trying to include all the methods he wants, have to try and make up extra stuff to put in! Sounds good!
+22/03/2021, 13:26 - Mark: 👍
+22/03/2021, 13:27 - Mike: Anyone tried to get JS to run through a servlet to get a link to be visible if user is an admin?
+22/03/2021, 13:27 - Mike: Been pulling my hair out and still can't get it working
+22/03/2021, 13:28 - Daire: I've been at that for a bit and it seems like people use JQuery to do it but that just stops my whole code
+22/03/2021, 13:29 - Mike: I'm getting to a point where I might jus redirect to a whole new page based on admin being set to true
+22/03/2021, 13:29 - Mike: And just leave the link hidden
+22/03/2021, 13:30 - Mark: I have just cut down all my pages to bare HTML, no CSS, JS calls, Just HTML for use with servlets to demonstrate that the dynamic web pages work. That's all he really asked for as far as I am concerned.
+22/03/2021, 13:31 - Mark: oh, didn't read your message properly, not on that piece yet :(
+22/03/2021, 13:31 - Mark: shoot
+22/03/2021, 20:53 - Daire: Did we email Ali the list of roles that he asked for btw?
+22/03/2021, 20:55 - Remi: Mark wrote the email with the details on the project and the different roles. I reviewed it and I think he sent it, can you confirm @353833849311 ?
+22/03/2021, 21:01 - Mark: Yep, all sent, minutes of meeting, table of roles (to be finalised) and high level requirements for the banking app. I'll forward the email onto you all.
+22/03/2021, 21:02 - Daire: Thanks for that Mark, you make a great project leader!!
+22/03/2021, 21:04 - Mark: Thanks Daire, hopefully better than what I am going to submit on assignment-3 in just under 3 hours. anybody resolve the error where it says 404-not found when trying to redirect to the home page on a successful login?
+22/03/2021, 21:09 - Mike: I've found I have to specify the path on redirect or use request dispatcher
+22/03/2021, 21:09 - Mike: <Media omitted>
+22/03/2021, 21:09 - Mike: Excuse my woeful box
+22/03/2021, 21:10 - Remi: <Media omitted>
+22/03/2021, 21:10 - Remi: What’s the difference with this instruction?
+22/03/2021, 21:10 - Mark: ok, thanks
+22/03/2021, 21:13 - Mike: Seems more efficient serverside and wherever I did the way you did it it would say resource invalid
+22/03/2021, 23:44 - Mark: btw, thanks for the advice Mike, it made my fairly crap submission a bit less crap 🤓
+22/03/2021, 23:44 - Mike: No problem!
+22/03/2021, 23:45 - Mike: Any one know how to get tomcat running standalone been using the eclipse one till now but wanna try the standalone
+23/03/2021, 00:12 - Mark: yeah, did u download tomcat? go to the bin folder in the tomcat installation folder in program files and you start tomcat there or create a shortcut for it.
+23/03/2021, 00:13 - Mike: I've done that but for reason even though I added a user to see the manager gui it won't log into it
+23/03/2021, 00:16 - Mark: when i added the manager gui role the first time i put it outside the xml tag, not saying you did that but i did.
+23/03/2021, 00:17 - Mike: Mines on the inside of the tag and I restarted the server and everything but still not working, jus wanted to see if my app will run when deploying the war but sure it's submitted so I'm not overly pushed now
+23/03/2021, 17:52 - Mike: Hey guys not much of an update but added the documents we sent to Ali to the repo jus for completeness. Whenever you get a chance if you could finish making github accounts and send me the email associated with it and I'll make you all collaborators
+23/03/2021, 17:57 - Mike changed the group description
+23/03/2021, 18:26 - Remi: Oh by the way, should we all work on the same IDE ?
+23/03/2021, 18:26 - Remi: I think some ide create different files when creating a project
+25/03/2021, 08:43 - Rui joined using this group's invite link
+25/03/2021, 11:06 - Daire: Hi guys, is the meeting at 12 today?
+25/03/2021, 11:07 - Mark: yep, that ok?
+25/03/2021, 11:08 - Daire: Perfect!
+25/03/2021, 11:08 - Remi: Good for me!
+25/03/2021, 11:09 - Corentin: It's ok for me too
+25/03/2021, 11:12 - Mathieu: Good for me too
+25/03/2021, 12:09 - Remi: Someone has the link ?
+25/03/2021, 12:10 - Ciaran: Same link
+25/03/2021, 12:11 - Mark: https://us02web.zoom.us/j/83493266290
+25/03/2021, 12:19 - Rui: 😢sorry guys, the vpn is not stable today, it can not connect…
+25/03/2021, 13:12 - Remi: Link to the drive : https://drive.google.com/drive/folders/1s-REEWdJn_hSGFNCmP3d9bHomg0zQiT4?usp=sharing
+25/03/2021, 14:14 - Daire: daire.cooney9@mail.dcu.ie
+25/03/2021, 14:26 - Mark: <Media omitted>
+25/03/2021, 14:26 - Mark: <Media omitted>
+25/03/2021, 14:27 - Mark: Hey all, fyi, here is the latest excel sheet with roles finalised and also the pdf of our whiteboard. Good luck with everything in the next few days. Good job so far anyway. Daire, if you need any clarifiaction on anything on the whiteboard, just ask and if you like, you can send me through the minutes and I can have a look at them before you send them out. I'm in grinds from 5pm to 10pm though.
+25/03/2021, 15:34 - Mike: Hey all, I updated the repo to have a initial project there it's under the GroupF directory I couldn't get it inside the code directory as Git and Eclipse wouldn't play nice (think it's due to needing 3 separate eclipses for different modules) but it's there and has an index.html file and web descriptor there but nothing else. I also have added everyone who's github account emails I got.
+25/03/2021, 16:40 - Mark: Don't worry Rui. You can have a read of the minutes when they are done and the whiteboard sketches out what we discussed in the meeting with regards to the design of the application and next steps. We will hold a short update Zoom call on Tuesday at 10.30am at the same Zoom link. Hopefully you will be able to connect with your vpn. We finalised the project roles as well. You and Remi will be working on the front end html/css and have a few tasks to do by Monday. Remi will be in touch with you anyway. All the best, Mark.
+25/03/2021, 19:34 - Mike: Managed to get Selenium webdriver to run on my machine after some tinkering so if we can add IDs to most of the elements the user will interact with I can use web driver to test they work correctly
+26/03/2021, 05:10 - Rui: Thanks Mark
+27/03/2021, 09:59 - Mathieu: @353868316314 I saw your work on the login and logout servlets and I wrote you an example of how to use the database in the doPost method instead of hard-coded some datas. The advantage of the database is precisely to be able to store and process data.
+27/03/2021, 10:00 - Mathieu: And for everyone, you have to create the database in MySql with the code I wrote in the web.sql file
+27/03/2021, 10:38 - Ciaran: Hi mathieu, I put them in just as initial servlets/place-holders to get things started. But feel free to add/change !
+27/03/2021, 13:52 - Daire: Hi guys, I'm trying to create a function to generate an IBAN for each used. I just to double check, is the Account number for each user generated on the sign up form as a hidden form element? I just don't see where it's coming from and want to double check just so I start coding the right thing!
+27/03/2021, 16:17 - Remi: Quick question, is the GitHub on yet?
+27/03/2021, 16:17 - Remi: I started to develop the account page
+27/03/2021, 16:17 - Remi: And would like to submit my work so far so you can have a look
+27/03/2021, 16:24 - Mike: Yeah I invited you to collaborate the other day and put a default empty project to begin work on the other day
+27/03/2021, 16:25 - Remi: Should I see some kind of invite on GitHub?
+27/03/2021, 16:25 - Mike: In your email I think
+27/03/2021, 16:26 - Remi: Oh yeah, found it
+27/03/2021, 16:28 - Remi: Do you know how to link éclipse with GitHub?
+27/03/2021, 16:29 - Mike: You right click on the project and go to team and share project and link with github
+27/03/2021, 16:34 - Remi: Do you use GitHub desktop?
+27/03/2021, 16:34 - Mike: Nah browser
+27/03/2021, 16:35 - Remi: It asks me to create a rep in the folder, is it the right thing to do?
+27/03/2021, 16:36 - Mike: I believe that's asking you create a repo on your local machine so yeah
+27/03/2021, 16:45 - Remi: And how do I like the two after ?
+27/03/2021, 16:47 - Remi: Link
+27/03/2021, 16:48 - Mike: https://www.vogella.com/tutorials/EclipseGit/article.html
+27/03/2021, 16:49 - Mike: this articles shows how to link from start to finish
+27/03/2021, 16:49 - Remi: thanks
+27/03/2021, 16:50 - Mike: be careful about linking your code to the repo it may overwrite the others work so maybe clone the repo and manually add your files to the project already on the repo
+27/03/2021, 18:16 - Daire: Happy birthday Mark!
+27/03/2021, 19:57 - Mark: thanks daire 😀
+28/03/2021, 07:57 - Rui: Happy birthday🎉
+29/03/2021, 11:12 - Remi: Okay, i commited on a « front-end » branch
+29/03/2021, 11:12 - Remi: Can someone tell me if everything is working ?
+29/03/2021, 12:00 - Daire: I can see the code remi!
+29/03/2021, 13:30 - Remi: Great! Anyone has any feed back on the page so far ?
+29/03/2021, 13:40 - Daire: It looks really good remi! I was just wondering though do you want to add something additional there to display if the user is not logged in?
+29/03/2021, 13:41 - Daire: I'm just doing a JavaScript thing here, and I was thinking of hiding the balance and transaction tables you have up if the user isn't logged in, but the page looks empty without anything else on it
+29/03/2021, 13:43 - Remi: We can add a small line at the beginning like if ${name} is empty is redirect the user to the login page
+29/03/2021, 13:44 - Remi: As this page is like the profile page, I started with this one because I think it is the page with the most functionalities
+29/03/2021, 13:44 - Daire: Ah ok so like you wouldn't even be able to get to this page before logging in?
+29/03/2021, 13:45 - Remi: Exactly
+29/03/2021, 13:45 - Daire: Ah ok yes I understand!
+29/03/2021, 13:45 - Remi: I did this for my previous assignment, it is really easy and straightforward
+29/03/2021, 13:45 - Daire: I think it's a really good page remi! The side panel is class with the way it fades in
+29/03/2021, 20:37 - Remi: Quick reminder, tomorrow the call is at 11:00 right ?
+29/03/2021, 20:44 - Mike: Thought it was 10:30 no?
+29/03/2021, 20:46 - Remi: 10:30 is fine for me, it’s just so I don’t arrive 30 min late 😅
+29/03/2021, 23:11 - Mark: yep, 10 30.
+30/03/2021, 10:07 - Daire: Eh lads the power is after going in my whole area
+30/03/2021, 10:08 - Daire: Nevermind it's back 😂
+30/03/2021, 10:53 - Mike: Apologies having wifi trouble on my end too
+30/03/2021, 11:34 - Daire: Internet has gone down on my end, I don't think I'll be able to reconnect
+30/03/2021, 11:52 - Mark: no hassle
+30/03/2021, 12:24 - Mike: Hey guys, I've gone through and merged the repo to only have 1 branch but hit a snag as there was 2 projects on the same branch. 
+
+To get it working in your eclipse again if you open eclipse and go file>import>git>projects from git>clone URI 
+and copy and paste the repo URL you should be able to reclone the repo and be working in Remis project
+30/03/2021, 12:25 - Mike: Also @33659120299 did you create your project as dynamic web project and add the xml conf file as it doesn't appear for me
+30/03/2021, 12:27 - Remi: Yes I did add it manually
+30/03/2021, 12:28 - Remi: It is in the lib file in the web-inf
+30/03/2021, 12:28 - Mike: Grand found it
+30/03/2021, 12:31 - Mike: I copied over the servlet mapping and everything to the new project so hopefully everything from the old should be available
+30/03/2021, 12:44 - Mike: Can someone text here when they get the repo working just so I know I didn't break anything 😂
+30/03/2021, 12:47 - Remi: I have the login page done, can i commit ? and on which branch ?
+30/03/2021, 12:47 - Mike: Try commit it to main
+30/03/2021, 12:49 - Remi: I can't seem to find the main branch though
+30/03/2021, 12:49 - Mike: Keep a copy of your files though as you might need to reclone the repo as I mentioned above
+30/03/2021, 12:49 - Mike: Cause git/eclipse didn't like having 2 projects on same bran6
+30/03/2021, 12:54 - Remi: uh, I think i commited on front end
+30/03/2021, 12:54 - Remi: and now eclipse tells me the .project file is missing
+30/03/2021, 12:54 - Remi: weird
+30/03/2021, 12:55 - Mike: I see your commit on front end branch
+30/03/2021, 12:55 - Mike: I'll merge it over to main
+30/03/2021, 12:56 - Mike: That's been merged to main now
+30/03/2021, 13:12 - Remi: Great thanks mark
+30/03/2021, 13:20 - Mark: mike, i think u meant remi but hey, i can take the credit if u want 😎
+30/03/2021, 13:21 - Remi: Oops yep mike my bad, you share the credit now I guess
+30/03/2021, 15:24 - Daire: Did anyone get a java.lang.classnotfoundexception error with the com.mysql.jdbc.Driver jar file even though they have it included in the referenced libraries?
+30/03/2021, 15:25 - Mike: That might be my bad I don't think I uploaded the jar file from old repo
+30/03/2021, 15:25 - Mike: One sec
+30/03/2021, 15:26 - Mike: Try pull the repo and build again
+30/03/2021, 15:43 - Daire: Seems to be ok now, although the database isn't called yet so it's impossible to know yet!
+30/03/2021, 16:00 - Mike: My internet died on first upload so just forgot to reupload the jar file the 2nd time oops!
+31/03/2021, 11:20 - Remi: Hey everyone, someone from the french group sent this : http://ee417.eeng.dcu.ie/course-content/section-4-java-servlets It is from another Web professor and it's about servlets
+31/03/2021, 13:30 - Ciaran: Looks interesting! 💤
+31/03/2021, 13:30 - Ciaran: Handy reference 👍
+31/03/2021, 14:33 - Mark: Hey all, here are the minutes from yesterday. They are quite short, please have a look at them, I probably missed something so please get back to me with any changes and I'll update them.
+31/03/2021, 14:34 - Mark: <Media omitted>
+31/03/2021, 14:34 - Mark: <Media omitted>
+31/03/2021, 14:35 - Daire: Looks all good mark, unless maybe I missed something else when my internet went down yesterday!
+31/03/2021, 14:35 - Mark: Thanks Daire.
+31/03/2021, 14:36 - Mike: Seems perfect to me!
+31/03/2021, 14:51 - Ciaran: Looks good to me too
+31/03/2021, 16:32 - Mark: Sample logo for our GFB bank.
+31/03/2021, 16:32 - Mark: <Media omitted>
+31/03/2021, 16:33 - Mark: Any comments welcomed.
+31/03/2021, 17:43 - Daire: Looks good!
+01/04/2021, 09:27 - Mark: Hey all, could we move our zoom call to tomorrow at 12pm instead of today? Got caught up in a few other things so am struggling to make 12pm today.
+01/04/2021, 09:29 - Corentin: It's good for me
+01/04/2021, 09:34 - Mathieu: Good for me
+01/04/2021, 09:44 - Mike: Works for me
+01/04/2021, 10:05 - Ciaran: 👍
+01/04/2021, 11:43 - Rui: okay for me
+01/04/2021, 14:20 - Mark: Ok that's great, see you all tomorrow at 12pm. I did that rough web application design and data flow diagram for discussion tomorrow so we can finalise who exactly is doing what, what data elements are flowing from front to middle to back end and how are we going to use JS and servlets. I have just started it off really but it should give an idea of where we are are going with all of this. Please have a look at it for tomorrow so we are prepared to nail it all down. All the best now.
+01/04/2021, 14:21 - Mark: <Media omitted>
+02/04/2021, 12:00 - Mathieu: I’m going to be 10-15mn late sorry
+02/04/2021, 12:49 - Rui: sorry guys, my internet is broken… I already upload my work in google drive, i will try to upload on github later
+03/04/2021, 10:26 - Mathieu: I just upload the new database on Github
+03/04/2021, 10:27 - Mark: 👍
+03/04/2021, 11:05 - Ciaran: Hi Mathieu, is there an admin user and a database entry for the credentials field? I can’t see any in the new sql..
+03/04/2021, 11:07 - Mathieu: The admin/user field corresponds to the parameter status (for exemple 1 = admin and 2 = user)
+03/04/2021, 11:10 - Mathieu: And what do you mean by an entry for the credentials field ?
+03/04/2021, 11:13 - Mathieu: Each user has a unique id in the database which increments by one for each new user/admin so you don’t need to randomly create one with javascript or java
+03/04/2021, 11:13 - Ciaran: Credentials defining whether admin or standard user - your ‘status’ field. I see it now thanks
+03/04/2021, 11:14 - Mathieu: Ok great
+03/04/2021, 11:52 - Mark: Hey all, here are the minutes/action of our meeting yesterday and an updated web design/data flow document. If I have got anything wrong or omitted anything then please let me know and I'll update the documents. All the best now.
+03/04/2021, 11:53 - Mark: <Media omitted>
+03/04/2021, 11:53 - Mark: If everybody ok with the docs, I'll commit to Github later.
+03/04/2021, 11:53 - Mark: <Media omitted>
+03/04/2021, 12:56 - Daire: Looks good to me!
+03/04/2021, 12:57 - Ciaran: Same here 👍
+03/04/2021, 13:03 - Ciaran: Servlets are up on GitHub
+03/04/2021, 13:13 - Daire: This message was deleted
+03/04/2021, 13:14 - Daire: Hey guys, when anyone else imports the project from GitHub, do they get errors everywhere?
+03/04/2021, 13:41 - Daire: It won't let me run anything on the server, just wondering if there was something I missed when I cloned it!
+03/04/2021, 13:59 - Ciaran: I tested my bits in isolation so I’m not sure daire
+03/04/2021, 14:02 - Daire: Yea I think I might just take the pages one by one and do it manually, don't want to break anything you guys have done
+04/04/2021, 12:31 - Daire: Hey guys, am I right in saying that there is no servlet for the sign up process written yet on GitHub?
+04/04/2021, 12:33 - Corentin: I am currently doing it
+04/04/2021, 12:33 - Corentin: I have to modify the pages of Rui, for it to work
+04/04/2021, 12:34 - Daire: Ah ok no worries, are we still doing the procedure where the data would be sent across to the servlet at the very last page or with each form?
+04/04/2021, 12:36 - Corentin: The data is sent to the servlet on every page, I found a way to do this yesterday. So no need to use the local storage
+04/04/2021, 12:38 - Daire: Ok cool!
+04/04/2021, 12:43 - Corentin: I still have a problem in terms of ergonomics. When I submit the data to the servlet I have to put a link to access the second registration page, it is not done automatically. Does anyone have an idea how to do this?
+04/04/2021, 12:43 - Corentin: I will send you a video it will be easier than explaining in writing
+04/04/2021, 12:47 - Daire: Maybe that could be done using the method I said where each form has a hidden field called form index so the first form would have 1, the second form have 2, etc. And then in the servlet, have if statements that check for the status number. If it's a 1, then send it to the second registration page using the . forward or . include functions, if it's a 2 then send it to the 3rd page, etc. Could something like that be viable maybe?
+04/04/2021, 12:53 - Corentin: I did it a little differently by using the http session, creating a line in the database with the first information and updating it with the data from the following pages
+04/04/2021, 12:54 - Corentin: my problem is that I would like to avoid having a blank page after submitting the first data but I can't find a solution
+04/04/2021, 12:54 - Corentin: <Media omitted>
+04/04/2021, 12:56 - Daire: Ah ok I get you, you could just try adding the hidden form field to each form, so for that page it would be 1, check for this in the servlet and instead of posting that message maybe use the . forward or . include method instead? Or am I not really clear in what I'm saying?
+04/04/2021, 12:58 - Corentin: I'm going to look at how hiddenform works in a bit more detail but I don't see how it could help me remove this blank page
+04/04/2021, 12:58 - Daire: I'll send pictures of what I mean
+04/04/2021, 12:59 - Daire: <Media omitted>
+04/04/2021, 12:59 - Daire: <Media omitted>
+04/04/2021, 13:13 - Corentin: OK I think I've got it, I'll try that
+04/04/2021, 13:13 - Corentin: thanks
+04/04/2021, 13:17 - Daire: No worries, hopefully it's of some help!
+04/04/2021, 13:20 - Mike: Will that save the data through multiple calls as won't the servlet be called multiple times as each page is a separate form?
+04/04/2021, 13:22 - Daire: I think it should if you put the servlet assignments Inside the of statements for each form maybe
+04/04/2021, 13:59 - Remi: Hey, the WEB-INF folder is becoming kinda messy, does it annoy anyone if I sort it a bit ?
+04/04/2021, 14:00 - Mike: I was actually going to suggest we add the page and css files for each section to separate directories but if you want to clean it up to ahead 😂
+04/04/2021, 14:01 - Remi: Great! No objections! Let’s try to clean this without breaking everything
+04/04/2021, 14:02 - Mike: I'll be able to verify all the links work with selenium once I finish writing tests
+04/04/2021, 14:05 - Remi: Oh great !
+04/04/2021, 14:06 - Remi: Does it also check the css ref ?
+04/04/2021, 14:06 - Mike: No but its an automated test that will act like a user and click on links and check if the new page is correct or the test will fail
+04/04/2021, 14:07 - Mike: It wont check the css but it can check links to other pages work
+04/04/2021, 14:51 - Remi: Okay okay
+04/04/2021, 14:51 - Remi: I pushed the cleaner version
+04/04/2021, 17:12 - Daire: Hey guys, what page is the landing page?
+04/04/2021, 17:13 - Remi: For now it’s empty
+04/04/2021, 17:13 - Remi: But it’s index.jsp
+04/04/2021, 17:29 - Daire: Ah ok ok, and remi are you done with the account page and login page? I'm just asking so I can start adding some JavaScript to it!
+04/04/2021, 18:00 - Corentin: I posted on GitHub the Rui's pages so that they work with the Registration Servlet. The Servlet is also on GitHub (it's working, but I still need to fix some details)
+04/04/2021, 18:32 - Remi: Login page yes, account page is going to see some change when I will finish admin page 😅
+04/04/2021, 18:38 - Daire: Ok yea that's no worries at all! I'll wait until the pages are fully finished before adding any JavaScript! No rush at all remi!
+05/04/2021, 00:08 - Remi: Pop up windows are done on account page and admin page !
+05/04/2021, 00:09 - Remi: Told you I’ll do it for Sunday, I’m  8 min late sorry 😁
+05/04/2021, 00:14 - Mark: 😀👍👍
+06/04/2021, 14:21 - Mark: <Media omitted>
+06/04/2021, 14:21 - Mark: <Media omitted>
+06/04/2021, 14:21 - Mark: Hi all, here are the minutes/actions from our meeting today. Remi/Rui, you might also review the actions as there are some allocated to yourselves. See you all on Thursday at 12pm. We arn't a million miles away from getting an integrated application working which although may not have all the bells and whistles attached we may like would be a considerable achievement for a random group of 8 students to do within the timescales. Well done so far all.
+06/04/2021, 14:22 - Mark: oh and could everyone at the meeting have a quick look and make sure I haven;t made any mistakes or omitted anything?
+06/04/2021, 15:04 - Daire: Minutes looks good Mark!
+06/04/2021, 18:24 - Ciaran: 👍
+06/04/2021, 19:58 - Mike: Had a problem with mysql and had to reinstall but I notice ali says leave root password blank but the installer wouldn't let me anyone know if this will mess up my assignment or anything?
+06/04/2021, 20:29 - Daire: I had to do the same for mine, if wouldn't let me go through without a password, works all good for me with a password!
+06/04/2021, 20:35 - Mike: Grand thanks! Does he have videos explaining where to put connectors and everything or it just adding a reference to the libraries from loop?
+06/04/2021, 20:43 - Daire: Yea he has a video up on loop
+06/04/2021, 20:44 - Mike: Yeah found it there it's the same as adding selenium to a project
+07/04/2021, 13:05 - Daire: Hey guys, I have the validation done for ruis pages, I've never uploaded code to the repo before, do I need to consider anything before uploading just so I don't accidentally delete something?
+07/04/2021, 13:06 - Mike: If you have the repo loaded into your eclipse it should handle everything
+07/04/2021, 13:13 - Daire: Yea I've tried to get my eclipse loaded with GitHub, it didn't comply really, I think it could be because I have other eclipses on my laptop
+07/04/2021, 13:13 - Mike: If you open your eclipse and import the project through git it should work
+07/04/2021, 13:14 - Mike: If you go to eclipse and hit 
+
+file>import>git>projects from git>clone URI 
+and copy and paste the repo URL and put this url in https://github.com/oharam29/EE417_WebAppDev_GroupF_Project
+07/04/2021, 13:19 - Daire: Yea I do but I get an error saying the web.xml file doesn't exist
+07/04/2021, 13:20 - Mike: It's in the WEB INF folder I think
+07/04/2021, 13:22 - Daire: Ah ok yes I see it, so if I just apply the changes to ruis files do I need to upload it to GitHub or does it save it itself?
+07/04/2021, 13:22 - Mike: Once you make changes
+07/04/2021, 13:22 - Mike: Right click project go to team
+07/04/2021, 13:23 - Mike: Commit
+07/04/2021, 13:23 - Daire: Ah ok thanks Mike!
+07/04/2021, 13:23 - Mike: It'll open a git staging window and you need add files you edit to index
+07/04/2021, 13:24 - Mike: It'll be under unstaged changes then you add a commit message and push
+07/04/2021, 13:24 - Mike: Sorry kept hitting enter and it would send it as separate message 😂
+07/04/2021, 13:25 - Daire: No worries, I know the struggle!
+07/04/2021, 18:25 - Daire: Hey guys, I've stuck up the form validation and I've a couple of animations on the account page and on the login page, hope they're all ok!
+07/04/2021, 20:28 - Daire: <Media omitted>
+07/04/2021, 20:28 - Daire: Did anyone else get this message?
+07/04/2021, 20:37 - Mike: Yeah I did but the date is still a bit away so we should be fine
+07/04/2021, 20:38 - Mike: I got the exact message at the start of semester 1 and still nothing happened
+07/04/2021, 21:30 - Daire: Cool 👍
+08/04/2021, 01:37 - Mike: This message was deleted
+08/04/2021, 01:48 - Mike: Hey all, 
+
+I've gone through all pages to ensure the links to other pages work
+
+I've made sure the pages have css linked correctly
+I've checked that the servlets linked to forms have the correct names (may have missed 1 or 2 as im quite tired 😂 )  
+
+I also added a link from the login page to the index page just for completeness
+
+I added some content to the index page just to have some there to see when navigating the website (no css or anything)
+
+Clicking on the burger menu to display the navbar didn't work for but the links work (verified using selenium which can click on links which arent seen)
+
+Once i get this working i can add links to other all other pages to verify a user can go through the entire website
+
+Just a little update of what I was able to get done after I finished work this evening
+08/04/2021, 09:22 - Mark: fair play mike, well done.
+08/04/2021, 09:54 - Daire: Sorry guys what time is the call today?
+08/04/2021, 09:55 - Mark: 12pm
+08/04/2021, 11:50 - Corentin: Hi!
+this morning i wanted to check that the data logging part was still working after the changes made since this weekend. I was able to fix some bugs and I'm currently working on the last bug.
+08/04/2021, 11:52 - Corentin: I realised that the code in orange on the picture below deletes the data which prevents me from saving it in the database. Is it a problem if I remove this piece of script from the registration pages?
+08/04/2021, 11:52 - Corentin: <Media omitted>
+08/04/2021, 11:54 - Daire: Hi corentin, yea you can remove that code, sorry I thought that if I kept the inputs open it would log multiple inputs into the database
+08/04/2021, 11:57 - Corentin: no worries ! thanks
+08/04/2021, 14:14 - Mark: <Media omitted>
+08/04/2021, 14:14 - Mark: <Media omitted>
+08/04/2021, 14:14 - Mark: Hi all, here are the minutes from today. Just make sure you all look at the actions from today and the previous two meeting minutes to make sure everything is done. See you Monday or Tuesday at 12pm, we can decide the day over the weekend.
+08/04/2021, 15:10 - Ciaran: 👍
+I’ve updated the deposit/withdrawal servlets so they add to the transaction tables - it’s pushed back to the repository
+09/04/2021, 11:20 - Daire: Hey guys, anything in particular yous would like to see on the index page?
+09/04/2021, 15:42 - Mark: Hey Daire, I got nothing in particular to mind at the moment. Just the slogan for now maybe and we can put something in next week.
+09/04/2021, 15:55 - Daire: This message was deleted
+09/04/2021, 16:07 - Daire: Ok cool, yea I have the slogan, I have the navbar going to the login and signup pages and I've a small slideshow with just a few pictures and captions, I'll upload it later Today. Anyone who wants to add anything to it, feel free to do so!
+09/04/2021, 16:24 - Mark: 👍👍👍
+09/04/2021, 17:11 - Daire: Committed the index page there, let me know your thoughts?
+10/04/2021, 11:01 - Rui: <Media omitted>
+10/04/2021, 11:02 - Rui: <Media omitted>
+10/04/2021, 11:02 - Rui: do you guys have some good ideas or which one is better to combine these .css files.
+11/04/2021, 10:04 - Remi: Hi Rui, what do you mean by "combine all css files" ? I made several css so it is easier if we want to change one thing, rather than searching through 500 lines of code
+11/04/2021, 10:05 - Remi: you can change the ID, you just have to update the according css file (this one would be navbar.css i believe)
+11/04/2021, 10:07 - Remi: you haven't included css, are you planning to do so ?
+11/04/2021, 10:48 - Daire: I have included it, it's in the CSS folder I think, maybe I forgot
+11/04/2021, 10:51 - Daire: Yea it's in the CSS folder
+11/04/2021, 10:53 - Daire: And I ran the index.html page, it links to the css page, all good.
+12/04/2021, 09:42 - Mark: Tomorrow at 12pm for our Zoom call to try and wrap things up?
+12/04/2021, 09:57 - Ciaran: I’ll be there
+12/04/2021, 10:02 - Remi: Me too
+12/04/2021, 10:08 - Corentin: 👍
+12/04/2021, 10:12 - Daire: 👍
+12/04/2021, 10:48 - Mathieu: I have a class at this time...the usual schedule is good for me
+12/04/2021, 10:51 - Remi: How can I access the database ? To know the different columns
+12/04/2021, 11:04 - Mike: Deadline extended by a week
+12/04/2021, 11:07 - Mark: Sorry all, I meant the usual time at 10.30am
+12/04/2021, 11:07 - Mark: Dunno why I said 12pm
+12/04/2021, 11:07 - Mark: So, yeah, usual time at 10.30am tomorrow.
+12/04/2021, 11:11 - Mark: Nice, just saw that there now, it's 25th April now for the Web applications group project. I managed to get another module's assignment extended for all until 2nd May this morning, Entrepreneurship for Engineers if anyone is doing it. Gonna try and get the security for iot one extended at tomorrows lecture as well.
+12/04/2021, 11:18 - Mathieu: Look at the web.sql file
+12/04/2021, 15:45 - Mike: Is the CSS not displaying properly for register pages for anyone else!
+12/04/2021, 15:45 - Mike: ?*
+12/04/2021, 15:49 - Daire: Yea for me it's just a blank right background
+12/04/2021, 15:49 - Daire: *white
+12/04/2021, 15:51 - Daire: I think it's because of a change in the CSS file
+12/04/2021, 15:52 - Mike: Yeah me too but I don't know which one cause Rui said she was working on combining them
+12/04/2021, 15:56 - Daire: I think it's a problem with the line of code in the body tag in the CSS file, the gradient doesn't seem to be working, when you comment that line out and just set the background color to blue, it sets it to blue
+12/04/2021, 16:01 - Mike: Also I'm having an issue logging into the website it says the login servlet is not available
+12/04/2021, 17:18 - Daire: Did you change the root username and password to match your credentials?
+12/04/2021, 17:19 - Mike: Yeah I did my password was jus 1234 instead of 3525 but still says unavailable for some reason
+12/04/2021, 17:20 - Mike: Definitely something I've done on my end I'd say been fiddling with selenium tests so could have changed something on my local copy by accident
+12/04/2021, 17:46 - Mike: Honesty stumped it's not even the DB connection that's not working it says the actual servlet is unavailable
+12/04/2021, 18:57 - Mike: Any one any ideas on what to do, I seemingly can't run any servlet atall
+12/04/2021, 19:03 - Daire: Let me try it now
+12/04/2021, 19:09 - Mike: None of them run for me whatsoever
+12/04/2021, 19:19 - Daire: I'm having the same issue
+12/04/2021, 19:19 - Mike: Error 404?
+12/04/2021, 19:20 - Daire: Yea
+12/04/2021, 19:20 - Daire: This was working earlier with the index file
+12/04/2021, 19:20 - Daire: Did anyone make any changes to any of the servlets ?
+12/04/2021, 19:20 - Mike: I added a mapping to the registration servlet but that's it
+12/04/2021, 19:22 - Daire: Did that work?
+12/04/2021, 19:23 - Daire: And when I mean earlier I mean a few days ago sorry, not earlier today!
+12/04/2021, 19:23 - Mike: Nah but there was no mapping for it so it wasn't going to run either way
+12/04/2021, 19:23 - Mike: The only changes I've made are adding IDs to pages for selenium
+12/04/2021, 19:31 - Daire: I think there is one problem with the build path, it has Mathieu's jar files, so you need to remove them and add your own
+12/04/2021, 19:31 - Daire: I think
+12/04/2021, 19:39 - Daire: Yea that's the issue Mike. Remove Mathieu's jar files and add your own
+12/04/2021, 19:39 - Daire: In the build path
+12/04/2021, 19:43 - Mike: Yeah jus did that there thanks
+12/04/2021, 19:58 - Mike: <Media omitted>
+12/04/2021, 19:58 - Mike: Getting this error now when trying to login
+12/04/2021, 20:03 - Daire: Yea just looked there, seems like the id in the login page was changed to uname from lname
+12/04/2021, 20:04 - Daire: Do you want to change that?
+12/04/2021, 20:04 - Daire: Or will I do it now?
+12/04/2021, 20:04 - Mike: Yeah I changed mine to uname and it work so I'll commit that, cause there's a problem with the redirect too I think
+12/04/2021, 20:04 - Mike: Mine won't redirect to admin.jsp
+12/04/2021, 20:07 - Daire: Something maybe with the filepath?
+12/04/2021, 20:07 - Mike: Yeah I think it's cause the pages were moved and stuff I've got it redirecting to the admin now but the ccs doesn't show on that page 😂
+12/04/2021, 20:08 - Daire: Yea I've noticed that too, god it's a right mess 😂
+12/04/2021, 20:08 - Mike: I'll go through it and try fix up the links
+12/04/2021, 20:09 - Mike: I changed the redirect statement from "include" to "forward" and it seems to fix the redirect issue
+12/04/2021, 20:11 - Daire: Yea I was thinking that was the issue
+12/04/2021, 20:11 - Daire: I've Never seen that before 😂 where it worked by itself but the redirect messed it up
+12/04/2021, 20:12 - Mike: I had the same CSS issue in my assignment and the fix was just define the whole path of the CSS file so hopefully that works again 😂
+12/04/2021, 20:15 - Mike: Yeah doing that fixed it so I may have to define the full css path for every page that servlet links to
+12/04/2021, 20:33 - Daire: That's pretty annoying, fair play to you Mike!
+12/04/2021, 20:34 - Mike: I'm also adding the script to pull the db on the admin page while I'm at it
+12/04/2021, 20:38 - Daire: 👍 good stuff
+12/04/2021, 21:30 - Mike: Just commited there, 
+
+Fixed the login servlet redirecting properly and displaying new page with CSS
+Add the DB call to display data from db on the admin page
+Added the servlet mapping for registration servlet to web.xml
+Linked the registration servlet to the pages and seems to be working correctly (need to fully test that)
+Added some IDs to buttons for selenium to detect them
+Have written selenium UI tests for logging and registering
+12/04/2021, 21:31 - Daire: 👍
+12/04/2021, 22:01 - Mark: Fair play to ye.
+13/04/2021, 14:15 - Mike: Fair play Mark! 😂
+13/04/2021, 14:19 - Mark: no hassle, 29th is good, yeah?
+13/04/2021, 14:23 - Mike: Yeah it's perfect 😂 into connected embbeded now 😂
+13/04/2021, 14:33 - Mark: Good luck with it, gotta do those minutes form our web apps meeting in a while, could be tomorrow, my partner wants me to build raised flower and vegetable beds now, ffs.
+13/04/2021, 18:39 - Mark: <Media omitted>
+13/04/2021, 18:39 - Mark: <Media omitted>
+13/04/2021, 18:39 - Mark: Hi all, here are the minutes from our meeting today. Next meeting on Tuesday at 10.30am unless we decide to have a quick catch up sooner. Hopefully we are nearly there now. Would be great to have a front to backend working application by Tuesday. I don't think we need any more than what we have after the actions on the minutes are completed and committed.
+14/04/2021, 11:40 - Mark: <Media omitted>
+14/04/2021, 11:52 - Mike: Is the servlet name definitely correct and is the server running? Can't reach this is usually the server isn't running properly
+14/04/2021, 11:54 - Mark: Hey Mike, yeah, the other servlets are working ok and I've checked the name a few times.
+14/04/2021, 11:54 - Mark: I'll check again
+14/04/2021, 12:19 - Mark: no idea, fuck
+14/04/2021, 12:26 - Mike: Can you send a pic of the servlet? Even in a private message if you don't want to send it here
+14/04/2021, 12:45 - Daire: Make sure you've the jars in the build path and make sure they're in the deployment assembly. Looked like what was troubling Mike yesterday with the servlets not being found!
+14/04/2021, 14:19 - Mathieu: I just updated the script of the database
+14/04/2021, 15:07 - Daire: Where is the table of transactions being called from does anyone know? Like how does the user access the page?
+14/04/2021, 15:08 - Mark: It's finding the other servlets. I dunno, it's just a ballsup. I did the servlet to retrieve data from a database table and getting the same error as this servlet. Pissed off now.
+14/04/2021, 15:10 - Daire: Can you send a quick photo of the servlet?
+14/04/2021, 15:12 - Mark: just sent it to you privately there
+14/04/2021, 15:12 - Mark: I just took his stuff and put my own bits in
+14/04/2021, 15:16 - Daire: I haven't got the photo of it yet mark, maybe you sent it to the wrong number
+14/04/2021, 15:16 - Mark: I didn't hit send, ffs
+14/04/2021, 16:42 - Daire: Hi guys, I'm trying to write the code for the transactions page but I'm stumped on something. Does anyone know how I can access local storage in JSP? I need to search through the DB table with a particular ID and I've no luck on how to retrieve that Id in the JSP code and put it into the execute query!
+14/04/2021, 16:43 - Daire: <Media omitted>
+14/04/2021, 16:43 - Daire: Like that line there, does anyone know how I can get the Id from local storage and input it into there?
+14/04/2021, 19:15 - Mark: Hi Daire, just in the middle of my ork but here is how to retrieve from local storage,
+14/04/2021, 19:15 - Mark: <Media omitted>
+14/04/2021, 19:15 - Mark: where the fieldname is the exact fieldname that was stored in the first place.
+14/04/2021, 19:33 - Daire: Ah thanks Mark but it's ok, I manage to get it in a round about fucked up way
+14/04/2021, 19:33 - Daire: But it works
+14/04/2021, 19:33 - Daire: I've uploaded it to the GitHub
+15/04/2021, 11:41 - Daire: Is there a meeting Today?
+15/04/2021, 11:46 - Mark: no, we will give it a few more days to get all actions done. may e monday?
+15/04/2021, 11:48 - Daire: No worries, was just checking!
+15/04/2021, 13:50 - Mike: Maybe Tuesday for a meeting if we're gonna be doing a big run through and all just cause EE513 is due Monday and I'll probably need the day to finish it 😂
+15/04/2021, 15:54 - Mark: sure, no problem. I havnt even started EE513 yet
+19/04/2021, 23:05 - Mark: Hi all, would 11am be ok for our meeting tomorrow?
+19/04/2021, 23:28 - Daire: Yep
+19/04/2021, 23:54 - Ciaran: Suits me
+19/04/2021, 23:54 - Mike: Yeah grand
+19/04/2021, 23:55 - Remi: Good for me
+20/04/2021, 00:02 - Mathieu: Ok for me
+20/04/2021, 10:42 - Rui: okay for me
+21/04/2021, 09:06 - Mark: Hi all, here is a little diagram and analysis of the customer/transaction table relationship with the keys. Matthew/Remi could you have a chat about it and Mathheew, could you update the Sql DB Creation script and test all ok? Sorry I havn't done the minutes yet. I think we need to meet at 9.30am on Friday nd go through the application together and modify/develop what needs to be fixed. There is not a huge amount needs to be done. I went over everything again last night and tbh, with a days work on Friday between us, we could nail this thing down.
+21/04/2021, 09:06 - Mark: <Media omitted>
+21/04/2021, 09:07 - Mark: Also, would it be too late to go to a flat file structure of the project directories on web content? save all the messing around with directory levels in the cde. Anyway, just a thought.
+21/04/2021, 09:07 - Mark: ok, I'm gonna try and work on Bioelectronics for the next two days.
+21/04/2021, 10:34 - Mathieu: I talked with Rémi and I just updated the database. Let me know if there is something wrong with the modifications.
+21/04/2021, 10:50 - Mark: ok good, did you commit the new sql script?
+21/04/2021, 10:59 - Mathieu: Yes of course
+21/04/2021, 11:24 - Mark: ok great.
+21/04/2021, 12:48 - Mike: Hey guys, I have a funeral to attend on Friday morning at 10 so I won't be able to make the meeting but if it's still going on when the service is over I'll hop in. Apologies and hope this is ok
+21/04/2021, 14:29 - Mark: Of course, no prob.
+22/04/2021, 13:49 - Mark: Hi All, I got a problem with tomorrow morning. The actual cutoff for the Bioelectronics assignment is tomorrow at 1pm and I have work to do on that. Could we meet up at 1.30pm tomorrow to go over everything? Please also make sure you complete your half page/page descriptions of what you did on the project for inclusion into the project report.
+22/04/2021, 13:54 - Mike: Was bio extended?
+22/04/2021, 13:57 - Mark: Not so much extended. The deadline is still this evening but he has a final cutoff setup on loop for 1pm tomorrow and I emailed him and he said there would be no penalty applied as long as we have it in for the cutoff tomorrow at 1pm.
+22/04/2021, 13:57 - Mark: so basically it's an extended deadline.
+22/04/2021, 13:58 - Mark: I'm working on the bioreport now and still have a small bit of work to do in thingspeak.
+22/04/2021, 14:01 - Mike: Yeah we did that with ubidots instead
+22/04/2021, 14:03 - Mike: I'm doing it all with c++ in energia and it's awful
+22/04/2021, 14:03 - Mark: sorry, yeah, we did a good bit on c++ in energia
+22/04/2021, 14:03 - Mark: initially python and then c++ in energia
+22/04/2021, 14:04 - Mark: anyway, I'd better to somethingon the report.
+22/04/2021, 14:06 - Mike: Oh right yeah, I'm doing it all through c++ and trying to write my own functions from scratch
+22/04/2021, 14:07 - Mark: You shouldn't have to, arn't there c libraries to do that?
+22/04/2021, 14:08 - Mike: Yeah there are but I wanted to try get it working for more to write about
+22/04/2021, 14:09 - Mark: You're a martyr
+22/04/2021, 14:10 - Mike: I regret it now 😂
+22/04/2021, 14:20 - Mark: Good luck with it. I'll get back to my report.
+23/04/2021, 09:37 - Mathieu: I just found put that I will not be able to attend the meeting at 1.30pm. Sorry guys 😅
+23/04/2021, 13:34 - Daire: Sorry guys I'll be 10 mins
+23/04/2021, 16:20 - Remi: <Media omitted>
+23/04/2021, 16:20 - Mike: Do you have any of those listed files staged for push?
+23/04/2021, 16:21 - Remi: Might have tried things on those but weren’t working anyway
+23/04/2021, 16:21 - Mike: Go team>stash. Stash your changes and pull again
+23/04/2021, 16:22 - Remi: Great thanks !
+23/04/2021, 16:46 - Ciaran: I think our pathname woes may have been my fault. Using “forward” in the servlets makes the called page use the hierarchy of the servlet. Once I changed to redirect i think it uses the correct location. It may have been causing some of the css not found issues as well
+23/04/2021, 16:47 - Ciaran: I’ve updated then and pushed them back to the repository
+23/04/2021, 16:50 - Remi: Nice !
+23/04/2021, 17:45 - Remi: @353868316314 did you work on the login servlet? I would like to add 2 withdraw limit and overdraft limit to the session attributes when a user logs in but I’m not to sure how
+23/04/2021, 17:50 - Ciaran: Hi @33659120299 , I just checked it in. Do you want me to add them?
+23/04/2021, 17:51 - Remi: That would be great !
+23/04/2021, 18:03 - Ciaran: That’s done. Seems to work ok. I just pushed it back up to the repository
+23/04/2021, 18:05 - Remi: Yes I can see it thanks !
+23/04/2021, 18:25 - Ciaran: 👍
+23/04/2021, 18:28 - Remi: I don’t have the database setup, can someone login and tell me if the details button work ?
+23/04/2021, 19:59 - Mark: <Media omitted>
+23/04/2021, 20:12 - Mark: None of the admin functions are working but the site looks good now, I actually think we are pretty close now though.
+23/04/2021, 20:24 - Mark: So meeting tomorrow at 10am, that ok for everyone?
+23/04/2021, 20:33 - Corentin: Yes
+23/04/2021, 22:10 - Ciaran: Yes
+23/04/2021, 22:56 - Daire: Yes
+23/04/2021, 23:02 - Mike: I might be a tad late
+24/04/2021, 09:51 - Mark: same here, will start the call at 10.15, that ok with everyone?
+24/04/2021, 09:53 - Ciaran: Cya at 10.15
+24/04/2021, 12:30 - Rui: sorry, my net is bad, lost connection again…
+24/04/2021, 13:49 - Mark: ok, all looking good from today. We seem to have fixed it all up. Remi, you don't need to do anything this evening. Let's meet again tomorrow at 10am for a final walkthrough. I will send minutes of actions from today later this afternnon/evening which are just tidy up actions really on stuff like documentation.
+24/04/2021, 15:48 - Mike: I updated the readme on the repo
+24/04/2021, 17:03 - Daire: Michael, could you even just give me 1 or 2 sentences on silenium? Sure even type it in here
+24/04/2021, 17:03 - Mike: Oh crap yeah I knew I was forgetting something 😂
+24/04/2021, 17:03 - Mike: One sec
+24/04/2021, 17:06 - Daire: No rush at all man!
+24/04/2021, 17:08 - Mike: Selenium is used create robust, browser-based regression automation suites and tests, scale and distribute scripts across many environments. For this reason the group decided to use it to run Automated UI tests on the web application in order to ensure that every aspect of the application that the user interacts with is functioning correctly, such as navigating to other pages or completing  the registration section of the web application.
+24/04/2021, 17:08 - Mike: is that okay?
+24/04/2021, 17:11 - Daire: Oh Jesus yea man that's spot on!  😂
+24/04/2021, 17:11 - Daire: Thanks a million!
+24/04/2021, 17:24 - Daire: I've uploaded the technology decisions up to the GitHub there
+24/04/2021, 19:37 - Mark: Great stuff.
+24/04/2021, 19:40 - Mark: Message to all, Very Important!!!!! Make sure you do your half page/one page description of the work you carried out. If you have already submitted it then please change from first person to third person, i.e. instead of referring to yourself as I, refer to yourself as Mark, Daire, Mike etc. This page will go into the project documentation and is evidence of what you have done but also supports the reporting of the development process of each area of the application. Please have this ready at latest, 1pm tomorrow. Thanks a mill.
+24/04/2021, 19:42 - Mark: and we will have our final walkthrough meeting tomorrow at 10am, please make sure you are all there. Thanks again. WE are so close now to completing this.
+24/04/2021, 19:57 - Remi: Is there anything you need help or that I must do before tomorrow in addition to the half page ?
+24/04/2021, 20:49 - Mark: Hey Remi, most of the app is now fixed up but I need to try and hand draw the web architecture diagram and show the links between pages, forms, javascript validation & servlets,. If you have time this evening, you could help me by simply listing titles of all the jsp pages, html pages and any forms in the pages, any calls to servlets from the pages and what servlets they are. Would make my life a lot easier tomorrow to draw up the diagram.

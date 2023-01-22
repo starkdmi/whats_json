@@ -1,0 +1,16 @@
+08/05/2017, 19:42 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+21/04/2017, 13:02 - +XX 01245 678910 created group "group chat"
+21/04/2017, 13:02 - Bob was added
+11/05/2017, 21:17 - Alice: This is an example of what a WhatsApp data file should look like
+12/05/2017, 20:12 - Alice: You get this file by going to your WhatsApp mobile app...
+14/05/2017, 09:51 - Bob: Pressing the three dots on the top right...
+14/05/2017, 09:51 - Bob: Then hitting the 'More' button
+14/05/2017, 09:51 - Alice: Then pressing 'Export Chat.' Simple!
+14/05/2017, 09:56 - Bob: (The way to get this file might change in the future. So don't count on this.)
+14/05/2017, 09:56 - Alice: But once you get the file, put it in this folder.
+14/05/2017, 09:56 - Alice: Then go to CHANGEME.ini and change the configuration so it points to that file's path
+14/05/2017, 09:57 - Bob: Also be sure to set up all the other settings! See the CHANGEME.ini file for more info.
+14/05/2017, 09:58 - Alice: <Media omitted>
+14/05/2017, 09:59 - Alice: Oh yeah! Make sure you export the file WITHOUT MEDIA... 
+14/05/2017, 10:01 - Bob: Anyway, that's all! Enjoy the scanner!
+14/05/2017, 10:02 - Bob: If you need more information, check the README.md.

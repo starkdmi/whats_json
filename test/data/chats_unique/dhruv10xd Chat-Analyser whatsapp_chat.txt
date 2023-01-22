@@ -1,0 +1,104 @@
+8/8/22, 2:55 PM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+8/8/22, 2:55 PM - Dhruv Mishra: Hi ma'am
+I am Dhruv 
+GR, COE3
+8/8/22, 2:56 PM - Dhruv Mishra: Tomorrow we have our ML lab at 9.40am
+But we also have internship test for *Intuit* from 10am-1pm
+And almost everyone has to give it
+8/8/22, 2:57 PM - Dhruv Mishra: So please can we cancel tomorrow's lab class?
+8/8/22, 4:39 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Okay complete previous two assignments on time
+8/8/22, 4:41 PM - Dhruv Mishra: Okay thanks a lot ma'am, I'll inform the group
+8/8/22, 4:41 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Okay
+8/20/22, 4:00 PM - Dhruv Mishra: Hi ma'am
+8/20/22, 4:01 PM - Dhruv Mishra: In assignment 2, last question last part we have to calculate correlation between commute distance and yearly income
+8/20/22, 4:02 PM - Dhruv Mishra: But there is no column named commute distance in the data set, so how do I do it?
+8/20/22, 5:26 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Ignore that and choose column of ur choice
+8/20/22, 5:30 PM - Dhruv Mishra: Okay ma'am
+8/30/22, 12:12 PM - Dhruv Mishra: You deleted this message
+8/30/22, 12:13 PM - Dhruv Mishra: Ma'am 1 new student was added to the group, so I have updated the list
+8/30/22, 12:13 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Ok
+8/30/22, 12:14 PM - Dhruv Mishra: <Media omitted>
+9/6/22, 10:01 AM - Dhruv Mishra: [Name] Vi Store
+[Phone] 9316999998
+9/6/22, 10:03 AM - Gurinderjeet ML Lab Ma'am 5th Sem: <Media omitted>
+9/6/22, 10:04 AM - Gurinderjeet ML Lab Ma'am 5th Sem: <Media omitted>
+9/6/22, 10:06 AM - Gurinderjeet ML Lab Ma'am 5th Sem: <Media omitted>
+9/6/22, 10:06 AM - Gurinderjeet ML Lab Ma'am 5th Sem: <Media omitted>
+9/6/22, 10:06 AM - Gurinderjeet ML Lab Ma'am 5th Sem: <Media omitted>
+9/6/22, 10:06 AM - Gurinderjeet ML Lab Ma'am 5th Sem: <Media omitted>
+9/6/22, 10:29 AM - Gurinderjeet ML Lab Ma'am 5th Sem: Check due dates on google classroom for assignment 3 and 4
+9/11/22, 4:28 PM - Gurinderjeet ML Lab Ma'am 5th Sem: <Media omitted>
+9/11/22, 4:29 PM - Gurinderjeet ML Lab Ma'am 5th Sem: <Media omitted>
+9/12/22, 9:38 PM - Dhruv Mishra: Hi ma'am
+Tomorrow we have 2 sessionals just after the scheduled lab timings(se+ds) from 11.20 till 2pm, and also assignment submission deadlines.
+Most of the students won't be able to manage tomorrow's ML lab with this tight schedule.
+ So can we please cancel the lab?
+9/12/22, 9:39 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Can't cancel
+9/12/22, 9:40 PM - Dhruv Mishra: Then ma'am can we reschedule the lab after msts?
+9/12/22, 9:41 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Sry dear
+9/12/22, 9:42 PM - Dhruv Mishra: Ok ma'am I'll inform the group
+9/13/22, 9:56 AM - Gurinderjeet ML Lab Ma'am 5th Sem: Nobody came for lab
+9/13/22, 9:57 AM - Gurinderjeet ML Lab Ma'am 5th Sem: Inform them to complete all pending assignments till 5
+9/13/22, 12:24 PM - Dhruv Mishra: Okay noted ma'am
+9/14/22, 11:01 AM - Gurinderjeet ML Lab Ma'am 5th Sem: Due date for assignment 4 is coming saturday 17 sept
+9/14/22, 11:03 AM - Dhruv Mishra: Okay ma'am noted
+10/11/22, 6:50 AM - Gurinderjeet ML Lab Ma'am 5th Sem: M not feeling well today. Will reschedule today's lab some other day
+10/11/22, 6:50 AM - Gurinderjeet ML Lab Ma'am 5th Sem: Tell me ur free slots this week
+10/11/22, 6:50 AM - Gurinderjeet ML Lab Ma'am 5th Sem: <Media omitted>
+10/11/22, 6:50 AM - Gurinderjeet ML Lab Ma'am 5th Sem: <Media omitted>
+10/11/22, 6:51 AM - Gurinderjeet ML Lab Ma'am 5th Sem: And share assignment 6 with students. They can start solving if topics covered in lectures.
+10/11/22, 8:49 AM - Dhruv Mishra: Okay ma'am noted
+10/11/22, 8:49 AM - Dhruv Mishra: Take care ma'am
+10/11/22, 11:15 AM - Gurinderjeet ML Lab Ma'am 5th Sem: Tell me ur free slot on thursday or wednesday
+10/11/22, 12:37 PM - Dhruv Mishra: Ma'am let me ask groupmates if they have any elective classes and then I'll inform you
+10/11/22, 12:37 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Ok
+10/11/22, 7:39 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Assignment and due dates are updated on classroom kindly check
+10/11/22, 8:32 PM - Dhruv Mishra: Ok ma'am
+10/11/22, 8:33 PM - Dhruv Mishra: I asked on the group and students have labs at almost all the slots on Wednesday and Thursday.
+So far no one has objected to 11:20am time slot on Thursday.
+10/11/22, 8:34 PM - Gurinderjeet ML Lab Ma'am 5th Sem: 11.20 is not possible
+10/11/22, 8:34 PM - Gurinderjeet ML Lab Ma'am 5th Sem: I hv a lab
+10/11/22, 8:35 PM - Dhruv Mishra: Ma'am I asked for 9:40am and it's not free.
+At 1:50pm they have lecture..
+So there is 1-1:50pm free slot also
+10/11/22, 8:36 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Okay
+10/11/22, 8:36 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Its goof
+10/11/22, 8:36 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Good*
+10/11/22, 8:36 PM - Gurinderjeet ML Lab Ma'am 5th Sem: I will complete the required topic
+10/11/22, 8:36 PM - Dhruv Mishra: Okay ma'am
+10/11/22, 8:36 PM - Dhruv Mishra: I will inform the students
+10/11/22, 8:36 PM - Gurinderjeet ML Lab Ma'am 5th Sem: I will tell u the lab venue tomorrow
+10/11/22, 8:37 PM - Dhruv Mishra: Okay ma'am
+10/13/22, 11:28 AM - Gurinderjeet ML Lab Ma'am 5th Sem: Next week i will do mid evaluation of ML lab project. So every student will tell their project titles and group (of two students max) and will also show how much work they have done.
+10/13/22, 11:28 AM - Gurinderjeet ML Lab Ma'am 5th Sem: Inform all
+10/13/22, 12:16 PM - Dhruv Mishra: Ma'am you didn't tell anything about the project before..?
+10/13/22, 12:16 PM - Dhruv Mishra: Also is there extra lab today?
+10/13/22, 12:16 PM - Gurinderjeet ML Lab Ma'am 5th Sem: I think I hv told
+10/13/22, 12:17 PM - Gurinderjeet ML Lab Ma'am 5th Sem: This time no marks will be given
+10/13/22, 12:17 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Its just regular check
+10/13/22, 12:17 PM - Gurinderjeet ML Lab Ma'am 5th Sem: M present today but will leave early still not feeling well
+10/13/22, 12:17 PM - Gurinderjeet ML Lab Ma'am 5th Sem: So will not schedule lab today
+10/13/22, 12:18 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Will schedule next week if required much
+10/13/22, 12:18 PM - Dhruv Mishra: Okay ma'am
+10/13/22, 12:18 PM - Gurinderjeet ML Lab Ma'am 5th Sem: But as per assignment 5 logistic regression is already covered before
+10/13/22, 12:19 PM - Dhruv Mishra: No ma'am I asked the group members too I have no idea about the project we haven't even done anything
+10/13/22, 12:19 PM - Gurinderjeet ML Lab Ma'am 5th Sem: So i think students will be able to solve assignment 5 without any obstacles
+10/13/22, 12:19 PM - Gurinderjeet ML Lab Ma'am 5th Sem: No issues
+10/13/22, 12:23 PM - Dhruv Mishra: Okay ma'am if there will be any problems I'll inform you
+10/13/22, 12:28 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Okay
+10/17/22, 11:37 PM - Dhruv Mishra: Hi ma'am
+10/17/22, 11:38 PM - Dhruv Mishra: Do we have lab tomorrow ?
+10/17/22, 11:38 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Yes
+10/17/22, 11:38 PM - Dhruv Mishra: Okay ma'am
+10/18/22, 9:50 AM - Gurinderjeet ML Lab Ma'am 5th Sem: M waiting in lab
+10/18/22, 9:55 AM - Dhruv Mishra: Ma'am pahuch gye bas
+10/18/22, 9:55 AM - Gurinderjeet ML Lab Ma'am 5th Sem: Okay
+10/18/22, 12:14 PM - Dhruv Mishra: ma'am there are 29 students in the group as I told you earlier on phone, so 1 team with 3 members:-
+10/18/22, 12:15 PM - Dhruv Mishra: Amit, Dhruv, Srishti
+10/18/22, 12:16 PM - Dhruv Mishra: But there are 3 more teams who also want 3 members.. what should I tell them?
+10/18/22, 12:16 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Only 2
+10/18/22, 12:17 PM - Gurinderjeet ML Lab Ma'am 5th Sem: Allowed
+10/18/22, 12:18 PM - Dhruv Mishra: Okay ma'am
+10/19/22, 9:41 PM - Dhruv Mishra: <Media omitted>
+10/19/22, 9:41 PM - Dhruv Mishra: ma'am only 24 students have filled this excel till now.
+10/19/22, 9:43 PM - Dhruv Mishra: and gurnoor, arshdeep and Nikhil filled the form as 1 team despite me telling them this.. they are saying they have made a lot of project together and can't separate now

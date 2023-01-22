@@ -1,0 +1,2899 @@
+8/23/22, 5:09 PM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+8/23/22, 5:09 PM - Aadarsh created group "Reddy lab hackathon"
+8/23/22, 5:09 PM - Aadarsh added you
+8/23/22, 5:11 PM - Aadarsh: Round 1 - Proposal Submission
+
+The participating team will have to submit a 500-600 word summary of the Solution they propose/how they look forward to solve the problem. We have two challenges for you. Team can select any one of the challenge and submit the proposal. Challenge 1 - Brand Name Generator Challenge 2 - Vital Vision 2.0- Extraction of information from handwritten prescriptions
+8/23/22, 5:31 PM - Dhanush: Are em select chedam
+8/23/22, 7:26 PM - Aman Rachala: Arey register chesara?
+8/23/22, 7:27 PM - Aadarsh: okkaru cheyali
+8/23/22, 7:27 PM - Aman Rachala: yeah
+8/23/22, 7:27 PM - Aadarsh: andarivi
+8/23/22, 7:27 PM - Aman Rachala: pettandi chesestha
+8/23/22, 7:27 PM - Aman Rachala: team name?
+8/23/22, 7:27 PM - Aadarsh: emo
+8/23/22, 7:28 PM - Aadarsh: em pettali
+8/23/22, 7:29 PM - Aman Rachala: <Media omitted>
+8/23/22, 7:29 PM - Aman Rachala: email anthe
+8/23/22, 7:30 PM - Aadarsh: aadarshpokala02@gmail.com
+8/23/22, 7:30 PM - Aman Rachala: team leader?
+8/23/22, 7:30 PM - Aadarsh: I am out
+8/23/22, 7:35 PM - Aman Rachala: Hey actually team leader eh fill cheyali
+8/23/22, 7:35 PM - Aadarsh: ohh
+8/23/22, 7:35 PM - Dhanush: Mari nuvve untava
+8/23/22, 7:35 PM - Aman Rachala: hm okay
+8/23/22, 7:36 PM - Aman Rachala: em farak padadu ig
+8/23/22, 7:36 PM - Aman Rachala: mail pettey
+8/23/22, 7:36 PM - Aman Rachala: @918978554085
+8/23/22, 7:36 PM - Dhanush: Yevarki
+8/23/22, 7:37 PM - Aman Rachala: nee mail petra
+8/23/22, 7:37 PM - Dhanush: Neeku telsu ga
+8/23/22, 7:37 PM - Dhanush: burradhanush@gmail.com
+8/23/22, 7:42 PM - Aman Rachala: <Media omitted>
+8/23/22, 7:42 PM - Aman Rachala: <Media omitted>
+8/23/22, 7:42 PM - Aman Rachala: okay na
+8/23/22, 7:42 PM - Aman Rachala: <Media omitted>
+8/23/22, 7:43 PM - 22Adarsh: Ok
+8/23/22, 7:43 PM - Dhanush: Avthe Dhanush Burra ani chestava
+8/23/22, 7:43 PM - Aadarsh: P Aadarsh*
+8/23/22, 7:44 PM - Aman Rachala: okay
+8/23/22, 7:44 PM - 22Adarsh: Adarsh Kumar Akula *
+8/23/22, 7:44 PM - Aman Rachala: yeah
+8/23/22, 7:46 PM - Aman Rachala: mind benders ani pettala?
+8/23/22, 7:46 PM - Aman Rachala: team name
+8/23/22, 7:46 PM - Aman Rachala: anything edaina cheppandi pettestha
+8/23/22, 7:46 PM - Aman Rachala: time waste ivi
+8/23/22, 7:46 PM - Dhanush: Ade Petey 😂
+8/23/22, 7:46 PM - Aadarsh: haa
+8/23/22, 7:46 PM - Aadarsh: edo okati pettey
+8/23/22, 7:48 PM - Aman Rachala: <Media omitted>
+8/23/22, 7:48 PM - Aman Rachala: idi chusara?
+8/23/22, 7:52 PM - Aadarsh: deep learning anta
+8/23/22, 7:53 PM - Aman Rachala: yeah second ki kuda ml implementation
+8/23/22, 7:53 PM - Aadarsh: haa
+8/23/22, 7:54 PM - Aman Rachala: prasthuthaniki explain cheyali ga
+8/23/22, 7:54 PM - Aadarsh: ante oka idea ni explain cheyali
+8/23/22, 8:00 PM - Aman Rachala: 2nd better ah?
+8/23/22, 8:03 PM - Aadarsh: MLops ravali ga
+8/23/22, 8:06 PM - Aman Rachala: mari ela?
+8/23/22, 8:07 PM - Aadarsh: rendu raavu kani denikaithe manchi resources unnayo
+8/23/22, 8:07 PM - Aadarsh: adi cheste best ig
+8/23/22, 8:07 PM - Aman Rachala: Resources ante?
+8/23/22, 8:08 PM - Aadarsh: manam nerchukovadaniki matter
+8/23/22, 8:08 PM - Aman Rachala: ala ayithe 2nd would be better
+8/23/22, 8:08 PM - Aadarsh: or any similar problem ki codes
+8/23/22, 8:08 PM - Aman Rachala: image processing use cheyali naku thelsi
+8/23/22, 8:09 PM - Aman Rachala: python lo some modules unnay direct writing ni recognize chesevi
+8/23/22, 8:10 PM - Aadarsh: . Create a ML ops architecture and components which needs to be created for continuous 
+learning.
+8/23/22, 8:10 PM - Aadarsh: idi ardam kale naku
+8/23/22, 8:10 PM - Aadarsh: What are the components of MLOps?
+Exploratory data analysis (EDA)
+Data Prep and Feature Engineering.
+Model training and tuning.
+Model review and governance.
+Model inference and serving.
+Model monitoring.
+Automated model retraining.
+8/23/22, 8:10 PM - Aadarsh: Net lo idi undi
+8/23/22, 8:10 PM - Aman Rachala: oho
+8/23/22, 8:10 PM - Aman Rachala: aa part naku em artham kale
+8/23/22, 8:11 PM - Aadarsh: ade antunna
+8/23/22, 8:11 PM - Aman Rachala: some dev ops related ra
+8/23/22, 8:11 PM - Aman Rachala: next sem lo undi adhi ig
+8/23/22, 8:11 PM - Aadarsh: Different kada rendu devops and Mlops
+8/23/22, 8:12 PM - Aman Rachala: yeah different eh
+8/23/22, 8:12 PM - Aman Rachala: but net lo undi edho
+8/23/22, 8:12 PM - Aadarsh: ohh
+8/23/22, 8:12 PM - Aman Rachala: The word is a compound of "machine learning" and the continuous development practice of DevOps in the software field.
+8/23/22, 8:12 PM - Aman Rachala: vishnu vallu em dng anta
+8/23/22, 8:13 PM - Aadarsh: emo adagali
+8/23/22, 8:13 PM - Aman Rachala: ohkay
+8/23/22, 8:20 PM - Dhanush: Ml ops lo kuda python packages deploy chesi use cheyadam eh na
+8/23/22, 8:20 PM - Dhanush: Or inkemana different chestara
+8/23/22, 8:21 PM - Aadarsh: MLops ante training our model ig
+8/23/22, 8:22 PM - Dhanush: Maintaining ml models ankunta
+8/23/22, 8:26 PM - Dhanush: Inthaki em project teskuntunam
+8/24/22, 11:24 AM - Aadarsh: https://github.com/Aniket025/Medical-Prescription-OCR/tree/master/Model-2
+8/24/22, 11:25 AM - Aadarsh: https://github.com/Aniket025/Medical-Prescription-OCR
+8/24/22, 8:13 PM - Aman Rachala: Idea own ga radhama or copy?
+8/24/22, 8:14 PM - Aadarsh: ok edaina
+8/24/22, 8:14 PM - Aman Rachala: Paina github vi execute chesara?
+8/25/22, 7:54 PM - Aadarsh: https://docs.google.com/document/d/1aoTx1Dx8ScltmWZ3F3e1xEkJ8vSA2TGIwFMEK1UZGZ8/edit
+8/25/22, 7:54 PM - Aadarsh: Vishnu valu edo website nunchi tisaru anta
+8/25/22, 7:54 PM - Aadarsh: Manam em cheddam mari
+8/25/22, 7:55 PM - 22Adarsh: Eeroju edho submit cheyali kada?
+8/25/22, 7:56 PM - Dhanush: Edho* 🔥😂
+8/25/22, 7:56 PM - 22Adarsh: Brooo
+8/25/22, 7:56 PM - Dhanush: Enduk rale ra iroju
+8/25/22, 7:56 PM - 22Adarsh: Ravali anipiyyale😅
+8/25/22, 7:57 PM - 22Adarsh: Morning nidra levali anipiyyale first
+8/25/22, 7:57 PM - Aman Rachala: Arey em rasaru ra vallu
+8/25/22, 7:57 PM - Aman Rachala: Okka sentence artham kale
+8/25/22, 7:57 PM - Aadarsh: valu rayale
+8/25/22, 7:57 PM - Aadarsh: lepesaru
+8/25/22, 7:57 PM - Dhanush: Manam kuda inka ade chedam
+8/25/22, 7:58 PM - Dhanush: Em artham avvatle adi
+8/25/22, 7:58 PM - Aadarsh: vethakamannadu
+8/25/22, 7:58 PM - Dhanush: Haa
+8/25/22, 7:58 PM - Aadarsh: search chey chala unayy
+8/25/22, 7:58 PM - Aadarsh: imp paras anni kalpi
+8/25/22, 7:58 PM - Aadarsh: paraphrase in spinbot website
+8/25/22, 7:58 PM - Dhanush: Valadi brand generator ah
+8/25/22, 7:59 PM - Aadarsh: open chey ra
+8/25/22, 7:59 PM - Aadarsh: https://towardsdatascience.com/deciphering-doctors-handwriting-using-deep-learning-b3fce634f2e1
+8/25/22, 7:59 PM - Aadarsh: Ilanti di
+8/25/22, 7:59 PM - Aadarsh: Mem Deni nunchi tesam
+8/25/22, 8:04 PM - Aadarsh: https://nanonets.com/blog/handwritten-character-recognition/
+8/25/22, 8:04 PM - Aadarsh: vethukutunnara leda lyt ah
+8/25/22, 8:05 PM - Aman Rachala: vethukuthunnam
+8/25/22, 8:07 PM - Aman Rachala: Arey vishnu theesina website lo project ledu ga?
+8/25/22, 8:07 PM - Aadarsh: ha ledu first edo okati chesi chuddam annaru
+8/25/22, 8:07 PM - Aadarsh: annadu
+8/25/22, 8:08 PM - Aman Rachala: oh
+8/25/22, 8:09 PM - Aman Rachala: https://www.sciencepubco.com/index.php/ijet/article/view/18785
+8/25/22, 8:09 PM - Dhanush: Django lo  python eh ga so we'll import the relevant packages and development the application ani rayacha
+8/25/22, 8:10 PM - Aman Rachala: Namaste
+8/25/22, 8:10 PM - Aadarsh: em ardam aitale naku
+8/25/22, 8:10 PM - Aadarsh: em cheyalo ani
+8/25/22, 8:11 PM - Aman Rachala: Yeah em radu ga mari manaki
+8/25/22, 10:53 PM - Aman Rachala: Arey manam peekedhi em ledu elago atleast participate chedham
+8/25/22, 10:53 PM - Aman Rachala: hello reply ppl....
+8/25/22, 10:54 PM - Aadarsh: Sare ra
+8/25/22, 10:56 PM - Aman Rachala: https://www.sciencepubco.com/index.php/ijet/article/view/18785
+8/25/22, 10:56 PM - Aman Rachala: Idhe copy but rephrasing
+8/25/22, 10:57 PM - Aadarsh: Vokay
+8/25/22, 10:58 PM - Aman Rachala: Arey oka word file create chesi link pettu
+8/25/22, 10:58 PM - Aman Rachala: manam koncham fill chesedam vallu online ochaka vallu chestharu
+8/25/22, 10:58 PM - Aadarsh: Okay
+8/25/22, 10:58 PM - Aadarsh: Valu kashtam anukunta
+8/25/22, 11:01 PM - Dhanush: Are nak em teledu fill cheyadaniki
+8/25/22, 11:01 PM - Aadarsh: https://docs.google.com/document/d/1SyEPvG6g8imTLTUOdrW78aLaGqmv6YH49IQeV6FbtWo/edit?usp=sharing
+8/25/22, 11:02 PM - Aman Rachala: https://meet.google.com/asb-weoe-vxg?pli=1
+8/25/22, 11:03 PM - 22Adarsh: 2 minutes
+8/25/22, 11:09 PM - Aman Rachala: Dhanush?
+8/25/22, 11:09 PM - Dhanush: coming
+8/25/22, 11:13 PM - Dhanush: Are Naku net problem undi
+8/25/22, 11:13 PM - Dhanush: Oka 2mins
+8/25/22, 11:14 PM - Aman Rachala: okay
+8/25/22, 11:36 PM - Aman Rachala: Arey toastmasters ki register ayyara?
+8/25/22, 11:36 PM - Dhanush: Avdam
+8/25/22, 11:36 PM - Aadarsh: lab untadi kada ra
+8/25/22, 11:37 PM - 22Adarsh: Arey nadhi disconnect ayindhi meet..inka vunnara meet lo
+8/25/22, 11:38 PM - Dhanush: Are inka register avvalem
+8/25/22, 11:38 PM - Aadarsh: Nope
+8/25/22, 11:38 PM - Dhanush: Closed undi form
+8/25/22, 11:38 PM - Aman Rachala: Arey manaki DCCN eh
+8/25/22, 11:39 PM - Aman Rachala: so 1hr eh untadi ga
+8/25/22, 11:39 PM - Aman Rachala: Em chedham
+8/25/22, 11:39 PM - Aadarsh: Ha
+8/25/22, 11:39 PM - Aadarsh: Kani idi
+8/25/22, 11:40 PM - Aman Rachala: Manaki em farak padadu le
+8/25/22, 11:40 PM - Aman Rachala: It starts at 10am
+8/25/22, 11:40 PM - Aadarsh: haa
+8/25/22, 11:41 PM - Dhanush: Uml kuda 1 HR lo adgestadi kada
+8/25/22, 11:41 PM - Dhanush: Goals
+8/25/22, 11:41 PM - Aadarsh: Tarvata cheptadi edo
+8/25/22, 11:41 PM - Aman Rachala: SRS chepthadi next
+8/25/22, 11:41 PM - Dhanush: Okay
+8/25/22, 11:41 PM - Aman Rachala: Manam badminton adudama?
+8/25/22, 11:41 PM - Dhanush: Haa
+8/25/22, 11:41 PM - Aman Rachala: Or anything else...
+8/25/22, 11:42 PM - Dhanush: 3rd period library ra
+8/25/22, 11:42 PM - Aman Rachala: Oh okay
+8/25/22, 11:42 PM - Dhanush: So apudu vastha
+8/25/22, 11:42 PM - Aman Rachala: Sare
+8/25/22, 11:42 PM - Aman Rachala: Gokul ni shuttle cock adugu
+8/25/22, 11:42 PM - Dhanush: Ok
+8/28/22, 5:03 PM - Aman Rachala: F
+8/28/22, 5:03 PM - Aadarsh: Amte ochindi😂
+8/28/22, 5:03 PM - Aman Rachala: join a meeting anta
+8/28/22, 5:04 PM - Aadarsh: Ffff
+8/28/22, 5:04 PM - Aadarsh: Eppudu ra
+8/28/22, 5:04 PM - Aman Rachala: 30 aug
+8/28/22, 5:04 PM - Aadarsh: Vammo
+8/28/22, 5:04 PM - Aman Rachala: 630pm
+8/28/22, 5:04 PM - Aadarsh: Chuddam
+8/28/22, 5:04 PM - Aman Rachala: <Media omitted>
+8/28/22, 5:04 PM - Aman Rachala: meeru chudandi ochindi emo
+8/28/22, 5:04 PM - Aadarsh: Rale ra
+8/28/22, 5:05 PM - Aadarsh: Chusa
+8/28/22, 5:05 PM - Aman Rachala: dr reddy ani type chesthene kani pinchindi naku mail lo
+8/28/22, 5:05 PM - Aadarsh: Doubt session eh ga
+8/28/22, 5:05 PM - Aadarsh: Em kadu
+8/28/22, 5:05 PM - Aman Rachala: inbox lo naku kuda kanipiyale
+8/28/22, 5:05 PM - Aman Rachala: but join avvali emo
+8/28/22, 5:06 PM - Aadarsh: Ha
+8/28/22, 5:06 PM - Aadarsh: Kani question em adagam le
+8/28/22, 5:07 PM - Aadarsh: Ratri 1hr chesi select ayyam ga ra
+8/28/22, 5:07 PM - Aadarsh: 😂
+8/28/22, 5:08 PM - Aman Rachala: andaru ayyuntaru le
+8/28/22, 5:08 PM - Aadarsh: Haaa
+8/28/22, 6:02 PM - Aman Rachala: Offer letter response ichara?
+8/28/22, 6:05 PM - Dhanush: Yes
+8/28/22, 6:14 PM - Aadarsh: Ha
+8/28/22, 6:15 PM - Aman Rachala: Ahaa ( ͡° ͜ʖ ͡°)
+8/28/22, 6:15 PM - Dhanush: Nuvvu ivale ?
+8/28/22, 6:15 PM - Aadarsh: Vadu salesforce ga
+8/28/22, 6:16 PM - Dhanush: 😂
+8/28/22, 6:16 PM - Aman Rachala: Modda
+8/28/22, 6:17 PM - Aman Rachala: No btw
+8/28/22, 6:17 PM - Aadarsh: Ammayila tho inka veree assalu
+8/28/22, 6:17 PM - Aadarsh: Mana clg valu salesforce only ammayilake anta..motham veedi sketch eh
+8/28/22, 6:18 PM - Aman Rachala: Arey close em cheyale ga?
+8/28/22, 6:18 PM - Aman Rachala: Meeru eppudu chesaru?
+8/28/22, 6:19 PM - Aadarsh: Ninna
+8/28/22, 6:21 PM - Aman Rachala: Two pages mail chesara?
+8/28/22, 6:22 PM - Aadarsh: Motham doc petta nen
+8/28/22, 6:22 PM - Aman Rachala: Arey total file lo last two pages fill chesi vadiki pettali anthe ga
+8/28/22, 6:22 PM - Aadarsh: ha
+8/28/22, 6:27 PM - Dhanush: I accept ani petali kada
+8/28/22, 6:27 PM - Aadarsh: with doc
+8/28/22, 6:27 PM - Dhanush: Eh doc
+8/28/22, 6:27 PM - Aman Rachala: Noicee
+8/28/22, 6:27 PM - Aadarsh: andulo ochindi offer letter
+8/28/22, 6:27 PM - Dhanush: Adi malli valaki petava
+8/28/22, 6:27 PM - Aman Rachala: Just I accept ani pettava
+8/28/22, 6:27 PM - Dhanush: Within 24 hrs ani Edo unde
+8/28/22, 6:27 PM - Aadarsh: sign pettali ra ah doc lo
+8/28/22, 6:28 PM - Dhanush: Wtf
+8/28/22, 6:28 PM - Aadarsh: adi valaki pettali
+8/28/22, 6:28 PM - Aman Rachala: yeah em kadu ig
+8/28/22, 6:28 PM - Aadarsh: haa ippudu pettu
+8/28/22, 6:28 PM - Dhanush: Nenu unna le 😂
+8/28/22, 6:37 PM - Aman Rachala: Emaina reply ochinda?
+8/28/22, 6:38 PM - Aadarsh: ledu
+8/29/22, 8:43 PM - Aman Rachala: https://forms.gle/2c9dXaynBsC3NJ7v8
+Share this with Batch-2024 Circuit Branches for Summer Internship
+*Form will be closed tomorrow (30/08/2022) 12pm*
+8/29/22, 8:43 PM - Aman Rachala: Idhi fill chesaru ga?
+8/29/22, 8:43 PM - Aadarsh: Mail ochindi ga
+8/29/22, 8:43 PM - 22Adarsh: Haa
+8/29/22, 8:43 PM - Aman Rachala: Emo mail chudale nenu
+8/29/22, 8:43 PM - Aman Rachala: Ikkade chusa
+8/29/22, 8:44 PM - Aadarsh: Kk
+8/30/22, 10:48 PM - Aman Rachala: Meet join avvale ga?
+8/30/22, 10:48 PM - Aadarsh: Ledu
+8/30/22, 10:48 PM - Aman Rachala: Naku ippude gurthochindi
+8/30/22, 10:50 PM - Aadarsh: Chetan join ayyadu ara
+8/30/22, 10:50 PM - Aadarsh: Ata
+8/30/22, 10:50 PM - Aman Rachala: Oho
+9/4/22, 10:46 AM - Aadarsh: https://hackodisha2022.devfolio.co/
+9/4/22, 11:31 AM - Aman Rachala: Yeah okay
+9/4/22, 12:08 PM - Dhanush: Team size entha
+9/4/22, 12:08 PM - Dhanush: Like individual applications unay
+9/4/22, 12:19 PM - Aman Rachala: This message was deleted
+9/4/22, 12:41 PM - Aadarsh: 1-4 team size
+9/4/22, 5:09 PM - Aman Rachala: Arey noc repena isthunnadi?
+9/4/22, 5:15 PM - Dhanush: Haa
+9/4/22, 6:13 PM - Aman Rachala: Em em submit cheyali?
+9/4/22, 6:15 PM - Dhanush: <Media omitted>
+9/4/22, 6:15 PM - Dhanush: <Media omitted>
+9/4/22, 6:15 PM - Dhanush: <Media omitted>
+9/4/22, 6:15 PM - Dhanush: <Media omitted>
+9/4/22, 6:15 PM - Dhanush: Ee pdf lo pgs 24 and 26
+9/4/22, 6:17 PM - Aman Rachala: Anthena?
+9/5/22, 6:47 PM - Aman Rachala: So ppt em ledu ga?
+9/5/22, 8:34 PM - Aadarsh: register aitara
+9/5/22, 8:34 PM - Aadarsh: toastmaster ki
+9/5/22, 8:35 PM - Dhanush: Emo, matladedi ledante avdam
+9/5/22, 8:35 PM - Aadarsh: LOLL
+9/5/22, 8:35 PM - Aadarsh: ela telustadi adi
+9/5/22, 8:35 PM - Dhanush: Gokul ki idea untadi ig
+9/5/22, 8:35 PM - Aadarsh: okay ask
+9/5/22, 8:35 PM - Dhanush: Vadi friend okadu toastmasters lo unadu
+9/5/22, 8:35 PM - Aadarsh: kk
+9/5/22, 8:36 PM - Dhanush: Nuvve adigey
+9/5/22, 8:36 PM - Aman Rachala: Participants eh speaking anukuntara
+9/5/22, 8:36 PM - Aadarsh: yeah
+9/5/22, 8:36 PM - Aadarsh: ade antunna
+9/5/22, 8:53 PM - Aadarsh: fill chesna nen
+9/5/22, 9:07 PM - Aman Rachala: Pada mari
+9/5/22, 9:09 PM - Dhanush: <Media omitted>
+9/5/22, 9:12 PM - Dhanush: Are attendance vastadi anta
+9/5/22, 9:12 PM - Dhanush: Gokul asked toastmasters member
+9/5/22, 9:13 PM - Dhanush: Inka valla club members eh matladtaru anta
+9/5/22, 9:15 PM - Aadarsh: Naku doubt eh ra
+9/5/22, 9:16 PM - Dhanush: .
+9/6/22, 7:17 AM - Aman Rachala: Formals em ledu ga...
+9/6/22, 8:30 PM - Aadarsh: https://docs.google.com/forms/d/e/1FAIpQLSfJJU4XPdOSGYUuFAdELNbG3MrO_j2weSsSH2hU642QZuclyw/viewform?usp=sf_link
+9/6/22, 8:30 PM - Aadarsh: Fill chesara
+9/6/22, 8:36 PM - Dhanush: Meeru chesara
+9/6/22, 8:44 PM - Aadarsh: ha chesa ippude
+9/6/22, 8:54 PM - Aman Rachala: Arey print thechava?
+9/6/22, 8:55 PM - Aadarsh: yess
+9/6/22, 8:55 PM - Aman Rachala: Shittt myaan
+9/6/22, 8:55 PM - Aman Rachala: Nenu marchipoya ra
+9/6/22, 8:55 PM - Aadarsh: tanis
+9/6/22, 8:55 PM - Aman Rachala: Haa vade dikku😂
+9/6/22, 8:55 PM - Dhanush: Deniki ra print
+9/6/22, 8:56 PM - Aadarsh: certificate submit cheyali rep mem
+9/6/22, 8:56 PM - Dhanush: Ohh 👍🏻
+9/6/22, 8:56 PM - Dhanush: Eh certificate
+9/6/22, 8:56 PM - Dhanush: Eh subject
+9/6/22, 8:56 PM - Aadarsh: activity points
+9/6/22, 8:57 PM - Dhanush: Class mothaniki cheppale ?
+9/6/22, 8:57 PM - Aadarsh: ma mentor ki raa
+9/6/22, 8:58 PM - Aadarsh: miru chesaru ga
+9/6/22, 8:58 PM - Aadarsh: chetan aithe chesadu vadini adgu
+9/6/22, 8:58 PM - Dhanush: Inka cheyle
+9/6/22, 8:58 PM - Dhanush: Mentoring gurinchi matladtunaru ani telele
+9/6/22, 8:59 PM - Aadarsh: haa okk
+9/7/22, 7:32 AM - Aman Rachala: Racket theyala?
+9/7/22, 7:33 AM - Aadarsh: Marchipoina
+9/7/22, 7:33 AM - Aadarsh: Nen
+9/7/22, 7:34 AM - Aman Rachala: @918978554085 ?
+9/7/22, 7:34 AM - Dhanush: Maku em free ledu
+9/7/22, 7:34 AM - Dhanush: 3hrd lab
+9/7/22, 7:35 AM - Aadarsh: Lunch lo adochu ga
+9/7/22, 7:35 AM - Dhanush: Tinali ga
+9/7/22, 7:35 AM - Dhanush: Time undadu le
+9/9/22, 3:47 PM - Aadarsh: arey
+9/9/22, 3:47 PM - Aadarsh: apply chedama
+9/9/22, 3:47 PM - Aadarsh: hackodisha
+9/9/22, 4:48 PM - Dhanush: Yes
+9/9/22, 4:49 PM - 22Adarsh: Okay
+9/9/22, 4:57 PM - Aadarsh: https://hackodisha2022.devfolio.co/
+9/9/22, 4:57 PM - Aadarsh: indulo signup avandi
+9/9/22, 4:57 PM - Aadarsh: tarvata team cheskovaochu
+9/9/22, 6:21 PM - Aadarsh: ah IOT bootcamp register aidama
+9/9/22, 6:42 PM - Aadarsh: I did u also do
+9/9/22, 6:42 PM - Aadarsh: https://docs.google.com/document/d/1xxWoRUMREMmVl0W2LLykkPwNsqt_FF4PyRHuVXJyNRQ/edit
+9/9/22, 9:17 PM - Aadarsh: Team name cheppandi
+9/9/22, 9:17 PM - Dhanush: Hackathon flunkers
+9/9/22, 9:18 PM - Dhanush: 😂
+9/9/22, 9:19 PM - Aman Rachala: Emo mari
+9/9/22, 9:19 PM - Aman Rachala: Nee ishtam
+9/9/22, 9:23 PM - Aadarsh: 🥲
+9/9/22, 9:23 PM - Aadarsh: Idi petteyala
+9/9/22, 9:23 PM - Aadarsh: Ippudu mana mugguram eh na chesedi
+9/9/22, 9:23 PM - Aadarsh: @916303616231 leda?
+9/9/22, 9:26 PM - Aman Rachala: Bug slayers kuda petochu🤔
+9/9/22, 9:26 PM - 22Adarsh: Team size entha vundali?
+9/9/22, 9:26 PM - Aadarsh: 4 kani nuv reply ivvatle ga😏
+9/9/22, 9:27 PM - Aadarsh: Haa
+9/9/22, 9:27 PM - 22Adarsh: Ikkada okati ichanu kada
+9/9/22, 9:27 PM - Aadarsh: Ok🥲
+9/9/22, 10:54 PM - Aadarsh: d71ec93716
+9/9/22, 10:54 PM - Aadarsh: join avvandi
+9/9/22, 10:55 PM - Aadarsh: Mrng 8 ki undi raa
+9/9/22, 10:55 PM - Aadarsh: tondara leste mana ishtam unna ps tiskovachu ig
+9/10/22, 8:23 AM - Aadarsh: <Media omitted>
+9/10/22, 8:28 AM - Dhanush: Ivva topics ?
+9/10/22, 8:42 AM - Aadarsh: haa avnu
+9/10/22, 8:43 AM - Aadarsh: <Media omitted>
+9/10/22, 8:43 AM - Aadarsh: em chedam?
+9/10/22, 9:28 AM - Aman Rachala: Ideas unnaya emaina?
+9/10/22, 9:29 AM - Aadarsh: https://www.youtube.com/watch?v=FqNTnBy_YgM
+9/10/22, 9:33 AM - Aadarsh: inka emanna unte
+9/10/22, 9:33 AM - Aadarsh: cheppandi
+9/10/22, 9:59 AM - 22Adarsh: Healthcare ae chedama?
+9/10/22, 10:02 AM - Aman Rachala: Ee project ayithe bavundi
+9/10/22, 10:04 AM - Aman Rachala: But cheyagalama?
+9/10/22, 10:04 AM - Aman Rachala: Disaster management chusara?
+9/10/22, 10:04 AM - Aadarsh: chudale
+9/10/22, 10:04 AM - Aadarsh: @918978554085 chusava
+9/10/22, 10:05 AM - Dhanush: Chusa
+9/10/22, 10:05 AM - Aman Rachala: Normal management system eh
+9/10/22, 10:05 AM - Dhanush: Em peb ekuva
+9/10/22, 10:05 AM - Dhanush: Lev*
+9/10/22, 10:06 AM - Aman Rachala: Manam code copy kodthunnama or everything on own ah?
+9/10/22, 10:09 AM - Dhanush: Own eh try chedam
+9/10/22, 10:20 AM - Dhanush: Mari ide fix ah
+9/10/22, 10:21 AM - Aadarsh: dani code aithe ledu
+9/10/22, 10:25 AM - Aman Rachala: Arey adhi cheyalem ra
+9/10/22, 10:25 AM - Aman Rachala: Okka rojulo
+9/10/22, 10:25 AM - Aadarsh: haa anukuntunna
+9/10/22, 10:30 AM - Dhanush: Are rep kuda undi ga
+9/10/22, 10:32 AM - Aadarsh: repu nyt 8 vraki
+9/10/22, 10:32 AM - Aadarsh: em cheddam cheppandi
+9/10/22, 10:35 AM - Dhanush: Are vere code upload chesedi unte manaki em benefit ra
+9/10/22, 10:35 AM - Dhanush: Atleast try chedam
+9/10/22, 10:44 AM - 22Adarsh: Arey meet pettandi project decide ayithe
+9/10/22, 10:44 AM - Aadarsh: haa
+9/10/22, 10:45 AM - Dhanush: Pls frnds
+9/10/22, 10:45 AM - Dhanush: Oka konsepatlo vastha
+9/10/22, 10:46 AM - Aadarsh: when?
+9/10/22, 10:47 AM - Dhanush: 11:30
+9/10/22, 11:37 AM - Dhanush: Ready ra
+9/10/22, 11:40 AM - Dhanush: Meet ah ipudu
+9/10/22, 11:40 AM - Aman Rachala: Ha
+9/10/22, 11:40 AM - Aman Rachala: Petra aadarsh
+9/10/22, 11:41 AM - Aadarsh: https://meet.google.com/vcc-sxxq-ivx
+9/10/22, 11:41 AM - Dhanush: You deleted this message
+9/10/22, 11:41 AM - Aman Rachala: Lol
+9/10/22, 11:58 AM - Dhanush: https://www.youtube.com/watch?v=7Mm-1sx-BZY
+9/10/22, 12:24 PM - Aadarsh: https://prod.liveshare.vsengsaas.visualstudio.com/join?AF941822265908B4E61C0D2B9632A37E9A97
+9/10/22, 9:53 PM - Dhanush: Guys nen inka eroju ralenu
+9/10/22, 9:53 PM - Dhanush: Intlo tidtunaru
+9/10/22, 10:12 PM - Aman Rachala: Lol
+9/10/22, 10:12 PM - Aman Rachala: Maa intlo enti veedu overaction chesthunnadu anukuntunnaru
+9/10/22, 10:36 PM - Dhanush: Kani truth enti ante project motham almost nuvve chesav
+9/10/22, 10:36 PM - Aadarsh: Haa🔥
+9/10/22, 10:37 PM - Aman Rachala: Ah modda kathal anni
+9/11/22, 10:30 AM - Aadarsh: This message was deleted
+9/11/22, 10:44 AM - Aman Rachala: Arey allow cheyandra
+9/11/22, 10:44 AM - Aadarsh: adi tisesa
+9/11/22, 10:44 AM - Aadarsh: vere pedta
+9/11/22, 10:44 AM - Aman Rachala: F
+9/11/22, 10:44 AM - Aadarsh: https://meet.google.com/vjf-fzvq-yic
+9/11/22, 10:45 AM - Aadarsh: aina dhanush inka rale
+9/11/22, 10:46 AM - Aman Rachala: Manam chedham ra edho okati
+9/11/22, 10:47 AM - Aman Rachala: Oho okay
+9/11/22, 10:47 AM - Aman Rachala: Bulb eligindi ippudu
+9/11/22, 11:00 AM - Dhanush: Coming ra
+9/11/22, 11:57 AM - Dhanush: https://prod.liveshare.vsengsaas.visualstudio.com/join?D00DE9AAD2B56E55E5C95A6A6771F5F3DC81
+9/11/22, 7:49 PM - Dhanush: https://github.com/Duanush/Vaccination-Slot-Booking
+9/11/22, 10:33 PM - Dhanush: Mana project rale ra top 15 lo 🤧
+9/11/22, 10:34 PM - Aadarsh: Niku expectation unde na😂😂
+9/11/22, 10:35 PM - Dhanush: 15 koncham pedda number eh ga
+9/11/22, 10:35 PM - Dhanush: Light ga unde
+9/11/22, 10:35 PM - Aadarsh: Ante different topics kuda unnay fa
+9/11/22, 10:36 PM - Aman Rachala: Ayina antha fast ga ela evaluate chestharu ra
+9/11/22, 10:36 PM - Aadarsh: 1st Description emo
+9/11/22, 10:37 PM - Aman Rachala: 2000 rayale akkada
+9/11/22, 10:38 PM - Aadarsh: Adi kadu ra I mean ML
+9/11/22, 10:38 PM - Aadarsh: AI
+9/11/22, 10:38 PM - Aadarsh: Ah type chustar emo
+9/11/22, 10:38 PM - Aman Rachala: Project idea na...?
+9/11/22, 10:39 PM - Aadarsh: Haa anukunta
+9/11/22, 10:40 PM - Aman Rachala: Mari nuv nee full potential tho chesunte ochedhi manaki
+9/11/22, 10:40 PM - Aadarsh: 🙏🏻
+9/11/22, 10:40 PM - Aman Rachala: Vishnu?
+9/11/22, 10:40 PM - Aadarsh: Oddu intha kuda kakapotunde
+9/11/22, 10:40 PM - Aadarsh: Valu submit cheyale ata
+9/11/22, 10:40 PM - Aman Rachala: A?
+9/11/22, 10:41 PM - Aadarsh: Ha cheyale valu emi
+9/11/22, 10:41 PM - Dhanush: Vala team lo yevar yevar unnaru
+9/11/22, 10:41 PM - Aadarsh: Saketh
+Tan
+Che
+9/11/22, 10:42 PM - Aadarsh: CheTanish
+9/12/22, 10:12 PM - Aman Rachala: Arey website deploying artham ayyinda evarikaina?
+9/12/22, 10:13 PM - Aadarsh: Enti adi
+9/12/22, 10:13 PM - Aadarsh: Endulo
+9/12/22, 10:13 PM - Aman Rachala: Mana website present ga only code undi ga
+9/12/22, 10:13 PM - Aman Rachala: Ala kakunda working website cheyadam
+9/12/22, 10:13 PM - Aadarsh: Haa may be edaina server lo cheyali emo
+9/12/22, 10:13 PM - Aadarsh: Netlify ani undi ga adi chudu
+9/12/22, 10:14 PM - Aadarsh: Okasari
+9/12/22, 10:14 PM - Aman Rachala: Haa github lo kuda cheyochu anta
+9/12/22, 10:14 PM - Aadarsh: Oho
+9/12/22, 10:14 PM - Aman Rachala: Kani artham avvatle
+9/12/22, 10:14 PM - Aadarsh: Kk
+9/12/22, 10:14 PM - Aman Rachala: Projects deploy chesthe ekkuva value untadi anta....
+9/16/22, 8:44 PM - Aman Rachala: Inkendi @917989285342 andaru neekosam kottukuntunnaru
+9/16/22, 8:44 PM - Aadarsh: Ah?
+9/16/22, 8:44 PM - Dhanush: Panace grp lo unnava
+9/16/22, 8:44 PM - Aman Rachala: Em panace grp ea
+9/16/22, 8:44 PM - Aadarsh: Nuv kuda leva😂
+9/16/22, 8:44 PM - Dhanush: Unadu vadu
+9/16/22, 8:44 PM - Aman Rachala: Unna
+9/16/22, 8:45 PM - Aman Rachala: Veedu vere grp antundu anukunna
+9/16/22, 8:45 PM - Dhanush: Koni teams lo 5 unaru
+9/16/22, 8:45 PM - Aadarsh: Kk
+9/16/22, 8:45 PM - Dhanush: So undam
+9/16/22, 8:45 PM - Aman Rachala: Eh ooroda aa grp lo enduku kottukuntunnaru ra
+9/16/22, 8:45 PM - 22Adarsh: Arey grp link pettandi ra
+9/16/22, 8:45 PM - Aman Rachala: Lyt theesko
+9/16/22, 8:45 PM - Aadarsh: Expired
+9/16/22, 8:45 PM - 22Adarsh: Haa
+9/16/22, 8:45 PM - 22Adarsh: Kittadhi
+9/16/22, 8:45 PM - 22Adarsh: Kottadhi
+9/16/22, 8:45 PM - Aman Rachala: Evaru ra 5?
+9/16/22, 8:46 PM - Dhanush: U me Addy satvik saketh
+9/16/22, 8:46 PM - Aman Rachala: Vishnu em aithadu ra
+9/16/22, 8:46 PM - Aman Rachala: Inka chaala Mandi unnaru ga
+9/16/22, 8:46 PM - Dhanush: Emo nak telvad
+9/16/22, 8:47 PM - Aman Rachala: Rasesava ee grp?
+9/16/22, 8:47 PM - Dhanush: Confusion undi
+9/16/22, 8:47 PM - Dhanush: Nope
+9/16/22, 8:47 PM - Aman Rachala: Last ki nenu scam ayipotha ani naa feeling ra
+9/16/22, 8:48 PM - Aman Rachala: Arey dhanush nuvvu aa webd101 try chesko ra
+9/16/22, 8:48 PM - Aman Rachala: Inka undi emo open
+9/16/22, 8:48 PM - Dhanush: ??
+9/16/22, 8:48 PM - Aman Rachala: Nuvvu fill cheyale ga ra
+9/16/22, 8:48 PM - Aman Rachala: Fill chey antunna
+9/16/22, 8:49 PM - Dhanush: Anthe le indirect ga grp nunchi leave avvu antunav
+9/16/22, 8:49 PM - Aman Rachala: Arey lowda
+9/16/22, 8:49 PM - Aman Rachala: Gurthu chesthunna ra neeku
+9/16/22, 8:49 PM - Aman Rachala: Webd chey ra ani
+9/16/22, 8:49 PM - Aman Rachala: Idhi cheyaku anatle
+9/16/22, 8:49 PM - Dhanush: Arjun Reddy fan ante minimum untadi
+9/16/22, 8:49 PM - Aman Rachala: Dengey ra bhai
+9/16/22, 8:49 PM - Dhanush: Nak adi intrest ledu
+9/16/22, 8:49 PM - Dhanush: Anduke panace
+9/16/22, 8:49 PM - Aman Rachala: Sare saavu
+9/19/22, 8:00 PM - Aadarsh: *Providence India*
+Kindly request all interested applicants to complete the registration process on HirePro before 3:00 PM on 20th September 2022. If a candidate fails to register, they will not be able to proceed with their application.
+*Registration Link:*
+
+https://providenceindia.hirepro.in/
+9/19/22, 8:00 PM - Aadarsh: grp name change cheyandi ra edaina 1 word ki
+9/19/22, 8:01 PM - Aadarsh: indulo vaccination slot booking pedtara 😂😂
+9/19/22, 8:23 PM - Dhanush: ??
+9/19/22, 8:23 PM - Dhanush: Idi team da
+9/19/22, 8:24 PM - Aadarsh: Karu what's app grp
+9/19/22, 8:24 PM - Aadarsh: In resume
+9/19/22, 8:28 PM - Dhanush: Drama club ani pedadama 😂
+9/19/22, 8:28 PM - Aadarsh: ah?
+9/19/22, 8:28 PM - Dhanush: Prathi okadu acting lo rechipotunadu em madhya
+9/19/22, 8:28 PM - Aadarsh: oho
+9/19/22, 8:32 PM - Aadarsh: arey nen annadi ee grp di ra
+9/19/22, 8:33 PM - Aman Rachala: Pichodu
+9/19/22, 8:33 PM - Aman Rachala: 😂😂😂
+9/19/22, 8:33 PM - Aman Rachala: Vaadu intership ochesindi Ane anandam lo unnadu
+9/19/22, 8:33 PM - Aman Rachala: Evvadu maata vinadu
+9/19/22, 8:33 PM - Aman Rachala: *evvadi
+9/19/22, 8:33 PM - Dhanush: Are ah grp name inka inappropriate undi ra 🤧
+9/19/22, 8:34 PM - Dhanush: Ne antha smart kad bro nen 🤧
+9/19/22, 8:34 PM - Aadarsh: Onestà
+095137 36297
+https://maps.app.goo.gl/PoDu63wjjZxTehVx7
+9/19/22, 8:34 PM - Aman Rachala: Nuvve cheppali ra😒
+9/19/22, 8:34 PM - Aman Rachala: Btw Endi idhi?
+9/19/22, 8:34 PM - Dhanush: Chaa
+9/19/22, 8:34 PM - Aman Rachala: Endi ra cheppandi
+9/19/22, 8:35 PM - Aadarsh: Internship
+9/19/22, 8:35 PM - Aman Rachala: Apply chedhama?
+9/19/22, 8:35 PM - Dhanush: Are vadiki telida ra 🤦🏻
+9/19/22, 8:35 PM - Dhanush: Edo ankuntunav vadini
+9/19/22, 8:35 PM - Aadarsh: Chesa
+9/19/22, 8:35 PM - Aadarsh: Submit cheyali
+9/19/22, 8:36 PM - Aadarsh: Anthe
+9/19/22, 8:37 PM - Aman Rachala: 🔥
+9/19/22, 8:38 PM - Aadarsh: ok ok
+9/19/22, 8:38 PM - Aadarsh: chey
+9/19/22, 8:38 PM - Dhanush: <Media omitted>
+9/19/22, 8:39 PM - Aadarsh changed the subject from "Reddy lab hackathon" to "Acting is my passion~Aman"
+9/19/22, 8:40 PM - Aman Rachala: Arey return ela ra
+9/19/22, 8:40 PM - Aadarsh: emo mem auto or bus
+9/19/22, 8:41 PM - Dhanush: Bus lo podam
+9/19/22, 8:41 PM - Aadarsh: niku dhanush undu ga CAB
+9/19/22, 8:41 PM - Aman Rachala: Adhe plan asal
+9/19/22, 8:41 PM - Dhanush: Rey cancel ra rep
+9/19/22, 8:41 PM - Aman Rachala: Fix ra dhanush can nuvve
+9/19/22, 8:41 PM - Aadarsh: 😂😂
+9/19/22, 8:41 PM - Aman Rachala: *cab
+9/19/22, 8:41 PM - Aadarsh: okay cool
+9/19/22, 8:41 PM - Aman Rachala: Anthe ra exam unte pothav
+9/19/22, 8:41 PM - Aman Rachala: Ippudu pettav cab
+9/19/22, 8:42 PM - Dhanush: Nuv can anav ga dabbul waste
+9/19/22, 8:42 PM - Dhanush: So no plan
+9/19/22, 8:42 PM - Aman Rachala: Kashtame ila
+9/19/22, 8:42 PM - Dhanush: Cab
+9/19/22, 8:42 PM - Aman Rachala: Ahaa
+9/19/22, 8:42 PM - Aman Rachala: Cheppu aa grp lo
+9/19/22, 8:42 PM - Dhanush: Nuvve cheppu nen enduk cancel chesa ani
+9/19/22, 8:43 PM - Aman Rachala: Chepko ra
+9/19/22, 8:43 PM - Aman Rachala: Arey meeru freshers ki velthara pakka?
+9/19/22, 8:43 PM - Aadarsh: ha mostly I vl go
+9/19/22, 8:43 PM - Aadarsh: kyu
+9/19/22, 8:44 PM - Aman Rachala: Emo last time em peeka ochi
+9/19/22, 8:44 PM - Aadarsh: malli eppudu cheskom ga adi okka reason
+9/19/22, 8:44 PM - Aadarsh: tho velta
+9/19/22, 8:44 PM - 22Adarsh: Inka okadu vuntadu bro..vaadu ontari pakshi
+9/19/22, 8:44 PM - Aman Rachala: Yeah anduke thinking nenu
+9/19/22, 8:44 PM - Aman Rachala: Mee rapido bava ni pilchuko
+9/19/22, 8:45 PM - 22Adarsh: Sare manchidhi
+9/19/22, 8:45 PM - Aadarsh: entha dooram undi ra
+9/19/22, 8:45 PM - Aadarsh: hostel nundi
+9/19/22, 8:46 PM - Aman Rachala: Endi osthunnava🤯
+9/19/22, 8:46 PM - Dhanush: Eedu malli start chesadu
+9/19/22, 8:46 PM - 22Adarsh: 17 km
+9/19/22, 8:46 PM - Aman Rachala: Thaaginava
+9/19/22, 8:46 PM - Dhanush: Sober
+9/19/22, 8:47 PM - Aman Rachala: Emra osthunnava Leda?
+9/19/22, 8:47 PM - 22Adarsh: Emo cheptha le..pre booking em ledu ga?
+9/19/22, 8:47 PM - Aman Rachala: @917989285342 nltk meeting ayyinda?
+9/19/22, 8:47 PM - Aadarsh: ha
+9/19/22, 8:47 PM - Aman Rachala: Em chesaru
+9/19/22, 8:47 PM - 22Adarsh: Nltk??
+9/19/22, 8:48 PM - Aman Rachala: Aadarsh expertise topic
+9/19/22, 8:48 PM - Aadarsh: oddu ra arey
+9/19/22, 8:48 PM - Aadarsh: Ni django lo sagam kuda kadu
+9/19/22, 8:49 PM - Aman Rachala: Fakinav le
+9/19/22, 8:49 PM - Dhanush: Eh grp name crazy match ayndi 😂
+9/19/22, 8:50 PM - Aman Rachala: Haha
+9/19/22, 8:50 PM - Dhanush: Joke kad bro
+9/19/22, 9:13 PM - 22Adarsh: https://docs.google.com/document/d/17hAsjrIvV2sZ6F9Qlvguu4Imv7Dc8waruBZvLgxWeog/mobilebasic
+9/19/22, 9:14 PM - 22Adarsh: Rey aadhar card theesuka ra
+9/19/22, 9:14 PM - 22Adarsh: Photo kaadu
+9/19/22, 9:15 PM - Dhanush: Okay
+9/19/22, 9:15 PM - Aadarsh: Driving license Aina okay
+9/19/22, 9:15 PM - 22Adarsh: <Media omitted>
+9/19/22, 10:04 PM - Aman Rachala: 🗿🔥
+9/19/22, 10:09 PM - Aman Rachala: Arey entha avvachu per person?
+9/19/22, 10:23 PM - Aadarsh: 225 ig
+9/19/22, 10:25 PM - Aadarsh: <Media omitted>
+9/19/22, 10:25 PM - Aadarsh: @918978554085 ayyava select?
+9/19/22, 10:29 PM - Aadarsh: <Media omitted>
+9/19/22, 10:30 PM - 22Adarsh: But only first 2 ae kavachu
+9/19/22, 10:30 PM - 22Adarsh: Offer ki
+9/19/22, 10:30 PM - Aadarsh: sure ah
+9/19/22, 10:30 PM - Aadarsh: ekkadiana unda adi
+9/19/22, 10:31 PM - 22Adarsh: 9th point
+9/19/22, 10:32 PM - Aadarsh: haa ok ok
+9/19/22, 10:32 PM - Aadarsh: aithe 200 aitadi ga
+9/20/22, 12:31 AM - 22Adarsh: <Media omitted>
+9/20/22, 12:31 AM - Aman Rachala: Nenaithe adhe petta
+9/20/22, 6:19 AM - Dhanush: Idi inka first round registration ra
+9/20/22, 6:20 AM - Dhanush: 2nd batch
+9/20/22, 6:20 AM - Dhanush: Deeniki last date epudu
+9/20/22, 7:48 AM - Aadarsh: Manipal Hackathon 2022 by Manipal Institute of Technology (MIT), Manipal! - https://unstop.com/o/3ErGxny?lb=v9sJo0Y
+9/22/22, 3:20 PM - Aman Rachala: Dear Sir/Ma'am 
+
+Greetings !!
+
+it was pleasure talking to you regarding  how to get certification based virtual internship with IBM & Microsoft below are the details of the program. Kindly share the same with your students.
+
+Students from all years of Engineering(CS, IT, ECE, EEE, ECM), MCA, BCA, B.Sc CS/IT, M.Sc  and related fields are welcome.
+
+Kindly join the free Orientation to get the below details
+
+Microsoft , IBM & Google-certification based virtual Internship Training programm on 
+22nd Sep 2022 6:15PM 
+
+Please join my meeting from your computer, tablet, or smartphone
+
+
+
+https://attendee.gotowebinar.com/register/8078132146377091599
+
+ 
+Looking forward to your support to share the same with your students and faculty members!
+
+All students who are attending the webinar will get the participation certificate. 
+ 
+Please I request you to ensure, there are at least 100-200 registrations from your side. Hoping Positive response from your side.
+
+Department will get the appreciation letter for taking initiative for your students. 
+
+Note : We will inform about Free Faculty Development Program on Microsoft Innovative Educator Tools for faculty members once the dates finalized. 
+
+
+
+
+Regards
+Ekta
+Quantum Learnings 
+www.quantumlearnings.in
+www.mentorrbuddy.com
+mob: 7978704206
+9/22/22, 3:20 PM - Aman Rachala: Idhendi ra
+9/22/22, 4:05 PM - Aadarsh: Fill chedama
+9/22/22, 4:19 PM - Aman Rachala: Hello Students,
+
+Infosys hiring 2023, 2024, 2025 Batches for internship
+
+*Link For Registration:*
+ 
+https://careers.infosys.com/instep/internship/instepregistrationpage.aspx
+9/22/22, 4:19 PM - Aman Rachala: Idhi cheyandi
+9/22/22, 9:28 PM - Aadarsh: <Media omitted>
+9/22/22, 9:28 PM - Aadarsh: 🔥🔥AMAN
+9/22/22, 9:49 PM - Aman Rachala: Enti bro idi
+9/22/22, 9:49 PM - Aman Rachala: Ekkada?
+9/22/22, 9:50 PM - Aadarsh: okka degara kanipinchindi
+9/22/22, 9:50 PM - Aman Rachala: Arey codechef dengipoyindi nadi
+9/22/22, 9:50 PM - Aman Rachala: Eeroju
+9/22/22, 9:50 PM - Aadarsh: ante
+9/22/22, 9:50 PM - Aman Rachala: Enni ochay?
+9/22/22, 9:51 PM - Aadarsh: andulo last q
+9/22/22, 9:51 PM - Aman Rachala: Vammmo
+9/22/22, 9:51 PM - Aadarsh: idi
+9/22/22, 9:51 PM - Aman Rachala: Coderrr ra nuvvu
+9/22/22, 9:51 PM - Aadarsh: LOL
+9/22/22, 9:51 PM - Aadarsh: nivi 7 ah
+9/22/22, 9:51 PM - Aman Rachala: 3 navi
+9/22/22, 9:51 PM - Aman Rachala: Ooroda
+9/22/22, 9:51 PM - Aadarsh: ippudu nijam cheppu
+9/22/22, 9:51 PM - Aman Rachala: Em osthalev
+9/22/22, 9:52 PM - Aman Rachala: Nijam
+9/22/22, 9:52 PM - Aadarsh: kk
+9/22/22, 10:19 PM - Aadarsh: Hi Guys anyone who wants to anchor in Reels for UCC Instagram dm me
+9/22/22, 10:19 PM - Aadarsh: aman po ra
+9/22/22, 10:19 PM - Aadarsh: ninnu chusi andaru register cheskuntaru
+9/22/22, 10:20 PM - 22Adarsh: <Media omitted>
+9/22/22, 11:20 PM - Aman Rachala: IBM applying ah?
+9/22/22, 11:20 PM - Aadarsh: Ida
+9/22/22, 11:20 PM - Aadarsh: IBM edi
+9/22/22, 11:20 PM - Aman Rachala: Yea
+9/22/22, 11:20 PM - Aman Rachala: No
+9/22/22, 11:21 PM - Aman Rachala: Idhi
+9/22/22, 11:21 PM - Aadarsh: Adi ekkada ochinid
+9/22/22, 11:21 PM - Aman Rachala: Main grp ig
+9/22/22, 11:21 PM - Aadarsh: Adi lyt ra ivalane aipoindi
+9/22/22, 11:22 PM - Aman Rachala: Ante?
+9/22/22, 11:22 PM - Aman Rachala: Em ayyindi
+9/22/22, 11:22 PM - Aadarsh: Edo meeting anta ivalane inde
+9/22/22, 11:22 PM - Aadarsh: Nen join kale
+9/22/22, 11:22 PM - Aman Rachala: Evaru ayyaru
+9/22/22, 11:23 PM - Aadarsh: edo sodhi unde ra
+9/22/22, 11:23 PM - Aadarsh: apply chestappudu
+9/22/22, 11:23 PM - Aadarsh: anduke register kale
+9/22/22, 11:23 PM - Aadarsh: adi direct ga ledu
+9/22/22, 11:24 PM - Aadarsh: just ela prepare kavalo ani cheptamu anattu unde
+9/22/22, 11:24 PM - Aadarsh: ade
+9/22/22, 11:24 PM - Aman Rachala: Oh okay
+9/22/22, 11:26 PM - Aman Rachala: Expected graduation?
+9/22/22, 11:26 PM - Aadarsh: 2024 ga
+9/22/22, 11:27 PM - Aadarsh: indulo first name as passport undi ga
+9/22/22, 11:29 PM - Aman Rachala: Month ra
+9/22/22, 11:29 PM - Aman Rachala: Lekapothe aadhar eh
+9/22/22, 11:29 PM - Aadarsh: kk
+9/22/22, 11:29 PM - Aadarsh: june ig
+9/22/22, 11:35 PM - Aman Rachala: Arey submit chesara? Is der a success redirect page?
+9/22/22, 11:35 PM - Aadarsh: cheyle
+9/22/22, 11:35 PM - Aadarsh: area of interest em pettav
+9/22/22, 11:36 PM - Aman Rachala: Evo oka 3 pettali
+9/22/22, 11:36 PM - Aman Rachala: So adobe editing pettale
+9/22/22, 11:37 PM - Aadarsh: Kk
+9/22/22, 11:40 PM - Aadarsh: <Media omitted>
+9/22/22, 11:44 PM - Aman Rachala: .
+9/22/22, 11:44 PM - Aadarsh: .
+9/22/22, 11:44 PM - Aadarsh: rep chesta
+9/22/22, 11:45 PM - Aman Rachala: Okay
+9/22/22, 11:45 PM - 22Adarsh: <Media omitted>
+9/22/22, 11:45 PM - 22Adarsh: idhi tentative vuntadhi ga ra
+9/22/22, 11:45 PM - Aman Rachala: September to may ani petta
+9/22/22, 11:46 PM - Aman Rachala: Google lo edho kotta
+9/22/22, 11:46 PM - 22Adarsh: actually 3rd yr ayipoyaka cheyali ga ra
+9/22/22, 11:46 PM - Aman Rachala: 8 months oh Edo ochindi
+9/22/22, 11:46 PM - Aman Rachala: Avuna ala em undadu ig
+9/22/22, 11:47 PM - 22Adarsh: after 6th sem
+9/22/22, 11:47 PM - Aman Rachala: Option enduku isthadu ra 2nd yr mari
+9/22/22, 11:47 PM - 22Adarsh: just apply chesinantha mathrana appude join kavalane rule ledhu ga
+9/22/22, 11:48 PM - 22Adarsh: addy nuv em pettav
+9/22/22, 11:49 PM - Aadarsh: adi doubt unde
+9/22/22, 11:49 PM - Aadarsh: so rep cheddam anukunna
+9/23/22, 12:17 PM - Aadarsh: This message was deleted
+9/23/22, 12:17 PM - Aadarsh: This message was deleted
+9/23/22, 12:17 PM - Aadarsh: This message was deleted
+9/23/22, 12:19 PM - Aman Rachala: ?
+9/23/22, 12:45 PM - Aadarsh: Em le
+9/23/22, 5:55 PM - Aman Rachala: Cheppu ra
+9/23/22, 5:56 PM - Aadarsh: Enduku rale
+9/23/22, 5:56 PM - Aman Rachala: Passport verification
+9/23/22, 5:57 PM - Aadarsh: Ohoo
+9/23/22, 5:57 PM - Aadarsh: Activity points 20 above unay ata manaki ade pettina
+9/23/22, 5:57 PM - Aman Rachala: Aha
+9/23/22, 5:57 PM - Aman Rachala: Nikitha cheppinda
+9/23/22, 5:58 PM - Aman Rachala: Maam ah
+9/23/22, 6:03 PM - Aadarsh: Nikitha ne
+9/23/22, 6:04 PM - Aadarsh: Vale calculate chesar ata
+9/23/22, 6:33 PM - Aman Rachala: Ohoo
+9/23/22, 6:49 PM - Aadarsh: Niku dhanush ki DCCN attendance padadi
+9/23/22, 6:49 PM - Aadarsh: Dhanush ki pratham cheppadu
+9/23/22, 6:49 PM - 22Adarsh: Yess
+9/23/22, 6:49 PM - Aadarsh: Niku gurlss
+9/23/22, 6:50 PM - Aman Rachala: DCCN lab ah
+9/23/22, 6:50 PM - Aman Rachala: Class ah
+9/23/22, 6:50 PM - Aadarsh: Class
+9/23/22, 6:50 PM - 22Adarsh: Abbbbaaa
+9/23/22, 6:50 PM - Aman Rachala: Ohh nice
+9/23/22, 6:50 PM - Aadarsh: Ade gaa😂
+9/23/22, 6:56 PM - Aman Rachala: Dhanush rale clg ki?
+9/23/22, 6:56 PM - Aadarsh: noo
+9/23/22, 6:56 PM - Aman Rachala: Ooo
+9/23/22, 6:57 PM - Aman Rachala: Repu online eh ga
+9/23/22, 6:57 PM - Aadarsh: haa
+9/23/22, 6:57 PM - Aman Rachala: Repu vellali Dhanush gadu😂
+9/23/22, 7:02 PM - Dhanush: Bagundi ra
+9/23/22, 7:02 PM - Dhanush: Nice joke
+9/23/22, 7:02 PM - Dhanush: Ok ok
+9/23/22, 7:02 PM - 22Adarsh: Shhh
+9/23/22, 7:02 PM - Dhanush: Elagu radu
+9/23/22, 7:03 PM - Aman Rachala: Cheppada Leda asal
+9/23/22, 7:03 PM - Aman Rachala: Neeku rakapothe evvadiki radu le akkada
+9/23/22, 7:03 PM - 22Adarsh: Bet pettukundam..eeroju date note chesuko..erp lo update ayyaka choodam
+9/23/22, 7:03 PM - Dhanush: Acting forever mode:on
+9/23/22, 7:04 PM - Aman Rachala: Thoda kotti chepthunnava😂
+9/23/22, 7:04 PM - 22Adarsh: Haaa
+9/23/22, 7:04 PM - 22Adarsh: Basthi me sawaal
+9/23/22, 7:04 PM - Aman Rachala: Naram pattesthadi jaagratha😂
+9/23/22, 7:05 PM - Aadarsh: ehe nijam ga cheppadu
+9/23/22, 7:05 PM - Dhanush: Erp lo ne verify cheyala
+9/23/22, 7:05 PM - Aadarsh: ask anyone
+9/23/22, 7:05 PM - Dhanush: Vadine adgutha 😂
+9/23/22, 7:05 PM - Aadarsh: u want
+9/23/22, 7:05 PM - Aman Rachala: Anthe bye dhanush
+9/23/22, 7:05 PM - Dhanush: Lol 😂😂
+9/23/22, 7:05 PM - Aman Rachala: Inka dekavu le
+9/23/22, 7:05 PM - Aman Rachala: Mammalni
+9/23/22, 7:05 PM - Aadarsh: haa:(
+9/23/22, 7:05 PM - Dhanush: Nuvvu ra rey
+9/23/22, 7:05 PM - Dhanush: America pothav
+9/23/22, 7:06 PM - Aman Rachala: Eesari freshers lo dance esthadu aa gang tho
+9/23/22, 7:06 PM - Aman Rachala: Bokka passport ki daaniki sambandam eh ledu @917989285342 gaadu kuda theeskuntadu anta
+9/23/22, 7:06 PM - Dhanush: Oka 5yrs tarvatha shorts veskuni vastadu
+9/23/22, 7:06 PM - 22Adarsh: <Media omitted>
+9/23/22, 7:06 PM - Aman Rachala: 🤣🤣🤣🤣🤣
+9/23/22, 7:07 PM - Dhanush: Endo
+9/23/22, 7:07 PM - Aman Rachala: Gf ni set cheskundu already akkada
+9/23/22, 7:07 PM - Dhanush: Nuvvu foreign pilla tho ga
+9/23/22, 7:07 PM - Dhanush: Direct
+9/23/22, 7:07 PM - Dhanush: What man
+9/23/22, 7:07 PM - Dhanush: Nigga antad mamalni
+9/23/22, 7:09 PM - Aman Rachala: Ninnu nigga anentha thellaga lemu bro
+9/23/22, 7:09 PM - Dhanush: Anthem Len bro
+9/23/22, 7:09 PM - Aman Rachala: Mahesh Babu kaastha Colour daanam chesaavantaga
+9/23/22, 7:09 PM - Dhanush: Aina nuvvu akada velli full white avtav ga
+9/23/22, 7:10 PM - Dhanush: Ah gaddam okate black ga kanpistadi
+9/23/22, 7:14 PM - Aman Rachala: Adhi kadu indulon Dhanush evaro cheppandi
+9/23/22, 7:14 PM - Aadarsh: guys with specs
+9/23/22, 7:15 PM - Aadarsh: guy*
+9/23/22, 7:15 PM - 22Adarsh: Adhi em movie oh telsa
+9/23/22, 7:15 PM - Aman Rachala: Gang leader antava😂
+9/23/22, 7:15 PM - Aman Rachala: Chiranjeevi
+9/23/22, 7:15 PM - Aman Rachala: Edho untadi ra
+9/23/22, 7:15 PM - 22Adarsh: Indra movie ra adhi
+9/23/22, 7:15 PM - Aman Rachala: Haaaaa
+9/23/22, 7:16 PM - Aadarsh: emo ni time lo hit ainda
+9/23/22, 7:16 PM - Dhanush: 😂
+9/23/22, 7:16 PM - Aman Rachala: 🤣🤣
+9/23/22, 7:16 PM - Aman Rachala: Vadu kuda untadu movie lo
+9/23/22, 7:16 PM - Aman Rachala: Side character
+9/23/22, 7:16 PM - Aman Rachala: Akkada kuda edho uncle part
+9/23/22, 7:16 PM - Dhanush: Nuvvu aithe direct hero ga
+9/23/22, 7:16 PM - 22Adarsh: Ah scene lo pelli koduku chiranjeevi valla side switch chesthadu
+9/23/22, 7:17 PM - Aman Rachala: Nuvvu kaaani ra kaaaaani....
+9/23/22, 7:17 PM - Aadarsh: mana batch effect
+9/23/22, 7:17 PM - 22Adarsh: <Media omitted>
+9/23/22, 7:17 PM - Aman Rachala: Repu evadra nuvvu antav
+9/23/22, 7:17 PM - 22Adarsh: So veedu dhanush
+9/23/22, 7:17 PM - Dhanush: Nuvvu already masth mandini ala ignore kottav ga
+9/23/22, 7:17 PM - Aman Rachala: Idhem logic ra babre🤯
+9/23/22, 7:17 PM - Dhanush: Ruthvik ni adugu cheptad 😂
+9/23/22, 7:18 PM - Aadarsh: team switch ayyadu ga from our grp to posh batch
+9/23/22, 7:18 PM - Aman Rachala: Manchidi
+9/23/22, 7:18 PM - Aman Rachala: Haa aadhe
+9/23/22, 7:18 PM - 22Adarsh: Haaa..rhat is the context i wanted to convey
+9/23/22, 7:18 PM - 22Adarsh: That*
+9/23/22, 7:18 PM - Dhanush: Asal deeniki ra logic lenidi
+9/23/22, 7:18 PM - Aman Rachala: Antha pedda logic ra
+9/23/22, 7:18 PM - Aadarsh: ade ade mana batch effect
+9/23/22, 7:19 PM - Aman Rachala: Varsha effect anipisthundi nakaithe
+9/23/22, 7:19 PM - 22Adarsh: 🙏🙏🙏
+9/23/22, 7:20 PM - Dhanush: Meaning eh ledu 😕
+9/23/22, 7:20 PM - Aadarsh: match aagi poindi ra dani valla konchem apa mani cheppu
+9/23/22, 7:20 PM - Aman Rachala: Team switch ayipoyav ga alane untadi
+9/23/22, 7:20 PM - 22Adarsh: Ee pulihora dialogues evarina ammayi mundu cheppu ra💀
+9/23/22, 7:21 PM - Aman Rachala: Veedi varsha ki matram cheppaku ra😅
+9/23/22, 7:21 PM - Dhanush: Nuvvu country eh switch aypoyav
+9/23/22, 7:21 PM - 22Adarsh: Nuv cheppina parledhu..
+9/23/22, 7:22 PM - 22Adarsh: I mean evadu cheppina parledhu
+9/23/22, 7:22 PM - Aman Rachala: Pilla neede evvadu em peekaledu antunnav
+9/23/22, 7:22 PM - 22Adarsh: Endhukante naku cheppe vuddesham ledhu
+9/24/22, 9:09 AM - Aadarsh: Arey ippudu join aitunnar ga
+9/24/22, 9:09 AM - Aadarsh: @918331066655
+9/24/22, 9:10 AM - Aadarsh: @916303616231
+9/24/22, 9:10 AM - Aman Rachala: Haaa
+9/24/22, 9:10 AM - Aman Rachala: Open ayithunda link?
+9/24/22, 9:10 AM - Aadarsh: Chala Mandi ISB lo unnaru ga
+9/24/22, 9:11 AM - Aman Rachala: Check cheyaru antava
+9/24/22, 9:11 AM - Aadarsh: Ledu chestaru
+9/24/22, 9:11 AM - Aadarsh: But manam 10 ki vellipovachu ga
+9/24/22, 9:11 AM - Aman Rachala: Mari join avvali ga
+9/24/22, 9:11 AM - Aadarsh: Ha
+9/24/22, 9:11 AM - Aman Rachala: Haa vere vallu kuda unnaru ga panace ppl
+9/24/22, 9:12 AM - Aadarsh: Ga
+9/24/22, 9:12 AM - Aadarsh: Ha
+9/24/22, 9:12 AM - Aadarsh: Batch 2 ki bagundi kada ra
+9/24/22, 9:12 AM - Aadarsh: 11,30 anta
+9/24/22, 9:12 AM - Aadarsh: 🥲
+9/24/22, 9:14 AM - Aman Rachala: Haa😂
+9/24/22, 9:15 AM - 22Adarsh: enti ippud class ledha
+9/24/22, 9:15 AM - Aadarsh: manaki undi
+9/24/22, 9:15 AM - Aman Rachala: Link open ayyinda
+9/24/22, 9:16 AM - Aadarsh: waiting room
+9/24/22, 9:16 AM - 22Adarsh: np
+9/24/22, 9:17 AM - Aadarsh: Start aindi raa
+9/24/22, 9:17 AM - 22Adarsh: not for me
+9/24/22, 9:18 AM - Aman Rachala: Lowda teams naku em ravatle
+9/24/22, 9:19 AM - Aadarsh: https://teams.microsoft.com/l/meetup-join/19%3akf8aH6bMUqd1sNLPKxayT1j4qsIEMesOA5u-7SmOUlI1%40thread.tacv2/1663990593563?context=%7b%22Tid%22%3a%228ba02f42-a433-4ad5-bdab-0103a1bc5fa5%22%2c%22Oid%22%3a%22f75c783c-74d4-4e9d-a617-282c3c70f06f%22%7d
+9/24/22, 9:19 AM - Aadarsh: ide ga
+9/24/22, 9:20 AM - 22Adarsh: UML LAB-BATCH 1
+Saturday, September 24 · 9:10 – 11:10am
+Google Meet joining info
+Video call link: https://meet.google.com/gxj-qxbg-xux
+9/24/22, 9:20 AM - 22Adarsh: Idhi kaadha
+9/24/22, 9:20 AM - Aadarsh: Ignore this ani pettindi
+9/24/22, 9:21 AM - 22Adarsh: Joined
+9/24/22, 9:37 AM - Aman Rachala: Em cheyali?
+9/24/22, 9:37 AM - Aman Rachala: And chupiyala emaina?
+9/24/22, 9:37 AM - Aadarsh: emo
+9/24/22, 9:37 AM - Aadarsh: DFD diagrams anta
+9/24/22, 9:37 AM - Aman Rachala: This message was deleted
+9/24/22, 9:37 AM - Aman Rachala: Oho
+9/24/22, 9:40 AM - 22Adarsh: andaru ah?
+9/24/22, 9:40 AM - Aadarsh: ha
+9/24/22, 10:04 AM - Aman Rachala: Leave avvadam ela ippudu
+9/24/22, 10:05 AM - Aadarsh: evaraina adugutara chuddam
+9/24/22, 10:05 AM - Aadarsh: ledante 2 meets lo undam ig
+9/24/22, 10:14 AM - Aadarsh: join avvu ra
+9/24/22, 10:14 AM - Aadarsh: meeting link close chesta antundi
+9/24/22, 10:44 AM - 22Adarsh: arey uml attendance emaina ayinda
+9/24/22, 10:46 AM - Aman Rachala: Le ig
+9/24/22, 10:58 AM - Dhanush: Are ah panace join ayara
+9/24/22, 10:58 AM - Aadarsh: aipoinda ni GD
+9/24/22, 10:58 AM - Dhanush: Inka ade hope naku
+9/24/22, 10:58 AM - Dhanush: GD avg chesa
+9/24/22, 10:58 AM - Aadarsh: ISB di consider cheyaru bro
+9/24/22, 10:58 AM - Aadarsh: ig
+9/24/22, 10:58 AM - Dhanush: Deepshika unde ra na batch lo
+9/24/22, 10:58 AM - Aadarsh: for internship
+9/24/22, 10:58 AM - Dhanush: Y
+9/24/22, 10:59 AM - Aadarsh: dani tho manam em nerchukom ga
+9/24/22, 10:59 AM - Aadarsh: subject related
+9/24/22, 10:59 AM - Dhanush: Yeah
+9/24/22, 10:59 AM - Aadarsh: mari ela istaru
+9/24/22, 10:59 AM - Aman Rachala: Daantlo em chesthamo thelsa neeku @918978554085
+9/24/22, 10:59 AM - Dhanush: Yeah cheparu
+9/24/22, 10:59 AM - Aadarsh: aadukunnava GD lo
+9/24/22, 10:59 AM - Aman Rachala: BB aadindu
+9/24/22, 11:00 AM - Dhanush: Thanu andaritho adukundi
+9/24/22, 11:00 AM - Aman Rachala: ( ͡° ͜ʖ ͡°)
+9/24/22, 11:00 AM - Dhanush: Nuvvu apu ra rey, direct Hindi lo adukunav ga thnatho
+9/24/22, 11:00 AM - Aman Rachala: Inkendi sett ah intership
+9/24/22, 11:00 AM - Aadarsh: Dear Students Pls gv your attedence https://forms.gle/wSGbip2cn8wJbUmZ6
+9/24/22, 11:00 AM - Dhanush: Vadu radu antundu ga, elagu nen select kaanu
+9/24/22, 11:00 AM - Dhanush: Deniki idi
+9/24/22, 11:01 AM - Aman Rachala: Evadu radu
+9/24/22, 11:01 AM - Aman Rachala: Panace
+9/24/22, 11:01 AM - Dhanush: ?
+9/24/22, 11:01 AM - Aman Rachala: Nee MBA ki useful untadi le
+9/24/22, 11:02 AM - Dhanush: Isb ki GRE score kavali ra
+9/24/22, 11:02 AM - Dhanush: Nuvvu elagu rastav ga idi rasey
+9/24/22, 11:03 AM - Aman Rachala: Abba anthunda
+9/24/22, 11:04 AM - Dhanush: Neeku entha sep ra
+9/24/22, 11:04 AM - Aman Rachala: Ochindi ra manadi😂
+9/24/22, 11:04 AM - Aadarsh: uml attendance
+9/24/22, 11:05 AM - Aman Rachala: Arey padinda naku?
+9/24/22, 11:06 AM - 22Adarsh: me?
+9/24/22, 11:06 AM - Aman Rachala: Yeha
+9/24/22, 11:07 AM - Aman Rachala: Arey bot chat read cheyali ante exporting paniki radu
+9/24/22, 11:07 AM - Aadarsh: ippudu em cheppadu
+9/24/22, 11:07 AM - Aadarsh: vinnava
+9/24/22, 11:08 AM - Aman Rachala: Em cheppadu?
+9/24/22, 11:08 AM - Aadarsh: edo analysis adigadu evaro
+9/24/22, 11:08 AM - Aman Rachala: Haa
+9/24/22, 11:08 AM - Aadarsh: appude attendance aindi manaki
+9/24/22, 11:08 AM - Aman Rachala: Adhe bot tho interact ayina chat ni read chesi analyse cheyali anta user preferences or any other info
+9/24/22, 11:08 AM - Aadarsh: ah adi endi ra assalu
+9/24/22, 11:09 AM - Aman Rachala: A wa can be used for extracting info
+9/24/22, 11:09 AM - Aman Rachala: wa bot*
+9/24/22, 11:09 AM - Dhanush: Goram bro
+9/24/22, 11:10 AM - Aman Rachala: Change cheyadam better emo topic
+9/24/22, 11:13 AM - Aman Rachala: GD topic endi ra
+9/24/22, 11:13 AM - Aadarsh: crct ga teluskundam satvik can ask srikanth sir
+9/24/22, 11:13 AM - Aman Rachala: Okay
+9/24/22, 11:14 AM - Aman Rachala: @918978554085 ?
+9/24/22, 11:14 AM - Dhanush: Work from home or work at office
+9/24/22, 11:15 AM - Aadarsh: work at gym
+9/24/22, 11:15 AM - Aadarsh: -dhanush
+9/24/22, 11:15 AM - 22Adarsh: Roll no.2
+9/24/22, 11:15 AM - Aman Rachala: Yeah it's just the beginning
+9/24/22, 11:16 AM - Aman Rachala: Em cheppav ra dhanush?
+9/24/22, 11:16 AM - Aadarsh: ha gelkam chpu
+9/24/22, 11:16 AM - 22Adarsh: Ok ok sorry😂
+9/24/22, 11:16 AM - Aman Rachala: 🧐
+9/24/22, 11:16 AM - Dhanush: Notlo petkondi
+9/24/22, 11:16 AM - Aadarsh: ippudu gelkam antunna
+9/24/22, 11:17 AM - Aman Rachala: Veelu waste ra naku cheppu
+9/24/22, 11:17 AM - 22Adarsh: Holy..😂
+9/24/22, 11:18 AM - Dhanush: 🎥 malli start ah
+9/24/22, 12:28 PM - Aman Rachala: Emaina class unda ippudu?
+9/24/22, 2:08 PM - 22Adarsh: Msg at time of attendance
+9/24/22, 2:41 PM - Aman Rachala: Ya ya
+9/24/22, 2:53 PM - Aadarsh: ..
+9/24/22, 2:53 PM - 22Adarsh: ha
+9/26/22, 6:29 PM - Aman Rachala: Arey story pettatleda?
+9/26/22, 6:29 PM - Dhanush: ??
+9/26/22, 6:29 PM - Aman Rachala: Adhe ra
+9/26/22, 6:29 PM - Aman Rachala: UCC promotion
+9/26/22, 6:30 PM - Dhanush: Ohho
+9/26/22, 6:31 PM - Aman Rachala: ?
+9/26/22, 6:31 PM - Dhanush: Emo no ideaa
+9/26/22, 6:31 PM - Aman Rachala: Pedudam ra bhai
+9/26/22, 6:31 PM - Dhanush: Nen ipati varku oka story petale
+9/26/22, 6:31 PM - Dhanush: Streak break cheyala ani
+9/26/22, 6:34 PM - Aman Rachala: Anduke Petra ippudu
+9/26/22, 6:36 PM - Aman Rachala: Sarele assignment ela?
+9/26/22, 6:46 PM - Dhanush: 7 and 11 kavali
+9/26/22, 6:46 PM - Dhanush: 11 aithe vishnu vala batch ki undi
+9/26/22, 6:46 PM - Dhanush: Are kodtha ra ah reaction isthe 🤧
+9/28/22, 6:10 PM - Aman Rachala: We 201 start chesara?
+9/28/22, 6:54 PM - 22Adarsh: <Media omitted>
+9/28/22, 6:54 PM - 22Adarsh: 1601 ae ga
+9/28/22, 6:56 PM - Aman Rachala: Endi ra idhi?
+9/28/22, 6:56 PM - 22Adarsh: Mathwork internship application
+9/28/22, 6:56 PM - Aman Rachala: Oho last eppudu?
+9/28/22, 6:57 PM - 22Adarsh: Tommorow 11 am ig
+9/28/22, 6:57 PM - Aman Rachala: Ohooo
+9/29/22, 6:43 AM - Aman Rachala: Arey rckets theyandi
+9/29/22, 6:45 AM - Dhanush: 👍🏻
+9/29/22, 6:53 AM - Aman Rachala: <Media omitted>
+9/29/22, 6:53 AM - Aman Rachala: Arey cheppandra em rayali?
+9/29/22, 11:31 AM - Dhanush: You deleted this message
+10/3/22, 6:31 PM - Dhanush: Are ah nasscom hackathon ki register avdama
+10/3/22, 6:31 PM - Dhanush: https://sendy.iamneo.ai/l/AY7NJmbKiGsUrzvAV6iNTg/G1HAr8924W5zWWeKvignfY2A/IfqH763ZnakA7f3Snn4fAE6w
+10/3/22, 8:31 PM - Dhanush: Chepandra
+10/3/22, 8:32 PM - Aadarsh: emo ra
+10/3/22, 8:32 PM - 22Adarsh: Eppud vundhi hckthon
+10/3/22, 8:32 PM - Aadarsh: idi 6 weeks time anta
+10/3/22, 8:32 PM - 22Adarsh: Arey tanish ochada today
+10/3/22, 8:32 PM - 22Adarsh: ?
+10/3/22, 8:32 PM - Aadarsh: ha ochadu
+10/3/22, 8:33 PM - Dhanush: Haa free ga cheyachu
+10/3/22, 8:33 PM - Aadarsh: cheste cheyochu emo
+10/3/22, 8:34 PM - Aadarsh: @918331066655
+10/3/22, 8:34 PM - Aadarsh: cmg tomorrow?>
+10/3/22, 8:34 PM - Aadarsh: ?
+10/3/22, 8:51 PM - Aman Rachala: Evaru evaru osthunnaru?
+10/3/22, 8:51 PM - Aadarsh: dhanush
+10/3/22, 8:51 PM - Aadarsh: tanis
+10/3/22, 8:52 PM - Aadarsh: chetan
+10/3/22, 8:52 PM - Aadarsh: anthe telusu naku
+10/3/22, 8:52 PM - Aadarsh: More shyam punneth ram Ganesh Phillip will only come ig
+10/3/22, 8:52 PM - Aadarsh: afternoon lab undi so nuv vaste ne vasta
+10/3/22, 8:53 PM - Aman Rachala: Ameen ravatleda
+10/3/22, 8:53 PM - Aadarsh: no
+10/3/22, 8:53 PM - Aman Rachala: I'll confirm...
+10/3/22, 8:55 PM - Aman Rachala: Manam OE pe bunk kottale ga
+10/3/22, 8:55 PM - Aadarsh: haa
+10/3/22, 8:55 PM - Aman Rachala: Friday osthara meeru
+10/3/22, 8:55 PM - Aadarsh: ranu nenu ...aina holiday undochu annaru
+10/3/22, 8:56 PM - Aman Rachala: Bokka le 2nd nundi holidays ani kuda annaru
+10/3/22, 8:56 PM - Aadarsh: CR's princi ni adigaru ata
+10/3/22, 8:57 PM - Aadarsh: aina odiley adi nen ranu friday
+10/3/22, 8:57 PM - Aman Rachala: Princi😂
+10/3/22, 8:57 PM - Aman Rachala: Okay 👌
+10/3/22, 8:59 PM - Aman Rachala: Ravatle ra nenu
+10/3/22, 8:59 PM - Aadarsh: sare
+10/3/22, 8:59 PM - 22Adarsh: Friend ante nuvve ra
+10/3/22, 9:00 PM - Aman Rachala: Neeku full happy ga
+10/3/22, 9:00 PM - Aadarsh: aina ivala miku OE attedance vesina
+10/3/22, 9:00 PM - Aadarsh: and adarsh ki DCCN padadi
+10/3/22, 9:00 PM - 22Adarsh: Thelsu❤️
+10/3/22, 9:00 PM - Aman Rachala: Adhi @917989285342 ki cheppali
+10/3/22, 9:00 PM - Aman Rachala: How re
+10/3/22, 9:00 PM - Aadarsh: emo agam aitadu ga aina
+10/3/22, 9:00 PM - Aadarsh: vianle sarigga
+10/3/22, 9:00 PM - 22Adarsh: Mistake lo paddadhi ata😂
+10/3/22, 9:01 PM - Aman Rachala: Thope eh
+10/3/22, 9:01 PM - Aman Rachala: Ee lanja gadike pedthadi enduk eppudu
+10/3/22, 9:01 PM - Aadarsh: 🤣
+10/3/22, 9:01 PM - Aadarsh: andaru ade annar
+10/3/22, 9:01 PM - 22Adarsh: Reyyy niku okasari paddadhi ra
+10/3/22, 9:01 PM - 22Adarsh: U nd dhanush
+10/3/22, 9:01 PM - Aman Rachala: Thokka eppudu ra
+10/3/22, 9:01 PM - 22Adarsh: DCCN
+10/3/22, 9:02 PM - Aadarsh: ade pratham dhanush ki chppadu ga
+10/3/22, 9:02 PM - Aadarsh: aroju
+10/3/22, 9:02 PM - 22Adarsh: .
+10/3/22, 9:02 PM - Aman Rachala: Acha adhi Dhanush frnd ani esadu
+10/3/22, 9:02 PM - Aman Rachala: Dhanush sir enthaina close kada
+10/3/22, 9:02 PM - Dhanush: Nuvvu inka vamshi antha close kadu le
+10/3/22, 9:03 PM - 22Adarsh: Vaadu fullu epinchi vuntadu aman ki eeroju
+10/3/22, 9:03 PM - Aman Rachala: Pratham inka nee closeness mundu entha ra evaraina🥱
+10/3/22, 9:04 PM - Dhanush: Meanwhile Siddharth : 😒
+10/3/22, 9:04 PM - Aman Rachala: Arey Sai saketh ochada eeroju
+10/3/22, 9:04 PM - Aman Rachala: ?
+10/3/22, 9:04 PM - Aman Rachala: Vaadu kuda na neeku😂😂😂
+10/3/22, 9:04 PM - Aadarsh: doubt enduku ra
+10/3/22, 9:04 PM - Aman Rachala: Sry bro thelvad ee kotha vi
+10/3/22, 9:04 PM - Aman Rachala: Adhele formality qn adhi
+10/3/22, 9:04 PM - Dhanush: Taginava
+10/3/22, 9:05 PM - Aman Rachala: Alage undi aa msg mari🧐
+10/3/22, 9:05 PM - Dhanush: Siddharth feel avtundu ani ra, cuz u guys r closer
+10/3/22, 9:05 PM - Aman Rachala: Antha IQ ledu broo😭😭
+10/3/22, 9:06 PM - Aman Rachala: Mathworks intership exam ayipoyinda?
+10/3/22, 9:07 PM - 22Adarsh: Haa adhendhi
+10/3/22, 9:07 PM - Aman Rachala: Emo edho apply cheyamannaru ga
+10/3/22, 9:07 PM - Aman Rachala: Not for dhanush....vadu ISB🔥🗿
+10/3/22, 9:07 PM - Dhanush: Intlo danike na prepare aynadu
+10/3/22, 9:07 PM - 22Adarsh: Haa but exam gurinchi em raale ga
+10/3/22, 9:08 PM - Aman Rachala: Aa esav le
+10/3/22, 9:08 PM - Dhanush: Ayndi*
+10/3/22, 9:08 PM - Aman Rachala: Pandaga ra clg ki em ravali😭
+10/3/22, 9:08 PM - Dhanush: Idi anthe mari
+10/3/22, 9:09 PM - Aman Rachala: Repu velthava mari Dhanush
+10/3/22, 9:09 PM - Aman Rachala: Aadharsh..?
+10/3/22, 9:09 PM - Dhanush: Veltuna
+10/3/22, 9:09 PM - Aman Rachala: Entra nuvvu chi
+10/3/22, 9:09 PM - Dhanush: Attendance ledu 🤧
+10/3/22, 9:09 PM - Aadarsh: vellanu raa
+10/3/22, 9:10 PM - Aman Rachala: Sare enjoy karo aa posh batch tho adhega nee plan
+10/3/22, 9:11 PM - Dhanush: Nelaga 7,2 ni patainchale ga
+10/3/22, 9:12 PM - Aman Rachala: Antha ledule
+10/3/22, 9:12 PM - Aman Rachala: Arey 7 43 relationship anta Aadarsh ki Intel ochindi
+10/3/22, 9:12 PM - Dhanush: Okarni bee lab lo inkokarni cad lab lo ful ...
+10/3/22, 9:13 PM - Aman Rachala: Nee guess crct eh (or u already know this cuz....)
+10/3/22, 9:13 PM - Aman Rachala: Nen cheppedi endi nuvvu anedhi endi ra
+10/3/22, 9:13 PM - Dhanush: Guess gurinchi nuvvu matladaku ra
+10/3/22, 9:14 PM - Dhanush: Nen deeni gurinchi cheppa
+10/3/22, 9:14 PM - Aman Rachala: Endo ra nuvvu cheppedi pakkana petti anni maatladuthav🙏🗿
+10/3/22, 9:15 PM - Dhanush: Nuvvu topic marusthe maripovala ra
+10/9/22, 10:15 PM - Aadarsh: Like madam already shared if one team has completed login/registration they can share their code to other teams
+10/9/22, 10:15 PM - Aadarsh: So they don’t have to spend time on the same
+10/9/22, 10:16 PM - Aadarsh: @918331066655 pls share to evry1
+10/9/22, 10:26 PM - Aman Rachala: Ah modda le
+10/9/22, 10:27 PM - Aadarsh: ni django login
+10/9/22, 10:27 PM - Aman Rachala: Dhanush unnadu ga react expert💪
+10/9/22, 10:27 PM - Aadarsh: 🥵
+10/9/22, 10:27 PM - Dhanush: U mean overreact ?
+10/9/22, 10:27 PM - Aadarsh: django raa
+10/9/22, 10:27 PM - Aman Rachala: Vadu front end tho chesthadu login🔥🗿
+10/9/22, 10:27 PM - Dhanush: Ne antha coding ledu ra
+10/9/22, 10:28 PM - Aman Rachala: Manaki impossible vaaduki kadu
+10/9/22, 10:28 PM - Dhanush: Batti kotti django chestuna
+10/9/22, 10:28 PM - Aadarsh: vadu hackveda la django chimpestunnad
+10/9/22, 10:28 PM - Aman Rachala: Btw ah Google ki manam participate chesthunnam ani ela thelusthadi?
+10/9/22, 10:28 PM - Dhanush: Juttu chimpukuntuna nijangane 😂
+10/9/22, 10:28 PM - Aman Rachala: Adhe le 🔥🔥
+10/9/22, 10:29 PM - Aman Rachala: Cheppadu satvik hackveda manager ke chepthunnav anta em cheyalo
+10/9/22, 10:29 PM - Aadarsh: yaya
+10/9/22, 10:29 PM - Dhanush: Aha
+10/9/22, 10:29 PM - Aadarsh: maku kuda konchem chep ra
+10/9/22, 10:29 PM - Dhanush: Aparichitudu ki next nuvve ra
+10/9/22, 10:29 PM - Dhanush: Acting lo
+10/9/22, 10:29 PM - Aman Rachala: Haa avunu nuvve🤣🤣🤣
+10/9/22, 10:29 PM - Aman Rachala: Em sett ayyindi ra scene😂
+10/9/22, 10:30 PM - Dhanush: Endo
+10/9/22, 10:30 PM - Aadarsh: nidi nuve tag chesi cheptunav ga
+10/9/22, 10:30 PM - Aman Rachala: Msg chusko thammudu
+10/9/22, 10:30 PM - Dhanush: Vadu madhyalo vere message petad ga context miss ayyadi ani petta ra
+10/9/22, 10:31 PM - Aadarsh: ee chat lo em radu anattu chatting
+mi sir tho full explanation of project
+APARICHITUDU
+10/9/22, 10:31 PM - Aman Rachala: Haa
+10/9/22, 10:31 PM - Dhanush: Okay Baga plan chese vachinatu unar ga
+10/9/22, 10:31 PM - Aman Rachala: Ammayilatho Remo kuda🌹💗
+10/9/22, 10:31 PM - Dhanush: Enjoy
+10/9/22, 10:31 PM - Dhanush: Rey nuvvu ra 😂
+10/9/22, 10:31 PM - Aadarsh: repu vastunava leda dhanuss
+10/9/22, 10:31 PM - Dhanush: Anni characteristics neeke match aytay
+10/9/22, 10:32 PM - Aman Rachala: Antha planning unte nee la useful chesthunde ga
+10/9/22, 10:32 PM - Dhanush: .
+10/9/22, 10:32 PM - Aadarsh: malli work undi cheptava😏
+10/9/22, 10:32 PM - Aman Rachala: Manchidi ikkada evvadu vinadu avi
+10/9/22, 10:32 PM - Aman Rachala: .
+10/9/22, 10:32 PM - Aadarsh: emoo
+10/9/22, 10:32 PM - Aman Rachala: Manam appudu eppudo register chesam adhena idhi?
+10/9/22, 10:32 PM - Dhanush: <Media omitted>
+10/9/22, 10:32 PM - Aman Rachala: September lo ig
+10/9/22, 10:33 PM - Aadarsh: haaa ade
+10/9/22, 10:33 PM - Aman Rachala: Malli register avasaram ledu ga
+10/9/22, 10:33 PM - Aadarsh: ninna chesava?
+10/9/22, 10:33 PM - Aadarsh: ah mail lo
+10/9/22, 10:33 PM - Aadarsh: okati ichadu ga register ani
+10/9/22, 10:33 PM - Aadarsh: adi cheyali
+10/9/22, 10:33 PM - Aman Rachala: Nee natana nadusthundi ga nenu enduku madyalo ani telling
+10/9/22, 10:33 PM - Aman Rachala: Ah mail petra
+10/9/22, 10:33 PM - Aman Rachala: Naku em rale
+10/9/22, 10:34 PM - Aman Rachala: Ss or forward something
+10/9/22, 10:34 PM - Aadarsh: ugs?
+10/9/22, 10:34 PM - Aman Rachala: Yeah
+10/9/22, 10:34 PM - Aman Rachala: <Media omitted>
+10/9/22, 10:34 PM - Aman Rachala: I got this
+10/9/22, 10:35 PM - Aadarsh: idi kadu
+10/9/22, 10:36 PM - Aman Rachala: <Media omitted>
+10/9/22, 10:36 PM - Aman Rachala: I got this one too but not that ID one
+10/9/22, 10:36 PM - Aadarsh: ivi ochay nak kuda
+10/9/22, 10:36 PM - Aman Rachala: Yeah nuvvu pettinde rale naku
+10/9/22, 10:36 PM - Aadarsh: oho
+10/9/22, 10:36 PM - Aadarsh: but why
+10/9/22, 10:37 PM - Aadarsh: @918978554085 ?
+10/9/22, 10:37 PM - Aadarsh: niku ochinda dhanuss
+10/9/22, 10:39 PM - Aman Rachala: Arey fuck ea
+10/9/22, 10:39 PM - Aman Rachala: Naku personal mail ki ochindi
+10/9/22, 10:39 PM - Aadarsh: avnu mari
+10/9/22, 10:39 PM - Aadarsh: personal eh
+10/9/22, 10:39 PM - Aman Rachala: 😮‍💨😮‍💨
+10/9/22, 10:40 PM - Aman Rachala: Ugs annav ga
+10/9/22, 10:40 PM - Aadarsh: ugs la check chesava ani adiga
+10/9/22, 10:40 PM - Aadarsh: by chance
+10/9/22, 10:40 PM - Aadarsh: andulo ochindi emo ani
+10/9/22, 10:40 PM - Aman Rachala: Oho nenu adhi okkate check chesa
+10/9/22, 10:40 PM - Aadarsh: ohh
+10/9/22, 10:40 PM - Aadarsh: adi fill chey mari
+10/9/22, 10:49 PM - Aman Rachala: Tank yo👍
+10/9/22, 10:50 PM - Aadarsh: mi assignment aipoinda
+10/9/22, 10:50 PM - Aadarsh: IP
+10/9/22, 10:51 PM - Aman Rachala: Yeah mayank eh chesadu
+10/9/22, 10:52 PM - Aman Rachala: Mee dantlo nee laga
+10/9/22, 10:52 PM - Aadarsh: 😭
+10/9/22, 10:52 PM - Aadarsh: sowmika
+10/9/22, 10:52 PM - Aman Rachala: Team endi
+10/9/22, 10:53 PM - Aadarsh: and writing part?
+10/9/22, 10:53 PM - Aman Rachala: Em writing part ra
+10/9/22, 10:53 PM - Aadarsh: 17 21 42 44 59 60
+10/9/22, 10:53 PM - Aadarsh: code and output -->printout
+if there is any definition or description abt a particular topic then it's handwritten
+10/9/22, 10:53 PM - Aman Rachala: Vammo inkenti andaru assignments thu antadi ma'am meedi chusaka
+10/9/22, 10:54 PM - Aman Rachala: Emo mari 1st part done but second nope
+10/9/22, 10:54 PM - Aadarsh: oho
+10/10/22, 9:16 AM - Aman Rachala: https://rivach.com/
+10/14/22, 8:37 PM - Aadarsh: Arey
+10/14/22, 8:38 PM - Aadarsh: repu test ela rasedi?
+10/14/22, 8:38 PM - Aadarsh: clg lo
+10/14/22, 8:41 PM - Dhanush: Repu veltunara
+10/14/22, 8:41 PM - Aadarsh: rava nuvvu?
+10/14/22, 8:41 PM - Dhanush: Inka em anukole
+10/14/22, 8:41 PM - Dhanush: U
+10/14/22, 8:41 PM - Aadarsh: same
+10/14/22, 8:42 PM - Dhanush: @917989285342 @918331066655  ?
+10/14/22, 8:42 PM - Aadarsh: arey nen reply icha ga
+10/14/22, 8:42 PM - Dhanush: *@916303616231
+10/14/22, 8:42 PM - Dhanush: 😅
+10/14/22, 8:45 PM - Aadarsh: *UPI" is killing the Toffee Business*
+
+*On further exploration, it was an Eye opener with hard to believe details, as to how a huge business was built on "chutta nahi hai"* went Downhill, as *UPI* arrived.
+
+*In the earlier years, almost all big Toffee players, including Mondelez, Mars, Nestle, Perfetti, Parle & ITC reported staggering growth year after year*
+
+*But as UPI arrived, most of these Brands have reported a steep decline in sales of Toffees*. 
+
+*Hershey’s, one of world’s biggest  Toffee makers said India is one of the worst-hit markets in the post COVID Era hitting their expansion plans*
+
+So what really changed ?
+ 
+*Before UPI, shopkeepers would trade Toffees for small change, stating shortage of Coins*
+
+*These small amounts of change over weeks, would amount to becoming vast sums of Money, which were never returned to customers at all, because Toffees were given to customers, in lieu of small change.*
+
+*With UPI, all of this stopped*
+
+*People paid the Exact Amount using UPI, with no scope for exchanging small change, ultimately eating up the daily sales of Toffees*
+
+*This also created a push towards Digital Payments and Toffee sales went down drastically*
+
+*No Toffee company would have ever imagined that Financial products becoming their Competitors* 
+
+ *Toffees were Coin substitutes and UPI replaced this requirement and drastically changed Customer Behavior*
+
+ *In this modern Era, Products which aren’t really a direct Competition, can potentially replace a Product* !!”
+
+A lesson-
+ *Technology can impact any Business*
+
+🍀🗿🫤🫥🤔
+10/14/22, 8:45 PM - Aadarsh: LoL
+10/14/22, 8:46 PM - Dhanush: Candymannn
+10/14/22, 8:47 PM - Aman Rachala: Ostha ra nenu
+10/14/22, 8:47 PM - Aman Rachala: Attendance eh ledu
+10/14/22, 8:48 PM - Aman Rachala: Ee laptop lu enduku ra
+10/14/22, 8:48 PM - Aadarsh: ya nen teyanu
+10/15/22, 10:06 AM - 22Adarsh: Arey
+10/15/22, 10:06 AM - 22Adarsh: Mentoring diary fill chesara?
+10/15/22, 10:06 AM - Aman Rachala: Le cheyali
+10/15/22, 10:35 AM - Aman Rachala: Arey aadarsh nee dainry petra copy kodtha
+10/15/22, 10:35 AM - Aman Rachala: This message was deleted
+10/15/22, 10:36 AM - Aman Rachala: diary
+10/15/22, 10:36 AM - Aadarsh: drive lo undi ga
+10/15/22, 10:36 AM - Aadarsh: chudu
+10/15/22, 10:36 AM - Aman Rachala: Acha
+10/15/22, 10:40 AM - Aman Rachala: That wheel and signs that's all ah?
+10/15/22, 10:40 AM - Aadarsh: anthe pettina
+10/15/22, 10:40 AM - Aman Rachala: Okay
+10/15/22, 10:41 AM - Dhanush: sem wise grade petaleda
+10/15/22, 10:41 AM - Aadarsh: sem4 results rale ga
+10/15/22, 10:41 AM - Dhanush: 3rd varku
+10/15/22, 10:41 AM - Aadarsh: ha adi pettina ig last time eh
+10/15/22, 10:41 AM - Dhanush: ohh okay
+10/15/22, 10:42 AM - Aman Rachala: Pettale ra nuvvu
+10/15/22, 10:42 AM - Aadarsh: ok pedta
+10/15/22, 10:42 AM - Aman Rachala: <Media omitted>
+10/15/22, 10:42 AM - Aman Rachala: Ikkadena?
+10/15/22, 10:42 AM - Aadarsh: eh sem kinda undi adi?
+10/15/22, 10:43 AM - Aman Rachala: Every sem kinda
+10/15/22, 10:44 AM - Aman Rachala: Mana 1stop or anything else em fill cheyatleda ?
+10/15/22, 10:44 AM - Dhanush: antha opika led ra
+10/15/22, 10:44 AM - Aman Rachala: Okay
+10/15/22, 10:44 AM - Aman Rachala: 1stop certificate ochindi chusara
+10/15/22, 10:46 AM - Aadarsh: haa avnu
+10/15/22, 12:26 PM - Aman Rachala: Google exam eppudu?
+10/15/22, 12:31 PM - Aadarsh: 2-6
+10/15/22, 12:31 PM - Aadarsh: madyalo any 30min rayali anta
+10/15/22, 12:50 PM - Aman Rachala: Ohoo
+10/15/22, 1:40 PM - Aman Rachala: Arey os lab submission chesthe pettandi
+10/15/22, 3:17 PM - Aman Rachala: Present endi ra
+10/15/22, 3:18 PM - Aadarsh: Ante exam rasinam ani emo
+10/15/22, 3:18 PM - Aman Rachala: .exam?
+10/15/22, 3:18 PM - Aadarsh: Ade google
+10/15/22, 3:18 PM - Aadarsh: 😂
+10/15/22, 3:18 PM - Dhanush: Wtf 😂
+10/15/22, 3:18 PM - Aman Rachala: Rayale ga
+10/15/22, 3:18 PM - Dhanush: Google ka adi
+10/15/22, 3:18 PM - Aadarsh: Ehe 2-6 kada
+10/15/22, 3:18 PM - Aadarsh: 2-4 periods untay ga
+10/15/22, 3:19 PM - Aadarsh: Estar emo
+10/15/22, 3:19 PM - Aman Rachala: Abba antha ledu le
+10/15/22, 3:19 PM - Aadarsh: *Regarding Google internship*
+Test links are shared with the registered candidates. Test will be open from 2PM-6PM of 15.10.2022.
+The test is for 30 Minutes. 
+Go through the instructions provided to write the test. 
+The test can be written from anywhere. Attendance will be provided for the test. 
+Good luck 👍
+10/15/22, 3:20 PM - Aman Rachala: Arey 30min test ki 2hrs attendance enduku estharu ea
+10/15/22, 3:20 PM - Aadarsh: Emo ra
+10/15/22, 3:20 PM - Aadarsh: 1hr aithe estaru
+10/15/22, 3:20 PM - Aadarsh: 2 hrs kashtam kani
+10/15/22, 3:51 PM - 22Adarsh: Only for flat
+10/15/22, 4:00 PM - Aman Rachala: Joining da meet?
+10/15/22, 4:00 PM - Aadarsh: ya
+10/15/22, 4:00 PM - Aadarsh: wau
+10/15/22, 4:01 PM - Aman Rachala: Mana batch rasesara?
+10/15/22, 4:01 PM - Aman Rachala: Yeah
+10/15/22, 4:02 PM - Aadarsh: tanish clg poindu ga
+10/15/22, 4:02 PM - Aman Rachala: Acha
+10/15/22, 4:08 PM - Aman Rachala: Multiple tabs cheyalema?
+10/15/22, 4:08 PM - Aadarsh: Emo ra
+10/15/22, 4:08 PM - Aadarsh: Screen share chestar ata ani antunnaru
+10/15/22, 4:08 PM - Aadarsh: Screen record*
+10/15/22, 4:09 PM - Aman Rachala: Oho
+10/15/22, 4:11 PM - Aadarsh: Started ah
+10/15/22, 4:12 PM - Aman Rachala: Ledu ra
+10/15/22, 4:12 PM - Aman Rachala: Veedu motham rasaka photolu theesthadu ga
+10/15/22, 4:12 PM - Aadarsh: Already photos unnay paina
+10/15/22, 4:12 PM - Aadarsh: Drama club lo
+10/15/22, 4:12 PM - Aman Rachala: Annitiki levu ga
+10/15/22, 6:12 PM - Aman Rachala: Arey chadivara emaina?
+10/15/22, 6:14 PM - Aadarsh: 🥲
+10/15/22, 6:14 PM - Aadarsh: Ledu
+10/15/22, 6:15 PM - Aman Rachala: Qn banks em levu ga complete concepts chaduvuthara?
+10/15/22, 6:16 PM - Aadarsh: Emo raa
+10/15/22, 6:27 PM - Aman Rachala: Asal Dhanush online kuda ledu🔥
+10/15/22, 6:27 PM - Aadarsh: Yeah
+10/15/22, 6:28 PM - Dhanush: Padkuna ra
+10/15/22, 6:29 PM - Aadarsh: Msg pettgaane lechava
+10/15/22, 6:29 PM - Aadarsh: 🔥
+10/15/22, 6:29 PM - Aman Rachala: Sudden ga lechava ippudu😂🤣
+10/15/22, 6:31 PM - Dhanush: Ee logics Anni Google test ki vadukovandi
+10/15/22, 6:31 PM - Aman Rachala: Okay okay velli paduko👀
+10/15/22, 6:31 PM - Aadarsh: Malli msg pedtam appudu levu
+10/15/22, 6:32 PM - Dhanush: Inka lepar ga nidra radu 🤧
+10/15/22, 6:32 PM - Aman Rachala: Pdf la extract chesi search chesthadu mana msgs kosam
+10/15/22, 6:32 PM - Dhanush: login/logout mundu adi waste ra
+10/15/22, 6:33 PM - Aman Rachala: Em annadu ra vadu nee project chusi
+10/15/22, 6:33 PM - Aman Rachala: Abba cha
+10/15/22, 6:33 PM - Aadarsh: Alarm pettadu emo peru msg lo ragane mogetattu
+10/15/22, 6:33 PM - Dhanush: Ahaa 2* logics ante idenemo
+10/15/22, 6:34 PM - Aadarsh: Job chestava ani adigadu anta
+10/15/22, 6:34 PM - Aman Rachala: Eh seriously em annadu
+10/15/22, 6:34 PM - Dhanush: Chinna poyi coding chesko 😂
+10/15/22, 6:34 PM - Aman Rachala: Job isthava ani aduguntadu
+10/15/22, 6:34 PM - Dhanush: Kale ra meeting inka
+10/15/22, 6:34 PM - Aadarsh: Ok ok cheppu ra
+10/15/22, 6:35 PM - Aman Rachala: 2 days ayipoyay ga
+10/15/22, 6:35 PM - Dhanush: Yeah emo work undi ata
+10/15/22, 6:35 PM - Aman Rachala: Oooo
+10/15/22, 6:35 PM - Dhanush: Ne paid internship ela undi
+10/15/22, 6:35 PM - Aman Rachala: Buhaha nice one
+10/15/22, 6:36 PM - Dhanush: Navvutav entra serious ga
+10/15/22, 6:36 PM - Aman Rachala: Thursday nundi join avutha ani cheppa
+10/15/22, 6:36 PM - Dhanush: Started ah
+10/15/22, 6:36 PM - Aadarsh: Advance login logout anta🔥🔥🔥
+10/15/22, 6:36 PM - Aman Rachala: Paid kadu ra unpaid
+10/16/22, 9:39 PM - Aadarsh: <Media omitted>
+10/16/22, 9:39 PM - Aadarsh: <Media omitted>
+10/16/22, 9:48 PM - Aman Rachala: 🙏🙏
+10/16/22, 9:49 PM - Aadarsh: 🛐🛐
+10/16/22, 9:49 PM - 22Adarsh: 🌸🌸
+10/16/22, 9:49 PM - Aadarsh: Pettochu ga ra Adarsh mana batch lo oste
+10/16/22, 9:49 PM - Aadarsh: Ilantivi
+10/16/22, 9:49 PM - Aadarsh: 🥲
+10/16/22, 9:49 PM - Aman Rachala: Thu
+10/16/22, 9:49 PM - Dhanush: are ivvi ah drive lo unay ga
+10/16/22, 9:49 PM - Aadarsh: Ilantivi
+10/16/22, 9:49 PM - 22Adarsh: Nenu choodale
+10/16/22, 9:50 PM - Aadarsh: Avnaaa
+10/16/22, 9:50 PM - Aman Rachala: Nuvvedo upload chesav ga🗿🗿
+10/16/22, 9:50 PM - Aman Rachala: Motham next level prep nadusthundi needi
+10/16/22, 9:50 PM - Aadarsh: Endulo unnay ra
+10/16/22, 9:50 PM - Dhanush: ok ok
+10/16/22, 9:50 PM - Aman Rachala: Materials isthunnav maku
+10/16/22, 9:50 PM - Aman Rachala: Nikhitha pettindi ig
+10/16/22, 9:50 PM - Aman Rachala: Grp lo
+10/16/22, 9:50 PM - Dhanush: https://drive.google.com/drive/folders/17NxOESkmM4fLhotNSFPjpuqxRFexNj2q
+10/16/22, 9:51 PM - Aman Rachala: Nikhitha ne chesindi kada?
+10/16/22, 9:51 PM - Dhanush: nenem chestha ra
+10/16/22, 9:51 PM - Aadarsh: Idi ekkadidi ra
+10/16/22, 9:51 PM - Aman Rachala: C1 champs ig
+10/16/22, 9:51 PM - Dhanush: chetan gadu petadu drama grp lo
+10/16/22, 9:51 PM - Aadarsh: Adi vere kada
+10/16/22, 9:51 PM - Aadarsh: https://drive.google.com/drive/folders/13nW4D4M9mGhTd2ul7fPvz04gwnm7OBRM
+10/16/22, 9:52 PM - Dhanush: chetan mention chesthe vadi emoji reaction pettesthava ra
+10/16/22, 9:52 PM - Dhanush: nikitha de
+10/16/22, 9:52 PM - Dhanush: same
+10/16/22, 9:53 PM - Aadarsh: Idi pettadu ga chetan
+10/16/22, 9:54 PM - Aadarsh: Kk
+10/16/22, 9:54 PM - Aman Rachala: Dantlo flat lo chudu
+10/16/22, 9:54 PM - Aman Rachala: Dhanush gadu panchadu materials
+10/16/22, 9:55 PM - Aadarsh: dentlo
+10/16/22, 9:55 PM - Aman Rachala: Flat lo ra
+10/16/22, 9:55 PM - Dhanush: vadu chepindi ani vintava ra
+10/16/22, 9:55 PM - Aman Rachala: Arey badkowlu
+10/16/22, 9:55 PM - Dhanush: em pancha ra
+10/16/22, 9:56 PM - Aman Rachala: <Media omitted>
+10/16/22, 9:56 PM - Dhanush: wtf
+10/16/22, 9:56 PM - Aman Rachala: Ah start ah show
+10/16/22, 9:56 PM - Aadarsh: 🔥🔥🥵🥵
+10/16/22, 9:56 PM - Dhanush: adi edit mode ki velindi ra howle
+10/16/22, 9:56 PM - Aman Rachala: Owner change avvadu brother
+10/16/22, 9:57 PM - Aman Rachala: E adu upload chesthe vadu owner
+10/16/22, 9:57 PM - Aman Rachala: *evadu
+10/16/22, 9:57 PM - Dhanush: are adi nen upload cheyle ra
+10/16/22, 9:57 PM - Dhanush: open chesi chudu
+10/16/22, 9:57 PM - Aman Rachala: Ok ok
+10/16/22, 9:57 PM - Dhanush: dengey r
+10/16/22, 9:57 PM - Aadarsh: 😂😂
+10/16/22, 9:58 PM - Aadarsh: opukovachu ga
+10/16/22, 9:58 PM - Aman Rachala: .
+10/16/22, 9:58 PM - Dhanush: are open chesi chudu ra
+10/16/22, 9:58 PM - Dhanush: meaning eh ledu
+10/16/22, 9:58 PM - Aman Rachala: .
+10/16/22, 9:58 PM - Aman Rachala: Encoded shit motham
+10/16/22, 9:58 PM - Aman Rachala: Cypher adi antha
+10/16/22, 9:58 PM - Aman Rachala: Only nee posh batch ki key ichav
+10/16/22, 9:58 PM - Dhanush: meeku chaduvu baga ekuva ayndi
+10/16/22, 9:58 PM - Dhanush: padukondi
+10/16/22, 9:59 PM - 22Adarsh: mari addy chesad antava?
+10/16/22, 9:59 PM - Aadarsh: endo
+10/16/22, 9:59 PM - Aman Rachala: Adhe ga
+10/16/22, 9:59 PM - Aadarsh: oorodiva
+10/16/22, 9:59 PM - Dhanush: asal adi ento kuda teledu
+10/16/22, 10:00 PM - Aman Rachala: 🫡
+10/16/22, 10:00 PM - 22Adarsh: Haa adhe ra...inka cheppu addy chesad ani vadini niladheesi aduguthunna😤
+10/16/22, 10:00 PM - Aadarsh: mari complex undi ra idi
+10/16/22, 10:01 PM - Dhanush: neeke complex undi ante inka......
+10/16/22, 10:01 PM - Aman Rachala: Nuvve ala ante inka nenu em ayipovali ra😵‍💫
+10/16/22, 10:02 PM - Aadarsh: ee level cheap ga niku
+10/16/22, 10:02 PM - Aman Rachala: Vadu kuda nee range kadu le ra nee material artham avvadaniki
+10/16/22, 10:03 PM - Dhanush: okka side support chey ra kho**a gadi la rendu sides matladtunav😂
+10/16/22, 10:03 PM - Aman Rachala: Sides entra
+10/16/22, 10:04 PM - Aadarsh: kho**a ante kho to power of a na?
+10/16/22, 10:04 PM - Aman Rachala: Aaaat🔥🔥
+10/16/22, 10:04 PM - Dhanush: anni 2* logic lo alochinchaku
+10/16/22, 10:04 PM - Aadarsh: asal motham djagno language
+10/16/22, 10:04 PM - Aman Rachala: How re intha logics asal
+10/16/22, 10:04 PM - Aadarsh: python
+10/16/22, 10:04 PM - Dhanush: inka oddu
+10/16/22, 10:04 PM - Aadarsh: thop ra dhanush
+10/16/22, 10:05 PM - Dhanush: edo chepali ani cheptunatu undi
+10/16/22, 10:05 PM - Aadarsh: inka ni level match avvalenu nenu
+10/16/22, 10:05 PM - Aadarsh: mari motham word petoochu ga ra
+10/16/22, 10:05 PM - Dhanush: rey kho**a ni poweru idi adi antunav ga
+10/16/22, 10:05 PM - Dhanush: deeni 2* ane antar
+10/16/22, 10:06 PM - Aman Rachala: Haa
+10/16/22, 10:06 PM - Aadarsh: idi FLAT ah
+10/16/22, 10:06 PM - Dhanush: ekuva chadivesav ra
+10/16/22, 10:06 PM - Dhanush: 21 fix neeku rep
+10/16/22, 10:06 PM - Aadarsh: 🤣🤣
+10/16/22, 10:06 PM - Aman Rachala: Neeku 28 mari
+10/16/22, 10:06 PM - Aadarsh: navessa
+10/16/22, 10:07 PM - Dhanush: yevadra eedu madhyalo
+10/16/22, 10:07 PM - Dhanush: nenem flat bhasha lo matladale
+10/16/22, 10:07 PM - Aman Rachala: Edho nuvvu upload chese material chadive sagutu student ni😞
+10/16/22, 10:08 PM - Dhanush: encoding kuda artham cheskoni chaduvtunav ante
+10/16/22, 10:08 PM - Dhanush: thop ra nuvvu
+10/16/22, 10:08 PM - Aman Rachala: Ante upload chesav ani encode chesav ani oppesukunnav🥳
+10/16/22, 10:08 PM - Dhanush: open chesi chusthe artham aindi
+10/16/22, 10:09 PM - Dhanush: nee emoji nak enduku pedtunav ra😂
+10/16/22, 10:09 PM - Dhanush: copyrights padtadi emo
+10/16/22, 10:10 PM - Aman Rachala: Okay bro enjoy
+10/16/22, 10:11 PM - Aman Rachala: Nuvvante nee code use chesi important answers pdf nundi extract chesi chadivesthav
+10/16/22, 10:11 PM - Dhanush: ah drive ki naku login/logout ichindi nuvve ga
+10/17/22, 9:06 PM - Aman Rachala: Arey em chaduvuthunnaru ra DCCN ki and SE ki?
+10/17/22, 9:06 PM - Aadarsh: nen oka doc petta ga adi
+10/17/22, 9:06 PM - Aadarsh: drama club lo for SE
+10/17/22, 9:07 PM - Aman Rachala: 33 pages one ah
+10/17/22, 9:07 PM - Aadarsh: ha
+10/17/22, 9:07 PM - Aman Rachala: DCCN mari
+10/17/22, 9:08 PM - Aadarsh: emo
+10/17/22, 9:11 PM - Aman Rachala: Arey IT vallaki last sem SE unde ra
+10/17/22, 9:11 PM - Aman Rachala: Evari deggara ayina inka materials unnaya adagandi
+10/17/22, 9:12 PM - Aman Rachala: Arey Adarsh adugu bey ni mee odini
+10/17/22, 9:12 PM - Aadarsh: ledante me ameni
+10/17/22, 9:13 PM - Aadarsh: 🌧️
+10/17/22, 9:13 PM - 22Adarsh: <Media omitted>
+10/17/22, 9:13 PM - 22Adarsh: Levu anta
+10/18/22, 12:18 PM - Aadarsh: C2 lo unnam
+10/18/22, 6:35 PM - Aadarsh: <Media omitted>
+10/18/22, 6:43 PM - Dhanush: 😂
+10/18/22, 6:53 PM - Aman Rachala: Atlas endi
+10/18/22, 7:31 PM - 22Adarsh: vadu na contacts lo kuda vundadu vro
+10/18/22, 7:31 PM - Dhanush: Direct heart lo untada
+10/18/22, 7:32 PM - 22Adarsh: nuvvu eppud nunchi ee pulihora dialogues nerchukuntunnav ra
+10/18/22, 7:32 PM - Aadarsh: evadu tho tirgutunnad chudu vadu
+10/18/22, 7:33 PM - Dhanush: Aman gadi tho thirgutha ga
+10/18/22, 7:33 PM - Aadarsh: yaya
+10/18/22, 7:33 PM - Aadarsh: adarsh entha ochindi ra
+10/18/22, 7:33 PM - Aadarsh: GPA
+10/18/22, 7:34 PM - 22Adarsh: enduk ra group lo adigi book chesi minguthav
+10/18/22, 7:34 PM - Aadarsh: maname ga
+10/18/22, 7:34 PM - Aadarsh: 4 members
+10/18/22, 7:34 PM - 22Adarsh: Oh ya ya
+10/18/22, 7:34 PM - 22Adarsh: Inka choosukole
+10/18/22, 7:34 PM - Aadarsh: ohoo oksy
+10/18/22, 7:35 PM - 22Adarsh: You
+10/18/22, 7:35 PM - 22Adarsh: ?
+10/18/22, 7:35 PM - Aadarsh: 9.32
+10/18/22, 7:35 PM - Aadarsh: Bus lo andaru kalisi chusaru
+10/18/22, 7:36 PM - Aadarsh: oddu ante
+10/18/22, 7:36 PM - Aadarsh: 🥲
+10/18/22, 7:36 PM - 22Adarsh: 🥵
+10/18/22, 7:37 PM - Dhanush: <Media omitted>
+10/18/22, 7:37 PM - Aadarsh: LoL
+10/18/22, 7:38 PM - Aadarsh: Chuskunnara miru
+10/18/22, 7:38 PM - Aadarsh: Dhanuss
+10/18/22, 7:39 PM - Dhanush: Nadi dobbindi
+10/18/22, 7:39 PM - Dhanush: Lyt
+10/18/22, 7:39 PM - Dhanush: Entha ani adagaku 🥲
+10/18/22, 7:41 PM - 22Adarsh: Ehe cheppu ra
+10/18/22, 7:41 PM - Dhanush: Chinna lyt
+10/18/22, 7:41 PM - Dhanush: Neeke ekuva vachuntadi
+10/18/22, 7:42 PM - 22Adarsh: Nadhi cheppala niku confidence osthadhi
+10/18/22, 7:42 PM - Dhanush: Oddu le 🤧
+10/18/22, 9:50 PM - Aman Rachala: Nadhi chepthe navvu kuda osthadi
+10/18/22, 9:50 PM - Aadarsh: oduu ra arey
+10/18/22, 9:51 PM - Aadarsh: nuv cheppu 1st mem cheptam navvu ostada ani
+10/18/22, 9:51 PM - Aman Rachala: Chuskole
+10/18/22, 9:54 PM - 22Adarsh: Navvu ochindhi ra
+10/18/22, 10:19 PM - Aman Rachala: Avasarama mids madyalo depression
+10/19/22, 7:46 PM - Aman Rachala: Arey entha ra cheppandi gpa
+10/19/22, 7:48 PM - 22Adarsh: nuv cheppu
+10/19/22, 7:48 PM - Aadarsh: 9.99
+10/19/22, 7:48 PM - Aadarsh: Anta
+10/19/22, 7:49 PM - 22Adarsh: aady dhi dhanush dhi niku elago thelsu
+10/19/22, 7:49 PM - 22Adarsh: nanne ga adigedhi
+10/19/22, 7:49 PM - Aman Rachala: Modda aapu rarey
+10/19/22, 7:49 PM - Aman Rachala: 9 above kuda rale
+10/19/22, 7:49 PM - 22Adarsh: memu crack cheyala
+10/19/22, 7:49 PM - Aman Rachala: Entha ra
+10/19/22, 7:49 PM - Aman Rachala: Cheppatle naku howla gadu
+10/19/22, 7:50 PM - 22Adarsh: nuv cheppu andaru cheptar
+10/19/22, 7:50 PM - Aman Rachala: 8.91
+10/19/22, 7:50 PM - 22Adarsh: puka
+10/19/22, 7:50 PM - 22Adarsh: fuck off
+10/19/22, 7:50 PM - Aman Rachala: Endi?
+10/19/22, 7:51 PM - Aman Rachala: Ikkada chudu veedi overaction
+10/19/22, 7:51 PM - 22Adarsh: Bondhi
+10/19/22, 7:51 PM - Aman Rachala: 9.3 thechukoni thannali veedini
+10/19/22, 7:51 PM - Aadarsh: Sarigga chudu ra 9.91
+10/19/22, 7:51 PM - Aadarsh: Anukunta
+10/19/22, 7:51 PM - 22Adarsh: Haa ss pettu😂
+10/19/22, 7:51 PM - Aman Rachala: Noice 8.91 entra antha thakkuval ela osthadi antundu....Nee level kadu ra neun
+10/19/22, 7:52 PM - Aman Rachala: *nenu
+10/19/22, 7:52 PM - Aadarsh: Opukunav ga ni range 9.91 ani
+10/19/22, 7:52 PM - Aman Rachala: cheppu nuvvu first
+10/19/22, 7:52 PM - 22Adarsh: Ok boyyyyy 👋
+10/19/22, 7:52 PM - Aadarsh: Vadu mana tho tiragatle ante ardam chesko
+10/19/22, 7:52 PM - Aman Rachala: Cheppu gayyyy
+10/19/22, 7:53 PM - Aadarsh: Vadi range perigipoindi
+10/19/22, 7:53 PM - Aman Rachala: Evadra
+10/19/22, 7:53 PM - Aadarsh: Adarsh
+10/19/22, 7:53 PM - 22Adarsh: Nenu endhuk thiragatle ra mi tho
+10/19/22, 7:53 PM - Aman Rachala: Adhe vadu sai saketh gadu kalise chaduvuntaru
+10/19/22, 7:53 PM - Aman Rachala: Vaadiki 9.2 ante veediki 9.4 ochuntadi
+10/19/22, 7:53 PM - 22Adarsh: Ok ayina nikante thakkuve ga ....gpa
+10/19/22, 7:54 PM - Aman Rachala: Entha cheppu first
+10/19/22, 7:54 PM - Aadarsh: Vadiki same na antha ne
+10/19/22, 7:54 PM - 22Adarsh: Eeroju exam baga rayale ani thondara poyina
+10/19/22, 7:54 PM - Aman Rachala: Abba thope ra
+10/19/22, 7:55 PM - Aman Rachala: Ilage continue ayithe placements ki chance kuda radu
+10/19/22, 7:55 PM - Aadarsh: Oddu ra arey
+10/19/22, 7:55 PM - Aman Rachala: Arey @916303616231 Chepra nenu cheppa ga
+10/19/22, 7:56 PM - Aman Rachala: Dhanush ki entha ra
+10/19/22, 7:56 PM - Aadarsh: Cheppatle vadu
+10/19/22, 7:56 PM - Aman Rachala: Adhe ga
+10/19/22, 7:56 PM - Aadarsh: Ni mundu chusadu anukunna nenu
+10/19/22, 7:57 PM - Aman Rachala: Vaadu kuda next lvl ayipoyadu ekkadaina thindam ra ante I am busy with hackveda anta🫠🫠
+10/19/22, 7:57 PM - Aadarsh: 🔥🔥🔥
+10/19/22, 7:57 PM - Aman Rachala: Vadu ninna ne chusadu
+10/19/22, 7:57 PM - Aadarsh: Mem ivala poinam bus valam
+10/19/22, 7:57 PM - Aman Rachala: Ekkadiki
+10/19/22, 7:57 PM - Aadarsh: Fast food
+10/19/22, 7:57 PM - Aman Rachala: Ohoo noice ra
+10/19/22, 7:57 PM - Aman Rachala: Em thinnaru
+10/19/22, 7:58 PM - Aman Rachala: Nee party ah
+10/19/22, 7:58 PM - Aman Rachala: 9.3 ki
+10/19/22, 7:58 PM - Aadarsh: Bokka C2 vadiki 9.56
+10/19/22, 7:58 PM - Aadarsh: Noodles eh le
+10/19/22, 8:10 PM - 22Adarsh: Nenu cheppalenu @918331066655... anchalu anchalu ga na cgpa padipovadam choosthunte na manasu vukkiri bikkiri avuthundhi
+10/19/22, 9:13 PM - Aman Rachala: Ilanti bithiri bithiri eshalu manesu samadhanam ivvumu
+10/19/22, 10:25 PM - Aadarsh: This message was deleted
+10/19/22, 10:25 PM - Aadarsh: <Media omitted>
+10/19/22, 10:25 PM - Aadarsh: Aidama
+10/19/22, 10:28 PM - 22Adarsh: Ok
+10/19/22, 10:40 PM - Aadarsh: Ostaru kada
+10/19/22, 10:40 PM - Aadarsh: Ra elundi
+10/19/22, 10:58 PM - 22Adarsh: Haa
+10/19/22, 10:58 PM - Aadarsh: Nuv vastav le
+10/19/22, 10:58 PM - Aadarsh: Atleast ah exam kosam aina
+10/19/22, 10:58 PM - 22Adarsh: Eh exam
+10/19/22, 10:59 PM - Aadarsh: Ade le coding teat
+10/19/22, 10:59 PM - Aadarsh: .
+10/19/22, 10:59 PM - 22Adarsh: Class lo vinavu kada bok gadivi ani antunnav
+10/19/22, 10:59 PM - Aadarsh: Arey chi ra
+10/19/22, 11:00 PM - Aadarsh: Okavela mrng rakapoina evng ravochu ga
+10/19/22, 11:00 PM - Aadarsh: Deggara antunna🤦‍♂️
+10/20/22, 6:38 AM - Aman Rachala: Register Chesava mari
+10/20/22, 6:38 AM - Aman Rachala: Arey evaru osthunnaru eeroju?
+10/20/22, 6:53 AM - Aadarsh: 🙋🏻‍♂️
+10/20/22, 6:53 AM - Aadarsh: Le
+10/20/22, 7:22 AM - Aman Rachala: Racket??
+10/20/22, 7:23 AM - Aadarsh: Bus ekkina nen
+10/20/22, 7:30 AM - Aman Rachala: Arey dhanush
+10/20/22, 7:30 AM - Aman Rachala: ???
+10/20/22, 8:09 AM - Dhanush: Friday na
+10/20/22, 8:09 AM - Aadarsh: Haa
+10/20/22, 8:09 AM - Dhanush: Coming
+10/20/22, 8:10 AM - Aadarsh: Fill chestunna mari
+10/20/22, 8:11 AM - Aman Rachala: Chey ra
+10/20/22, 8:13 AM - Aadarsh: Email id pettandi
+10/20/22, 8:13 AM - Aman Rachala: amanrachala@gmail.com
+10/20/22, 8:14 AM - Dhanush: burradhanush@gmail.com
+10/20/22, 8:15 AM - Aadarsh: Team name em pettali
+10/20/22, 8:20 AM - Aadarsh: https://gdsc.community.dev/e/mrzafz/
+10/20/22, 8:20 AM - 22Adarsh: adarshkumarakula@gmail.com
+10/20/22, 8:20 AM - Aadarsh: Register avvandi
+10/20/22, 8:21 AM - Aadarsh: Andaru separate ga avvali anta
+10/20/22, 8:21 AM - Aadarsh: ??
+10/20/22, 8:29 AM - Aman Rachala: Emo
+10/20/22, 8:30 AM - Aman Rachala: Nee ishtam
+10/20/22, 11:45 AM - Aadarsh: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/CX2Ee5NhFMRACokLocjDv8
+10/20/22, 7:14 PM - Aman Rachala: Arey aa IEEE event ekkada register avvali
+10/20/22, 7:15 PM - Aadarsh: *IEEE CBIT SB - MASTERCLASS V3.0*
+
+Make sure to attend this exciting session where our speaker will share 
+
+1.  Preparation strategies that helped her crack the placements. 
+2. Interview tips for internships and placements.
+3. Best resources for DSA and computer science fundamentals. 
+4. Managing academics and placements while in college. 
+5. Life at Amazon, Goldman Sachs and tips to succeed at your internships/jobs.
+
+Registration link: https://docs.google.com/forms/d/e/1FAIpQLScznnN4RBdgUgLtUCxMBg60skGi_20ggULwMrdNrq5gDTDH8Q/viewform
+10/20/22, 11:54 PM - 22Adarsh: https://www.youtube.com/watch?v=8PY-qL4jwic
+10/20/22, 11:55 PM - Aadarsh: 😂😂
+10/20/22, 11:55 PM - 22Adarsh: for aman  in future
+10/20/22, 11:55 PM - 22Adarsh: veedivi choosthava nuvvu
+10/20/22, 11:55 PM - Aadarsh: Haa
+10/20/22, 11:55 PM - 22Adarsh: baguntai kada
+10/20/22, 11:55 PM - Aadarsh: Ya
+10/20/22, 11:56 PM - Aadarsh: Edit Baga chestadu
+10/20/22, 11:56 PM - 22Adarsh: ha
+10/21/22, 10:13 AM - Aman Rachala: Geeks for Geeks Placement Course. 
+Username : einvhari@gmail.com
+Password : dummypass
+10/22/22, 1:03 PM - Aman Rachala: Arey Sai saketh daaniki velthunnama?
+10/22/22, 1:04 PM - Aadarsh: adarsh aithe potadu
+10/22/22, 1:04 PM - Aadarsh: manam decide avvali iga
+10/22/22, 1:04 PM - Aman Rachala: Dhanush?
+10/22/22, 1:08 PM - Dhanush: Nen ralenu ra
+10/22/22, 1:09 PM - Aadarsh: kyuu
+10/22/22, 1:09 PM - Dhanush: Chala dooram ga
+10/22/22, 1:13 PM - Aman Rachala: Aadarsh?
+10/22/22, 1:13 PM - Aadarsh: veldam ane anukuntunna
+10/22/22, 1:13 PM - Aman Rachala: Veedu raadu ani Naku already thelsu ra
+10/22/22, 1:14 PM - Dhanush: Manchidi
+10/22/22, 1:14 PM - Aman Rachala: Neeku enni kms?
+10/22/22, 1:15 PM - Aadarsh: 21
+10/22/22, 1:15 PM - Aadarsh: wau
+10/22/22, 1:15 PM - Aman Rachala: 16 ra
+10/22/22, 1:15 PM - Aadarsh: miku mero entha dooram
+10/22/22, 1:15 PM - Aman Rachala: Sure ah
+10/22/22, 1:15 PM - Aadarsh: nuv or chetan vaste potha
+10/22/22, 1:16 PM - Aman Rachala: Vishnu untadu ga
+10/22/22, 1:16 PM - Aadarsh: vadu vala thone untadu ga
+10/22/22, 1:17 PM - Aadarsh: adarsh gadu unna osta
+10/22/22, 1:17 PM - Aman Rachala: Meeru ostha ante nenu bhi ostha
+10/22/22, 1:17 PM - Aadarsh: arey niku metro varake ga evar undadru
+10/22/22, 1:17 PM - Aadarsh: parade ground deggara nen ekkutha
+10/22/22, 1:17 PM - Aadarsh: undaru
+10/22/22, 1:18 PM - Aman Rachala: Okay nenu ostha ra metro lo
+10/22/22, 1:18 PM - Aman Rachala: Meeru osthe
+10/22/22, 1:18 PM - Aadarsh: okay
+10/22/22, 1:18 PM - Aadarsh: @916303616231
+10/22/22, 1:18 PM - Aadarsh: ?
+10/22/22, 1:28 PM - 22Adarsh: Miku eppud cheppad ra sai saketh
+10/22/22, 1:29 PM - Aadarsh: msg chesindu mrng
+10/22/22, 1:30 PM - 22Adarsh: Inkendhi vellu
+10/22/22, 1:30 PM - 22Adarsh: Naku cheppale assalu😂
+10/22/22, 2:00 PM - Aman Rachala: Naaku enduk cheppadu mari
+10/23/22, 9:25 PM - Aadarsh: <Media omitted>
+10/25/22, 1:16 AM - Aman Rachala: <Media omitted>
+10/25/22, 1:16 AM - Aman Rachala: ?
+10/25/22, 8:56 AM - Aadarsh: Arey na pad ki OE ass untadi tiiskllendi
+10/25/22, 8:56 AM - Aadarsh: Late osta
+10/25/22, 9:59 AM - Aman Rachala: Arey mana lab internals eppudu?
+10/25/22, 10:04 AM - Aadarsh: Emo
+10/26/22, 7:48 AM - Aadarsh: Arey
+10/26/22, 7:48 AM - Aadarsh: Chetan kuda manatho chestad anta
+10/26/22, 7:48 AM - Aadarsh: Fill cheseyala
+10/26/22, 11:18 AM - Aman Rachala: Yeah
+10/26/22, 4:32 PM - Aadarsh: Group leader
+10/26/22, 4:32 PM - Aadarsh: Nuvve na
+10/26/22, 4:41 PM - Aadarsh: Skills mentioned
+10/26/22, 4:41 PM - Aadarsh: Skills cheppandi
+10/26/22, 4:42 PM - 22Adarsh: Thelsu ga neeku
+10/26/22, 5:05 PM - Aman Rachala: Arey andaru os assignment submit chesesara?
+10/26/22, 5:11 PM - 22Adarsh: No
+10/26/22, 5:11 PM - Aman Rachala: Qc?
+10/26/22, 5:11 PM - 22Adarsh: No
+10/27/22, 9:05 PM - Aadarsh: <Media omitted>
+10/27/22, 9:05 PM - Aadarsh: Pandagoww
+10/27/22, 9:05 PM - Aadarsh: Kani 11.30
+10/27/22, 9:05 PM - Aadarsh: 🥲
+10/28/22, 2:44 PM - Aman Rachala: Attendance ah ra flat grp lo?
+10/28/22, 2:49 PM - 22Adarsh: Yeah
+10/28/22, 3:36 PM - Aman Rachala: Attendance emaina unte naa Peru rayandi ra
+10/28/22, 3:48 PM - 22Adarsh: Dheniki bro
+10/28/22, 3:51 PM - Aman Rachala: Event em Leda?
+10/28/22, 4:04 PM - 22Adarsh: Ledhu
+10/28/22, 8:45 PM - Aadarsh: https://www.youtube.com/watch?v=Hmf7a5u8nCk
+10/28/22, 8:45 PM - Aadarsh: sad life🥲
+10/28/22, 8:46 PM - Aadarsh: mana batch ke aitay entra ilantivi
+10/28/22, 8:46 PM - Aman Rachala: Neeku osthadi le voy
+10/28/22, 8:46 PM - Aadarsh: assal tiskokapothe ela ostay ra
+10/28/22, 8:47 PM - Aadarsh: galeez undi anta situation
+10/28/22, 8:47 PM - Aman Rachala: Nee talent ki unnavallani theesesi istharu
+10/28/22, 8:47 PM - Aadarsh: https://www.linkedin.com/posts/ajinkya-pawar-419a0816b_iit-iitgandhinagar-placements-activity-6991473631390261248-7zBx?utm_source=share&utm_medium=member_ios
+11/1/22, 7:23 PM - Dhanush: Are eh questions vachayo chepandra
+11/1/22, 7:24 PM - Aadarsh: nidi aipoindi ga prep
+11/1/22, 7:24 PM - Aadarsh: enduku inka
+11/1/22, 7:24 PM - Dhanush: Kale inka
+11/1/22, 7:25 PM - 22Adarsh: Repu eh exam miku
+11/1/22, 7:26 PM - Aadarsh: hackveda
+11/1/22, 7:26 PM - Dhanush: Haa
+11/1/22, 7:26 PM - Aadarsh: 🔥🔥
+11/1/22, 7:26 PM - Dhanush: Full Josh lo unav ga
+11/1/22, 7:26 PM - 22Adarsh: Real ah?
+11/1/22, 7:27 PM - Aadarsh: maku ante em pani ledu
+11/1/22, 7:27 PM - 22Adarsh: Hackveda em exam ra
+11/1/22, 7:27 PM - Aadarsh: niku aithe works unnay
+11/1/22, 7:27 PM - Dhanush: Exam aypoyndi ga 🫠
+11/1/22, 7:27 PM - Aadarsh: naku*
+11/1/22, 7:27 PM - Dhanush: Os exam ra
+11/1/22, 7:27 PM - Aadarsh: repu unnkoti undi vro
+11/1/22, 7:27 PM - Dhanush: Ohh shit yes
+11/1/22, 7:28 PM - Aadarsh: naku fork()
+power of a number
+how to extract pdf files using file system call
+11/1/22, 7:28 PM - Aadarsh: last di raledu ela cheyalo cheppu
+11/1/22, 7:28 PM - Dhanush: Hahaha nice
+11/1/22, 7:28 PM - 22Adarsh: Zombie process
+Palindrome
+11/1/22, 7:55 PM - Aman Rachala: Already cheppa ga
+11/1/22, 7:55 PM - Dhanush: Haa
+11/1/22, 7:56 PM - Aman Rachala: 🔥🔥🔥🔥
+Ee codes 15min lo rasav ante🙏
+11/1/22, 7:56 PM - Aman Rachala: Coderrrrrrr ra nuvvu
+11/1/22, 7:56 PM - Aadarsh: ni questions ra assalu
+11/1/22, 7:56 PM - Dhanush: 2*
+11/1/22, 7:56 PM - Aadarsh: out of syllabus
+11/1/22, 7:56 PM - Aman Rachala: Adhe
+11/1/22, 7:56 PM - Aadarsh: 🥵🥵
+11/1/22, 7:56 PM - Aman Rachala: Syllabus lo unna em rayadu veedu ani avi ichindi
+11/1/22, 7:56 PM - Aman Rachala: Elago Google ani thelsu ma'am ki
+11/1/22, 7:57 PM - Aadarsh: show oddu rarey
+11/1/22, 7:57 PM - Aadarsh: ni antha tough ochi unte nen ded
+11/1/22, 7:57 PM - Aman Rachala: Naa qn evvariki rale ig
+11/1/22, 7:57 PM - Aadarsh: nuv spl raa
+11/1/22, 7:57 PM - Aman Rachala: Naa execution appudu ma'am question chupi manindi
+11/1/22, 7:57 PM - Aadarsh: OS maam ni kuda padesava
+11/1/22, 7:57 PM - Aman Rachala: Oddu bro
+11/1/22, 7:58 PM - Aman Rachala: Lowda marks raav Naku last ki
+11/1/22, 7:58 PM - Aman Rachala: 8.5 lu osthay
+11/1/22, 7:58 PM - Aman Rachala: Placements building Loki kuda ranivvaru
+11/1/22, 7:58 PM - Aadarsh: yeah recruiter la ostav ga
+11/1/22, 7:58 PM - Aadarsh: so student la allow cheyarru
+11/1/22, 8:04 PM - 22Adarsh: Meeru dm lo matladukondi bayya..ilanti vishayalu🥲
+11/1/22, 9:29 PM - Aman Rachala: Endi bro ala antav manam manam ga
+11/1/22, 9:29 PM - Aman Rachala: Adarsh gadi okkade theda
+11/1/22, 9:30 PM - Dhanush: Ahh enti 😒
+11/1/22, 9:30 PM - Aman Rachala: Aadarsh le
+11/1/22, 9:30 PM - Aman Rachala: Typo
+11/1/22, 9:30 PM - Aadarsh: Miru iddaru internship chestunnar
+11/1/22, 9:30 PM - Aadarsh: Malli show
+11/1/22, 9:31 PM - Aman Rachala: Nenu em cheyatle ani cheppa ga
+11/1/22, 9:31 PM - Dhanush: Neeku direct job vachestadi
+11/1/22, 9:31 PM - Aman Rachala: Naadi probably dengey antadu
+11/1/22, 9:31 PM - Aadarsh: Odu ra arey
+11/1/22, 9:31 PM - Aman Rachala: Adhe ga
+11/1/22, 9:31 PM - Aman Rachala: 2*
+11/1/22, 9:31 PM - Aadarsh: Miru mi show
+11/2/22, 8:57 PM - Aadarsh: <Media omitted>
+11/2/22, 8:57 PM - Aadarsh: Dear students, there is an Internship Mela at t-hub on 4.11.2022. Interested one fill the above form
+11/2/22, 8:57 PM - Aadarsh: https://forms.gle/mgmeGsvqDfJbCdpc8
+11/2/22, 8:57 PM - Aadarsh: <Media omitted>
+11/2/22, 8:57 PM - Aadarsh: Roles at t-hub start ups
+11/2/22, 8:57 PM - Aadarsh: arey resume lo ah project pettara?
+11/2/22, 8:57 PM - Aadarsh: hackatobe
+11/2/22, 9:20 PM - Aman Rachala: Inka ledu
+11/2/22, 9:20 PM - Aman Rachala: Eppudu ra ee internship?
+11/2/22, 9:20 PM - Aadarsh: emo ra edo okati apply cheddam ani
+11/3/22, 8:31 PM - Aadarsh: arey repu orientation anta bokka
+11/3/22, 8:31 PM - Aadarsh: anduke ground lo tents
+11/3/22, 8:32 PM - Aadarsh: lunch kuda anta
+11/3/22, 8:32 PM - Aadarsh: we covid batch dont know all these
+11/3/22, 8:32 PM - Aadarsh: and sports fest em planning ra assal
+11/4/22, 7:34 AM - Aman Rachala: Arey thub em undi ra ivala
+11/4/22, 7:34 AM - Aadarsh: Internship drive
+11/4/22, 7:34 AM - Aadarsh: Startups ostay anta
+11/4/22, 7:35 AM - Aman Rachala: Only registered PPL eh velocha
+11/4/22, 7:35 AM - Aadarsh: Andulo inka select chesaru
+11/4/22, 7:35 AM - Aman Rachala: Ela chesaru
+11/4/22, 7:35 AM - Aadarsh: Emo resume ig
+11/4/22, 7:36 AM - Aman Rachala: So mana class antha unda
+11/4/22, 7:36 AM - Aadarsh: Ledu
+11/4/22, 7:36 AM - Aadarsh: Satvik
+11/4/22, 7:36 AM - Aadarsh: Vishnu
+11/4/22, 7:36 AM - Aadarsh: Chetan
+11/4/22, 7:36 AM - Aadarsh: Abhiram
+11/4/22, 7:36 AM - Aman Rachala: Nuvvu?
+11/4/22, 7:36 AM - Aadarsh: Haa
+11/4/22, 7:36 AM - Aman Rachala: Adarsh?
+11/4/22, 7:37 AM - Aman Rachala: Dhanush?
+11/4/22, 7:37 AM - Aman Rachala: Saketh?
+11/4/22, 7:37 AM - Aadarsh: @916303616231 ?
+11/4/22, 7:37 AM - Aadarsh: Vadu apply chesada
+11/4/22, 7:37 AM - Aadarsh: Yeah cmg
+11/4/22, 7:37 AM - Aman Rachala: Yeah
+11/4/22, 7:37 AM - Dhanush: Nen ravatle daniki
+11/4/22, 7:37 AM - Aman Rachala: Clg ki osthunnav ga?
+11/4/22, 7:37 AM - Dhanush: Haa
+11/4/22, 7:37 AM - Aadarsh: <Media omitted>
+11/4/22, 7:40 AM - Aadarsh: Nikante hackveda undi
+11/4/22, 7:40 AM - Dhanush: You deleted this message
+11/4/22, 7:41 AM - Dhanush: You deleted this message
+11/4/22, 7:41 AM - Aadarsh: Lol em matldadutunnav
+11/4/22, 7:41 AM - Aadarsh: Assal
+11/4/22, 7:41 AM - Dhanush: Ohh sry Aman ankuna
+11/4/22, 7:41 AM - Dhanush: 😂
+11/4/22, 7:41 AM - Dhanush: Hello
+11/4/22, 7:41 AM - Dhanush: Codechef 2*
+11/4/22, 7:41 AM - Aadarsh: Thu
+11/4/22, 7:41 AM - Aadarsh: Nadi 1* eh ra
+11/4/22, 7:42 AM - Aadarsh: Mi edupu valla
+11/4/22, 7:42 AM - Aadarsh: Poindi adi
+11/4/22, 7:42 AM - Aman Rachala: Inko accnt 5* ga
+11/4/22, 7:42 AM - Dhanush: Haa
+11/4/22, 7:42 AM - Dhanush: 50lpa job vachaka kuda ide antadu
+11/4/22, 7:42 AM - Aadarsh: Ehe chal
+11/4/22, 7:42 AM - Aadarsh: Miku internship pettukoni
+11/4/22, 7:42 AM - Aadarsh: Nanu annaru entra
+11/4/22, 7:43 AM - Aadarsh: Miku 1cr ostadi mi logic prakaram
+11/4/22, 7:43 AM - Aman Rachala: Appudu kuda 1* eh ra antadi
+11/4/22, 7:43 AM - Dhanush: Haa 😂
+11/4/22, 7:43 AM - Dhanush: Logic ledu anduke framework batti kotta
+11/4/22, 7:44 AM - Aman Rachala: <Media omitted>
+11/4/22, 7:44 AM - Aadarsh: Sare iga iddar kalisaru ga
+11/4/22, 7:44 AM - Aadarsh: Nen em cheyalenu
+11/4/22, 7:45 AM - Dhanush: Neeku entha logic undi ante website ni kuda codechef lo deploy cheyagalavu
+11/4/22, 7:46 AM - Aadarsh: Ante?
+11/4/22, 7:46 AM - Aadarsh: Assal ardam kavatle nuv matladedi
+11/4/22, 7:47 AM - Dhanush: <Media omitted>
+11/4/22, 7:50 AM - Aadarsh: Mi frnd kuda select ayyadu aman
+11/4/22, 7:50 AM - Aadarsh: Siddhardha
+11/4/22, 7:53 AM - Aman Rachala: Neeku competition raledu lera fafam
+11/4/22, 7:57 AM - 22Adarsh: Select avvaledhu broo🥲
+11/4/22, 7:57 AM - Aadarsh: Vadike ostadi leraa
+11/4/22, 8:22 AM - Aman Rachala: Abba maaku neela 5* logic lekunna min logic undi le vroo
+11/4/22, 8:22 AM - Aadarsh: Naku antha ledu ra
+11/4/22, 8:22 AM - Aadarsh: Ni antha
+11/4/22, 8:23 AM - Aman Rachala: Adhe ekkuva undi
+11/4/22, 8:23 AM - Aadarsh: Oddu rarey
+11/4/22, 8:24 AM - Aadarsh: Abbadam cheppodu
+11/4/22, 3:20 PM - Aadarsh: Waste raa
+11/4/22, 3:20 PM - Aadarsh: Mem okati kuda iyyale
+11/4/22, 3:54 PM - 22Adarsh: Enni intenships ochayi.. highest stipend em ochindhi
+11/4/22, 3:54 PM - 22Adarsh: For you☺️
+11/4/22, 3:54 PM - Aadarsh: Assal attend kale ra
+11/4/22, 3:54 PM - 22Adarsh: Why bro
+11/4/22, 3:54 PM - Aadarsh: Ma token no oche lopu
+11/4/22, 3:54 PM - 22Adarsh: 😭
+11/4/22, 3:54 PM - Aadarsh: Clg val agam cheaar
+11/4/22, 3:54 PM - Aadarsh: Pucca velipovali undodu inka ani
+11/4/22, 3:55 PM - Aadarsh: Ippudu clg ki ostunam
+11/4/22, 3:55 PM - 22Adarsh: Ni dhaggara nunchi party dengudham anukunna
+11/4/22, 3:56 PM - Aadarsh: Miru enjoy chesar ga
+11/4/22, 3:56 PM - Aadarsh: Sports
+11/4/22, 4:30 PM - Aman Rachala: This message was deleted
+11/4/22, 7:39 PM - Aadarsh: @918331066655 ostunnava freshers?
+11/4/22, 7:39 PM - Aadarsh: @918978554085 No ani pettadu hackveda emo
+11/4/22, 7:48 PM - Dhanush: Out of station ra
+11/4/22, 7:48 PM - Aadarsh: ohhhhhhhhhhhhhhhhhhhhh
+11/4/22, 7:48 PM - Aadarsh: sare
+11/4/22, 7:49 PM - Dhanush: Ahh h lu enni unayo anni internships vachaya iroju 🔥
+11/4/22, 7:50 PM - Aadarsh: deprsun lo unna
+11/4/22, 7:50 PM - Aadarsh: gurtu cheyak
+11/4/22, 7:50 PM - Dhanush: Anni oke sariki cheyalev ana
+11/4/22, 7:50 PM - Aadarsh: pls not this time
+11/4/22, 7:51 PM - Dhanush: Chaa 😒
+11/4/22, 7:51 PM - Aadarsh: nijam
+11/4/22, 9:03 PM - Aman Rachala: Em depression ra
+11/4/22, 9:03 PM - Aadarsh: edo okati attend aithe exp aina ostunde
+11/4/22, 9:04 PM - Aadarsh: em cheyale
+11/4/22, 9:04 PM - Aman Rachala: Excursion brooo
+11/4/22, 9:04 PM - Aadarsh: sarle
+11/4/22, 9:04 PM - Aadarsh: ostunnava freshers?
+11/4/22, 9:04 PM - 22Adarsh: ++
+11/4/22, 9:04 PM - Aman Rachala: Emo
+11/4/22, 9:04 PM - Aman Rachala: Tanish eh ostha antundu malli
+11/4/22, 9:05 PM - Aman Rachala: Interest ayithe ledu
+11/4/22, 9:05 PM - Aadarsh: ohoo
+11/4/22, 9:06 PM - Aman Rachala: Form ippude fill cheyala?
+11/4/22, 9:06 PM - Aman Rachala: I mean iroje?
+11/4/22, 9:06 PM - Aadarsh: no idea
+11/7/22, 9:01 PM - Aadarsh: caeerX lo 50% off anta
+11/7/22, 9:01 PM - Aadarsh: for hacktoberfest
+11/7/22, 9:01 PM - Aman Rachala: Asal adhi endi
+11/7/22, 9:02 PM - Aadarsh: emo evo courses untay anta
+11/7/22, 9:02 PM - Aadarsh: edo call ochindi
+11/7/22, 9:02 PM - Aadarsh: miku kuda ostadi annaru
+11/7/22, 9:02 PM - Aman Rachala: Lowda lo prize
+11/7/22, 9:02 PM - Aadarsh: aagu we'll chat in other grp
+11/7/22, 9:03 PM - Aman Rachala: Adhe anukunna
+11/8/22, 5:25 PM - Aadarsh: 1,6,11,14,15,16,23,26,28,30,33,34,36,42,45,46,51,59,184
+11/8/22, 5:25 PM - Aadarsh: Please request your batches, advance to resort should be paid asap
+11/8/22, 5:25 PM - Aadarsh: arey kattu mantunnadu
+11/8/22, 5:26 PM - Aadarsh: @918331066655 @918978554085
+11/8/22, 5:26 PM - Aadarsh: just informing ranu ante cheppandi nen chepta vadiki
+11/8/22, 5:35 PM - Dhanush: Vastha ra
+11/8/22, 5:35 PM - Dhanush: Before tomorrow confirm chestha
+11/8/22, 8:08 PM - Aman Rachala: Arey emaindi ippudu kattocha?
+11/8/22, 8:15 PM - Aadarsh: Ha kattu
+11/9/22, 4:33 PM - Aadarsh: <Media omitted>
+11/9/22, 4:33 PM - Aadarsh: Vamshi anta vro
+11/9/22, 4:33 PM - Aadarsh: Ainging
+11/9/22, 4:33 PM - Aadarsh: Singing
+11/9/22, 4:33 PM - Aadarsh: @918331066655
+11/9/22, 4:33 PM - Dhanush: Dance
+11/9/22, 4:34 PM - Aadarsh: Juniors
+11/9/22, 4:34 PM - Aman Rachala: Lowda gadu msg cheyadu kani singing anta
+11/9/22, 4:34 PM - 22Adarsh: Ni dj na vaadu?
+11/9/22, 4:35 PM - Aman Rachala: Endo ra
+11/9/22, 4:35 PM - Aman Rachala: Paduko nuvvu
+11/9/22, 4:35 PM - Aadarsh: Vadiki motions emo le
+11/9/22, 4:35 PM - Aman Rachala: Narala pattesaya ah eeroju rale
+11/9/22, 4:35 PM - Aadarsh: Freshers ostundi gaa
+11/9/22, 4:35 PM - Aman Rachala: Multiple problems
+11/9/22, 4:36 PM - 22Adarsh: Neeku enduk le  mi vamshi tho poyi dance chesuko😏
+11/9/22, 4:36 PM - Dhanush: Siddardha ra 🤌🏻
+11/9/22, 4:36 PM - 22Adarsh: Yeah marichipoya ..duet combination
+11/9/22, 4:36 PM - Aman Rachala: Okay✌️
+11/9/22, 4:36 PM - Aman Rachala: Nuvvu motion tablets esko
+11/9/22, 4:37 PM - Aman Rachala: Malli problem ayithadi Saturday
+11/9/22, 4:37 PM - 22Adarsh: Okay👍
+11/9/22, 6:17 PM - Aadarsh: <Media omitted>
+11/10/22, 6:59 PM - Aman Rachala: Chesthunnara placement coordinator thing?
+11/10/22, 6:59 PM - Aadarsh: Nope
+11/10/22, 7:01 PM - Aman Rachala: Arey juniors phone no.s edunnay?
+11/10/22, 7:01 PM - Aadarsh: Yayayayyayayay
+11/10/22, 7:02 PM - Aman Rachala: Bongu le
+11/10/22, 7:02 PM - Aman Rachala: Vadu elago cheyadu
+11/10/22, 7:02 PM - Dhanush: Asal vadu vastunda freshers ki
+11/10/22, 7:02 PM - Aman Rachala: Haa
+11/10/22, 7:02 PM - Aman Rachala: Singing kuda chesthunnadu
+11/10/22, 7:03 PM - Aadarsh: Aagu ah form nunchi pedta number
+11/10/22, 7:03 PM - Aadarsh: Vamshi eh ga
+11/10/22, 7:03 PM - Aman Rachala: Arey form petty
+11/10/22, 7:03 PM - Aman Rachala: Namma nenu ninnu
+11/10/22, 7:03 PM - Aadarsh: https://docs.google.com/spreadsheets/d/1augdGX8ZHzrMiYhxkA6LctsInz984W437dAESVz7zQ0/edit
+11/10/22, 7:04 PM - Aman Rachala: Oh shit myaaan
+11/10/22, 7:04 PM - Aman Rachala: Access anta
+11/10/22, 7:04 PM - Aman Rachala: Phone number petra
+11/10/22, 7:04 PM - Aman Rachala: @917989285342
+11/10/22, 7:04 PM - Aadarsh: Dobbey
+11/10/22, 7:05 PM - Aman Rachala: Anthe le
+11/10/22, 7:05 PM - Aman Rachala: Mee odu chesadaM
+11/10/22, 7:05 PM - Aman Rachala: *?
+11/10/22, 7:05 PM - Aadarsh: <Media omitted>
+11/10/22, 7:05 PM - Aadarsh: Ledu
+11/10/22, 7:05 PM - Aadarsh: Cheyala nen avsrama
+11/10/22, 7:06 PM - Aman Rachala: Edho formality ki chestha nenu
+11/10/22, 7:07 PM - Aadarsh: SS pettu ni chata
+11/10/22, 7:07 PM - Aadarsh: Nerchukunta
+11/10/22, 7:07 PM - Aman Rachala: Thokka le
+11/10/22, 7:07 PM - Aman Rachala: Migitha iddarni adugu
+11/10/22, 7:07 PM - Aadarsh: Adarsh daily dating
+11/10/22, 7:07 PM - Aman Rachala: Pulihora kalipesthunnaru akkada
+11/10/22, 7:08 PM - Aman Rachala: Haaaaa🗿
+11/10/22, 7:08 PM - Aadarsh: Chatting***
+11/10/22, 7:08 PM - Aman Rachala: No no dating eh
+11/10/22, 7:08 PM - Aadarsh: Dhanush roju flirting
+11/10/22, 7:08 PM - Aadarsh: Chatting***
+11/10/22, 7:08 PM - Aman Rachala: Oh pointers emo le
+11/10/22, 7:08 PM - Aman Rachala: Artham kavatle Naku🥴
+11/10/22, 7:08 PM - Aadarsh: Kamedi
+11/10/22, 7:10 PM - Aman Rachala: Dhanush happy happy ah
+11/10/22, 7:10 PM - Dhanush: Deniki ra
+11/10/22, 7:10 PM - Aman Rachala: Direct pilla tho🗿
+11/10/22, 7:10 PM - Aman Rachala: Inka cheppalenu nenu chedipotha
+11/10/22, 7:11 PM - Dhanush: Are nuvvu chepedi edaina relavent unda
+11/10/22, 7:11 PM - Aman Rachala: Manchidi 😒
+11/10/22, 7:12 PM - Dhanush: Nuvvu already full shopping chestunav ga manyavar lo 🔥
+11/10/22, 7:12 PM - Dhanush: Roses Anni neeke freshers roju
+11/10/22, 7:12 PM - 22Adarsh: Vaadu abbai ra 💀
+11/10/22, 7:12 PM - Aman Rachala: Modda ra
+11/10/22, 7:12 PM - Aman Rachala: Ravalane ledu shopping anta
+11/10/22, 7:12 PM - Dhanush: Haa correct eh ga
+11/10/22, 7:12 PM - Aman Rachala: Anduke ra💀💀💀💀
+11/10/22, 7:13 PM - 22Adarsh: Hooo💀💀
+11/10/22, 7:13 PM - Aman Rachala: Haa💀
+11/10/22, 7:13 PM - 22Adarsh: Yeah💀
+11/10/22, 7:13 PM - Aman Rachala: Yo💀
+11/10/22, 7:13 PM - 22Adarsh: Nope💀
+11/10/22, 7:13 PM - Dhanush: Okay me "💀" fetish ayaka vastha bye
+11/10/22, 7:14 PM - Aadarsh: Hackveda na💀
+11/10/22, 7:14 PM - Aman Rachala: Hackveda kada🗿🗿
+11/10/22, 7:14 PM - Aman Rachala: 💀💀🗿
+11/10/22, 7:14 PM - Dhanush: Ahh em planning re meedi
+11/10/22, 7:14 PM - Dhanush: Eedu emo Microsoft field trip ki veladu
+11/10/22, 7:14 PM - Aadarsh: Just a coincidence bro💀💀
+11/10/22, 7:14 PM - Aman Rachala: Satyam not planning
+11/10/22, 7:14 PM - Dhanush: Veedu ah 10k tho shopping chestunadu
+11/10/22, 7:14 PM - 22Adarsh: Iddarki breaktime emo💀
+11/10/22, 7:15 PM - Dhanush: Haa
+11/10/22, 7:15 PM - Aman Rachala: 10k endi shopping endi asal🤦‍♂️
+11/10/22, 7:15 PM - Aadarsh: Nuv enduku raledu
+11/10/22, 7:15 PM - Aadarsh: Ratri osta annav
+11/10/22, 7:15 PM - Dhanush: Stipend ra
+11/10/22, 7:15 PM - Dhanush: Company lo Pani cheyani valu not allowed anta
+11/10/22, 7:15 PM - Aman Rachala: Motion tablet esko ra
+11/10/22, 7:16 PM - Aman Rachala: Nuvvu company konadaniki ochav ani telidu papam
+11/10/22, 7:16 PM - 22Adarsh: Monna nike ga motions and vomitings💀
+11/10/22, 7:16 PM - Aman Rachala: With hackveda stipend
+11/10/22, 7:16 PM - Dhanush: Naku antha scene ledu bro
+11/10/22, 7:16 PM - 22Adarsh: Anduke 4 days rale
+11/10/22, 7:16 PM - Aman Rachala: Ah chepra heart attack kuda
+11/10/22, 7:16 PM - Dhanush: Lmao 😂
+11/10/22, 7:17 PM - 22Adarsh: Gunde lo vunna ammayilu andaru fight chesukuntunnara ni kosam😏
+11/10/22, 7:17 PM - Aman Rachala: Pilla nibba ga
+11/10/22, 7:17 PM - 22Adarsh: Padeseyi konthamandhi ni
+11/10/22, 7:18 PM - 22Adarsh: Heart nundi
+11/10/22, 7:18 PM - Dhanush: Adi elagu daily routine
+11/10/22, 7:28 PM - Aadarsh: Matladava
+11/10/22, 7:28 PM - Aadarsh: Ni direct tho
+11/10/22, 7:28 PM - Aadarsh: Mari
+11/10/22, 7:28 PM - Aadarsh: @ama
+11/10/22, 7:29 PM - Aadarsh: Vamshi ante padipoyi untadu ippatike
+11/10/22, 7:29 PM - 22Adarsh: Smile ki😂
+11/10/22, 7:29 PM - Aman Rachala: Manchidi
+11/10/22, 7:30 PM - Aman Rachala: Vaadiki WhatsApp unnatu chupiyatle asalu
+11/10/22, 7:30 PM - Aadarsh: Dp kanipiyatle konchem maku kuda visible chey
+11/10/22, 7:30 PM - Aadarsh: Telegram ah
+11/10/22, 7:30 PM - Aman Rachala: Em dp ra
+11/10/22, 7:30 PM - Aadarsh: Ni smile
+11/10/22, 7:30 PM - Aman Rachala: Ah endo
+11/10/22, 7:33 PM - Aman Rachala: Ochindi le
+11/10/22, 7:34 PM - Aadarsh: Enjoy pandagoww
+11/10/22, 7:34 PM - Aman Rachala: Adarsh kadu brother nenu😒
+11/10/22, 7:35 PM - Dhanush: Asal troll avadanike petava 😂
+11/10/22, 7:35 PM - Aadarsh: He's excited
+11/10/22, 7:35 PM - Aman Rachala: Ippudu adhe realise ayya
+11/10/22, 7:35 PM - Aman Rachala: 🤙
+11/10/22, 7:36 PM - Dhanush: Dj is excited
+11/10/22, 7:36 PM - Dhanush: To see smile
+11/10/22, 7:37 PM - Aadarsh: <Media omitted>
+11/10/22, 7:37 PM - Aadarsh: First msg ide
+11/10/22, 7:37 PM - Aadarsh: DM lo
+11/10/22, 7:37 PM - Aman Rachala: Thelsu ga repu
+11/10/22, 7:37 PM - Aman Rachala: Mr rose aadarsh
+11/10/22, 7:37 PM - Aman Rachala: <Media omitted>
+11/10/22, 7:37 PM - Dhanush: Pettesadu
+11/10/22, 7:37 PM - Aadarsh: Ok ok feel kakandi
+11/10/22, 7:38 PM - Aadarsh: Ade blazer ekskosta
+11/10/22, 7:38 PM - Dhanush: 🔥
+11/10/22, 7:38 PM - Aadarsh: Oka grp lo chalu ra arey
+11/10/22, 7:43 PM - Aman Rachala: Ahaa blazer anta🔥🔥
+11/10/22, 7:44 PM - Aadarsh: Match ela chusar ra
+11/10/22, 7:44 PM - Aadarsh: Evar em analeda
+11/10/22, 7:45 PM - Aman Rachala: Flat
+11/10/22, 7:45 PM - Aman Rachala: Hr
+11/10/22, 7:45 PM - Aman Rachala: Lekunde ma'am
+11/10/22, 7:50 PM - Aadarsh: Arey idi takkuva ga
+11/10/22, 7:50 PM - Aadarsh: 2200 ki
+11/10/22, 7:52 PM - Aman Rachala: For food kada adhi
+11/10/22, 7:53 PM - Aman Rachala: 900 ani rasadu ga
+11/10/22, 7:53 PM - Aadarsh: Ante 2200 lo 1800 aipoinattu
+11/10/22, 7:53 PM - Aman Rachala: Haa
+11/10/22, 7:53 PM - Aadarsh: We paid for 2
+11/10/22, 7:58 PM - Aman Rachala: Se assignment edundi asal
+11/10/22, 8:00 PM - Dhanush: Repu kada ichedi
+11/10/22, 8:01 PM - Dhanush: Repe*
+11/10/22, 8:01 PM - Aman Rachala: Haaa
+11/10/22, 8:01 PM - Dhanush: 💀
+11/10/22, 8:01 PM - Aman Rachala: Assignment question edundi ra
+11/10/22, 8:02 PM - Aadarsh: champs
+11/10/22, 8:03 PM - Aadarsh: Reminder
+
+Also correction, it is Empirical Estimation Techniques and Risk Management. (not Algorithmic)
+11/10/22, 8:38 PM - Aman Rachala: Arey repu edho oka sodhi cheppi batminton adukundama?
+11/10/22, 8:39 PM - Aadarsh: emo raa
+11/10/22, 8:39 PM - Aadarsh: papam😂
+11/10/22, 8:39 PM - Aman Rachala: Papam entra
+11/10/22, 8:39 PM - Aman Rachala: Batch 2 vallani chusi nerchukovali
+11/10/22, 8:39 PM - Aadarsh: racket aithe testa chuddam
+11/10/22, 8:39 PM - Aman Rachala: Sare
+11/10/22, 8:40 PM - Aadarsh: valu andr boys broo
+11/10/22, 8:53 PM - Aadarsh: SE sir ochada
+11/10/22, 8:53 PM - Aadarsh: ivala
+11/10/22, 8:53 PM - Dhanush: Noo
+11/10/22, 8:53 PM - Dhanush: Vere mam ochindi
+11/10/22, 8:53 PM - Aadarsh: avna
+11/10/22, 8:53 PM - Dhanush: Haa
+11/10/22, 8:53 PM - Aadarsh: Shut myaann
+11/10/22, 8:53 PM - Aadarsh: repu ostadu emo
+11/10/22, 8:53 PM - Dhanush: Y myann
+11/10/22, 8:53 PM - Dhanush: Haa fix 🤧
+11/10/22, 8:53 PM - Aadarsh: lost a free class without him
+11/10/22, 10:29 PM - Aadarsh: https://www.geeksforgeeks.org/cost-estimation-models-in-software-engineering/amp/
+11/10/22, 10:29 PM - Aadarsh: https://www.geeksforgeeks.org/software-engineering-cocomo-model/
+11/10/22, 10:29 PM - Aadarsh: textbook
+11/10/22, 10:29 PM - Aadarsh: Indula empherical e ata
+11/10/22, 10:29 PM - Aadarsh: <Media omitted>
+11/10/22, 10:29 PM - Aadarsh: Mi ishtam iga indulo nunchi rasta nen
+11/11/22, 11:25 AM - Aman Rachala: Free ghr
+11/11/22, 11:25 AM - Aman Rachala: Ga full
+11/11/22, 11:54 AM - 22Adarsh: Rey lab ayipoyaka cheppandi
+11/11/22, 11:55 AM - Aadarsh: Em chestav
+11/11/22, 1:30 PM - Aadarsh: <Media omitted>
+11/11/22, 6:20 PM - Aman Rachala: Arey repati venue and all edunnay?
+11/11/22, 6:28 PM - Aadarsh: Emo
+11/11/22, 7:11 PM - Dhanush: Are country side resorts ha
+11/11/22, 7:12 PM - Dhanush: Ah*
+11/11/22, 7:12 PM - Aman Rachala: Yeàh
+11/11/22, 7:39 PM - Aadarsh: Dances:
+1)
+Veena
+Priyanka
+Duration: 4:52 
+2)
+Laya
+Priyadarshini
+Likhitha
+Deekshitha 
+Duration : 5:00 
+3)
+Jayendra
+Sashank
+Swaroop 
+Duration : 3:00 
+
+Singing
+1)
+Veena
+Mounika
+Harini
+Meghana
+Shelly 
+Duration: 5:00
+ 
+2)
+Likhitha
+Laya
+Adesh
+Duration: 1:30
+
+Skit 
+Mohiuddin 
+Chetan 
+Sashank
+Siddarth
+Swaroop
+Duration: 4:00 
+
+Dialogue
+1)Swaroop 
+2)Kaushal
+Duration: 3:30
+11/11/22, 7:39 PM - Aadarsh: Cha no vamshi
+11/11/22, 8:10 PM - Aadarsh changed this group's icon
+11/11/22, 8:11 PM - Aadarsh changed this group's icon
+11/11/22, 8:12 PM - Aadarsh changed this group's icon
+11/11/22, 9:00 PM - Aadarsh changed this group's icon
+11/12/22, 7:09 AM - Aman Rachala changed this group's icon
+11/12/22, 7:32 AM - Dhanush: Are meeru andaru formals eh veskuntara
+11/12/22, 7:36 AM - Aman Rachala: Formals juniors ki ra
+11/12/22, 7:43 AM - Dhanush: Sare kani meeru em veskuntaru
+11/12/22, 7:45 AM - Aadarsh: Ha avnu ra nuv kuda vesko
+11/12/22, 7:45 AM - Dhanush: Seriga cheppu
+11/12/22, 7:46 AM - Aadarsh: Led le
+11/12/22, 7:46 AM - Aadarsh: Miru eppudu start avtaru
+11/12/22, 7:46 AM - Aadarsh: Like parade ground ki entha time padtadi
+11/12/22, 7:46 AM - Dhanush: Mari... Casuals ah
+11/12/22, 7:46 AM - Aadarsh: Haa anthe
+11/12/22, 7:46 AM - Dhanush: Emo ra 9 ki start avali ankuntunam
+11/12/22, 7:46 AM - Dhanush: Time enthano teledu
+11/12/22, 7:47 AM - Aadarsh: Tondara avandi ra
+11/12/22, 7:47 AM - Aadarsh: Late aitadi malli
+11/12/22, 7:47 AM - Dhanush: 9 kante na
+11/12/22, 7:48 AM - Aadarsh: Ha like chudandi maps lo
+11/12/22, 7:48 AM - Aadarsh: Entha sepu aitundo
+11/12/22, 7:55 AM - Dhanush: 16mins
+11/12/22, 7:55 AM - Dhanush: To parade grounds
+11/12/22, 8:08 AM - Aman Rachala: Akkadiki enduku ra
+11/12/22, 8:08 AM - Aman Rachala: Direct raidurgam kaada?
+11/12/22, 8:08 AM - Aadarsh: Haa
+11/12/22, 8:08 AM - Aadarsh: Avsram le
+11/12/22, 8:14 AM - Dhanush: Nuvve adigav ga 😂
+11/12/22, 8:16 AM - Aadarsh: Ante miru ippudu 4 unnar ga
+11/12/22, 8:16 AM - Aadarsh: So lite le
+11/12/22, 8:48 AM - Aadarsh: Miru metro ekke tappudu
+11/12/22, 8:48 AM - Aadarsh: Cheppandi
+11/12/22, 9:08 AM - Dhanush: Gokul meetho ekutadu
+11/12/22, 9:08 AM - Dhanush: Parade grounds
+11/12/22, 9:08 AM - Dhanush: Mem tarnaka
+11/12/22, 9:16 AM - Aman Rachala: live location shared
+11/12/22, 9:16 AM - Aadarsh: Ekkinava
+11/12/22, 9:16 AM - Aman Rachala: Yeah
+11/12/22, 9:21 AM - Aman Rachala: *🔷ACM VNRVJIET🔷*
+
+Hey Everyone! 
+In today's world of technology, coding is the modern language of creativity. We are delighted to inform you that the most awaited *Winter Coding Contest 2.0* is back! This time at a National Level. Any candidate pursuing BTech can participate in the contest.
+
+Kindly go through the following instructions:
+
+*Team size:* 1 - 2
+The contest consists of two rounds:
+*Round 1*: 20th November (Online)
+*Round 2*: 3rd December (On Campus - VNRVJIET)
+*Platform*: Hackerrank 
+_*Free Registration*_
+
+*Note:*
+✯ *Top performers will be rewarded with exciting cash prizes and Certificate of Excellence.*
+✯ *Participation certificate* will be received by *shortlisted candidates* for *round-2*.
+
+*Registration link:* *https://unstop.com/p/winter-coding-contest-20-acm-vnrvjiet-491431*
+
+All the further details will be updated on our Instagram page acm_vnrvjiet
+
+For any queries, contact:
+P.V. Nippun - 8712798597
+K. Nithin - 8688340024
+K. Samhith - 6281273955
+11/13/22, 8:50 PM - Aadarsh: @916303616231
+11/13/22, 8:51 PM - Aadarsh: Repu ostunnava
+11/13/22, 9:09 PM - 22Adarsh: Why
+11/13/22, 9:09 PM - Aadarsh: Children's day ga
+11/13/22, 9:09 PM - Aadarsh: May be some other plans
+11/13/22, 9:09 PM - 22Adarsh: 💀💀
+11/13/22, 9:23 PM - Aman Rachala: <Media omitted>
+11/14/22, 7:32 AM - Aadarsh: https://thecleverprogrammer.com/2021/02/19/text-emotions-detection-with-machine-learning/
+11/14/22, 7:32 AM - Aadarsh: https://towardsdatascience.com/text2emotion-python-package-to-detect-emotions-from-textual-data-b2e7b7ce1153
+11/14/22, 6:35 PM - Aman Rachala: Company Name : Trilogy Innovations
+
+Summer Internship Internship profile: 
+SDE Intern ( Pre final year students, passing out in 2024) : Open positions 50
+Stipend : Rs 1,50,000 + Other benefits
+Location : Remote
+Tentative Start Date : 15th May 2023
+
+
+Role we are hiring for and compensation : Job description attached for your reference and to share with all students.  
+
+Job Description : https://lnkd.in/dse3xnbJ
+
+Eligibility Criteria : All B.tech / M.tech / BSC / MSC / BCA / MCA graduates are allowed to apply for the position.
+
+Note : Students from all streams such as Computer science, Information technology, electronics, electrical etc are all eligible. What will make the student successful in our process is mentioned in the attached Student docket for your reference and to share with all students.
+
+Recruitment Process :
+- 120 minutes technical test on an online platform. (18th Dec 2022, Sunday 12 PM - 2 PM )
+- Shortlisted students from above take a 15 minute CCAT (Cognitive Criteria Aptitude Test) ( Will share mail with shortlists by 22nd Dec 2022)
+- Further shortlisted students go through 1-4 rounds of virtual technical interviews
+- Final step is a 15 minute PCCAT (Proctored Cognitive Criteria Aptitude Test)
+
+Link to apply : https://lnkd.in/dUpDPsKs
+11/14/22, 6:35 PM - Aman Rachala: Arey idhi open ayithunda??
+11/14/22, 6:36 PM - Aadarsh: Ha
+11/14/22, 6:36 PM - Aadarsh: https://lnkd.in/dUpDPsKs
+11/14/22, 6:54 PM - Aman Rachala: Other entra asal?
+11/14/22, 7:48 PM - 22Adarsh: This message was deleted
+11/14/22, 8:19 PM - Aman Rachala: ?
+11/14/22, 8:19 PM - Aadarsh: nuv paina dropdown lo other choose cheskunte
+11/14/22, 8:19 PM - Aadarsh: adi fill chey
+11/14/22, 8:19 PM - Aadarsh: other endo
+11/14/22, 8:20 PM - Aman Rachala: Okay
+11/15/22, 8:08 AM - Dhanush: https://docs.google.com/forms/u/0/d/e/1FAIpQLScCvDb9Eu-qVU1Mt9AiXvoJxO1iJvq9DnE8iqAofPa2eOxkDg/formResponse
+11/15/22, 8:09 AM - Dhanush: Register ayara
+11/15/22, 8:09 AM - Aadarsh: Haa
+11/15/22, 8:09 AM - Dhanush: 👍🏻
+11/15/22, 8:10 AM - Aman Rachala: ✌️
+11/16/22, 9:02 PM - Aadarsh: This message was deleted
+11/16/22, 9:05 PM - Aman Rachala: Inkendi party
+11/16/22, 9:05 PM - Aadarsh: kadu kadu
+11/16/22, 9:05 PM - Aadarsh: inka veyyale adi
+11/16/22, 9:06 PM - Aman Rachala: Oho
+11/16/22, 9:06 PM - Dhanush: Em aindi ra
+11/16/22, 9:07 PM - Aman Rachala: Neeku 20 ochindi ga OS lo party edi?
+11/16/22, 9:07 PM - Dhanush: Adgindi chepaka entra idi
+11/16/22, 9:07 PM - Aadarsh: 🔥🔥
+11/16/22, 9:07 PM - Aman Rachala: Work stress
+11/16/22, 9:08 PM - Dhanush: Ah ?
+11/16/22, 9:08 PM - Aman Rachala: Emle attendance gurinchi edho
+11/16/22, 9:09 PM - 22Adarsh: Ip?
+11/16/22, 9:09 PM - Aadarsh: haa
+11/16/22, 9:09 PM - Aadarsh: ivalti attendance veyyale inka
+11/16/22, 9:09 PM - 22Adarsh: Haa
+11/16/22, 9:22 PM - Aadarsh: <Media omitted>
+11/16/22, 9:22 PM - Aadarsh: <Media omitted>
+11/16/22, 9:23 PM - Aadarsh: Translaation😂😂
+11/16/22, 9:23 PM - Dhanush: Logical error 😂
+11/16/22, 9:36 PM - Aman Rachala: Lol
+11/16/22, 9:37 PM - Aman Rachala: Kani translation pretty good undi
+11/16/22, 9:37 PM - 22Adarsh: Kada
+11/16/22, 9:37 PM - 22Adarsh: Bagundhi
+11/17/22, 7:05 PM - Aadarsh: Dear Placement Team,
+
+Here is an opportunity for our students to put their analytical skills to test!
+
+*LatentView Analytics* is conducting a National-Level Data Analytics Hackathon, *The Number Thing’22*. The top performers would get a chance to work *(Job Opportunity)* with the bright minds at LatentView and also win *prizes worth 1.25L.*
+
+Remember, several million-dollar ideas were born in hackathons. Your idea could be one!
+
+The last date for registration is *November 18th, 2022.*
+
+*Registration Link:* https://bit.ly/latentview-register-now
+
+For More Information Visit: https://bit.ly/The-Number-Thing-22
+11/17/22, 7:05 PM - Aadarsh: Twitter is in the headlines for multiple controversies but did you know Twitter was built in a hackathon? 
+Likewise, Zapier, Carousel, Easy Taxi, and many internal Meta(Previously Facebook) features were some of the innovations that took place in hackathons and created billions of dollars of value. 
+Hence, we believe hackathons are the best place to build future innovators as it provides you with the right exposure and challenging environment to tap into your highest potential. 
+
+We, the *Department of Computer Science and Engineering* of *Vasavi College of Engineering(Autonomous)* bring to you the first-of-its-kind Hybrid Hackathon spanning 24 hours, *"Innovasia 2022"* specially focused on upholding the spirit of innovation. 
+
+The hackathon has 2 rounds. All the participants will have to submit the idea by 21st November 2022 6:00 PM IST. Based on the ideas submitted,  top teams will be selected and will be invited to Vasavi College of Engineering for Round 2.
+
+Please note that the shortlisted teams have to pay the registration fee of *Rs. 400/-* per team by *27th November 2022*
+
+ The second round will commence on 2nd December 2022 at 7:00 AM IST for all the shortlisted teams in online mode followed by an offline mode hackathon on 3rd December 2022 from 7:00 AM IST. Lunch and snacks for all the shortlisted teams will be provided at the Venue on 3rd December 2022. Please note that teams will be evaluated on a rolling basis as we have limited slots.
+
+We came up with problems that we believe require much innovation. The problem statements for INNOVASIA 2022 are:
+
+*Education*: Come up with Smart assessment systems to evaluate students and identify the learning gaps well.
+
+*Health*: Come up with innovative applications to make subsidized healthcare transparent and efficient
+
+*AgriTech*: Come up with innovative solutions to impact the agriculture industry by leveraging any applicable technologies.
+
+We hope this hackathon helps you unleash the innovator in you. This hackathon will also provide you with abundant networking opportunities that would propel your innovation journey forward. Through this effort, we want to celebrate the innovators in you and nurture your visionary ideas to push the humanity forward. 
+
+Registration link: https://bit.ly/innovasia-vce
+
+Visit our website for more information: 
+https://innovasia-vce.devpost.com
+
+For any additional queries, please contact the student coordinators 
+
+*Sharat Chandra - 9059726556*
+
+*Akash Vora - 79812 89964*
+
+*innovasia@vce.ac.in*
+11/17/22, 7:05 PM - Aadarsh: <Media omitted>
+11/17/22, 7:05 PM - Dhanush: Chedam 🔥
+11/17/22, 7:07 PM - 22Adarsh: 👍
+11/17/22, 7:08 PM - Aman Rachala: ✌️
+11/17/22, 7:08 PM - Aadarsh: Edi cheddam
+11/17/22, 7:10 PM - Aman Rachala: Emo mari
+11/17/22, 7:10 PM - Aman Rachala: 1st di date em iyale ga
+11/17/22, 7:10 PM - Aadarsh: Haa
+11/17/22, 7:10 PM - Aadarsh: Last registration 18th
+11/17/22, 7:11 PM - Aman Rachala: Register ayithe chey chudham tharvatha
+11/17/22, 7:12 PM - Aadarsh: Chey ra dhanush
+11/17/22, 7:12 PM - Aadarsh: Maku repu exam undi
+11/17/22, 7:12 PM - Aman Rachala: Yeah
+11/17/22, 11:27 PM - Aman Rachala: This message was deleted
+11/17/22, 11:45 PM - Aadarsh: <Media omitted>
+11/18/22, 9:10 PM - Aadarsh: Fill karo
+11/18/22, 9:10 PM - Aadarsh: Last day today
+11/18/22, 9:12 PM - Aadarsh: Idi 24th lopu oka PPT chesi pampali anta on above topics
+11/18/22, 9:12 PM - Aadarsh: Kani kashtam emo🥲
+11/18/22, 10:04 PM - 22Adarsh: broooo
+11/18/22, 10:04 PM - 22Adarsh: <Media omitted>
+11/18/22, 10:04 PM - Aadarsh: Oh shit
+11/18/22, 10:04 PM - 22Adarsh: 2024 ledu assalu
+11/18/22, 10:04 PM - Aadarsh: Marchipoina
+11/18/22, 10:04 PM - Aadarsh: Ade pettesa
+11/18/22, 10:05 PM - 22Adarsh: 2023 ah?
+11/18/22, 10:05 PM - Aadarsh: Haa
+11/18/22, 10:05 PM - Aadarsh: Sarle lyt mari
+11/18/22, 10:05 PM - 22Adarsh: ahhh🔥
+11/18/22, 10:05 PM - Aadarsh: Nen ignore kodta le
+11/18/22, 10:05 PM - Aadarsh: Mail oste
+11/18/22, 10:05 PM - 22Adarsh: 👍🏻
+11/19/22, 7:05 PM - Aman Rachala: Arey naa verified msg ochinda meeku?
+11/19/22, 7:05 PM - Aadarsh: Nuv reply all ani pettale ga ela ostadi
+11/19/22, 7:06 PM - Aman Rachala: Ippudu?
+11/19/22, 7:06 PM - Aadarsh: Ochindi
+11/19/22, 7:07 PM - 22Adarsh: Enti andarki pettala compulsory ? Avasaram ledhu ga
+11/19/22, 7:07 PM - Aadarsh: Akkada telustadi kada ra evarki pamputunnamo
+11/19/22, 7:08 PM - Aman Rachala: Antha brain ledu vro
+11/20/22, 8:44 PM - Aadarsh: null
+11/20/22, 11:00 PM - Aman Rachala: ✌️
+11/22/22, 6:20 PM - Aadarsh: <Media omitted>
+11/22/22, 6:22 PM - Aman Rachala: Lol
+11/23/22, 7:22 PM - Aadarsh: <Media omitted>
+11/23/22, 7:22 PM - Dhanush: Not yet
+11/23/22, 7:23 PM - Aman Rachala: 3rd kuda
+11/23/22, 7:23 PM - Dhanush: Enti ?
+11/23/22, 7:23 PM - Aman Rachala: Needi ayipoyindi ga
+11/23/22, 7:23 PM - Dhanush: Em aipoindi ra
+11/23/22, 7:24 PM - Aadarsh: Financially independent 🔥🔥
+11/23/22, 7:27 PM - Aman Rachala: <Media omitted>
+11/23/22, 7:27 PM - Aadarsh: 🥵🥵🥵🥵🥵
+11/23/22, 7:27 PM - Aadarsh: congrats Dhanush
+11/23/22, 7:52 PM - Dhanush: <Media omitted>
+11/23/22, 7:52 PM - Dhanush: Meanwhile aadarsh from Microsoft be like
+11/23/22, 7:52 PM - Aadarsh: 😂😂😂
+11/23/22, 7:52 PM - Aadarsh: ni revenge kosam time waste cheskunnav ga
+11/23/22, 7:52 PM - Aadarsh: 🔥🔥🔥
+11/23/22, 7:53 PM - Dhanush: Google lo vethika ra
+11/23/22, 7:53 PM - Dhanush: 5mins anthe
+11/23/22, 8:06 PM - 22Adarsh: 😂😂
+11/24/22, 6:01 PM - Aman Rachala: Arey naa intership letter therskunnara?
+11/24/22, 6:03 PM - Aadarsh: Andariki okate bro
+11/24/22, 6:04 PM - 22Adarsh: Andaru seperate separate ivvala?
+11/24/22, 6:04 PM - 22Adarsh: Xerox theesi
+11/24/22, 6:04 PM - Aadarsh: ..
+11/24/22, 6:04 PM - Aadarsh: Emo teledu
+11/24/22, 6:05 PM - 22Adarsh: Arey seperate ante naku oka extra xerox theesi vunchu
+11/24/22, 6:05 PM - Aadarsh: Monday iddam
+11/24/22, 6:06 PM - Aadarsh: Clg la teedam
+11/24/22, 6:06 PM - Aman Rachala: Ohoo
+11/25/22, 2:29 PM - 22Adarsh: arey class ayithunda assalu
+11/25/22, 2:29 PM - Aadarsh: Nen poledu😂
+11/25/22, 2:30 PM - 22Adarsh: Clg ki poleda class ki poleda
+11/25/22, 2:30 PM - Aadarsh: Clg
+11/25/22, 2:30 PM - 22Adarsh: Friend ante nuvve ra🤧
+11/25/22, 3:08 PM - Dhanush: Nicee
+11/25/22, 3:08 PM - Aadarsh: Nuv basketball court ah
+11/25/22, 3:09 PM - Dhanush: Okay bye
+11/25/22, 3:09 PM - Aadarsh: 😂
+11/25/22, 3:09 PM - 22Adarsh: Nuv kuda poleda?
+11/25/22, 3:09 PM - Dhanush: Basketball court ra
+11/25/22, 3:09 PM - 22Adarsh: Real ga na
+11/25/22, 3:09 PM - Dhanush: Pole ra
+11/25/22, 3:09 PM - Aadarsh: Ledante dini pakkana cabin lo unnava
+11/25/22, 3:10 PM - 22Adarsh: Basket ball ah?
+11/25/22, 3:10 PM - Dhanush: Antha scene led bro
+11/25/22, 3:10 PM - Dhanush: Clg
+11/25/22, 3:10 PM - Aadarsh: Ehe clg ki vellava
+11/25/22, 3:10 PM - Dhanush: No
+11/25/22, 3:10 PM - 22Adarsh: Friend ante nuvve ra🤧
+11/25/22, 3:10 PM - Aadarsh: What a coincidence 😂😂
+11/25/22, 3:54 PM - Aman Rachala: Lol😂
+11/25/22, 4:27 PM - Aadarsh: This message was deleted
+11/25/22, 4:27 PM - Aadarsh: This message was deleted
+11/25/22, 4:27 PM - Aadarsh: This message was deleted
+11/25/22, 4:58 PM - Aman Rachala: ??
+11/25/22, 4:58 PM - Aadarsh: em le evarki eddam vote
+11/25/22, 5:06 PM - Aman Rachala: Ekkada vote cheyali?
+11/25/22, 5:07 PM - Aadarsh: emo
+11/27/22, 8:23 AM - Aman Rachala: Arey Barclays ela rasaru?
+11/28/22, 11:50 PM - Aadarsh: Exam fee last date 30th
+11/29/22, 5:54 PM - Aadarsh: Arey ucc coding contest?
+11/29/22, 5:55 PM - Dhanush: Hackathon?
+11/29/22, 6:40 PM - Aadarsh: Haa
+12/2/22, 7:27 PM - Aadarsh: ST undi
+12/2/22, 7:28 PM - Aadarsh: SE
+12/2/22, 7:28 PM - Aman Rachala: Meet loki allow chesinda?
+12/2/22, 7:28 PM - Aadarsh: ledu
+12/2/22, 7:58 PM - Aman Rachala: Arey same meet ah DCCN ki?
+12/2/22, 7:59 PM - Aadarsh: ha
+12/6/22, 6:34 PM - Aman Rachala: Arey Barclays lo snigda ante mana class pilla na?
+12/6/22, 6:35 PM - 22Adarsh: No ig
+12/6/22, 6:35 PM - Aman Rachala: Uh huh
+12/6/22, 6:35 PM - Aman Rachala: Manodu select kale papam
+12/6/22, 6:36 PM - Aadarsh: ganesh Manisha ayyaru ga
+12/6/22, 6:36 PM - Aman Rachala: Sett ra asalu intership ochesthe
+12/6/22, 6:38 PM - Aadarsh: ya
+12/8/22, 9:39 AM - 22Adarsh: Arey flat madam ae ochinda first period
+12/8/22, 9:40 AM - Dhanush: Yeah
+12/8/22, 9:45 AM - Aman Rachala: Allow chesthundi ra
+12/8/22, 10:10 AM - Aman Rachala: This message was deleted
+12/8/22, 10:13 AM - 22Adarsh: SE ki sir ae ochinda
+12/9/22, 8:26 PM - Aadarsh: arey SE exam
+12/9/22, 8:26 PM - Aadarsh: 8.30 ki
+12/9/22, 8:27 PM - 22Adarsh: haa
+12/10/22, 8:41 PM - Aman Rachala: Arey em course theeskundam infytq lo?
+12/10/22, 8:42 PM - Aadarsh: Course tiskovala?
+12/10/22, 8:43 PM - Aman Rachala: Ante theesko mannaru ga
+12/10/22, 8:43 PM - Aman Rachala: Industry certification osthadi ani
+12/10/22, 8:44 PM - Aadarsh: Yeah ade
+12/10/22, 8:57 PM - Aadarsh: manam kanukovali ra
+12/10/22, 8:58 PM - Aadarsh: eh course tiskunte certificate valid aitado ani
+12/10/22, 8:58 PM - Aman Rachala: Okay
+12/10/22, 8:58 PM - Aman Rachala: Evadini adagali?
+12/10/22, 8:58 PM - Aadarsh: Mana WMP sir eh ig
+12/10/22, 8:59 PM - Aadarsh: Peru enti ainadi?
+12/10/22, 9:00 PM - 22Adarsh: Solomon🔥🔥
+12/10/22, 9:00 PM - Aadarsh: Ha Adarsh ki close eh ga
+12/10/22, 9:00 PM - Aadarsh: Adigeddam
+12/10/22, 9:00 PM - Aman Rachala: Sare
+12/10/22, 9:01 PM - Aman Rachala: Msg ah lekunte direct ah
+12/10/22, 9:01 PM - Aadarsh: Chuddam
+12/10/22, 9:01 PM - Aadarsh: Direct adigithe best emo
+12/10/22, 9:06 PM - Aman Rachala: Haa fax
+12/10/22, 9:07 PM - Aman Rachala: And obviously mana anna Adarsh Java theeseskunnadu🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥💥💥💥💥💥⚡⚡⚡⚡⚡
+12/10/22, 9:08 PM - Aadarsh: 🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵
+12/10/22, 9:09 PM - 22Adarsh: <Media omitted>
+12/10/22, 9:10 PM - 22Adarsh: Edho oka roju nenu java nerchunta ra
+12/10/22, 9:10 PM - Aadarsh: Vadu ah scene lo chesedi acting eh ga so nuv kuda...
+12/10/22, 9:10 PM - 22Adarsh: Nerchukunta*
+12/10/22, 9:11 PM - Aadarsh: Nerpiyu ra maku
+12/10/22, 9:11 PM - Aman Rachala: Idhi kada 3* logiccu
+12/10/22, 9:11 PM - 22Adarsh: This message was deleted
+12/10/22, 9:11 PM - Aman Rachala: Varsha malli msg chesindi emo java cheyamani😂😂
+12/10/22, 9:12 PM - Aadarsh: Oho anduke na idi
+12/10/22, 9:13 PM - Aman Rachala: Haa Varsha kosam nerchukunnade malli nerchukovadaniki siddham antunna Adarsh🤓🔥
+12/11/22, 9:19 AM - Aman Rachala: Arey OS and FLAT qn banks unnaya?
+12/11/22, 9:20 AM - Aadarsh: https://drive.google.com/drive/folders/17NxOESkmM4fLhotNSFPjpuqxRFexNj2q
+12/11/22, 9:20 AM - Aadarsh: indulo emanna unte chudu
+12/11/22, 9:49 AM - Aadarsh: <Media omitted>
+12/11/22, 10:02 AM - Aman Rachala: Evari notes ra asalu
+12/11/22, 10:03 AM - Aadarsh: Emo
+12/11/22, 11:06 AM - Aman Rachala: <Media omitted>
+12/11/22, 11:07 AM - Aman Rachala: Arey ee files unnaya?
+12/11/22, 11:08 AM - Aadarsh: recors nunchi tisi pettina
+12/11/22, 11:08 AM - Aman Rachala: Wah wah
+12/11/22, 11:08 AM - Aman Rachala: Petra ave files
+12/11/22, 11:09 AM - Aadarsh: avi nuv chey edit avsram le
+12/11/22, 11:09 AM - Aadarsh: print nokinappudu select chey ah pages
+12/11/22, 11:09 AM - Aman Rachala: Okay
+12/11/22, 9:46 PM - Aadarsh: Unit 3
+Algorithms
+Page replacement algo
+Paging 
+Segmentation
+Disk scheduling algo
+
+Unit 4 
+Malware Taxanomy
+CIA trade
+OS security (attacks)
+Recovery techniques 
+
+Unit 5 
+Linux OS and their system calls
+Process management of Linux OS and system calls
+Components features
+*Process memory file management of Linux*
+12/12/22, 7:32 PM - Aman Rachala: Arey fill chesara IIIT hyd intership?
+12/12/22, 7:37 PM - Aadarsh: Andulo may June lo clg val permission istara ani undi
+12/12/22, 7:37 PM - Aadarsh: Appudu manaki sem exams untay
+12/12/22, 7:38 PM - Aadarsh: Ani thinking
+12/12/22, 7:38 PM - Aman Rachala: Haa fill eh ga bokka
+12/12/22, 7:38 PM - Aadarsh: Em pettali mari akkada
+12/12/22, 7:39 PM - Dhanush: Not sure
+12/12/22, 7:40 PM - Aadarsh: Nuv m pettav
+12/12/22, 7:40 PM - Dhanush: Ade peta
+12/12/22, 7:40 PM - Aadarsh: Okay
+12/12/22, 7:41 PM - Aman Rachala: Clg code endi ra asalu
+12/12/22, 7:42 PM - Dhanush: Avvi Anni optional kada
+12/12/22, 7:42 PM - Aman Rachala: Ahaa avuna
+12/12/22, 10:07 PM - Aman Rachala: Arey portion endi?
+12/12/22, 10:07 PM - Aman Rachala: And ekkkadi nundi chaduvutharu?
+12/13/22, 9:34 AM - Aadarsh: Se 3 units
+12/13/22, 10:04 AM - Aadarsh: DCCN kuda same
+12/13/22, 10:09 AM - Aman Rachala: WTF
+12/13/22, 10:09 AM - Aman Rachala: DCCN aa ppt lu eh na?
+12/13/22, 10:13 AM - Aadarsh: bokka laga unnay avi
+12/13/22, 10:13 AM - Aadarsh: bokka laga unnay avi
+12/13/22, 10:13 AM - Aadarsh: <Media omitted>
+12/13/22, 10:13 AM - Aadarsh: <Media omitted>
+12/13/22, 10:13 AM - Aadarsh: <Media omitted>
+12/13/22, 10:14 AM - Aadarsh: Unit3.ppt.ppt ani okati undi drive lo dani continuation
+12/13/22, 10:16 AM - Aadarsh: Chala peddaga unnay kada ra😭
+12/13/22, 10:40 AM - Aman Rachala: Haa
+12/13/22, 7:00 PM - Aman Rachala: Arey smart interviews fill chesthunnara?
+12/13/22, 7:01 PM - Dhanush: ya ig
+12/13/22, 7:01 PM - Dhanush: are podduna cheppa ga call vachindi ani
+12/13/22, 7:01 PM - Aman Rachala: Haa
+12/13/22, 7:01 PM - Dhanush: yevado dhanush ani peru chepad anta drugs case related
+12/13/22, 7:01 PM - Aman Rachala: Whaaaat???
+12/13/22, 7:02 PM - Aadarsh: vammoooooo
+12/13/22, 7:02 PM - Aman Rachala: Adhi nuvvu anukunnara
+12/13/22, 7:02 PM - Dhanush: ade ga
+12/13/22, 7:02 PM - Dhanush: wtf
+12/13/22, 7:02 PM - Aadarsh: emaindi mari
+12/13/22, 7:02 PM - Dhanush: ma dad ki telsina valu unte kanukuna
+12/13/22, 7:02 PM - Dhanush: rep poyi kalavali
+12/13/22, 7:02 PM - Aman Rachala: Ohooo
+12/13/22, 7:02 PM - Aadarsh: poinava endi nijanga
+12/13/22, 7:03 PM - Dhanush: sare ra🙂
+12/13/22, 7:03 PM - Aman Rachala: Dhanush ante mast mandi untar ga ninne patuku  ara
+12/13/22, 7:03 PM - Dhanush: yeah
+12/13/22, 7:03 PM - Aman Rachala: *patukunnara
+12/13/22, 7:03 PM - Dhanush: meeru randi ra rep veletapudu
+12/13/22, 7:03 PM - Aman Rachala: Lol haa
+12/13/22, 7:03 PM - Aadarsh: yeah ekkada chusina ni pere
+12/13/22, 7:03 PM - Aadarsh: vastam le
+12/13/22, 7:03 PM - Dhanush: are ipudu trolling vaddu ra pls
+12/13/22, 7:03 PM - Aadarsh: ok ok
+12/13/22, 7:04 PM - Aadarsh: enduku tension ra
+12/13/22, 7:04 PM - Dhanush: podduna nunchi full tension
+12/13/22, 7:04 PM - Dhanush: seriga chadvale kuda
+12/13/22, 7:04 PM - Aman Rachala: Eh bokka be
+12/13/22, 7:04 PM - Aman Rachala: Nuvvu cheyale ga elago
+12/13/22, 7:04 PM - Aadarsh: doping test chey mandam
+12/13/22, 7:04 PM - Dhanush: nenu cheya ani cheppa
+12/13/22, 7:04 PM - Aadarsh: avna nijanga chey mannara?
+12/13/22, 7:05 PM - Dhanush: vadu em antunadu ante akada party time lo unnava ani adgutunadu
+12/13/22, 7:05 PM - Dhanush: nope
+12/13/22, 7:05 PM - Aadarsh: aina valaki proof enti bro nuvve ani
+12/13/22, 7:05 PM - Dhanush: proof em ledu ra
+12/13/22, 7:05 PM - Dhanush: ela vachindo emo
+12/13/22, 7:05 PM - Aman Rachala: Asal evadu cheppado kanuko repu
+12/13/22, 7:05 PM - Aadarsh: eh day adi
+12/13/22, 7:05 PM - Aman Rachala: Or eeroju mee nannatho
+12/13/22, 7:06 PM - Dhanush: lol vadi gu**a palagottali
+12/13/22, 7:06 PM - Dhanush: emo no ide
+12/13/22, 7:06 PM - Aman Rachala: Mee nanna em annadu
+12/13/22, 7:06 PM - Dhanush: em anale some misunderstanding antunaru
+12/13/22, 7:07 PM - Aadarsh: niku inka tension unda
+12/13/22, 7:07 PM - Aadarsh: lyt tisko em kadu
+12/13/22, 7:07 PM - Dhanush: edo koncham undi
+12/13/22, 7:07 PM - Aman Rachala: Haa
+12/13/22, 7:08 PM - Aman Rachala: Repu akkadiki vellaka @916303616231 gadu actual ga drug addict ani thelusthadi
+12/13/22, 7:09 PM - 22Adarsh: Addedde nuv acting apesi story lu rayadam eppud start chesav ra
+12/13/22, 7:09 PM - Aman Rachala: Ahaa hostel ki velli idhe chesthav ga
+12/13/22, 7:09 PM - Aman Rachala: hooka with hackerrank
+12/13/22, 7:09 PM - 22Adarsh: Rendu alavatu levu
+12/13/22, 7:10 PM - Aman Rachala: Acha leetcode kada vere lvl
+12/13/22, 7:10 PM - 22Adarsh: Vasana kuda padadhu
+12/13/22, 7:12 PM - Dhanush: ante vasana chusava mundu😂
+12/13/22, 8:16 PM - 22Adarsh: Reyy SE ekkadi nunchi chaduvuthunnar
+12/13/22, 8:18 PM - Aadarsh: drive
+12/13/22, 8:18 PM - 22Adarsh: Acha adhi okati vundhi kada
+12/14/22, 10:24 PM - Dhanush: Are inthaki em pedtunaru
+12/14/22, 10:24 PM - Aman Rachala: Emoo
+12/14/22, 10:25 PM - Dhanush: Iroju petakapothe edaina avtunda
+12/14/22, 10:28 PM - Aadarsh: emo
+12/14/22, 10:55 PM - Aadarsh: Adarsh em tiskuntunnav
+12/14/22, 10:56 PM - 22Adarsh: Emo ra meeru edhi ante adhe
+12/14/22, 10:57 PM - 22Adarsh: Groups choodatle
+12/14/22, 10:57 PM - Aman Rachala: Codechef ah
+12/14/22, 10:57 PM - Aadarsh: Busy ah
+12/14/22, 10:57 PM - 22Adarsh: Em theesukuntunnaru meeru
+12/14/22, 10:57 PM - Aman Rachala: ML NLP and dk
+12/14/22, 10:58 PM - 22Adarsh: Hoo inka decide kaale OE
+12/14/22, 10:58 PM - Aman Rachala: Nah
+12/14/22, 10:58 PM - Aadarsh: Dk= decide kale👏🏻👏🏻
+12/14/22, 10:59 PM - Aadarsh: Emo ra adi ishtam unnatu cheptunnaru
+12/14/22, 10:59 PM - Aadarsh: Technical
+12/14/22, 10:59 PM - Aadarsh: Or disaster
+12/14/22, 11:04 PM - Dhanush: Are disaster teskundam ra
+12/14/22, 11:04 PM - Dhanush: Chill untadi
+12/14/22, 11:05 PM - Dhanush: Technical ante eh English teachers vastaru
+12/14/22, 11:05 PM - Aadarsh: Haa
+12/14/22, 11:05 PM - Dhanush: Stage meda matlada mantaru
+12/14/22, 11:05 PM - Aman Rachala: Ya
+12/14/22, 11:05 PM - 22Adarsh: Ha
+12/14/22, 11:05 PM - Dhanush: Nak English teachers lenient untaru ani asal anpiyatle
+12/14/22, 11:06 PM - Dhanush: Em chedam mari
+12/14/22, 11:07 PM - Dhanush: Nak disaster or environment teskovali ani undi
+12/14/22, 11:07 PM - Aadarsh: Yayyyayaya baga telusu English teachers gurinchi
+12/14/22, 11:07 PM - Dhanush: Serious ah sarcastic ah
+12/14/22, 11:08 PM - Aadarsh: Edi anukunte ade
+12/14/22, 11:08 PM - Aman Rachala: Arey nee binary answer lu apu
+12/14/22, 11:08 PM - Aman Rachala: Disaster theeskundama?
+12/14/22, 11:09 PM - Aman Rachala: Ganesh adhe kaada?
+12/14/22, 11:09 PM - Aadarsh: Endi ivvala compulsory ah
+12/14/22, 11:09 PM - Dhanush: Emo
+12/14/22, 11:09 PM - Dhanush: Manaki mam chepindi ga pedthe aipotadi
+12/14/22, 11:10 PM - Aman Rachala: ?
+12/14/22, 11:10 PM - 22Adarsh: Arey Devops consider cheyaledha PE2 la
+12/14/22, 11:10 PM - Dhanush: Technical anta
+12/14/22, 11:10 PM - Aadarsh: Nah nope
+12/14/22, 11:10 PM - Aman Rachala: Eh vaadiki em ochindi ra
+12/14/22, 11:11 PM - Aman Rachala: Thelsa vaadiki unit 1 em undo
+12/14/22, 11:11 PM - Dhanush: ??
+12/14/22, 11:11 PM - 22Adarsh: Syllabus sheet choosadu emo
+12/14/22, 11:11 PM - Aman Rachala: Arey bithiri fellow nenu chuse antunna
+12/14/22, 11:12 PM - Aman Rachala: Communication undi unit 1 vaadu enduku theeskuntunnadu
+12/14/22, 11:12 PM - Aadarsh: Diniki nah nope
+12/14/22, 11:12 PM - 22Adarsh: Veedi english thagaleyya
+12/14/22, 11:12 PM - 22Adarsh: Nah nope
+12/14/22, 11:12 PM - 22Adarsh: .
+12/14/22, 11:12 PM - 22Adarsh: .
+12/14/22, 11:12 PM - Aadarsh: Radu bro
+12/14/22, 11:13 PM - Aman Rachala: Edho oopu lo unnadu le
+12/14/22, 11:14 PM - Aadarsh: Ni training eh ra antha
+12/14/22, 11:14 PM - Aman Rachala: Indake codechef rating perigina excitement
+12/14/22, 11:14 PM - 22Adarsh: Inko star ochinda ra
+12/14/22, 11:14 PM - 22Adarsh: @917989285342
+12/14/22, 11:14 PM - Aadarsh: Ha ra peathi week oka star
+12/14/22, 11:14 PM - Aman Rachala: *day
+12/14/22, 11:15 PM - Aadarsh: Sare
+12/14/22, 11:15 PM - Aadarsh: Tanish disaster anta
+12/14/22, 11:15 PM - Aman Rachala: Arey ganesh and puni unnar ga
+12/14/22, 11:15 PM - Aman Rachala: Sett
+12/14/22, 11:15 PM - Aadarsh: Emo puneeth reply iyyale
+12/14/22, 11:15 PM - Aadarsh: Em tiskuntunnav ante
+12/14/22, 11:18 PM - Dhanush: Disaster mari
+12/14/22, 11:18 PM - Dhanush: Punni likith Ganesh also there
+12/14/22, 11:18 PM - Aadarsh: Disaster
+12/14/22, 11:18 PM - Aadarsh: ra
+12/14/22, 11:18 PM - Aadarsh: Haa petesa
+12/14/22, 11:18 PM - Aadarsh: already
+12/14/22, 11:19 PM - Aadarsh: Puneeth
+12/14/22, 11:19 PM - Dhanush: Nice
+12/14/22, 11:19 PM - Dhanush: So disaster it is
+12/14/22, 11:23 PM - Aman Rachala: Endi ra veedu marks padavu antundu
+12/14/22, 11:23 PM - Aman Rachala: Sodhi eh ga
+12/14/22, 11:23 PM - 22Adarsh: 😂😂
+12/14/22, 11:23 PM - 22Adarsh: Ha
+12/14/22, 11:23 PM - Aadarsh: Edaina sodhi eh ga
+12/14/22, 11:23 PM - Dhanush: English inka goram ga
+12/14/22, 11:23 PM - Dhanush: Marks vishayam lo
+12/14/22, 11:23 PM - Aadarsh: Inka technical lo ne ekkuva terms untay
+12/14/22, 11:24 PM - Aman Rachala: Kaadu vadu esedhi sodhi ga antunna
+12/14/22, 11:24 PM - Aman Rachala: Fax
+12/14/22, 11:24 PM - Dhanush: Haa anthe
+12/14/22, 11:24 PM - Dhanush: Satvik gadu atu unad ga
+12/14/22, 11:26 PM - Aadarsh: Rc tappa andar
+12/14/22, 11:26 PM - Aadarsh: Technical evaru endi
+12/14/22, 11:26 PM - Aadarsh: Esaru*
+12/14/22, 11:26 PM - Aman Rachala: Inka ralega
+12/14/22, 11:27 PM - Aman Rachala: Migitha vallu
+12/14/22, 11:27 PM - Aman Rachala: Oh wait
+12/14/22, 11:27 PM - Dhanush: Anna veyale
+12/14/22, 11:27 PM - Aman Rachala: Mahesh technical
+12/14/22, 11:27 PM - Aadarsh: Ha
+12/14/22, 11:27 PM - Aman Rachala: Sid unnadu
+12/14/22, 11:27 PM - Aman Rachala: Anthena
+12/14/22, 11:27 PM - Aman Rachala: Entra valla batch kuda vidipoyindi
+12/14/22, 11:27 PM - Dhanush: Ganesh kuda disaster eh ga
+12/14/22, 11:27 PM - Aadarsh: Aaattt sid anta
+12/14/22, 11:28 PM - Aman Rachala: Modda type chese opika leka
+12/14/22, 11:28 PM - Aadarsh: Adi crct ani nammutava ra
+12/14/22, 11:28 PM - Dhanush: Insider things 😂
+12/14/22, 11:28 PM - Aman Rachala: Emo i mean cheppalem
+12/14/22, 11:28 PM - Aman Rachala: Raghu ki vere panulu untay
+12/14/22, 11:28 PM - Aman Rachala: Saketh same
+12/14/22, 11:28 PM - Dhanush: Haa
+12/14/22, 11:28 PM - Aadarsh: Yeah ade
+12/14/22, 11:28 PM - Dhanush: Ipudu point ki vachav 😂
+12/14/22, 11:32 PM - Aman Rachala: Pettesthunnara?
+12/14/22, 11:33 PM - Aadarsh: Pettedama?
+12/14/22, 11:33 PM - Dhanush: 11:50
+12/14/22, 11:33 PM - Aadarsh: Yayy FTP tho busy unnava
+12/14/22, 11:33 PM - Aman Rachala: Nuvvu padukuntav ane adiga le
+12/14/22, 11:33 PM - Dhanush: Apude padkunta anav em aindi ra
+12/14/22, 11:34 PM - Aman Rachala: Electives pettali ga
+12/14/22, 11:34 PM - Dhanush: Enti bhayya eh ftp torture
+12/14/22, 11:34 PM - Aman Rachala: Sarele
+12/14/22, 11:34 PM - Aman Rachala: Late night drugs party ah
+12/14/22, 11:34 PM - Dhanush: Haa
+12/14/22, 11:35 PM - Dhanush: Vastava nuvvu kuda
+12/14/22, 11:35 PM - Aman Rachala: Address pettu ida
+12/14/22, 11:35 PM - Aman Rachala: Try chestha
+12/14/22, 11:35 PM - Dhanush: Ne girls tho raaku
+12/14/22, 11:36 PM - Dhanush: Ikada only singles
+12/14/22, 11:36 PM - Aman Rachala: Endo
+12/14/22, 11:38 PM - 22Adarsh: Arey link pettandra
+12/14/22, 11:39 PM - 22Adarsh: To choose elective
+12/14/22, 11:41 PM - Aadarsh: VI sem: Elective Options
+
+CSE1- VI SEM Elective options https://learning.cbit.org.in/mod/edwiserform/view.php?id=112505
+12/14/22, 11:41 PM - 22Adarsh: Arigato
+12/14/22, 11:41 PM - Aman Rachala: Tatakae
+12/14/22, 11:42 PM - Dhanush: Ahh 🤯
+12/14/22, 11:43 PM - Aadarsh: Vadu technical eh anta
+12/14/22, 11:43 PM - Aman Rachala: Ahaa
+12/14/22, 11:56 PM - Aman Rachala: <Media omitted>
+12/14/22, 11:56 PM - Aadarsh: Chalo
+12/14/22, 11:56 PM - Aman Rachala: Yo keeping this..?
+12/14/22, 11:56 PM - Aadarsh: I'll also do
+12/14/22, 11:56 PM - Aman Rachala: Haa
+12/14/22, 11:58 PM - Dhanush: Yes
+12/15/22, 12:08 AM - Aadarsh: null
+12/15/22, 12:09 AM - Dhanush: null
+12/15/22, 12:09 AM - Aman Rachala: Inkendi party
+12/15/22, 11:17 AM - Aman Rachala: Arey em chaduvuthunnaru ra
+12/15/22, 11:17 AM - Aman Rachala: For OE and PE
+12/15/22, 11:18 AM - Aadarsh: PE
+12/15/22, 11:18 AM - Aadarsh: maam grp lo pettina ppt eh
+12/15/22, 11:19 AM - Aadarsh: ah zip file kadu
+12/15/22, 11:20 AM - Aman Rachala: Mari
+12/15/22, 11:20 AM - Aadarsh: verevi
+12/15/22, 11:20 AM - Aadarsh: regular ga pettindi ga
+12/15/22, 11:20 AM - Aadarsh: avve
+12/15/22, 11:22 AM - Aman Rachala: OE?
+12/15/22, 11:22 AM - Aadarsh: adi
+12/15/22, 11:22 AM - Aadarsh: Chetan pettadu ga
+12/15/22, 11:22 AM - Aadarsh: mana batch lo avve iga
+12/15/22, 11:23 AM - Aman Rachala: Assignment?
+12/15/22, 11:24 AM - Aadarsh: Chudali ra inka start cheyle
+12/15/22, 11:24 AM - Aman Rachala: I mean ave osthay annadu ga vadu
+12/15/22, 11:24 AM - Aadarsh: Haa ade
+12/17/22, 7:24 PM - Aman Rachala: Arey manaki next exam eppudu?
+12/17/22, 7:24 PM - Aman Rachala: 21 eh na
+12/17/22, 7:30 PM - Aadarsh: <Media omitted>
+12/17/22, 7:31 PM - Dhanush: 20,21,22
+12/17/22, 7:31 PM - Aadarsh: andaram same batch
+12/17/22, 7:31 PM - Aadarsh: manam
+12/19/22, 10:53 PM - 22Adarsh: Folks oz obzervation book rasthunnara?
+12/19/22, 10:53 PM - Aadarsh: last 1 or 2 programs rasta
+12/19/22, 10:53 PM - Aadarsh: socket programming
+12/19/22, 10:53 PM - Aadarsh: Chetan bayya raddam annadu
+12/19/22, 10:53 PM - 22Adarsh: <Media omitted>
+12/19/22, 10:54 PM - 22Adarsh: Antha kante mundu em vundhi
+12/19/22, 10:54 PM - Aadarsh: chala unnay anukunta
+12/19/22, 10:54 PM - 22Adarsh: I mean
+12/19/22, 10:54 PM - Aadarsh: paging segmentation file allocation
+12/19/22, 10:54 PM - 22Adarsh: Ni book lo
+12/19/22, 10:54 PM - 22Adarsh: Bankers ah?
+12/19/22, 10:54 PM - Aadarsh: bankers
+12/19/22, 10:59 PM - Aadarsh: https://www.digitalocean.com/community/tutorials/python-socket-programming-server-client
+12/20/22, 4:51 PM - Aman Rachala: Arey Aadarsh emaina unte Petra ikkada
+12/20/22, 4:51 PM - Aadarsh: Sare
+12/20/22, 7:12 PM - 22Adarsh: Arey ah naac mail ekkada ochindhi ra
+12/20/22, 8:04 PM - Dhanush: Ochinda  ?
+12/20/22, 8:04 PM - 22Adarsh: Raale
+12/20/22, 8:09 PM - Dhanush: Are dccn observation books completed ah meedi
+12/20/22, 9:33 PM - Aman Rachala: Endi ra internals ala esadu louda gadu
+12/20/22, 9:33 PM - Aadarsh: ade kada
+12/20/22, 9:34 PM - Aman Rachala: 43 ra naku
+12/20/22, 9:34 PM - Aadarsh: goram
+12/20/22, 9:34 PM - Aman Rachala: S chance kuda ledu
+12/20/22, 9:34 PM - Aman Rachala: Chal
+12/20/22, 9:34 PM - Aman Rachala: Chutiye gadu
+12/20/22, 9:34 PM - Aadarsh: 45 aina pedda undadu ga ra
+12/20/22, 9:34 PM - Aadarsh: viva ke 2 marks potay
+12/20/22, 9:34 PM - 22Adarsh: <Media omitted>
+12/20/22, 9:34 PM - Aman Rachala: Neeku cheppalem ra to be Frank
+12/20/22, 9:35 PM - Aadarsh: alane anukuntav
+12/20/22, 9:35 PM - Aadarsh: mari internals dobbay ga
+12/20/22, 9:40 PM - Dhanush: .
+12/20/22, 9:40 PM - Aadarsh: edo edo rasa
+12/20/22, 9:40 PM - Aadarsh: kani crcted
+12/20/22, 9:41 PM - Dhanush: 🫠
+12/21/22, 4:34 PM - Aman Rachala: <Media omitted>
+12/21/22, 4:34 PM - Aman Rachala: Arey em rayali specialization?
+12/21/22, 4:38 PM - Aadarsh: Naku raledu
+12/21/22, 4:38 PM - Aman Rachala: 🔥
+12/21/22, 4:39 PM - Aman Rachala: Naac mail hack chesi pettesko
+12/21/22, 4:39 PM - Aadarsh: Alane chesava nuvvu
+12/21/22, 4:40 PM - Dhanush: Authentication vadi vade admin ayadu
+12/21/22, 4:40 PM - 22Adarsh: Arey naku kuda raale
+12/21/22, 4:41 PM - 22Adarsh: Ekjada ochindhi meeku
+12/21/22, 4:41 PM - Dhanush: n*
+12/21/22, 4:43 PM - Aman Rachala: Mail
+12/21/22, 4:43 PM - Aman Rachala: Eh
+12/21/22, 4:44 PM - Aman Rachala: Search chesthe unde
+12/21/22, 7:09 PM - Dhanush: https://www.facebook.com/surya.putchala?mibextid=ZbWKwL
+12/24/22, 3:31 PM - Aman Rachala: Filling neoly?
+12/24/22, 3:35 PM - Dhanush: Manam neoly cheyakapothe waste kada
+12/24/22, 3:36 PM - Dhanush: Placement head serious ayad ga aroju
+12/24/22, 3:36 PM - Aman Rachala: Ah?
+12/24/22, 3:36 PM - Aman Rachala: Smart interviews theeskotle mari
+12/24/22, 3:36 PM - Dhanush: Like we should take up only if we intend on completing it
+12/24/22, 3:37 PM - Dhanush: Smart interview eh teskuntunedi
+12/24/22, 3:37 PM - Dhanush: Malli neoly enduku
+12/24/22, 3:37 PM - Aman Rachala: Lowda le intiki ochi kodthada endi
+12/24/22, 3:37 PM - Dhanush: Placement time ki problem pedtad emo ani
+12/24/22, 3:38 PM - Aman Rachala: Mari cheppandi anduke
+12/24/22, 3:39 PM - 22Adarsh: Ippud neoly free eh ga
+12/24/22, 3:39 PM - Dhanush: College valu manaki kadtharu
+12/24/22, 3:39 PM - 22Adarsh: Smart interview and neoly rendu theesukunte emaithadhi
+12/24/22, 3:39 PM - 22Adarsh: Clg vallaki ela thelusthadhi first
+12/24/22, 3:41 PM - 22Adarsh: Ala ante kondaru smart interviews 4th ,5th sem lo ne theesukunnaru ga
+12/24/22, 3:41 PM - 22Adarsh: Vallu ippuf neoly cheyodha?
+12/24/22, 3:41 PM - Aman Rachala: Brooooo
+12/24/22, 3:41 PM - Aman Rachala: Adhi kadura problem
+12/24/22, 3:41 PM - 22Adarsh: Mari
+12/24/22, 3:41 PM - Aman Rachala: Rendu cheyalev
+12/24/22, 3:41 PM - Dhanush: Neoly complete cheyalem ga
+12/24/22, 3:41 PM - 22Adarsh: Managing timw ah?
+12/24/22, 3:41 PM - Dhanush: Yeah
+12/24/22, 3:41 PM - 22Adarsh: Time
+12/26/22, 12:00 PM - Dhanush: Are sem exam tt petandi
+12/26/22, 4:00 PM - Aman Rachala: <Media omitted>

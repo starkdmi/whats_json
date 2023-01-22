@@ -1,0 +1,217 @@
+3/28/22, 10:23 AM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+3/28/22, 10:23 AM - You created group "Kelompok 20 Mini Project"
+3/28/22, 10:23 AM - You removed Yusril Pussy Slayer
+3/28/22, 10:24 AM - You changed the subject from "Kelompok 20 Mini Project" to "Group 20 Mini Project"
+3/28/22, 10:25 AM - +62 852-8004-4507 joined using this group's invite link
+3/28/22, 10:26 AM - +62 813-2405-0584 joined using this group's invite link
+3/28/22, 10:27 AM - +62 819-9230-5715 joined using this group's invite link
+3/28/22, 10:30 AM - You changed the group description
+3/28/22, 10:30 AM - +62 822-8767-7302 joined using this group's invite link
+3/28/22, 10:34 AM - +62 852-8004-4507: Halo
+3/28/22, 10:34 AM - +62 852-8004-4507: Udh lengkap ya
+3/28/22, 10:34 AM - +62 813-2405-0584: Iyaa udah
+3/28/22, 10:35 AM - +62 852-8004-4507: <Media omitted>
+3/28/22, 10:35 AM - +62 852-8004-4507: <Media omitted>
+3/28/22, 10:35 AM - Zulvan Tariq H: deadlinenya kapan ya?
+3/28/22, 10:36 AM - +62 852-8004-4507: Kurang tau. Kata tmn klsku hari ini
+3/28/22, 10:36 AM - +62 813-2405-0584: hari ini jam 12
+3/28/22, 10:36 AM - +62 822-8767-7302: Katanya hari ini jam 12
+3/28/22, 10:36 AM - +62 852-8004-4507: Whattt
+3/28/22, 10:36 AM - Zulvan Tariq H: waduh
+3/28/22, 10:36 AM - +62 813-2405-0584: seadanya aja katanyaa sebisanya
+3/28/22, 10:37 AM - +62 852-8004-4507: Bikin collab dulu
+3/28/22, 10:38 AM - +62 813-2405-0584: okee, siapa yang mau bikin?
+3/28/22, 10:39 AM - Zulvan Tariq H: https://colab.research.google.com/drive/1eP9SNIFPthy7dUFB7PfDr0SGJ7HVof5F?usp=sharing
+3/28/22, 10:39 AM - +62 813-2405-0584: sipp
+3/28/22, 10:40 AM - +62 852-8004-4507: Ini btw kita gk ad kenalan2 udh nugas aja ekekwk
+3/28/22, 10:40 AM - +62 813-2405-0584: ehiya haha
+3/28/22, 10:40 AM - +62 813-2405-0584: kenalin yaa aku Aurelia Zafira Putri dari kelas AlphaGo
+3/28/22, 10:41 AM - +62 852-8004-4507: Aku Ari Fitria (cewek) 
+Dri kelas khasanah ilmi
+3/28/22, 10:42 AM - Zulvan Tariq H: saya zulvan tariq dari kelas alphago.. salam kenal semuanya
+3/28/22, 10:43 AM - +62 819-9230-5715: Akbar Mujaddid (cwk) 
+Dri kelas Alfatih
+3/28/22, 10:44 AM - +62 822-8767-7302: Saya nadini mardiah yasen dari kelas alphago
+3/28/22, 10:46 AM - +62 813-2405-0584: banyak yaa dari alpha go wkwk
+3/28/22, 10:48 AM - Zulvan Tariq H: ini kita gak usah bikin repo di github kan?
+3/28/22, 10:49 AM - +62 813-2405-0584: gak usah sih harusnya cuma disuruh bikin aja
+3/28/22, 10:49 AM - +62 813-2405-0584: ini ada yang lagi ngerjain buat masukin featurenya?
+3/28/22, 10:50 AM - +62 813-2405-0584: mau aku masukin tapi takut double gitu, kalo ada aku coba yang selanjutnya
+3/28/22, 10:58 AM - +62 852-8004-4507: cek collab nya dong aku udh ngerjain yg no 1
+3/28/22, 10:58 AM - +62 852-8004-4507: yg PCA
+3/28/22, 10:58 AM - +62 813-2405-0584: sip udah
+3/28/22, 11:11 AM - +62 852-8004-4507: Tinggal plot PCA sama yg LDA
+3/28/22, 11:12 AM - +62 852-8004-4507: Ada yg ngerjain kah?
+3/28/22, 11:12 AM - +62 813-2405-0584: aku tadi mau ngerjain tapi nunggu beres dulu takut kecampur tadi soalnya ga kesave gitu
+3/28/22, 11:12 AM - +62 813-2405-0584: yang udah latiahn 1 aja kan ya?
+3/28/22, 11:13 AM - +62 852-8004-4507: Iya
+3/28/22, 11:13 AM - +62 852-8004-4507: Tpi plot yg dimaksud kek gtu apa bukan kurang paham
+3/28/22, 11:15 AM - +62 813-2405-0584: kalo yang contoh diatasnya sih plot titik, tapi kayanya bebas deh
+3/28/22, 11:17 AM - +62 852-8004-4507: Ok udh ya no 1
+3/28/22, 11:17 AM - +62 852-8004-4507: Cek cek dulu aja klo ada yg gk pas monggo langsung diedit
+3/28/22, 11:18 AM - +62 813-2405-0584: okey
+3/28/22, 11:18 AM - +62 813-2405-0584: yang latihan 2 itu data setnya sama ga sih sama yang dulu iris datasetnya/
+3/28/22, 11:18 AM - +62 813-2405-0584: soalnya aku klik link itu gaada filenya
+3/28/22, 11:18 AM - +62 852-8004-4507: Iya
+3/28/22, 11:18 AM - +62 813-2405-0584: okeyy
+3/28/22, 11:23 AM - +62 822-8767-7302: Yg ngerjain no 2 siapa?
+3/28/22, 11:23 AM - Zulvan Tariq H: https://drive.google.com/drive/folders/1HZZc2-xx_9FNFsYiOnB95TnFWcyGJYRo?usp=sharing
+3/28/22, 11:23 AM - +62 813-2405-0584: aku lagi cobain
+3/28/22, 11:24 AM - +62 822-8767-7302: Okey
+3/28/22, 11:40 AM - +62 813-2405-0584: latihan 2 udah, coba cek dulu takut ada yang kurang atau salah
+3/28/22, 11:42 AM - +62 852-8004-4507: No 1. plt.plot(pca_df) nya kehapus deh kaya nya yg harusnya ada di bawah plt.plot(y)
+3/28/22, 11:44 AM - +62 813-2405-0584: wait aku tambahin
+3/28/22, 11:45 AM - +62 813-2405-0584: udah, coba cek
+3/28/22, 11:45 AM - +62 852-8004-4507: Oke
+3/28/22, 11:46 AM - +62 852-8004-4507: Kumpul2 wkwkk
+3/28/22, 11:46 AM - +62 813-2405-0584: siapa yang mau kumpulin??
+3/28/22, 11:52 AM - Zulvan Tariq H: udah dikumpulin?
+3/28/22, 11:57 AM - +62 813-2405-0584: Belum
+3/28/22, 11:57 AM - +62 813-2405-0584: Ada yang mau kumpulin ga
+3/28/22, 11:57 AM - +62 822-8767-7302: Export chat wa grup maksdny apa?
+3/28/22, 11:58 AM - +62 813-2405-0584: <Media omitted>
+3/28/22, 11:58 AM - +62 813-2405-0584: Ntar filenya didownload
+3/28/22, 11:58 AM - +62 813-2405-0584: Kayanya sih
+3/28/22, 11:58 AM - +62 852-8004-4507: <Media omitted>
+3/28/22, 11:59 AM - +62 852-8004-4507: Ini extract chat
+3/28/22, 11:59 AM - +62 822-8767-7302: Okey, jd siapa yg mau ngumpulin?
+3/28/22, 11:59 AM - +62 852-8004-4507: Aku gk bisa ngumpulin
+3/28/22, 12:00 PM - +62 852-8004-4507: Eh bisa deh
+3/28/22, 12:00 PM - +62 822-8767-7302: Aku bisa
+3/28/22, 12:00 PM - +62 852-8004-4507: Tpi mintol kirim lgi ke grup
+3/28/22, 12:00 PM - +62 852-8004-4507: Sip sip gas
+3/28/22, 12:00 PM - +62 822-8767-7302: Okey
+3/28/22, 12:00 PM - +62 852-8004-4507: <Media omitted>
+3/28/22, 12:00 PM - You changed the group description
+3/28/22, 12:01 PM - +62 822-8767-7302: Klo dlm btk ipynb gimana?
+3/28/22, 12:01 PM - +62 852-8004-4507: Eh iya kok gtu ya aku td downlpad nya ipynb
+3/28/22, 12:02 PM - +62 852-8004-4507: <Media omitted>
+3/28/22, 12:03 PM - +62 822-8767-7302: Udah gaes
+3/28/22, 12:05 PM - +62 813-2405-0584: Okeyy makasi yaa semuanya👍🏻
+3/28/22, 12:05 PM - +62 852-8004-4507: Ok mkihh all
+3/28/22, 12:06 PM - +62 822-8767-7302: Makasi juga
+3/30/22, 11:18 AM - +62 813-2405-0584: siang temen-temen
+3/30/22, 11:18 AM - +62 852-8004-4507: Halo.
+3/30/22, 11:18 AM - +62 852-8004-4507: Ini tgasnya kelompok?
+3/30/22, 11:18 AM - +62 813-2405-0584: iyaa kelompok
+3/30/22, 11:29 AM - +62 852-8004-4507: Link laporan FGD:
+https://forms.gle/yRsqcmedBUEgQYQW6
+3/30/22, 11:30 AM - +62 813-2405-0584: Ada yang udah beres?
+3/30/22, 11:31 AM - +62 813-2405-0584: Aku masih gak jalan dibagian akhirnya
+3/30/22, 11:31 AM - +62 822-8767-7302: Blum
+3/30/22, 11:31 AM - +62 852-8004-4507: Blom juga
+3/30/22, 11:39 AM - +62 852-8004-4507: Kalian udh sampe mana?
+3/30/22, 11:41 AM - +62 822-8767-7302: Baru awalan
+3/30/22, 11:42 AM - +62 852-8004-4507: Mau share collab gk? Atau sendiri2 dlu aja?
+3/30/22, 11:42 AM - +62 813-2405-0584: Aku sampe transaction encoder tapi ga jalan, crush terus
+3/30/22, 11:42 AM - +62 813-2405-0584: Bebas
+3/30/22, 11:43 AM - +62 813-2405-0584: *crash maksudnya:)
+3/30/22, 11:50 AM - +62 822-8767-7302: Coba di share
+3/30/22, 11:52 AM - +62 813-2405-0584: https://colab.research.google.com/drive/1JhXQvuyHOarCETsNDD5_7K-wbYGYpN6A?usp=sharing
+3/30/22, 11:53 AM - +62 813-2405-0584: cek aja dulu siapa tau ada yang salah juga
+3/30/22, 11:53 AM - +62 852-8004-4507: Okee
+3/30/22, 11:53 AM - +62 852-8004-4507: otw
+3/30/22, 11:58 AM - +62 852-8004-4507: File "<ipython-input-6-019a76603c1f>", line 1
+    df = pd.read_csv('/content/association_order.csv)
+                                                     ^
+SyntaxError: EOL while scanning string literal
+3/30/22, 11:58 AM - +62 852-8004-4507: kok gini ya
+3/30/22, 11:58 AM - +62 852-8004-4507: eh udh ding
+3/30/22, 12:07 PM - +62 852-8004-4507: Sama craxh juga
+RAM nya kurang
+3/30/22, 12:07 PM - +62 813-2405-0584: apa kumpul aja ya?:(
+3/30/22, 12:09 PM - +62 852-8004-4507: bntar2
+3/30/22, 12:11 PM - +62 852-8004-4507: @6281317433650 @6281992305715 @6282287677302 barangkali ada yg bisa dan gk crash?
+3/30/22, 12:12 PM - +62 819-9230-5715: Crash terus saya
+3/30/22, 12:13 PM - +62 822-8767-7302: Sama jg
+3/30/22, 12:14 PM - +62 852-8004-4507: Kalo gtu kumpul aja apaadanya kali ya
+3/30/22, 12:14 PM - +62 852-8004-4507: udh aku ksi #crash pada bagian ini -> harus pakai ColabPro untuk akses high-RAM runtime
+3/30/22, 12:14 PM - +62 822-8767-7302: Iya
+3/30/22, 12:16 PM - +62 852-8004-4507: <Media omitted>
+3/30/22, 12:17 PM - +62 813-2405-0584: Okee siapa yang kumpulin
+3/30/22, 12:17 PM - +62 852-8004-4507: Di aku gk bisa masukin ekspor chatnya
+3/30/22, 12:17 PM - +62 852-8004-4507: <Media omitted>
+3/30/22, 12:19 PM - +62 813-2405-0584: tar ku coba
+3/30/22, 12:20 PM - +62 813-2405-0584: ini ekspor chatnya yaa/
+3/30/22, 12:21 PM - +62 813-2405-0584: ?
+3/30/22, 12:24 PM - +62 813-2405-0584: udah aku kirim ya
+3/30/22, 12:24 PM - +62 852-8004-4507: Iya
+3/30/22, 12:24 PM - +62 852-8004-4507: Okee mksih rel
+3/30/22, 12:25 PM - +62 813-2405-0584: okey sama-sama
+3/30/22, 12:26 PM - +62 822-8767-7302: Makasihh ya
+3/30/22, 12:35 PM - +62 813-2405-0584: Okeyy sama-sama
+3/30/22, 12:51 PM - Zulvan Tariq H: Saya tadi bisa
+3/30/22, 12:51 PM - Zulvan Tariq H: Coba di jupyter
+3/30/22, 12:57 PM - +62 813-2405-0584: oalaa
+3/30/22, 12:57 PM - +62 813-2405-0584: oke deh semoga di coachnya bisa wkwk
+4/4/22, 10:21 AM - Zulvan Tariq H: https://colab.research.google.com/drive/1chZkzXVxV5u2uj74TpCTQprZMAF4y48d?usp=sharing
+4/4/22, 10:21 AM - Zulvan Tariq H: https://www.kaggle.com/datasets/robervalt/sunspots
+4/4/22, 10:21 AM - Zulvan Tariq H: https://docs.google.com/forms/d/e/1FAIpQLSda9toM9K6ttERG0Gu3xrvn51WjL3nd1easWCEXiV4OmU_qhA/viewform
+4/4/22, 11:35 AM - +62 813-2405-0584: ada yang udah coba bikin?
+4/4/22, 11:39 AM - +62 822-8767-7302: Udh, tp kendala di uji dickey fuller
+4/4/22, 11:39 AM - +62 813-2405-0584: ohiya sama berarti
+4/4/22, 11:39 AM - +62 813-2405-0584: yang "MissingDataError: exog contains inf or nans" ya?
+4/4/22, 11:40 AM - +62 822-8767-7302: Iya
+4/4/22, 3:04 PM - +62 813-2405-0584: ada yang udah beres?
+4/4/22, 3:05 PM - +62 813-2405-0584: aku masih load bagian acf belum beres
+4/4/22, 3:06 PM - +62 813-2405-0584: model arima maksudnya
+4/4/22, 3:08 PM - +62 813-2405-0584: gimana? mau kumpul seadanya aja?
+4/4/22, 3:14 PM - +62 813-2405-0584: dah aku kumpul ya
+4/4/22, 3:32 PM - +62 822-8767-7302: Smpe tadi aja baru
+4/4/22, 3:32 PM - +62 822-8767-7302: Okey
+4/4/22, 3:32 PM - +62 852-8004-4507: Blum
+4/4/22, 3:33 PM - +62 852-8004-4507: Oke2 mksih rell
+4/11/22, 9:58 AM - Zulvan Tariq H: https://colab.research.google.com/drive/1mxAguxIUAO2xdoKqOYYBPdk8MavNbclF?usp=sharing
+4/11/22, 10:14 AM - +62 813-2405-0584: itu udah beres coba?
+4/11/22, 10:15 AM - +62 813-2405-0584: aku udah beres tapi gatau bener apa engga
+4/11/22, 10:19 AM - Zulvan Tariq H: yg model forecasting tinggal di run aja?
+4/11/22, 10:19 AM - Zulvan Tariq H: pake dataset yg udah diganti
+4/11/22, 10:19 AM - +62 813-2405-0584: Aku cuma gantj dataset doang sih si angka2 nya ga diganti
+4/11/22, 10:19 AM - +62 813-2405-0584: Gatau juga harusnya gimana wkwk
+4/11/22, 11:12 AM - Zulvan Tariq H: tugasnya udah dikirim ya
+4/11/22, 11:12 AM - +62 813-2405-0584: Okeyy
+4/11/22, 11:12 AM - +62 813-2405-0584: Makasi yaa
+4/11/22, 11:13 AM - +62 822-8767-7302: Oke
+4/18/22, 9:32 AM - +62 852-8004-4507: https://colab.research.google.com/drive/1qPcRam_IONETFC76zM43n92P9H1LllQw?usp=sharing
+4/18/22, 9:36 AM - +62 813-2405-0584: ini tuh tugasnya ganti dataset aja ya?
+4/18/22, 9:39 AM - +62 822-8767-7302: Dataset yg mana?
+4/18/22, 9:39 AM - +62 852-8004-4507: Dataset iris
+4/18/22, 9:41 AM - +62 822-8767-7302: Oke
+4/18/22, 9:46 AM - +62 813-2405-0584: ada yang udah ngerjain?
+4/18/22, 9:47 AM - +62 813-2405-0584: aku udah siapa tau beda gitu hasilnya
+4/18/22, 9:47 AM - Zulvan Tariq H: aku baru mulai
+4/18/22, 9:47 AM - +62 813-2405-0584: okeyy
+4/18/22, 9:47 AM - +62 813-2405-0584: https://colab.research.google.com/drive/1JUSS7twLqJ6zEynf0F5_ZUFG4DAPpQ_n?usp=sharing
+4/18/22, 9:47 AM - +62 813-2405-0584: aku kaya gitu
+4/18/22, 9:49 AM - +62 852-8004-4507: Baru mulai
+4/18/22, 10:10 AM - Zulvan Tariq H: ini visualisasi datanya harus ditambahin lagi kan?
+4/18/22, 10:10 AM - +62 852-8004-4507: This message was deleted
+4/18/22, 10:10 AM - +62 852-8004-4507: w gini, pkek k = 3
+4/18/22, 10:21 AM - +62 852-8004-4507: https://colab.research.google.com/drive/1quBWu1TS-pPccmee8LmQAKbdLkbrRFyM?usp=sharing
+4/18/22, 10:22 AM - Zulvan Tariq H: https://colab.research.google.com/drive/1pFkB9uBG8oyfkCqO2_t5CdYp9X0yTAgO?usp=sharing
+4/18/22, 10:22 AM - Zulvan Tariq H: udah beres kan ya? tinggal dikumpulin
+4/18/22, 10:23 AM - +62 852-8004-4507: Mau pkek yg mna/
+4/18/22, 10:23 AM - +62 852-8004-4507: itu kan nilai k yg bagus 3, knpa msih pkek 5
+yg bgian ini:
+
+kmeansmodel = KMeans(n_clusters= 5, init='k-means++', random_state=0)
+y_kmeans= kmeansmodel.fit_predict(X)
+4/18/22, 10:24 AM - Zulvan Tariq H: okay revisi
+4/18/22, 10:24 AM - +62 852-8004-4507: w gini
+4/18/22, 10:25 AM - +62 852-8004-4507: visualisasi bagian bawahnya langsung aja pkek:
+
+plt.title('Clusters of iris')
+plt.xlabel('sepal_length')
+plt.ylabel('petal_length')
+plt.legend()
+plt.show()
+4/18/22, 10:25 AM - +62 852-8004-4507: plt.scatter(X[y_kmeans == 0, 0], X[y_kmeans == 0, 1], s = 100, c = 'red', label = 'Iris-sentosa')
+plt.scatter(X[y_kmeans == 1, 0], X[y_kmeans == 1, 1], s = 100, c = 'blue', label = 'Iris-versicolor')
+plt.scatter(X[y_kmeans == 2, 0], X[y_kmeans == 2, 1], s = 100, c = 'green', label = 'Iris-virginica')
+#plt.scatter(X[y_kmeans == 3, 0], X[y_kmeans == 3, 1], s = 100, c = 'cyan', label = 'Cluster 4')
+#plt.scatter(X[y_kmeans == 4, 0], X[y_kmeans == 4, 1], s = 100, c = 'magenta', label = 'Cluster 5')
+plt.title('Clusters of iris')
+plt.xlabel('sepal_length')
+plt.ylabel('petal_length')
+plt.legend()
+plt.show()

@@ -1,0 +1,60 @@
+4/15/21, 14:54 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+4/15/21, 14:54 - alif: s
+4/15/21, 14:55 - alif: $beforeRooms = collect($beforeRoomRawCheck)->groupBy('id_change_room')->map(function ($group) {
+                return ['type_cost' => $group->pluck('type_cost')->join(', ')] + $group->first();
+            })->values();
+4/16/21, 15:11 - Me: 芒种 音阙诗听
+4/17/21, 20:52 - Me: <Media omitted>
+4/17/21, 20:52 - Me: <Media omitted>
+4/17/21, 20:52 - Me: <Media omitted>
+4/26/21, 08:16 - Me: <Media omitted>
+4/27/21, 15:48 - Me: p
+4/27/21, 21:24 - alif: p
+4/27/21, 23:28 - Me: <Media omitted>
+4/27/21, 23:32 - Me: <Media omitted>
+4/28/21, 22:53 - Me: <Media omitted>
+4/28/21, 23:03 - Me: <Media omitted>
+4/29/21, 08:10 - Me: <Media omitted>
+4/30/21, 13:23 - Me: <Media omitted>
+5/2/21, 15:15 - Me: <Media omitted>
+5/4/21, 10:41 - Me: <Media omitted>
+5/6/21, 17:13 - Me: https://fastwork.id/user/alifsm01
+5/9/21, 15:11 - Me: 😆
+5/9/21, 15:11 - Me: 🤤
+5/9/21, 15:11 - Me: 🔥
+5/9/21, 15:11 - Me: 🤭
+5/9/21, 15:11 - Me: 🥲
+5/9/21, 15:12 - alif: 🥺
+5/9/21, 15:12 - alif: 😅
+5/9/21, 15:12 - alif: 🥲
+5/9/21, 15:12 - alif: 🙃
+5/9/21, 15:12 - alif: 🙂
+5/9/21, 15:12 - Me: <Media omitted>
+5/9/21, 15:14 - Me: Ade D.vcf (file attached)
+5/9/21, 15:15 - Me: <Media omitted>
+5/9/21, 20:42 - Me: <Media omitted>
+5/17/21, 08:50 - Me: This message was deleted
+5/17/21, 08:51 - Me: 35
+5/17/21, 09:02 - Me: 22
+5/30/21, 21:05 - Me: p
+6/5/21, 18:37 - alif: p
+6/5/21, 18:37 - alif: woi
+6/5/21, 18:37 - Me: apa woi
+6/15/21, 08:44 - Me: https://zoom.us/j/91779240591?pwd=KzU4QW5PV2pYT25vajR0V2F6T1czdz09
+6/15/21, 09:04 - Me: PT. Indojaya Sukses Makmur is inviting you to a scheduled Zoom meeting.
+
+Topic: Koordinasi meeting Renov. Toilet Kantor Pos Bandung
+Time: Jun 15, 2021 10:00 AM Jakarta
+
+Join Zoom Meeting
+https://zoom.us/j/91002999533?pwd=NThUSUowdmxzZjg3OXJhL2MvT1FQZz09
+
+Meeting ID: 910 0299 9533
+Passcode: 582051
+6/22/21, 09:16 - Me: <Media omitted>
+6/22/21, 09:16 - Me: <Media omitted>
+6/30/21, 14:05 - Me: <Media omitted>
+7/1/21, 15:09 - Me: https://stackoverflow.com/questions/68203155/hasmanythrough-through-several-related-tables
+7/3/21, 19:32 - Me: <Media omitted>
+7/5/21, 01:11 - Me: Ade D.vcf (file attached)
+7/5/21, 01:11 - Me: <Media omitted>

@@ -1,0 +1,1835 @@
+6/27/18, 10:32 AM - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+6/27/18, 10:32 AM - Jenit Jain: Hey bro. I was planning to start learning either frontend or backend. I know you know a few things in those things so can you tell me what all you know and advice me on what to start with
+6/27/18, 10:32 AM - Jenit Jain: Thanks
+6/27/18, 10:32 AM - Jenit Jain: 😁
+6/27/18, 10:48 AM - Sahil Garg: Hey man, yeah that's chill, you're planning on web development or mobile or you haven't decided yet?
+6/27/18, 10:49 AM - Sahil Garg: I tried out both, and then did android development more
+6/27/18, 10:49 AM - Jenit Jain: Shit didn't think about that
+6/27/18, 10:50 AM - Jenit Jain: Any specific reason?
+6/27/18, 12:13 PM - Sahil Garg: Yeah, they're different so you'll have to choose one only in start to begin with
+6/27/18, 12:14 PM - Sahil Garg: I took it cause I thought developing for mobile is nice, and web programming was a lot of hassle, the front end itself has a lot of CSS and HTML
+6/27/18, 12:15 PM - Sahil Garg: I basically learnt HTML and css basics for frontend in web, this is one way to learn it or you can see bootstrap etc which help you make frontend easily
+6/27/18, 12:15 PM - Sahil Garg: And i saw videos on php
+6/27/18, 12:15 PM - Sahil Garg: This is for web backend
+6/27/18, 12:16 PM - Sahil Garg: For mobile, it's mostly Java
+6/27/18, 12:21 PM - Jenit Jain: what about javascript and node js what are they used for
+6/27/18, 12:27 PM - Sahil Garg: Right, so in mobile dev
+6/27/18, 12:27 PM - Sahil Garg: You can do native app programming
+6/27/18, 12:27 PM - Sahil Garg: Or a hybrid
+6/27/18, 12:28 PM - Sahil Garg: Native means it works on a single platform like the only iOS
+6/27/18, 12:28 PM - Sahil Garg: And hybrid apps work on all
+6/27/18, 12:28 PM - Sahil Garg: This is for hybrid
+6/27/18, 12:28 PM - Sahil Garg: This is native
+6/27/18, 12:54 PM - Jenit Jain: But isn't this used for web dev too?
+6/27/18, 12:55 PM - Jenit Jain: Ignore the call
+6/27/18, 2:04 PM - Sahil Garg: Yes, basically in web dev back end
+6/27/18, 2:04 PM - Sahil Garg: you can do in php
+6/27/18, 2:04 PM - Sahil Garg: Or even python
+6/27/18, 2:04 PM - Sahil Garg: Or js
+6/27/18, 2:04 PM - Sahil Garg: It's just a choice
+6/27/18, 2:04 PM - Sahil Garg: And depends on which api or library is available in which language
+6/27/18, 2:09 PM - Jenit Jain: So I do just flask also is there a disadvantage? Because my colleague was telling me that if the traffic is going to be heavy then people prefer node js
+6/27/18, 2:11 PM - Sahil Garg: Yeah that's there
+6/27/18, 2:11 PM - Sahil Garg: Cause node js is the latest
+6/27/18, 2:11 PM - Sahil Garg: And it's again what I told you
+6/27/18, 2:11 PM - Sahil Garg: For hybrid right
+6/27/18, 2:11 PM - Sahil Garg: So hybrid means web also along with all mobile platforms
+6/27/18, 2:11 PM - Sahil Garg: Yeah flask or django is pretty beneficial
+6/27/18, 2:12 PM - Sahil Garg: Especially cause you already have python knowledge
+6/27/18, 2:12 PM - Jenit Jain: Django is python too?
+6/27/18, 2:20 PM - Jenit Jain: After reading a bit, I'm confused between node.js, flask and Django, could you suggest one
+6/27/18, 2:38 PM - Sahil Garg: Yup
+6/27/18, 2:38 PM - Sahil Garg: Do you know JavaScript already
+6/27/18, 2:38 PM - Sahil Garg: *?
+6/27/18, 2:38 PM - Jenit Jain: Nope
+6/27/18, 2:38 PM - Sahil Garg: If you've used js then you can learn node
+6/27/18, 2:38 PM - Sahil Garg: Otherwise I think flask is really good
+6/27/18, 2:38 PM - Sahil Garg: You can do everything in it
+6/27/18, 2:38 PM - Sahil Garg: Django is getting a bit older
+6/27/18, 2:39 PM - Sahil Garg: Then flask only seems good
+6/27/18, 2:40 PM - Jenit Jain: What about the traffic issue. How disadvantageous is it
+6/27/18, 3:23 PM - Sahil Garg: I think it's fine, not such a big issue for scalability
+6/27/18, 3:23 PM - Sahil Garg: Node js is better with that aspect
+6/27/18, 3:23 PM - Sahil Garg: But really doesn't affect so much
+6/27/18, 3:25 PM - Jenit Jain: Probably won't become an engineer without you man
+6/27/18, 3:25 PM - Jenit Jain: Thankssss
+6/27/18, 3:28 PM - Sahil Garg: Balls bro 😂😂😂
+6/27/18, 3:28 PM - Sahil Garg: You're the real man
+6/27/18, 3:29 PM - Sahil Garg: Peace bro
+6/27/18, 3:30 PM - Jenit Jain: Hahahha
+6/27/18, 3:30 PM - Jenit Jain: What'd you do technical wise this vacation?
+6/27/18, 3:31 PM - Jenit Jain: Did you start practicing stuff for the 5th sem internships
+6/27/18, 3:45 PM - Sahil Garg: Trying data science bro
+6/27/18, 3:45 PM - Sahil Garg: And some python
+6/27/18, 3:45 PM - Sahil Garg: Yeah, but too little
+6/27/18, 3:46 PM - Jenit Jain: 2 weeks after the semester starts na
+6/27/18, 3:46 PM - Sahil Garg: Yeah somewhere in beginning itself
+6/27/18, 3:49 PM - Jenit Jain: Damn. And they'll have like normally competitive questions?
+6/27/18, 3:49 PM - Sahil Garg: Yeah, I guess so
+6/27/18, 3:50 PM - Sahil Garg: I'm not so sure myself
+6/27/18, 3:50 PM - Sahil Garg: But I think competitive itself
+6/27/18, 3:51 PM - Jenit Jain: Must start argh 🙈🙈
+6/27/18, 3:52 PM - Jenit Jain: Anyways, thanks a lot for your help man
+6/27/18, 3:52 PM - Sahil Garg: Haha it's chill bro
+6/27/18, 3:52 PM - Sahil Garg: Always
+6/27/18, 3:52 PM - Sahil Garg: You started?
+6/27/18, 3:52 PM - Sahil Garg: How's summer for you bro
+6/27/18, 3:53 PM - Jenit Jain: Na I'm still swamped with internship and Coursera. I'll be able to start only after 15th July. But I have the material ready like all the links and all so should be done
+6/27/18, 3:58 PM - Sahil Garg: Ohh that's good
+6/27/18, 3:58 PM - Sahil Garg: What courses you doing dude?
+6/27/18, 4:59 PM - Jenit Jain: I did 3 courses offered by deep learning.ai. but now I'll do the courses offered by University of San Diego on DS and algos
+6/27/18, 4:59 PM - Jenit Jain: For the internships
+6/27/18, 4:59 PM - Sahil Garg: Ayy nice bro
+6/27/18, 4:59 PM - Sahil Garg: I started with first one of these
+6/27/18, 5:00 PM - Jenit Jain: Algorithmic toolbox?
+6/27/18, 5:00 PM - Sahil Garg: Yeah
+6/27/18, 5:00 PM - Sahil Garg: Ucsd
+6/27/18, 5:04 PM - Jenit Jain: I'll start it soon hopefully😂
+6/27/18, 5:04 PM - Sahil Garg: Haha it's fine only pretty decent
+6/27/18, 5:05 PM - Jenit Jain: Good level decent or like can-watch-the-videos-on-2x decent?
+6/27/18, 5:05 PM - Sahil Garg: Initial 2-3 weeks 2x is peace
+6/27/18, 5:05 PM - Sahil Garg: Then good level 1.75 x
+6/27/18, 5:05 PM - Sahil Garg: XD
+6/27/18, 5:30 PM - Jenit Jain: 😂. This is all you did for 5th sem?
+6/27/18, 5:33 PM - Sahil Garg: yeah until now this much only xD
+6/27/18, 5:33 PM - Sahil Garg: but planning on doing some competitive
+6/27/18, 5:34 PM - Jenit Jain: Hackerrank and all?
+6/27/18, 5:37 PM - Sahil Garg: yupp that only
+6/27/18, 5:37 PM - Sahil Garg: what resources do you have?
+6/27/18, 5:37 PM - Jenit Jain: Oh nice
+6/27/18, 5:37 PM - Jenit Jain: Too many things somiya forwarded.
+6/27/18, 5:37 PM - Jenit Jain: Do you want the links and all?
+6/27/18, 5:39 PM - Sahil Garg: yeah bro, send off if you can
+6/27/18, 5:39 PM - Jenit Jain: Accha wait
+6/27/18, 5:40 PM - Jenit Jain: <Media omitted>
+6/27/18, 5:40 PM - Jenit Jain: <Media omitted>
+6/27/18, 5:44 PM - Sahil Garg: thanks bro
+6/27/18, 5:44 PM - Sahil Garg: this is too much lol
+6/27/18, 5:44 PM - Sahil Garg: gone xD
+6/27/18, 5:46 PM - Sahil Garg: I also have some links
+6/27/18, 5:46 PM - Sahil Garg: ill forward them to you
+6/27/18, 5:46 PM - Jenit Jain: All links are small concepts so it won't be that much
+6/27/18, 5:46 PM - Jenit Jain: YAS
+6/27/18, 5:46 PM - Sahil Garg: yeah should be fine
+6/27/18, 7:45 PM - Jenit Jain: .
+6/27/18, 7:48 PM - Sahil Garg: I'm not home only bro I'll send from the web
+6/27/18, 8:10 PM - Jenit Jain: Oh alright
+6/27/18, 9:17 PM - Sahil Garg: This has coding and all also
+6/27/18, 9:17 PM - Sahil Garg: Geeks for geeks always helps. Esp for Amazon. And Microsoft conducts its test on cocubes if I remember. So go to cocubes.com and get familiar with the environment. The others usually use hacker rank.
+6/27/18, 9:18 PM - Sahil Garg: https://dev.to/perigk/fantastic-youtube-channels-with-top-quality-learning-for-software-engineers--263i
+6/27/18, 9:18 PM - Sahil Garg: I had a few of the ones you sent me, so I'm not sending them again
+6/27/18, 9:18 PM - Sahil Garg: These are the others I have
+6/27/18, 9:18 PM - Sahil Garg: Apart from that, I'm doing that courses of UCSD
+6/27/18, 9:19 PM - Jenit Jain: Will SQL be important
+6/27/18, 9:19 PM - Sahil Garg: <Media omitted>
+6/27/18, 9:20 PM - Sahil Garg: I have this bro
+6/27/18, 9:20 PM - Sahil Garg: And hacker rank
+6/27/18, 9:20 PM - Sahil Garg: I don't think it's asked too much, but yeah some companies want db also
+6/27/18, 9:32 PM - Jenit Jain: What are these
+6/27/18, 9:36 PM - Sahil Garg: These links for competitive
+6/27/18, 9:39 PM - Jenit Jain: Accha nice. Thank you
+6/27/18, 10:30 PM - Sahil Garg: Yupp peace
+6/28/18, 1:45 PM - Sahil Garg: https://www.geeksforgeeks.org/coalesced-hashing/
+6/28/18, 1:45 PM - Sahil Garg: https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/
+6/28/18, 1:45 PM - Sahil Garg: https://www.quora.com/What-is-the-500-000th-prime-number
+6/28/18, 1:46 PM - Jenit Jain: You're making me sad but Thanks 😂
+6/28/18, 1:50 PM - Sahil Garg: Haha, lol I just got these from someone so sent to you xD
+8/1/18, 8:11 PM - Sahil Garg: Hey can you send me notes
+8/1/18, 8:11 PM - Sahil Garg: Or can I take tomorrow
+8/1/18, 8:21 PM - Jenit Jain: I'll send bro
+8/1/18, 8:21 PM - Jenit Jain: How did it go?!
+8/1/18, 8:24 PM - Sahil Garg: First round interview happened
+8/1/18, 8:24 PM - Sahil Garg: They kicked all guys out after that
+8/1/18, 8:25 PM - Sahil Garg: Only girls
+8/1/18, 8:25 PM - Sahil Garg: Only sarthak Mittal
+8/1/18, 8:25 PM - Sahil Garg: And one more guy
+8/1/18, 8:25 PM - Jenit Jain: 😂
+8/1/18, 8:25 PM - Sahil Garg: And they took 10-11 girls
+8/1/18, 8:25 PM - Sahil Garg: For interview
+8/1/18, 8:25 PM - Sahil Garg: I'm just sitting here still
+8/1/18, 8:25 PM - Sahil Garg: But no hope 😂
+8/1/18, 8:25 PM - Jenit Jain: Sorry man. sucks tbh
+8/1/18, 8:26 PM - Sahil Garg: Ayy man no sorry
+8/1/18, 8:26 PM - Sahil Garg: That's how it is 😂
+8/1/18, 8:27 PM - Jenit Jain: Ae but so much sexism is just bad
+8/1/18, 8:27 PM - Jenit Jain: Like wtf
+8/1/18, 8:27 PM - Jenit Jain: So did those 2 guys and 10ish girls make it or last round left!
+8/1/18, 8:27 PM - Jenit Jain: ?*
+8/1/18, 10:30 PM - Sahil Garg: Hahaha yup
+8/1/18, 10:30 PM - Sahil Garg: Last round is done, results aren't out
+8/1/18, 10:30 PM - Sahil Garg: They'll come tomorrow or soon
+8/2/18, 10:41 AM - Jenit Jain: <Media omitted>
+8/2/18, 10:41 AM - Sahil Garg: Broo
+8/2/18, 10:41 AM - Sahil Garg: Have you written stuff of yesterday's lab?
+8/2/18, 10:41 AM - Jenit Jain: <Media omitted>
+8/2/18, 10:41 AM - Jenit Jain: <Media omitted>
+8/2/18, 10:41 AM - Jenit Jain: Didn't have time so I just emailed myself
+8/2/18, 10:42 AM - Jenit Jain: Give me your Id, I'll forward
+8/2/18, 10:42 AM - Sahil Garg: Peace can you forward this
+8/2/18, 10:42 AM - Sahil Garg: And I'll take your notebook for se
+8/2/18, 10:42 AM - Sahil Garg: In-class
+8/2/18, 10:42 AM - Sahil Garg: I have pe off
+8/2/18, 10:42 AM - Sahil Garg: So I'll copy them
+8/2/18, 10:42 AM - Sahil Garg: *then and then give it to you back
+8/2/18, 10:42 AM - Sahil Garg: Chill no?
+8/2/18, 10:43 AM - Sahil Garg: sahilgarg30@yahoo.co.in
+8/2/18, 10:43 AM - Jenit Jain: I just sent you the pictures. He didn't do much. And I wrote all the notes in my own words so I'm sure that the short and concise
+8/2/18, 10:43 AM - Sahil Garg: Yupp got the pics bro
+8/2/18, 10:43 AM - Sahil Garg: Thanks a lot
+8/2/18, 10:48 AM - Jenit Jain: It's chill da
+8/2/18, 10:48 AM - Jenit Jain: Sent
+8/2/18, 10:48 AM - Sahil Garg: 😀
+8/2/18, 10:48 AM - Sahil Garg: Thanks man
+8/2/18, 10:48 AM - Sahil Garg: You did all 3?
+8/2/18, 10:48 AM - Sahil Garg: Like 2 and the sample?
+8/2/18, 10:48 AM - Jenit Jain: I didn't email myself the sample
+8/2/18, 10:49 AM - Jenit Jain: But yeah in the lab all 4
+8/2/18, 10:49 AM - Jenit Jain: 3*
+8/2/18, 10:49 AM - Jenit Jain: Easy only
+8/2/18, 10:50 AM - Sahil Garg: Peace bro
+8/2/18, 10:50 AM - Sahil Garg: That's chill
+8/2/18, 10:50 AM - Sahil Garg: Thanks man
+8/2/18, 10:52 AM - Sahil Garg: You're the savior ✌🏻
+8/2/18, 10:52 AM - Jenit Jain: You don't say 😂
+8/2/18, 10:53 AM - Sahil Garg: 😋😂
+8/2/18, 10:53 AM - Jenit Jain: I would be sitting in slcd lab and Ds lab rn if it weren't for you 😂😂😂😂
+8/2/18, 10:53 AM - Sahil Garg: XD xD
+8/2/18, 10:53 AM - Sahil Garg: So it's mutual:,)
+8/2/18, 10:53 AM - Jenit Jain: Haha it's a chill man.
+8/2/18, 10:53 AM - Jenit Jain: Did you get any books?
+8/2/18, 10:53 AM - Sahil Garg: Books for?
+8/2/18, 10:54 AM - Jenit Jain: Any subjects
+8/2/18, 10:54 AM - Sahil Garg: I brought se
+8/2/18, 10:54 AM - Sahil Garg: From kamath
+8/2/18, 10:54 AM - Sahil Garg: Cause it's full theory
+8/2/18, 10:54 AM - Sahil Garg: And thinking of taking os from book Bankim
+8/2/18, 10:54 AM - Sahil Garg: <Media omitted>
+8/2/18, 11:27 AM - Jenit Jain: The most useless one lol
+8/2/18, 11:28 AM - Jenit Jain: Man you can just take 1 book from book bank
+8/2/18, 11:28 AM - Jenit Jain: Let me know how the os one is. Because I did chapter one of os through the slides and didn't feel the need to refer to a text so...
+8/2/18, 11:30 AM - Sahil Garg: Yeah xD
+8/2/18, 11:30 AM - Sahil Garg: Yeah sure if I take os, I'll let you know how it is
+8/2/18, 12:30 PM - Jenit Jain: Thanks
+8/2/18, 12:31 PM - Jenit Jain: Ananya got in right?
+8/2/18, 12:32 PM - Sahil Garg: Yupp she did
+8/2/18, 12:32 PM - Jenit Jain: Wish her congrats from me :)
+8/2/18, 12:33 PM - Sahil Garg: Sure buddy I will
+8/2/18, 12:34 PM - Sahil Garg: 😀
+8/3/18, 5:02 PM - Jenit Jain: My nigga
+8/3/18, 5:02 PM - Jenit Jain: My niggaaaa
+8/3/18, 5:02 PM - Jenit Jain: Congrats 💛
+8/3/18, 5:08 PM - Sahil Garg: Thanks so much broooo
+8/3/18, 5:08 PM - Jenit Jain: Call was by mistake
+8/3/18, 5:08 PM - Jenit Jain: How come they announced today only
+8/3/18, 5:08 PM - Sahil Garg: Are you in lab bro
+8/3/18, 5:09 PM - Jenit Jain: Nope. Today's lab was like 15 lines 😂
+8/3/18, 5:09 PM - Sahil Garg: Ohh okay xD
+8/3/18, 5:09 PM - Sahil Garg: Did you have viva or something?
+8/3/18, 5:09 PM - Sahil Garg: Marks?
+8/3/18, 5:09 PM - Jenit Jain: Nothing
+8/3/18, 6:22 PM - Sahil Garg: Peace bro thanks
+8/7/18, 10:28 PM - Jenit Jain: Ca notes bro
+8/7/18, 10:28 PM - Jenit Jain: Was the class easy
+8/7/18, 10:29 PM - Sahil Garg: Yeah it was chill
+8/7/18, 10:29 PM - Sahil Garg: Sending
+8/7/18, 10:30 PM - Sahil Garg: <Media omitted>
+8/7/18, 10:30 PM - Sahil Garg: <Media omitted>
+8/7/18, 10:30 PM - Sahil Garg: <Media omitted>
+8/7/18, 10:30 PM - Sahil Garg: <Media omitted>
+8/7/18, 10:30 PM - Sahil Garg: <Media omitted>
+8/7/18, 10:30 PM - Sahil Garg: <Media omitted>
+8/7/18, 11:39 PM - Jenit Jain: Noice
+8/9/18, 3:12 PM - Sahil Garg: Hello! Our project, GharKeChefs, has been shortlisted in the top 15 projects for the ProGeek Cup by Geeksforgeeks, and it would really help us a lot if you could vote for our project- GharKeChefs.
+
+It would take you only 30 seconds but it would be a super huge help for us, thank you!
+
+https://docs.google.com/forms/d/e/1FAIpQLSekvC_St0Cu6OhicrxbltUj6-qTMAFm2kgQy9inkpqALkcRVw/alreadyresponded?usp=send_form
+8/9/18, 3:34 PM - Jenit Jain: Congrats bro
+8/9/18, 3:34 PM - Jenit Jain: Donee
+8/9/18, 3:35 PM - Sahil Garg: Thanks bro
+8/26/18, 11:48 AM - Jenit Jain: Bro are you doing the code jam kickstart competition rn?
+8/26/18, 11:49 AM - Sahil Garg: Yeah
+8/26/18, 11:49 AM - Jenit Jain: How many done?
+8/26/18, 11:51 AM - Sahil Garg: One lol
+8/26/18, 11:51 AM - Sahil Garg: Yourss
+8/26/18, 11:52 AM - Jenit Jain: Fucking A large expired 😂
+8/26/18, 11:52 AM - Jenit Jain: Once the timernexpired you cant restart it right?
+8/26/18, 11:52 AM - Jenit Jain: For the small one and the big one?
+8/26/18, 11:53 AM - Sahil Garg: Haha no you can't
+8/26/18, 11:53 AM - Jenit Jain: not even for the small dataset>
+8/26/18, 11:53 AM - Jenit Jain: ?
+8/26/18, 11:54 AM - Sahil Garg: Small you can
+8/26/18, 11:55 AM - Jenit Jain: my large timer expired before i texted you, it is still reading the input 😂
+8/26/18, 11:55 AM - Sahil Garg: XD
+8/26/18, 11:55 AM - Sahil Garg: Which question?
+8/26/18, 11:55 AM - Sahil Garg: A?
+8/26/18, 11:57 AM - Jenit Jain: yes
+8/26/18, 12:04 PM - Sahil Garg: nice
+8/26/18, 12:04 PM - Sahil Garg: so youre done with A small right?
+8/26/18, 12:06 PM - Jenit Jain: yep
+8/26/18, 12:06 PM - Jenit Jain: you did A large?
+8/26/18, 12:06 PM - Sahil Garg: no it failed I guess xD
+8/26/18, 12:06 PM - Sahil Garg: im trying A large now
+8/26/18, 12:11 PM - Sahil Garg: whats your logic
+8/26/18, 12:11 PM - Sahil Garg: does it work for k>1?
+8/26/18, 12:13 PM - Jenit Jain: input A, sort it, in every iter remove k elements from the start, then decrements all elements and then remove all elements (from the start) that have the value 0 (meaning the yoghurts that have expired)
+8/26/18, 12:13 PM - Jenit Jain: i could have saved a lot of space while executing it if i didnt use so many loops but eh
+8/26/18, 12:16 PM - Sahil Garg: alright alright
+8/26/18, 12:16 PM - Sahil Garg: should work for k > 1
+8/26/18, 12:17 PM - Sahil Garg: but itll be too slow :P
+8/26/18, 12:31 PM - Sahil Garg: I completed A small and large but cant get to know score of large yet
+8/26/18, 12:36 PM - Jenit Jain: Nice
+8/26/18, 12:37 PM - Sahil Garg: did you get yours to work?
+8/26/18, 1:53 PM - Jenit Jain: How many you go bro
+8/26/18, 1:53 PM - Jenit Jain: And the large problem?
+8/26/18, 1:54 PM - Sahil Garg: Second small
+8/26/18, 1:54 PM - Sahil Garg: Large they'll tell after contest ends, for how much score
+8/26/18, 1:59 PM - Jenit Jain: Accha
+8/26/18, 1:59 PM - Jenit Jain: I just finished my second small
+8/26/18, 2:00 PM - Jenit Jain: Can you please email me the output file and the dataset file for it. So at least I can get some self satisfaction
+8/26/18, 2:00 PM - Jenit Jain: Whenever you're free
+8/26/18, 3:27 PM - Jenit Jain: And what did you use instead of this
+8/26/18, 3:30 PM - Sahil Garg: I don't have the second ones output, it got overwritten and I deleted the code xD
+8/26/18, 3:30 PM - Sahil Garg: I have the dataset
+8/26/18, 3:30 PM - Sahil Garg: I'll send whatever I have to you
+8/26/18, 3:30 PM - Sahil Garg: Basically another counter that stores the current day that you're processing for
+8/26/18, 3:30 PM - Sahil Garg: I can send you the code for 1st one
+8/26/18, 3:30 PM - Sahil Garg: I think I haven't deleted that
+8/26/18, 3:33 PM - Jenit Jain: Accha send this at least
+8/26/18, 3:34 PM - Jenit Jain: Accha is this because deleting an element will take extra time?
+8/26/18, 3:35 PM - Sahil Garg: No you wouldn't need to then go across the rest of the array to decrement their values
+8/26/18, 3:35 PM - Sahil Garg: Sending
+8/26/18, 3:38 PM - Sahil Garg: <Media omitted>
+8/26/18, 3:38 PM - Sahil Garg: <Media omitted>
+8/26/18, 3:38 PM - Sahil Garg: <Media omitted>
+8/26/18, 3:38 PM - Sahil Garg: <Media omitted>
+8/26/18, 3:38 PM - Sahil Garg: <Media omitted>
+8/26/18, 3:38 PM - Sahil Garg: all this is for the first one
+8/26/18, 3:38 PM - Sahil Garg: my small and large dataset passed
+8/26/18, 3:40 PM - Sahil Garg: <Media omitted>
+8/26/18, 3:40 PM - Jenit Jain: Noicee
+8/26/18, 3:40 PM - Sahil Garg: this is for B
+8/26/18, 3:40 PM - Jenit Jain: Ha needed this only
+8/26/18, 3:41 PM - Jenit Jain: B large toh won't even see
+8/26/18, 3:41 PM - Jenit Jain: Lol
+8/26/18, 3:41 PM - Sahil Garg: peacee
+8/26/18, 3:41 PM - Sahil Garg: xD
+8/26/18, 3:42 PM - Sahil Garg: B one is hard
+8/26/18, 3:42 PM - Sahil Garg: you did count of each bit with 1s and 0s? and found for each bit, which is better ?
+8/26/18, 3:44 PM - Jenit Jain: Yes. So basically Max of each of the P columns, but then if this value was in the forbidden list, then would change the combination one by one. Like in the first case it was 1000 which was forbidden, so I did 0000,1100,1010,1001. Something like thag
+8/26/18, 3:45 PM - Jenit Jain: So it's still better than O(2^n)
+8/26/18, 3:45 PM - Jenit Jain: But I couldn't submit my solution so let's see
+8/26/18, 3:45 PM - Jenit Jain: Altogyher how many points did you get
+8/26/18, 3:46 PM - Sahil Garg: 30
+8/26/18, 3:46 PM - Sahil Garg: Understood I did the same thing
+8/26/18, 8:47 PM - Jenit Jain: Is the entire transport layer coming?
+8/26/18, 11:02 PM - Sahil Garg: For CN sessional?
+8/26/18, 11:02 PM - Sahil Garg: I'm not sure really, I think only half of it
+8/27/18, 8:38 PM - Jenit Jain: <Media omitted>
+8/27/18, 8:38 PM - Sahil Garg: This is for A? 🧐
+8/27/18, 8:39 PM - Jenit Jain: Ha
+8/27/18, 8:39 PM - Sahil Garg: Damnnnn
+8/27/18, 8:39 PM - Sahil Garg: Bro try B Large dataset it'll take some 10 days 😂😂😂
+8/27/18, 8:50 PM - Jenit Jain: fucking strings
+8/27/18, 8:51 PM - Jenit Jain: I'd rather study OS haha
+8/27/18, 9:00 PM - Sahil Garg: 😂😂
+8/27/18, 9:00 PM - Sahil Garg: Yeah lol
+8/27/18, 9:21 PM - Jenit Jain: Do you have it?
+8/27/18, 9:21 PM - Jenit Jain: My small things compiles pretty fast so let's see
+8/27/18, 10:29 PM - Sahil Garg: Yeah I think so
+8/27/18, 10:29 PM - Sahil Garg: Haha, you got correct for the first part of B?
+8/27/18, 10:31 PM - Jenit Jain: There are no errors but I don't have anything to compare it with because you sent the outputs for only the the A Problems
+8/27/18, 10:31 PM - Sahil Garg: Dude you can still submit it on the same link and check
+8/27/18, 10:32 PM - Sahil Garg: If it shows correct or not
+8/31/18, 7:27 PM - Jenit Jain: Bro are you doing the different formats of the IEEE SRSs
+8/31/18, 7:27 PM - Sahil Garg: Not really, just read through it once
+8/31/18, 7:28 PM - Jenit Jain: Alrightt
+9/1/18, 12:23 PM - Sahil Garg: <Media omitted>
+9/1/18, 12:23 PM - Sahil Garg: What's the third Mcq in this?
+9/1/18, 12:26 PM - Jenit Jain: External interfaces I think
+9/1/18, 12:27 PM - Jenit Jain: Oh fuck you called. Sorry I thought it was spam
+9/1/18, 12:27 PM - Sahil Garg: Yeah it's chill 😂
+9/1/18, 12:27 PM - Sahil Garg: Thanks for saving my number bruh xD
+9/1/18, 12:27 PM - Jenit Jain: Mostly this only
+9/1/18, 12:27 PM - Sahil Garg: Isn't this there in the srs ?
+9/1/18, 12:27 PM - Jenit Jain: Your whatsapp number is different fuck you
+9/1/18, 12:28 PM - Sahil Garg: 😂😂😂
+9/1/18, 12:28 PM - Jenit Jain: All the answers are there
+9/1/18, 12:28 PM - Sahil Garg: I think it's either maintainability
+9/1/18, 12:28 PM - Sahil Garg: Or goals
+9/1/18, 12:28 PM - Sahil Garg: Ohh damn
+9/1/18, 12:29 PM - Jenit Jain: Actually no it won't be external interfaces
+9/1/18, 12:29 PM - Jenit Jain: It's goals then
+9/1/18, 12:29 PM - Jenit Jain: Because implementatiom starts from design
+9/1/18, 12:29 PM - Sahil Garg: Even I think so
+9/1/18, 12:30 PM - Sahil Garg: What's maintainability?
+9/1/18, 12:30 PM - Sahil Garg: Where does that come?
+9/1/18, 12:30 PM - Jenit Jain: Non functional req
+9/1/18, 12:30 PM - Sahil Garg: Yeah, are these there in srs?
+9/1/18, 12:31 PM - Jenit Jain: Yep
+9/1/18, 12:31 PM - Sahil Garg: Then it's goals only
+9/5/18, 7:49 AM - Jenit Jain: Bro send the daytime server code na please
+9/5/18, 8:17 AM - Sahil Garg: Broo take it in class no, I'll bring it?
+9/5/18, 10:34 AM - Jenit Jain: Did you get it
+9/5/18, 10:34 AM - Sahil Garg: Yeah
+9/5/18, 10:40 AM - Sahil Garg: <Media omitted>
+9/5/18, 10:40 AM - Sahil Garg: <Media omitted>
+9/5/18, 10:40 AM - Sahil Garg: <Media omitted>
+9/5/18, 10:40 AM - Sahil Garg: <Media omitted>
+9/5/18, 10:42 AM - Jenit Jain: Thanks bro
+9/5/18, 1:03 PM - Jenit Jain: Day time server from lab3 bro
+9/24/18, 3:05 PM - Jenit Jain: Bro can you tell me what is the SE portion and where to study from? I'm completely clueless
+9/24/18, 4:39 PM - Sahil Garg: It's from design analysis
+9/24/18, 4:39 PM - Sahil Garg: To dfd disgrams
+9/24/18, 4:39 PM - Sahil Garg: *diagrams
+9/24/18, 4:40 PM - Sahil Garg: Lecture 12 to 16 in the course plan,
+9/24/18, 4:40 PM - Sahil Garg: Everything is in the slides, so you can read that
+9/24/18, 5:00 PM - Jenit Jain: Dfds a lot of out of portion is coming right
+9/24/18, 6:07 PM - Sahil Garg: Like you just need to know how to draw one, basic notations
+9/24/18, 6:11 PM - Jenit Jain: Send me notes? :)
+9/24/18, 6:46 PM - Sahil Garg: Bro it's in slides and there's a doc, it's in the cse d group
+9/24/18, 6:46 PM - Sahil Garg: If you don't get, I'll send
+9/24/18, 6:59 PM - Sahil Garg: https://nptel.ac.in/courses/Webcourse-contents/IIT%20Kharagpur/Soft%20Engg/pdf/m05L10.pdf
+9/24/18, 7:10 PM - Jenit Jain: Thanksss
+10/2/18, 1:07 PM - Jenit Jain: Bro
+10/2/18, 1:07 PM - Jenit Jain: You participating in tech tatva
+10/2/18, 1:59 PM - Sahil Garg: Yea maybe
+10/2/18, 1:59 PM - Sahil Garg: Not sure yet
+10/2/18, 1:59 PM - Sahil Garg: Why what happened
+10/2/18, 2:05 PM - Jenit Jain: Wanna participate in any team one? Incase ananya isn't taking part
+10/2/18, 2:38 PM - Sahil Garg: Ananya also will be taking part only mostly bro
+10/2/18, 2:38 PM - Sahil Garg: I'll tell you after asking her once
+10/2/18, 6:29 PM - Jenit Jain: Yass
+10/3/18, 4:53 PM - Jenit Jain: You doing the cryptoss hackerrank?
+10/3/18, 5:31 PM - Sahil Garg: Nope haven't seen it yet
+10/7/18, 6:27 PM - Jenit Jain: <Media omitted>
+10/7/18, 6:29 PM - Sahil Garg: I think it should be >=
+10/7/18, 6:30 PM - Jenit Jain: Why not >
+10/7/18, 6:31 PM - Jenit Jain: When it is 0, doesn't it mean that there are no instance and no processes waiting in the queue
+10/7/18, 6:31 PM - Sahil Garg: I'm not sure, I haven't done it yet
+10/7/18, 6:32 PM - Sahil Garg: I'll check and tell you
+10/7/18, 6:32 PM - Jenit Jain: Thankss
+10/7/18, 11:52 PM - Sahil Garg: This is correct bro, basically you add a process to s->list only when your value is less than 0, because then that process can't get resource at same time and needs to wait in a queue
+10/7/18, 11:53 PM - Sahil Garg: So when you signal(), you must remove processes from list when value is <= 0, so that all processes added to list can be restored as and when a process gives away a resource
+10/7/18, 11:56 PM - Jenit Jain: 🔥🔥🔥
+10/7/18, 11:56 PM - Jenit Jain: Mvp
+10/7/18, 11:56 PM - Sahil Garg: 👍🏻
+10/10/18, 11:22 AM - Jenit Jain: Bro can you just help me in SE, like can you tell what to study and from where 😂. I'm pretty lost
+10/10/18, 11:31 AM - Sahil Garg: He's sent the slides for everything he does in class
+10/10/18, 11:31 AM - Sahil Garg: And there are like a few 8-9 page notes on the class group Vasvi has sent
+10/10/18, 11:32 AM - Sahil Garg: You'll have to read all of those
+10/10/18, 11:32 AM - Sahil Garg: That's enough I think
+10/10/18, 11:39 AM - Jenit Jain: Text book?
+10/10/18, 11:58 AM - Sahil Garg: I think slides has everything
+10/10/18, 11:58 AM - Jenit Jain: The normal design phase one only right?
+10/10/18, 12:13 PM - Sahil Garg: Yess those
+10/10/18, 12:15 PM - Jenit Jain: Thanks
+10/11/18, 9:00 PM - Jenit Jain: <Media omitted>
+10/11/18, 9:05 PM - Sahil Garg: It's the Elliac network
+10/11/18, 9:05 PM - Sahil Garg: Cause in the elliac 4 mesh network, one pe is connected to 4 other pes
+10/11/18, 9:06 PM - Jenit Jain: And N?
+10/11/18, 9:07 PM - Sahil Garg: I think you can take anything in that range xD
+10/11/18, 9:07 PM - Jenit Jain: Chal thanks
+10/11/18, 9:08 PM - Sahil Garg: I'm not sure of N
+10/11/18, 9:08 PM - Sahil Garg: Tell me if you find out
+10/11/18, 9:09 PM - Jenit Jain: N=25
+10/11/18, 9:09 PM - Sahil Garg: Why?
+10/11/18, 9:09 PM - Jenit Jain: Only perfect square in that range so
+10/11/18, 9:09 PM - Sahil Garg: Ohh r = root N
+10/11/18, 9:09 PM - Jenit Jain: Ha
+10/11/18, 9:13 PM - Sahil Garg: Thanks
+10/13/18, 8:29 AM - Jenit Jain: Are class diagrams and use case diagrams included
+10/13/18, 8:35 AM - Sahil Garg: Yes
+10/13/18, 8:35 AM - Sahil Garg: They're there
+10/13/18, 8:38 AM - Jenit Jain: Thanks
+10/13/18, 11:58 AM - Jenit Jain: <Media omitted>
+10/13/18, 11:58 AM - Sahil Garg: 😂😂😂😂😂😂😂
+10/13/18, 11:59 AM - Sahil Garg: youre newton
+10/13/18, 12:00 PM - Jenit Jain: Opposite da
+10/13/18, 12:01 PM - Sahil Garg: Maybe that 😂😂
+10/16/18, 4:39 PM - Jenit Jain: Bro check my sessional paper please
+10/16/18, 4:42 PM - Sahil Garg: Sure
+10/16/18, 4:43 PM - Sahil Garg: I checked yours
+10/16/18, 4:43 PM - Sahil Garg: You got 9.5 bro
+10/16/18, 4:43 PM - Sahil Garg: Correction seems fine acc to key
+10/16/18, 4:49 PM - Jenit Jain: Fuckk
+10/16/18, 4:49 PM - Jenit Jain: Okay thanks
+10/16/18, 4:49 PM - Jenit Jain: How much did you get
+10/16/18, 4:49 PM - Sahil Garg: 14 bro
+10/16/18, 4:49 PM - Sahil Garg: She cut randomly
+10/16/18, 4:49 PM - Sahil Garg: But it's based on their answer key
+10/16/18, 4:49 PM - Sahil Garg: And you have to write all the points
+10/16/18, 4:50 PM - Jenit Jain: They were strict about the theory?
+10/16/18, 4:55 PM - Sahil Garg: Yeah a little
+10/22/18, 12:02 PM - Jenit Jain: Bro do you know the lab test schedule for this wrrk
+10/22/18, 12:09 PM - Sahil Garg: Wednesday algo lab
+10/22/18, 12:09 PM - Sahil Garg: Friday OS lab
+10/22/18, 12:10 PM - Jenit Jain: Cn is over na?
+10/22/18, 12:11 PM - Jenit Jain: From which lab to which lab in those 2
+10/22/18, 12:11 PM - Sahil Garg: I think one more will happen
+10/22/18, 12:11 PM - Sahil Garg: Not sure of this
+10/22/18, 12:18 PM - Jenit Jain: Thanksd
+10/24/18, 5:57 AM - Jenit Jain: For Algo we have lab 7 8 9 only right
+10/24/18, 8:10 AM - Sahil Garg: Dayumm you woke up early
+10/25/18, 8:26 PM - Jenit Jain: Bro how is 
+turnaround time = end time - start time + waiting time
+10/25/18, 8:26 PM - Jenit Jain: In scheduling algorithms part
+10/25/18, 8:26 PM - Jenit Jain: Shouldnt it be 
+turnaround time = end time - start time
+10/25/18, 8:29 PM - Sahil Garg: It's this only bro
+10/25/18, 8:31 PM - Jenit Jain: Can you send the output of your lab 6 question 1i
+10/25/18, 8:38 PM - Sahil Garg: Gimme a while I'm out
+10/25/18, 8:39 PM - Jenit Jain: Yeah thanks man
+10/26/18, 12:02 AM - Sahil Garg: <Media omitted>
+10/26/18, 12:02 AM - Sahil Garg: <Media omitted>
+10/26/18, 12:02 AM - Sahil Garg: Lab 6 output
+10/26/18, 12:03 AM - Jenit Jain: Exactly so see the turnaround time
+10/26/18, 12:03 AM - Jenit Jain: It's not end - start
+10/26/18, 12:03 AM - Jenit Jain: It is end - arrival
+10/26/18, 12:04 AM - Sahil Garg: Yes it's this
+10/26/18, 12:04 AM - Sahil Garg: This is the definition of turn around time
+10/26/18, 12:04 AM - Jenit Jain: Alright thanks :)
+10/28/18, 3:54 PM - Jenit Jain: Do we have hamming distance and the parity thing that's follows?
+10/28/18, 3:54 PM - Sahil Garg: nopee
+10/28/18, 3:55 PM - Jenit Jain: So for error detection only till codewords and datawords a d then directly the dlc protocols!
+10/28/18, 3:55 PM - Jenit Jain: ?*
+10/28/18, 3:56 PM - Sahil Garg: yup I guess
+10/28/18, 3:57 PM - Jenit Jain: Alright
+10/30/18, 5:53 PM - Jenit Jain: Bro can you send me lab 9 of cn
+10/30/18, 6:30 PM - Sahil Garg: Yupp hold on
+10/30/18, 6:30 PM - Sahil Garg: Send it in the sense?
+10/30/18, 7:50 PM - Jenit Jain: Picture of the code
+10/30/18, 7:50 PM - Jenit Jain: Dhcp
+10/30/18, 7:55 PM - Sahil Garg: Sending
+10/30/18, 8:04 PM - Sahil Garg: <Media omitted>
+10/30/18, 8:04 PM - Sahil Garg: <Media omitted>
+10/30/18, 9:08 PM - Jenit Jain: Do you have extra questions to solve
+10/30/18, 10:27 PM - Sahil Garg: No bro
+10/30/18, 11:06 PM - Jenit Jain: <Media omitted>
+10/30/18, 11:08 PM - Sahil Garg: Which PC is x.com?
+10/30/18, 11:09 PM - Jenit Jain: No, x.com is stored on the DNS server na
+10/30/18, 11:09 PM - Sahil Garg: Then everything can ping it
+10/30/18, 11:09 PM - Jenit Jain: From dns client to x.com is workingn
+10/30/18, 11:10 PM - Jenit Jain: But pinging is not working from any of the pcs to x.com
+10/30/18, 11:10 PM - Jenit Jain: The gateway from pc1 and PC2 will be 10.0.0.1 and 30.0.0.1 respectively right?
+10/30/18, 11:14 PM - Sahil Garg: Yupp
+10/30/18, 11:14 PM - Sahil Garg: That's fine
+10/30/18, 11:18 PM - Jenit Jain: So to configure pc1 will we have to do ip route 10.0.0.0 255.0.0.0 20.0.0.2?
+10/30/18, 11:22 PM - Sahil Garg: Yupp this ip route in the left router
+10/30/18, 11:23 PM - Jenit Jain: Thank you
+10/30/18, 11:23 PM - Jenit Jain: Are you doing the select method😂
+10/30/18, 11:27 PM - Sahil Garg: No bro
+10/30/18, 11:27 PM - Sahil Garg: It's too long 😂😂
+10/31/18, 8:24 AM - Jenit Jain: Yo
+In a DHCP when you have assignment 128 address block and a 64 address block the mask for the network's are
+255.255.255.128
+255.255.255.192
+What will be there addresses when we have allocate first 64 and then 128
+10/31/18, 9:03 AM - Sahil Garg: The reverse of the two network masks
+10/31/18, 9:08 AM - Jenit Jain: Won't then 192 addresses be allocated to the first block
+10/31/18, 10:31 AM - Jenit Jain: How do you connect one router to 2 routersnsuch that both can be used for dns query
+10/31/18, 10:59 AM - Sahil Garg: Change settings in router
+10/31/18, 10:59 AM - Sahil Garg: For many fast Ethernet
+10/31/18, 10:59 AM - Sahil Garg: Or just connect via normal serial connection also
+10/31/18, 10:59 AM - Sahil Garg: That also works
+10/31/18, 11:00 AM - Jenit Jain: I'm talking about the setting it up part
+10/31/18, 11:04 AM - Sahil Garg: The commands?
+10/31/18, 11:05 AM - Sahil Garg: Domain lookup and name server command
+10/31/18, 11:05 AM - Sahil Garg: And ip dns Command
+10/31/18, 4:41 PM - Jenit Jain: Bro what was the ttl and data length when you ping google.com
+10/31/18, 4:54 PM - Sahil Garg: Data 10
+10/31/18, 4:54 PM - Sahil Garg: Ttl 254
+10/31/18, 4:54 PM - Sahil Garg: What did you get?
+10/31/18, 4:55 PM - Jenit Jain: I couldn't ducking see it only man. I wrote blank lol
+10/31/18, 4:55 PM - Jenit Jain: First one was 10 and 4 na
+10/31/18, 4:55 PM - Sahil Garg: I got 64 for ttl
+10/31/18, 4:55 PM - Sahil Garg: And 10 for data
+10/31/18, 4:56 PM - Sahil Garg: Sorry 15 for data
+10/31/18, 4:56 PM - Sahil Garg: For first omen
+10/31/18, 4:56 PM - Sahil Garg: *one
+10/31/18, 4:56 PM - Sahil Garg: Does it have to be same for everyone ?
+10/31/18, 4:56 PM - Jenit Jain: Where was your ttl and data length written?
+10/31/18, 4:56 PM - Jenit Jain: Link in Wireshark window
+10/31/18, 4:57 PM - Jenit Jain: Mine was in answers which is under query
+10/31/18, 4:57 PM - Sahil Garg: Inside the dns request
+10/31/18, 4:57 PM - Sahil Garg: Yeah this only I think
+10/31/18, 4:57 PM - Jenit Jain: Then it can be diff
+10/31/18, 4:57 PM - Jenit Jain: Chill hai
+10/31/18, 4:57 PM - Jenit Jain: Did he give all ticks for you?
+10/31/18, 4:57 PM - Sahil Garg: Yupp
+10/31/18, 4:58 PM - Sahil Garg: I'm not sure about what I entered for that table
+10/31/18, 4:59 PM - Jenit Jain: It's chill
+10/31/18, 4:59 PM - Jenit Jain: Thankss
+10/31/18, 4:59 PM - Jenit Jain: Also send the last lab of Algo na
+11/1/18, 7:02 PM - Jenit Jain: Bro what's the output for second chance algorithm
+11/1/18, 8:22 PM - Sahil Garg: I'm out
+11/1/18, 8:22 PM - Sahil Garg: I'll send
+11/1/18, 10:52 PM - Sahil Garg: <Media omitted>
+11/1/18, 10:52 PM - Sahil Garg: I'm not sure though if second chance is correct, I got this
+11/2/18, 7:43 AM - Jenit Jain: Even i got the same thing. must be correct
+11/2/18, 7:43 AM - Jenit Jain: Thankss
+11/2/18, 7:49 AM - Sahil Garg: Yupp
+11/2/18, 9:45 PM - Jenit Jain: Bro send lab 12 algo na
+11/2/18, 10:32 PM - Sahil Garg: <Media omitted>
+11/2/18, 10:32 PM - Sahil Garg: <Media omitted>
+11/2/18, 10:32 PM - Sahil Garg: <Media omitted>
+11/2/18, 10:32 PM - Sahil Garg: <Media omitted>
+11/2/18, 10:32 PM - Sahil Garg: <Media omitted>
+11/2/18, 10:35 PM - Jenit Jain: Than you
+11/2/18, 10:35 PM - Sahil Garg: ✌🏻
+11/4/18, 3:02 PM - Jenit Jain: <Media omitted>
+11/4/18, 3:49 PM - Sahil Garg: 😂😂😂😂
+11/4/18, 3:49 PM - Sahil Garg: Forget code, can't even debug xD
+11/7/18, 10:55 AM - Jenit Jain: What's happening in cn lab
+11/7/18, 11:04 AM - Sahil Garg: meaning/
+11/7/18, 11:04 AM - Sahil Garg: *?
+11/7/18, 11:13 AM - Jenit Jain: Test Viva or whag
+11/7/18, 11:17 AM - Sahil Garg: I have no idea bro
+11/8/18, 7:05 PM - Jenit Jain: If they ask dining philosopher, which methods can they ask
+11/8/18, 7:06 PM - Sahil Garg: I haven't reached there bro
+11/8/18, 7:06 PM - Sahil Garg: But everything done in class they can
+11/8/18, 7:07 PM - Jenit Jain: Monitors too?
+11/8/18, 7:07 PM - Sahil Garg: No I think only using semaphores
+11/8/18, 8:47 PM - Jenit Jain: And in the best fit worst fit lab, we make the external fragment a new hole in which fits
+11/8/18, 8:47 PM - Jenit Jain: All of them right?
+11/8/18, 8:50 PM - Sahil Garg: Yes
+11/8/18, 8:58 PM - Jenit Jain: Okk
+11/9/18, 8:37 AM - Jenit Jain: Let me know when I can call for 5 mins thanks
+11/9/18, 9:09 AM - Sahil Garg: Brooo call anytime
+11/9/18, 9:09 AM - Sahil Garg: You don't need to ask
+11/9/18, 9:57 AM - Jenit Jain: Got it
+11/9/18, 9:57 AM - Jenit Jain: But thanks bro
+11/12/18, 8:14 PM - Jenit Jain: Where to study Linux system from 😭
+11/12/18, 8:40 PM - Sahil Garg: Slides are there right I think
+11/12/18, 8:43 PM - Jenit Jain: I couldn't find it for Linuz systems
+11/12/18, 8:44 PM - Jenit Jain: Please forward if you find them
+11/12/18, 8:44 PM - Jenit Jain: Or any material as a matter of fact 😂
+11/12/18, 9:03 PM - Sahil Garg: Cool I'll find and send you
+11/12/18, 9:03 PM - Sahil Garg: Peacee
+11/13/18, 4:04 PM - Sahil Garg: You know the portions for se ?
+11/13/18, 4:26 PM - Jenit Jain: I got the xeroxed copy from on xerox
+11/13/18, 4:27 PM - Sahil Garg: what are the topics after the second sessional?
+11/13/18, 4:27 PM - Jenit Jain: I'll text them in a bit
+11/13/18, 4:28 PM - Sahil Garg: cool
+11/13/18, 7:45 PM - Jenit Jain: What was the last thing in the sessional?
+11/13/18, 7:45 PM - Jenit Jain: I think the notes are incomplete
+11/13/18, 7:46 PM - Jenit Jain: The last thing is black box testing and then project management
+11/13/18, 8:34 PM - Sahil Garg: Uml use case diagram
+11/13/18, 8:34 PM - Sahil Garg: What's before that
+11/13/18, 8:52 PM - Jenit Jain: Graph based testing
+11/13/18, 8:52 PM - Jenit Jain: Graph matrices
+11/13/18, 8:52 PM - Jenit Jain: Deriving test cases
+11/13/18, 8:53 PM - Jenit Jain: And different types of testing
+11/13/18, 9:07 PM - Sahil Garg: Ohh which chapters is this in?
+11/13/18, 9:51 PM - Jenit Jain: Unit testing I think it's called
+11/13/18, 10:08 PM - Jenit Jain: <Media omitted>
+11/13/18, 10:55 PM - Sahil Garg: Ohh cool
+11/13/18, 10:55 PM - Sahil Garg: Thanks broo
+11/13/18, 10:55 PM - Sahil Garg: I have no idea where to study se from bro xD
+11/13/18, 10:56 PM - Jenit Jain: Dude I feel only sessional 2 portion is there in the notes
+11/13/18, 10:56 PM - Sahil Garg: Damn
+11/13/18, 10:56 PM - Sahil Garg: But all that you mentioned wasn't in the second sessional
+11/13/18, 11:06 PM - Jenit Jain: But those are covered in s few pages
+11/13/18, 11:06 PM - Jenit Jain: Let's hope it's enough lol
+11/13/18, 11:20 PM - Sahil Garg: Haha lol
+11/17/18, 7:09 PM - Jenit Jain: What oes have you put
+11/17/18, 7:10 PM - Sahil Garg: Haven't decided bro, was thinking of Italian or Gandhian or operations research. What about you?
+11/17/18, 7:10 PM - Jenit Jain: Physics or maths
+11/17/18, 7:10 PM - Sahil Garg: Which subject ?
+11/17/18, 7:11 PM - Jenit Jain: Solid state
+11/17/18, 7:11 PM - Jenit Jain: Linear alegbra
+11/17/18, 7:11 PM - Jenit Jain: And stuff
+11/17/18, 7:12 PM - Sahil Garg: Ohh nice nice. You want a technical one?
+11/17/18, 7:13 PM - Jenit Jain: Non technical are too weird sounding
+11/17/18, 7:13 PM - Sahil Garg: Why bro 😂😂
+11/18/18, 6:57 AM - Jenit Jain: Yakshagana appreciation
+11/18/18, 6:58 AM - Jenit Jain: Dafuq man 😂
+11/18/18, 6:58 AM - Jenit Jain: Accha listen, I lost my ca book. I'll ask you for couple of topics like the reservation table and etc that aren't there in the text. Please send whenever you can thankss
+11/18/18, 8:50 AM - Jenit Jain: Particularly for reservation tables, dependencies part (examples of data depencies and control dependencies)
+11/18/18, 9:02 AM - Sahil Garg: Yeah this I saw 😂😂
+11/18/18, 9:02 AM - Sahil Garg: Cool cool
+11/18/18, 10:26 AM - Jenit Jain: Thank you
+11/18/18, 11:57 AM - Jenit Jain: Also can you send the formulas for the number of pes connected to 1 pe I various network's (mesh,Omega etc)
+11/18/18, 11:59 AM - Sahil Garg: For barrel shifter it's 2n-1
+11/18/18, 11:59 AM - Sahil Garg: For illiac mesh network it's 4
+11/18/18, 12:02 PM - Jenit Jain: Nothing else na?
+11/18/18, 12:14 PM - Sahil Garg: Nope
+11/18/18, 7:51 PM - Jenit Jain: <Media omitted>
+11/18/18, 7:58 PM - Jenit Jain: Just try solving it na
+11/18/18, 7:58 PM - Sahil Garg: Any stage it is connected
+11/18/18, 8:01 PM - Jenit Jain: Cool
+11/18/18, 8:02 PM - Sahil Garg: Yupp gimme a while I'll do it in night and then discuss answer?
+11/18/18, 8:02 PM - Sahil Garg: So s4 goes to both s5 and s2
+11/18/18, 8:02 PM - Jenit Jain: Yep
+11/18/18, 8:02 PM - Sahil Garg: Then it's just normal reservation table stuff
+11/18/18, 8:03 PM - Jenit Jain: I got 65% as the answer
+11/18/18, 8:03 PM - Jenit Jain: Let me kniw
+11/18/18, 8:03 PM - Sahil Garg: Peace
+11/18/18, 8:03 PM - Jenit Jain: How much you done with
+11/18/18, 8:03 PM - Sahil Garg: Almost done with second sessional
+11/18/18, 8:03 PM - Sahil Garg: You?
+11/18/18, 8:04 PM - Jenit Jain: I started couple of days back so im Done kabka.
+11/18/18, 8:04 PM - Jenit Jain: Scared that I'm finished so quickly
+11/18/18, 8:05 PM - Jenit Jain: Friend told me mesi protocol and clusters they're gonna ask for sure
+11/18/18, 8:06 PM - Sahil Garg: Maddd
+11/18/18, 8:06 PM - Sahil Garg: Ohh damn yeah mesi seems like it'll come
+11/18/18, 8:06 PM - Sahil Garg: For clusters I don't know
+11/18/18, 8:06 PM - Sahil Garg: She didn't even do it in our class
+11/18/18, 10:55 PM - Jenit Jain: Lol
+11/18/18, 10:55 PM - Jenit Jain: Broo
+11/18/18, 10:55 PM - Jenit Jain: In the assignment where you had to add 10 numbers with 8 Pes
+11/18/18, 10:56 PM - Jenit Jain: You put the 1st two and the last two elements in the 1st two pes
+11/18/18, 10:56 PM - Jenit Jain: In the first step, only the first 2 pes are active for the addition operation and the rest are masked off
+11/18/18, 10:57 PM - Sahil Garg: 16 numbers and 8 pes
+11/18/18, 10:57 PM - Jenit Jain: Then the addition from A + B regs is put in R0 and R1 respectively
+11/18/18, 10:57 PM - Jenit Jain: Yeah okay then all pes will be active
+11/18/18, 10:57 PM - Jenit Jain: But the same method right
+11/18/18, 10:57 PM - Sahil Garg: Yupp
+11/18/18, 10:58 PM - Sahil Garg: Yess
+11/18/18, 11:07 PM - Jenit Jain: Thankss
+11/18/18, 11:08 PM - Sahil Garg: Peace
+11/18/18, 11:08 PM - Sahil Garg: ✌🏻
+11/21/18, 9:08 AM - Jenit Jain: <Media omitted>
+11/21/18, 9:08 AM - Jenit Jain: <Media omitted>
+11/21/18, 9:08 AM - Jenit Jain: All the sequence numbers are correct only rightn
+11/21/18, 9:15 AM - Sahil Garg: All correct
+11/21/18, 9:15 AM - Sahil Garg: Yupp all correct
+11/21/18, 9:15 AM - Jenit Jain: Some are saying that last ack has to be 8000
+11/21/18, 9:15 AM - Jenit Jain: And last ack has to be x
+11/21/18, 9:16 AM - Sahil Garg: No I think this is correct only
+11/21/18, 9:16 AM - Sahil Garg: Both diagrams
+11/21/18, 9:16 AM - Sahil Garg: Why would it be 8000?
+11/21/18, 9:18 AM - Jenit Jain: Because ack doesn't consume right
+11/21/18, 9:20 AM - Sahil Garg: For which one?
+11/21/18, 9:21 AM - Sahil Garg: Oh yeah if there's no data it'll continue to be 8000
+11/21/18, 9:21 AM - Jenit Jain: So which one is wrong
+11/21/18, 9:29 AM - Jenit Jain: Okay so the correct values are 8001 and x
+11/21/18, 9:29 AM - Jenit Jain: 8000 is incremented because the ack uses the 8001
+11/21/18, 9:29 AM - Jenit Jain: And the first data also uses 8001
+11/21/18, 9:30 AM - Jenit Jain: X is not incremented because there will be no segment that can use x as a seq number as the connection is being terminated
+11/21/18, 9:30 AM - Jenit Jain: So no sense making it x+1
+11/21/18, 9:30 AM - Jenit Jain: This is what sir said
+11/21/18, 9:37 AM - Sahil Garg: Ohh cool, so that's x
+11/21/18, 9:39 AM - Sahil Garg: But ack doesn't consume an ack right ? So it should be 8000 only ?
+11/21/18, 9:41 AM - Jenit Jain: 8001 is overlapped between ack and the first data seg
+11/21/18, 9:41 AM - Jenit Jain: So it's allowed
+11/21/18, 9:42 AM - Jenit Jain: If you use x+1, it will be waste because it is only for ack and it isn't shared by some data seg
+11/21/18, 9:42 AM - Jenit Jain: Hence incrementing it isa waste
+11/21/18, 9:42 AM - Jenit Jain: That's all I have understood lol
+11/21/18, 9:44 AM - Sahil Garg: Ohh cool cool
+11/21/18, 9:44 AM - Sahil Garg: If there's no data and this logic applies, it should be 8000 only
+11/21/18, 9:45 AM - Jenit Jain: Yep
+11/22/18, 7:34 PM - Jenit Jain: How to se bro
+11/22/18, 7:34 PM - Jenit Jain: What all are you doing
+11/22/18, 7:36 PM - Sahil Garg: Reading everything bro
+11/22/18, 7:36 PM - Sahil Garg: No way out
+11/22/18, 7:41 PM - Jenit Jain: 1-10 except 8?!!
+11/22/18, 7:42 PM - Sahil Garg: Yupp
+11/22/18, 7:42 PM - Sahil Garg: I'm reading just my notebook
+11/22/18, 7:42 PM - Jenit Jain: How are your notes for coding Wala chapter
+11/22/18, 7:43 PM - Sahil Garg: It's little
+11/22/18, 7:43 PM - Sahil Garg: Last 2-3 chapters I'll do from textbook
+11/22/18, 7:46 PM - Jenit Jain: Deth
+11/23/18, 5:38 PM - Jenit Jain: How was it bro 😂
+11/23/18, 6:18 PM - Sahil Garg: Rekt
+11/23/18, 6:18 PM - Sahil Garg: I didn't no 8 marks
+11/23/18, 10:12 PM - Jenit Jain: I didn't know 13 😂
+11/23/18, 10:50 PM - Sahil Garg: Oh damn, did you write something for it?
+11/23/18, 10:50 PM - Sahil Garg: Or just left it
+11/23/18, 10:51 PM - Sahil Garg: You left early also and you looked pissed xD
+11/23/18, 11:07 PM - Jenit Jain: Couldn't possibly write
+11/23/18, 11:07 PM - Jenit Jain: Hadn't even heard about them lol
+11/23/18, 11:08 PM - Jenit Jain: I kept asking vishwa and then gave up 😂
+11/23/18, 11:22 PM - Sahil Garg: Haha same happened for me, like 4 questions
+11/23/18, 11:22 PM - Sahil Garg: lol
+11/23/18, 11:22 PM - Sahil Garg: How's your internals in it though
+11/23/18, 11:25 PM - Jenit Jain: 43
+11/23/18, 11:26 PM - Jenit Jain: I'll get a C mostly lel
+11/23/18, 11:30 PM - Sahil Garg: Why bro xD
+11/23/18, 11:30 PM - Sahil Garg: You'll make a B for sure bro
+11/23/18, 11:30 PM - Sahil Garg: 43+35 also
+11/23/18, 11:30 PM - Sahil Garg: Is 78 bro
+11/23/18, 11:31 PM - Sahil Garg: A also possible right
+11/23/18, 11:32 PM - Jenit Jain: Se man. Cutoff will be highh
+11/23/18, 11:32 PM - Sahil Garg: Yeah bro
+11/23/18, 11:32 PM - Sahil Garg: How much do you think they'll go bro
+11/23/18, 11:32 PM - Sahil Garg: A+ above 90 cutoff?
+11/24/18, 12:05 AM - Jenit Jain: For sure
+11/24/18, 11:42 AM - Sahil Garg: Damn
+11/24/18, 11:44 AM - Jenit Jain: Do you have iOS Paper?
+11/24/18, 11:44 AM - Sahil Garg: No bro, no paper for it
+11/24/18, 11:44 AM - Jenit Jain: Fuck you
+11/24/18, 11:45 AM - Sahil Garg: Bro bro 😂
+11/28/18, 7:44 AM - Jenit Jain: Bro can you explain scheduler activation
+11/28/18, 7:44 AM - Jenit Jain: The light weight process wala part
+12/8/18, 9:09 AM - Jenit Jain: Hey! How'd it go bro
+12/8/18, 9:38 AM - Sahil Garg: Haven't checked broo
+12/8/18, 9:50 AM - Sahil Garg: How much did you get?
+12/8/18, 10:33 AM - Jenit Jain: 8.73 bro
+12/8/18, 10:33 AM - Jenit Jain: I passed se and bi I'm happy 😂
+12/8/18, 10:33 AM - Jenit Jain: You??
+12/8/18, 10:37 AM - Sahil Garg: Damn that's nice bro
+12/8/18, 10:37 AM - Sahil Garg: I still couldn't open the site
+12/8/18, 10:37 AM - Sahil Garg: It's not loading only now
+12/8/18, 10:38 AM - Jenit Jain: Yeah man my roommates thing got updated.
+12/8/18, 10:38 AM - Jenit Jain: Might change hopefully
+12/8/18, 10:38 AM - Sahil Garg: Ohh it did ?
+12/8/18, 10:38 AM - Sahil Garg: From yesterday night v
+12/8/18, 10:38 AM - Sahil Garg: *?
+12/8/18, 10:39 AM - Sahil Garg: Haha let's hope so
+12/8/18, 10:39 AM - Sahil Garg: Updated in the sense?
+12/8/18, 10:40 AM - Jenit Jain: Increase in grade
+12/8/18, 10:40 AM - Jenit Jain: Yes
+12/8/18, 10:41 AM - Sahil Garg: Ohh damn that's chill then
+12/8/18, 10:41 AM - Sahil Garg: Let's see
+12/8/18, 10:41 AM - Sahil Garg: Slcm is opening ?
+12/8/18, 10:47 AM - Jenit Jain: Nope
+12/8/18, 10:47 AM - Sahil Garg: Peacee
+12/30/18, 10:44 AM - Jenit Jain: Happy birthday nigga💛
+12/30/18, 11:00 AM - Sahil Garg: Thanks so much mah man 😀
+1/15/19, 4:34 PM - Sahil Garg: <Media omitted>
+1/15/19, 4:34 PM - Sahil Garg: <Media omitted>
+1/15/19, 4:34 PM - Sahil Garg: <Media omitted>
+1/15/19, 4:34 PM - Sahil Garg: <Media omitted>
+1/15/19, 4:34 PM - Sahil Garg: <Media omitted>
+1/15/19, 4:34 PM - Sahil Garg: <Media omitted>
+1/15/19, 4:34 PM - Sahil Garg: <Media omitted>
+1/15/19, 11:59 PM - Jenit Jain: <Media omitted>
+1/16/19, 12:00 AM - Sahil Garg: 😂😂😂
+1/16/19, 12:00 AM - Sahil Garg: trying to use eclipse is this xD
+1/16/19, 12:00 AM - Jenit Jain: Hahaha
+1/17/19, 6:49 PM - Jenit Jain: Bro tomorrow intersection coding?
+1/17/19, 7:37 PM - Sahil Garg: I'm in
+1/17/19, 7:38 PM - Jenit Jain: You want to come see my place or the library?
+1/17/19, 7:38 PM - Sahil Garg: For?
+1/17/19, 7:38 PM - Jenit Jain: It's a team of 2
+1/17/19, 7:38 PM - Jenit Jain: You wanna participate?
+1/17/19, 7:38 PM - Sahil Garg: Yeah exactly
+1/17/19, 7:39 PM - Sahil Garg: I want to participate
+1/17/19, 7:39 PM - Sahil Garg: But I have some workshop to hold on Saturday
+1/17/19, 7:39 PM - Jenit Jain: Ohh
+1/17/19, 7:39 PM - Sahil Garg: I'll tell you in a while?
+1/17/19, 7:39 PM - Jenit Jain: What you doing
+1/17/19, 7:39 PM - Sahil Garg: Mostly yes
+1/17/19, 7:39 PM - Jenit Jain: Yeah yeah
+1/17/19, 7:39 PM - Sahil Garg: Apple developers group event workshop
+1/17/19, 7:39 PM - Sahil Garg: On ios dev
+1/17/19, 7:40 PM - Sahil Garg: In the sense let's participate for the coding as a team
+1/17/19, 7:40 PM - Jenit Jain: Ohh I saw that
+1/17/19, 7:40 PM - Jenit Jain: Touche
+1/17/19, 7:52 PM - Sahil Garg: Haha lol
+1/17/19, 9:50 PM - Sahil Garg: bro lets do it together
+1/17/19, 9:50 PM - Sahil Garg: do we have to register somewhere?
+1/17/19, 9:57 PM - Jenit Jain: I thought we could do it from home. Bro, i have worked at home tomorrow after class which is why I suggested we work here. Won't be able to participate :/
+1/17/19, 10:01 PM - Sahil Garg: its in nlh bro
+1/17/19, 10:01 PM - Sahil Garg: ok cool
+1/22/19, 10:36 AM - Jenit Jain: Bro I don't wanna Miss out on studies 🙈. Can you send me pcap and CD notes for the next few days please
+1/22/19, 10:37 AM - Sahil Garg: Cool
+1/22/19, 10:37 AM - Sahil Garg: Where are you?
+1/22/19, 10:38 AM - Jenit Jain: Bro my sister's wedding
+1/22/19, 10:38 AM - Jenit Jain: I'll come back on the first directly ripp
+1/22/19, 10:59 AM - Sahil Garg: Nice, have fun bro
+1/22/19, 10:59 AM - Sahil Garg: Notes 📝 will be taken care of
+1/22/19, 11:00 AM - Jenit Jain: 😭😭😭😭
+1/22/19, 11:00 AM - Jenit Jain: Bhai hai tu
+1/22/19, 11:00 AM - Jenit Jain: 😂
+1/22/19, 11:00 AM - Sahil Garg: 😂😂
+1/22/19, 11:00 AM - Jenit Jain: Thanks a ton man!
+1/22/19, 11:00 AM - Sahil Garg: ✌🏻
+1/22/19, 2:20 PM - Jenit Jain: Can you explain to me what's the project thing in pp lab
+1/22/19, 7:58 PM - Sahil Garg: He said it's 3 people a team
+1/22/19, 7:58 PM - Sahil Garg: And some summary format is there on mail
+1/22/19, 7:58 PM - Sahil Garg: Have to submit it next week in that format
+1/22/19, 7:58 PM - Sahil Garg: Choose a topic or problem that can be solved with parallelism, and fill the summary and do a project on it
+1/22/19, 7:59 PM - Sahil Garg: Project is the code to solve that problem - should use MPI and Cuda/opencl
+1/22/19, 7:59 PM - Jenit Jain: Last lab y'all were taught cuda na?
+1/22/19, 8:00 PM - Sahil Garg: Today was pcap lab, had mpi only
+1/22/19, 8:00 PM - Jenit Jain: Full code submission next week?
+1/22/19, 8:00 PM - Sahil Garg: No cuda yet
+1/22/19, 8:00 PM - Sahil Garg: No just initial summary of which topic you'll take up
+1/22/19, 8:02 PM - Jenit Jain: So is it fine if I'm not there for submission or should I just email sir
+1/22/19, 8:03 PM - Jenit Jain: And can we group for thi
+1/22/19, 8:06 PM - Sahil Garg: I think it's fine
+1/22/19, 8:07 PM - Sahil Garg: Yupp I don't have any group
+1/22/19, 8:07 PM - Sahil Garg: It's groups of 3
+1/22/19, 8:07 PM - Sahil Garg: You want to group up?
+1/22/19, 8:10 PM - Jenit Jain: Always assume the answer fam
+1/22/19, 8:11 PM - Sahil Garg: Haha
+1/22/19, 8:12 PM - Sahil Garg: Peace
+1/22/19, 8:15 PM - Jenit Jain: I'll look for this tonight and get back to you
+1/22/19, 8:17 PM - Sahil Garg: Yupp I'll also search
+1/22/19, 8:17 PM - Sahil Garg: And third person?
+1/22/19, 8:18 PM - Jenit Jain: No one asked you Kya?
+1/22/19, 8:18 PM - Jenit Jain: Haha
+1/22/19, 8:19 PM - Jenit Jain: Wait I'll ask Anushka?
+1/22/19, 8:21 PM - Sahil Garg: Nope no one yet
+1/23/19, 11:31 AM - Sahil Garg: Dear All,
+
+As part of PCAP lab work, you need to search for a problem from Science or Mathematics or Engineering and implement a parallel solution to it in MPI+OpenCL or MPI+CUDA.
+
+Batch 1 - submission date 29th Jan 2019
+Batch 2 - submission date 24th Jan 2019
+
+I have already mailed the synopsis format. You can search in the library portal for a paper.
+
+Regards,
+Ashwath Rao B,
+Asst. Prof(Selection Grade),
+CSE Dept.,
+M.I.T. Manipal - 576 104
+Ph: 98454 03148
+
+Email: ashwath.rao@manipal.edu
+
+Web : http://ashwath-rao.webs.com/blog
+1/23/19, 12:18 PM - Jenit Jain: 👍🏻
+1/27/19, 9:43 PM - Jenit Jain: Bro kuch Kiya?😂
+1/27/19, 9:44 PM - Jenit Jain: I'm so sorry for not contributing.
+1/27/19, 9:44 PM - Jenit Jain: I couldn't find a project that wasn't too easy
+1/27/19, 9:44 PM - Jenit Jain: They are either fuck all small progs or too long
+1/27/19, 9:46 PM - Sahil Garg: Chill bro I also haven't done anything
+1/27/19, 9:46 PM - Sahil Garg: I was in gpa
+1/27/19, 9:46 PM - Sahil Garg: *goa
+1/27/19, 9:46 PM - Sahil Garg: Going to manipal back now
+1/27/19, 9:46 PM - Jenit Jain: Lit boi.
+1/27/19, 9:46 PM - Sahil Garg: What are the too long ones?
+1/27/19, 9:46 PM - Sahil Garg: We can just copy one of that xD
+1/27/19, 9:47 PM - Sahil Garg: If you have a good link send
+1/27/19, 9:47 PM - Sahil Garg: Or I'll search tomorrow lol
+1/27/19, 9:48 PM - Jenit Jain: Bro I have to wake up at 5:30. Now till 30th I can't do shit. Dw I'll do everything in all projects sirf kalka sambhal lo 🙈
+1/27/19, 9:52 PM - Sahil Garg: Peacee don't worry
+1/27/19, 9:52 PM - Sahil Garg: I'll get it done
+1/27/19, 9:53 PM - Jenit Jain: Godddd
+1/28/19, 4:54 PM - Jenit Jain: Bro please try to find some random thing. It will become messy with other people
+1/28/19, 4:54 PM - Jenit Jain: Plus it's so last minute
+1/28/19, 5:45 PM - Sahil Garg: Yes will do
+1/28/19, 5:45 PM - Sahil Garg: Amrit will do with us
+1/28/19, 5:45 PM - Sahil Garg: So it can be 3 of us - you me and amrit
+1/28/19, 5:45 PM - Sahil Garg: Is that fine?
+1/28/19, 5:55 PM - Jenit Jain: Yes yes
+1/28/19, 5:58 PM - Sahil Garg: Cool
+1/28/19, 11:36 PM - Sahil Garg: send your registration number
+1/28/19, 11:39 PM - Jenit Jain: 160905070
+2/1/19, 1:31 PM - Jenit Jain: Bro can I please borrow your eefm, CD and pcap books tomorrow?
+2/1/19, 1:31 PM - Jenit Jain: I'll return them on Monday itself
+2/1/19, 1:41 PM - Sahil Garg: 👍🏻
+2/1/19, 1:47 PM - Jenit Jain: Thank you so much.
+2/1/19, 1:47 PM - Jenit Jain: Bhai Tere Bina engineering hi nahi hoti 😂😂
+2/1/19, 6:57 PM - Sahil Garg: Haha bro it's chill
+2/2/19, 10:48 AM - Jenit Jain: Did you attend oe?
+2/2/19, 1:45 PM - Sahil Garg: No I'm in Italian
+2/2/19, 1:45 PM - Sahil Garg: I don't have normal oe
+2/2/19, 1:59 PM - Jenit Jain: Damn. Can I take your books whenever you leave you room?
+2/2/19, 5:09 PM - Sahil Garg: Yup can I give it to you tomorrow ?
+2/2/19, 5:13 PM - Jenit Jain: Sure
+2/2/19, 5:14 PM - Jenit Jain: and like lab 3 and 4 forward the mail too please
+2/2/19, 10:47 PM - Jenit Jain: Tomorrow morning what time should I come by
+2/2/19, 10:48 PM - Sahil Garg: Bro I have class tomorrow from 9 in morning to 1
+2/2/19, 10:48 PM - Sahil Garg: you want to take a photocopy of all the notes right?
+2/2/19, 10:48 PM - Sahil Garg: come after 2 or so
+2/2/19, 10:48 PM - Sahil Garg: ill give you a call
+2/2/19, 10:49 PM - Sahil Garg: around 2:30 or so you can come bro and take all 3
+2/2/19, 10:49 PM - Sahil Garg: sorry sorry I didnt reply, I was in a class
+2/2/19, 10:49 PM - Sahil Garg: Ill send the mails for both labs
+2/2/19, 10:53 PM - Jenit Jain: I'll try to write how much ever I can in my own words and photocopy the rest
+2/2/19, 10:53 PM - Jenit Jain: I'll give it to you on Monday class is that fine?
+2/2/19, 10:53 PM - Jenit Jain: Thank you!
+2/2/19, 10:54 PM - Sahil Garg: yup its chill
+2/2/19, 10:54 PM - Jenit Jain: Sort sort. Thankss
+2/2/19, 11:00 PM - Sahil Garg: can you tell me which labs for CD and which ones for PCAP
+2/2/19, 11:00 PM - Sahil Garg: peace
+2/2/19, 11:01 PM - Jenit Jain: 3 and 4 for both of them
+2/3/19, 4:08 PM - Jenit Jain: Bro when should I come
+2/3/19, 4:20 PM - Sahil Garg: Broo I was in room only left for a movie now
+2/3/19, 4:21 PM - Sahil Garg: Can you come at 7?
+2/3/19, 4:21 PM - Jenit Jain: Cool
+2/3/19, 6:55 PM - Jenit Jain: Where should I come
+2/3/19, 7:29 PM - Jenit Jain: And when
+2/3/19, 10:25 PM - Sahil Garg: Bro been out only, I was in room at 7 only for like 10 mins
+2/3/19, 10:25 PM - Sahil Garg: You can come now if you want the books right now or tomo morning ?
+2/3/19, 10:38 PM - Sahil Garg: Sent mails for labs
+2/3/19, 10:44 PM - Jenit Jain: Thank you
+2/5/19, 10:12 AM - Jenit Jain: Bro eefm book
+2/5/19, 10:29 AM - Sahil Garg: Oh damn yes
+2/5/19, 10:29 AM - Sahil Garg: Broo today's lab
+2/5/19, 10:29 AM - Sahil Garg: Take both eefm and pcap
+2/5/19, 10:29 AM - Sahil Garg: You have my cd right?
+2/5/19, 10:29 AM - Jenit Jain: Yep
+2/5/19, 10:29 AM - Jenit Jain: You don't have a lecture now but
+2/5/19, 10:29 AM - Sahil Garg: Yeah I don't
+2/5/19, 10:30 AM - Sahil Garg: You can take them now?
+2/5/19, 10:30 AM - Sahil Garg: You have class now right?
+2/5/19, 10:30 AM - Jenit Jain: Should I give it to ananya? She's in divyas class only right
+2/5/19, 10:30 AM - Sahil Garg: Nono
+2/5/19, 10:30 AM - Sahil Garg: Give it to me in lab only
+2/5/19, 10:31 AM - Sahil Garg: I don't need it
+2/5/19, 10:31 AM - Jenit Jain: Accha cool
+2/6/19, 5:51 PM - Jenit Jain: Bro forward the symbol table code na. apparently I have to given the assignment before doing the lab 🙈
+2/6/19, 6:42 PM - Sahil Garg: I've already sent it to you
+2/6/19, 6:59 PM - Jenit Jain: Accha it was included in those emails? Peace peace
+2/6/19, 6:59 PM - Jenit Jain: Congratulations for the award 😂
+2/6/19, 7:01 PM - Jenit Jain: Opencl Wala lab too lol
+2/6/19, 7:11 PM - Sahil Garg: yup it was
+2/6/19, 7:11 PM - Sahil Garg: thanks bob
+2/6/19, 7:11 PM - Sahil Garg: ill send
+2/7/19, 11:29 PM - Jenit Jain: Ya bro you called?
+2/7/19, 11:30 PM - Sahil Garg: do we have to submit the project synopsis tomorrow or not bro?
+2/7/19, 11:30 PM - Jenit Jain: Nope
+2/7/19, 11:30 PM - Jenit Jain: Next werk
+2/7/19, 11:30 PM - Sahil Garg: cool
+2/8/19, 12:30 PM - Sahil Garg: Bro you stay near vgt side right ?
+2/8/19, 12:33 PM - Jenit Jain: Yep
+2/8/19, 12:34 PM - Sahil Garg: Then just come to my room tomorrow bro instead of going to library ?
+2/8/19, 12:34 PM - Sahil Garg: Amrit is also in the block itself
+2/8/19, 12:34 PM - Sahil Garg: It'll be closer for you
+2/8/19, 12:35 PM - Jenit Jain: Sort bro
+2/13/19, 10:13 AM - Jenit Jain: Bro do you have the exact chapter subsections of each chapter in CD and pcap?
+2/13/19, 10:14 AM - Sahil Garg: No bro
+2/13/19, 10:14 AM - Sahil Garg: Just the notes in class as such
+2/13/19, 10:15 AM - Sahil Garg: You can see the subsections from the course plan
+2/13/19, 11:24 AM - Jenit Jain: Not going to use the text book?
+2/13/19, 11:58 AM - Sahil Garg: No bro notes and slides
+2/14/19, 11:33 AM - Jenit Jain: Is flex included?
+2/14/19, 12:39 PM - Sahil Garg: Nope I don't think
+2/19/19, 11:02 PM - Jenit Jain: <Media omitted>
+2/19/19, 11:11 PM - Sahil Garg: lolol mit cse labs xD
+2/21/19, 11:23 AM - Jenit Jain: Bro your string wasn't getting accepted ?
+2/21/19, 12:03 PM - Sahil Garg: Question 4?
+2/21/19, 12:03 PM - Sahil Garg: Mine wasn't
+2/21/19, 12:04 PM - Jenit Jain: I got 3
+2/21/19, 12:04 PM - Sahil Garg: I just stopped where the string was coming ambiguous
+2/21/19, 12:04 PM - Sahil Garg: I got 4 bro
+2/21/19, 12:04 PM - Jenit Jain: Do you know anyone who got 3
+2/21/19, 12:04 PM - Sahil Garg: No bro
+2/21/19, 12:08 PM - Jenit Jain: Accha thanks!
+2/21/19, 9:44 PM - Jenit Jain: Bro CD lab we have to submit the synopsis or no?
+2/21/19, 9:44 PM - Jenit Jain: Anyway we decided the project right
+2/21/19, 10:36 PM - Sahil Garg: I'm not sure bro, Yes I think that project is perfect ? Just gotta make the abstract if we have to submit
+2/21/19, 10:38 PM - Jenit Jain: Vasvi said only grammar
+2/21/19, 10:39 PM - Sahil Garg: And regular expressions also she had said in class
+2/21/19, 10:39 PM - Jenit Jain: Yaya
+2/21/19, 10:39 PM - Jenit Jain: That's also given in the PDF right?
+2/21/19, 10:40 PM - Sahil Garg: Yes it's there I think so just need to copy that and modify a bit
+2/21/19, 10:40 PM - Sahil Garg: Modify in the sense add some explanation if we want to in our words
+2/21/19, 10:41 PM - Jenit Jain: Okay so should I copy down everything on paper
+2/21/19, 10:41 PM - Jenit Jain: And then write our names
+2/21/19, 10:41 PM - Jenit Jain: And the language is erplang right?
+2/21/19, 10:41 PM - Jenit Jain: We'll have to change that right
+2/21/19, 10:50 PM - Sahil Garg: I'm not sure if we have to submit a handwritten copy or a printed doc
+2/21/19, 10:50 PM - Sahil Garg: It's better if we confirm with her first
+2/21/19, 10:50 PM - Sahil Garg: Nope we finalised that bits one right ?
+2/21/19, 10:53 PM - Jenit Jain: But it's not a made up language right.
+2/21/19, 10:54 PM - Jenit Jain: Or was it made up by the creator
+2/21/19, 10:54 PM - Sahil Garg: it isn't necessary to do it on a made up language
+2/21/19, 10:54 PM - Sahil Garg: you can do it for anything
+2/21/19, 10:54 PM - Jenit Jain: Oh okayy
+2/21/19, 10:54 PM - Jenit Jain: Then chill
+2/21/19, 10:54 PM - Sahil Garg: its a language bits uses to teach their compiler design course so its chill
+2/21/19, 10:54 PM - Jenit Jain: Can you do the texting. She's already pretty pissed at me
+2/21/19, 10:55 PM - Jenit Jain: Oh right yeah
+2/21/19, 10:56 PM - Sahil Garg: yes I will bro, no issues
+2/21/19, 10:56 PM - Sahil Garg: I will check with her and tell you
+2/21/19, 10:57 PM - Sahil Garg: lets just compile the stuff that we will put in the abstracy
+2/21/19, 10:57 PM - Sahil Garg: then either write it or put it in a doc and print it
+2/22/19, 4:15 PM - Jenit Jain: What did CD ma'am say
+2/22/19, 4:16 PM - Sahil Garg: I called her just now bro
+2/22/19, 4:16 PM - Sahil Garg: It's not today
+2/22/19, 4:16 PM - Sahil Garg: She said we can submit before next Wednesday
+2/22/19, 4:18 PM - Jenit Jain: Sort I'll print it out
+2/22/19, 4:18 PM - Jenit Jain: Where to write the nane
+2/22/19, 4:19 PM - Sahil Garg: Add it in the doc itself on last page ?
+2/22/19, 4:20 PM - Jenit Jain: Or first
+2/22/19, 4:20 PM - Sahil Garg: First is also chill
+2/22/19, 4:20 PM - Sahil Garg: Do it on first
+2/23/19, 5:54 PM - Jenit Jain: Bro can you explain me what you used flex for in the symbol table program
+2/23/19, 5:55 PM - Jenit Jain: And what part you implemented using normal C
+2/23/19, 7:39 PM - Sahil Garg: Everything in c
+2/23/19, 7:39 PM - Sahil Garg: No flex
+2/23/19, 7:45 PM - Jenit Jain: She told me to include flex some how in the symbol table code
+2/23/19, 7:45 PM - Jenit Jain: What's that for
+2/23/19, 9:36 PM - Sahil Garg: So symbol table is for only function names and identifiers right ?
+2/23/19, 9:36 PM - Sahil Garg: Everything else like operators and symbols and stuff just print with flex
+2/23/19, 9:36 PM - Sahil Garg: And for this use c code as header file and call its function
+2/23/19, 9:49 PM - Jenit Jain: Functions to basically add an entry in the table right?
+2/23/19, 9:49 PM - Sahil Garg: Yupp
+2/27/19, 11:06 AM - Jenit Jain: Bro send me the sample input program that was used for the symbol table output (that day where they checked everyone's code)
+2/27/19, 11:06 AM - Jenit Jain: And send the project file as well
+2/27/19, 11:06 AM - Jenit Jain: I'll get it verified
+2/27/19, 11:07 AM - Sahil Garg: yes sending
+2/27/19, 11:08 AM - Sahil Garg: <Media omitted>
+2/27/19, 11:08 AM - Sahil Garg: this is the one
+2/27/19, 11:24 AM - Jenit Jain: This too
+2/27/19, 11:39 AM - Sahil Garg: On the group
+2/27/19, 11:39 AM - Sahil Garg: <Media omitted>
+2/27/19, 11:39 AM - Sahil Garg: <Media omitted>
+2/27/19, 11:55 AM - Jenit Jain: Got it
+3/5/19, 9:26 AM - Jenit Jain: <Media omitted>
+3/5/19, 9:26 AM - Jenit Jain: http://delivery.hackerearth.com/wf/click?upn=66-2FXbkRdapwREn-2FK16PvH1eSTna2aDhxULMJzwlZ1TFlxLQder8A7D-2BinMqtEdlJtHCJE-2FFBsexE97Y7ckEwAsiuHzR8-2B7d8aI1IizM-2BbRJCUAtdgJTz4xNPsmpL7WeJ0K2-2B3DOayA-2Bp0ChaEwf3McZQV2YPzy3LNY7k-2BD90i0dJXvwCDluWVuEnj-2BJid6v7L2ZW96wxR-2BBKVnktnDHd-2BAvwubvEzGWRFE2j1G7626KzO2hF2FyNMSzeK9iUOWRyJLeb7q2ItFbtaz7zQJg-2FzUl-2Bbxlv8-2BUYXWqpvnYCTsYLQmQc7MsRiSpV5bxClGE7fOy7lya0rQ8-2Fwuorf17m3KDHPFN2fBhiBX09sRPvqyI-3D_iQFe8wTMX7RgbMPj72uidJ2C-2B52mHPWZc4Gfv4W9CoprYYDU-2BvhLIvNTcKchGhyxU46Eyk7Cby4GaF-2BZF9FzICufF-2FIghAZ9jWUpytvQQDOX5pSBsRRB5ez-2BRT1Np4HfkdwYqvbAvpuFuqZsnCmpDvnZIJLH8-2B-2FUcMtj5TM1Nom0BgWhEe7c1TDLjwjFHN-2FIP8Khhvdu1OV0B0qZ9CjBFqwXUY5jOcWidqKJAumj41-2BKq7SufUmQo7a095K5RKRKTJQ2VcNwro1pUHN8hzWOPWQYgWbGeQ1Ldjgkzzdgz3Gac3UJmoqfhaNDL5TyZw2u
+3/9/19, 1:40 AM - Jenit Jain: <Media omitted>
+3/9/19, 9:41 AM - Sahil Garg: Worse if you have to code for that colon in cD lab lol 😂
+3/13/19, 3:53 PM - Jenit Jain: Bro send today's CD notes please whenever you're free
+3/13/19, 3:57 PM - Sahil Garg: Peace
+3/19/19, 12:31 PM - Jenit Jain: Bro please tell sir that I'm getting admitted so I won't be coming for the lab
+3/19/19, 12:31 PM - Jenit Jain: And this😂😂
+3/19/19, 12:33 PM - Sahil Garg: Sure I'll do that
+3/19/19, 12:34 PM - Sahil Garg: Which class was this bro?
+3/19/19, 12:34 PM - Jenit Jain: Slr parser examples
+3/19/19, 1:20 PM - Sahil Garg: I'll send
+3/25/19, 8:22 PM - Jenit Jain: bro can you send the latest lab codes for both the labs
+3/25/19, 8:25 PM - Sahil Garg: done
+3/25/19, 8:27 PM - Jenit Jain: and on Wednesday when we meet in class, can i please xerox the latest stuff from pcap and cd theory. I dont know when my resessionals are so need to be prepared lol.
+3/25/19, 8:28 PM - Sahil Garg: cool
+3/25/19, 8:29 PM - Jenit Jain: thank youuu
+3/25/19, 8:29 PM - Sahil Garg: 🤟🏻
+4/1/19, 9:02 AM - Jenit Jain: Be
+4/1/19, 9:02 AM - Jenit Jain: Bro
+4/1/19, 9:02 AM - Jenit Jain: Remember that rowsum of the preceding rows of a matrix in mpi
+4/1/19, 9:02 AM - Jenit Jain: Lab 3
+4/1/19, 9:03 AM - Jenit Jain: Basically you send 1 row to every process and then do mpi_scan
+4/1/19, 9:14 AM - Sahil Garg: Yeah?
+4/1/19, 10:57 AM - Jenit Jain: What if we have to do colsum of the preceding columns
+4/1/19, 10:57 AM - Jenit Jain: How would you do this with MPI collective communication
+4/1/19, 11:25 AM - Sahil Garg: Transpose the matrix and then do the same thing ?
+4/1/19, 11:27 AM - Jenit Jain: Thanks for making me feel dumb
+4/1/19, 11:33 AM - Sahil Garg: Lol I'm asking if that's fine ? It should work right ?
+4/1/19, 11:37 AM - Jenit Jain: Yes
+4/1/19, 11:38 AM - Jenit Jain: Transpose, same thing, then transpose again
+4/1/19, 11:41 AM - Sahil Garg: Yes that should be it
+4/1/19, 11:46 AM - Sahil Garg: How do you transpose a matrix using collective communication ?
+4/1/19, 11:50 AM - Jenit Jain: Send a row to each process then all to all
+4/1/19, 11:52 AM - Sahil Garg: Send row using scatter ?
+4/1/19, 11:53 AM - Sahil Garg: How will all to all do transpose ? You'll get same matrix back right ?
+4/1/19, 11:54 AM - Jenit Jain: Yes
+4/1/19, 11:54 AM - Jenit Jain: <Media omitted>
+4/1/19, 11:55 AM - Sahil Garg: Thanks where is this ?
+4/1/19, 11:55 AM - Sahil Garg: And after all to all you have to do gather again ?
+4/1/19, 11:58 AM - Jenit Jain: Not needed, the process can directly print the row. Or you can gather and then print after 
+If r==0
+4/1/19, 11:58 AM - Jenit Jain: <Media omitted>
+4/1/19, 11:59 AM - Sahil Garg: Yeah got it, like if you want the matrix back in process 0 then you'll need to gather it back was my question
+4/1/19, 11:59 AM - Sahil Garg: Thanks bro
+4/1/19, 11:59 AM - Jenit Jain: Thank *you* 😂
+4/1/19, 12:00 PM - Sahil Garg: Haha 😂
+4/2/19, 4:14 PM - Jenit Jain: Bro how did you send the elements
+4/2/19, 4:15 PM - Sahil Garg: using MPI_Send
+4/2/19, 4:15 PM - Sahil Garg: point to point
+4/2/19, 4:28 PM - Jenit Jain: man fucking this shit didnt work
+4/2/19, 4:28 PM - Jenit Jain: lets say you want to sen 5th element, so first parameter will be a[5] or &a[5]
+4/2/19, 4:29 PM - Sahil Garg: &a[5[
+4/2/19, 4:29 PM - Jenit Jain: accha thanks
+4/2/19, 4:30 PM - Sahil Garg: you didnt put that?
+4/2/19, 4:30 PM - Jenit Jain: i did. still my send calls werent workong
+4/2/19, 4:30 PM - Sahil Garg: no idea bro
+4/2/19, 4:30 PM - Sahil Garg: yours didnt work?
+4/2/19, 4:31 PM - Jenit Jain: what if you send the same tags(0-3) but with different destn address, is that a problem
+4/2/19, 4:31 PM - Jenit Jain: barely
+4/2/19, 4:31 PM - Jenit Jain: it read the i/p and then hangs
+4/2/19, 4:32 PM - Sahil Garg: nope
+4/2/19, 4:32 PM - Sahil Garg: damn so he marked ticks for what all?
+4/2/19, 4:33 PM - Jenit Jain: too many time ive heard this this sem
+4/2/19, 4:33 PM - Jenit Jain: idk bro😂
+4/2/19, 4:33 PM - Jenit Jain: this sem is over for me
+4/2/19, 4:34 PM - Sahil Garg: haha lol
+4/2/19, 4:34 PM - Sahil Garg: itll be okay bro dont worry
+4/2/19, 4:34 PM - Sahil Garg: how many people got it working?
+4/2/19, 4:34 PM - Jenit Jain: quite a few actualy
+4/2/19, 4:34 PM - Jenit Jain: lets see mamn
+4/2/19, 4:35 PM - Jenit Jain: tomorrow what time are we meeting for the project
+4/2/19, 4:35 PM - Sahil Garg: tomorrow morning lets do
+4/2/19, 4:35 PM - Sahil Garg: what time is best for you?
+4/2/19, 4:52 PM - Jenit Jain: Let's do as early as
+4/2/19, 4:52 PM - Jenit Jain: I have an exam day after so must study
+4/2/19, 4:54 PM - Sahil Garg: say the time bob, ill be up for it
+4/2/19, 4:54 PM - Jenit Jain: <Media omitted>
+4/2/19, 4:54 PM - Sahil Garg: after 8 though
+4/2/19, 4:54 PM - Jenit Jain: We'll ask on the group
+4/2/19, 4:55 PM - Jenit Jain: Bro just see if there's something wrong in sending and receiving
+4/2/19, 5:14 PM - Jenit Jain: Fuck bro
+4/2/19, 5:14 PM - Jenit Jain: Stupid mistake got or
+4/2/19, 5:14 PM - Jenit Jain: it*
+4/2/19, 8:06 PM - Sahil Garg: I was in Italian class bro sorry
+4/2/19, 8:07 PM - Sahil Garg: Let's do that
+4/2/19, 8:07 PM - Sahil Garg: What was it ? :o
+4/2/19, 8:10 PM - Jenit Jain: Bro I was sending from 0 to all including 0 but there is more recv for process 0 so it hangs
+4/2/19, 8:10 PM - Jenit Jain: Fucking 4 more lines of code.
+4/2/19, 8:15 PM - Sahil Garg: Ohh
+4/2/19, 8:15 PM - Sahil Garg: You didn't have to send from 0 to 0
+4/2/19, 8:16 PM - Jenit Jain: Yes I added that to my come after coming home
+4/2/19, 8:16 PM - Jenit Jain: Loll
+4/2/19, 8:17 PM - Sahil Garg: Lol
+4/4/19, 9:06 PM - Jenit Jain: You deleted this message
+4/4/19, 9:33 PM - Jenit Jain: bro your part of the code is forming the token list right?
+4/4/19, 9:33 PM - Jenit Jain: tokenInfo struct one
+4/4/19, 10:37 PM - Sahil Garg: Yes it is I think I'm still not thorough bro I'll start now properly I had oe from 5 to 8
+4/4/19, 10:43 PM - Jenit Jain: yeah yeah its chill. just let me know before lab
+4/4/19, 10:43 PM - Jenit Jain: also when im done with my code, i'll send the updated .c file. i have added comments for tomorrow in case i fuck up lol
+4/4/19, 10:46 PM - Sahil Garg: Give me 1 hour or so
+4/4/19, 10:46 PM - Sahil Garg: Peaceful lol
+4/4/19, 10:46 PM - Jenit Jain: yeah yeah i just want the meaning of the returned values
+4/5/19, 7:23 PM - Jenit Jain: Bro when S0 doesn't contain all items, it doesn't affect the closure of other items sets right?
+4/5/19, 7:23 PM - Jenit Jain: Like closure we add from the og grammar only right
+4/5/19, 7:23 PM - Sahil Garg: No it doesn't
+4/5/19, 7:24 PM - Jenit Jain: 👍🏻
+4/7/19, 3:39 PM - Jenit Jain: Bro Pcap your notes are enough for sessional 2 or are there more things in the text theory wise
+4/7/19, 4:57 PM - Sahil Garg: I did just that
+4/7/19, 5:06 PM - Jenit Jain: Best
+4/7/19, 5:45 PM - Jenit Jain: Also can either of the 2 assignments be conducted tomorrow?
+4/7/19, 5:52 PM - Sahil Garg: I'm not sure bro
+4/7/19, 5:52 PM - Sahil Garg: Haven't said anything
+4/7/19, 6:46 PM - Jenit Jain: Let me know if you find out please
+4/7/19, 7:42 PM - Sahil Garg: Sure bro
+4/7/19, 7:42 PM - Sahil Garg: Nothing yet
+4/8/19, 7:57 AM - Jenit Jain: <Media omitted>
+4/8/19, 9:09 AM - Sahil Garg: 😂😂
+4/8/19, 9:09 AM - Sahil Garg: Lol too much difference between sending a mail and having a log xD
+4/11/19, 9:40 PM - Jenit Jain: bro can you please send cd lab 2 code
+4/11/19, 9:53 PM - Jenit Jain: basically how do you get tokens without using spaces
+4/11/19, 10:42 PM - Sahil Garg: If it's not an alnum or not underscore then generate the token
+4/11/19, 10:42 PM - Sahil Garg: Instead of at getting space
+4/11/19, 10:44 PM - Jenit Jain: And also if there is a space or a new line right
+4/11/19, 10:44 PM - Sahil Garg: That'll be automatically included in else
+4/11/19, 10:46 PM - Jenit Jain: Okay okay
+4/11/19, 10:47 PM - Jenit Jain: Bro if there are key points to definitely remember coding wise like this please tell
+4/11/19, 10:47 PM - Jenit Jain: I just started I'm fucked man😭
+4/11/19, 10:54 PM - Sahil Garg: Haha bro it's chill it's not so much, the main issue is C Code just randomly doesn't work lol
+4/11/19, 10:56 PM - Jenit Jain: Accha alright I'll try
+4/11/19, 10:56 PM - Jenit Jain: Thank you
+4/12/19, 5:36 AM - Jenit Jain: You deleted this message
+4/12/19, 10:32 AM - Jenit Jain: BROOO
+4/12/19, 10:33 AM - Jenit Jain: YOU SAVED MY ASS
+4/12/19, 10:33 AM - Jenit Jain: Must appreciate
+4/12/19, 10:33 AM - Jenit Jain: Thank you
+4/12/19, 10:59 AM - Sahil Garg: Haha it's chill
+4/12/19, 10:59 AM - Sahil Garg: Yours worked fully ?
+4/12/19, 11:02 AM - Jenit Jain: I didn't include the case to allow c as an ID but except that yes
+4/12/19, 11:02 AM - Jenit Jain: Yours?
+4/12/19, 11:02 AM - Sahil Garg: Yes same
+4/12/19, 11:02 AM - Sahil Garg: You think they'll cut for that?
+4/12/19, 11:02 AM - Sahil Garg: Other sections didn't even have a check for this
+4/12/19, 11:02 AM - Sahil Garg: The c was a keyword for me
+4/12/19, 11:03 AM - Sahil Garg: Everything else was chill
+4/12/19, 11:10 AM - Jenit Jain: Depends on if that 1 mother fucker implemented it
+4/12/19, 11:11 AM - Jenit Jain: Same
+4/12/19, 11:11 AM - Jenit Jain: But truly, thank you
+4/12/19, 11:14 AM - Sahil Garg: Yeah Krishna Birla did it
+4/12/19, 11:15 AM - Sahil Garg: Haha it's chill man 🤟🏻
+4/12/19, 11:17 AM - Jenit Jain: Madarchod
+4/12/19, 11:20 AM - Sahil Garg: Yeah it's fine
+4/12/19, 11:20 AM - Sahil Garg: How much do you think they'll cut for that
+4/12/19, 11:20 AM - Sahil Garg: Out of 25?
+4/12/19, 11:38 AM - Jenit Jain: 2-3?
+4/12/19, 11:38 AM - Sahil Garg: Yeah I guess
+4/12/19, 11:38 AM - Sahil Garg: Or maybe even lesser right ?
+4/12/19, 11:38 AM - Sahil Garg: It was a small thing only right ?
+4/12/19, 11:44 AM - Jenit Jain: Bhai Tera A* ayega chill Kar 😂
+4/12/19, 11:45 AM - Sahil Garg: Is that an A
+4/12/19, 11:45 AM - Sahil Garg: Or an A+
+4/12/19, 11:45 AM - Sahil Garg: :P
+4/12/19, 11:45 AM - Jenit Jain: 🙄🙄
+4/12/19, 11:45 AM - Jenit Jain: How were your internals tho overall
+4/12/19, 11:45 AM - Sahil Garg: We don't know right ?
+4/12/19, 11:45 AM - Sahil Garg: It's not uploaded ?
+4/12/19, 11:51 AM - Jenit Jain: Yess but I know you know already
+4/12/19, 11:52 AM - Sahil Garg: Lol how?
+4/12/19, 11:52 AM - Jenit Jain: You're smart man 😂 what do you expect me to tell you
+4/12/19, 11:53 AM - Sahil Garg: Lolol no man I don't know how much they're giving really
+4/12/19, 11:53 AM - Sahil Garg: This sem is bad for everyone lol
+4/14/19, 8:17 PM - Jenit Jain: Bro I need help with the MPI part
+4/14/19, 8:34 PM - Sahil Garg: What happened bro
+4/14/19, 8:44 PM - Jenit Jain: So like what I'm doing is I'm doing the computation part for a single number also using different processes
+4/14/19, 8:45 PM - Jenit Jain: I didn't change anything yet for a single number all possible grs are getting printed
+4/14/19, 8:45 PM - Jenit Jain: Even there no optimal
+4/14/19, 8:45 PM - Jenit Jain: And like I can't get the processes to synchronize so the printing is haywire
+4/14/19, 8:51 PM - Sahil Garg: Ohh can you send the code
+4/14/19, 9:16 PM - Jenit Jain: <Media omitted>
+4/14/19, 9:17 PM - Jenit Jain: if you input only 1 number thrn only optimal ones are printed
+4/14/19, 9:17 PM - Jenit Jain: else everything
+4/14/19, 10:54 PM - Sahil Garg: Call bro when you're free
+4/14/19, 10:54 PM - Sahil Garg: Let's meet tomorrow ?
+4/14/19, 11:06 PM - Jenit Jain: I'll call in a bit
+4/14/19, 11:06 PM - Jenit Jain: Not sure
+4/14/19, 11:06 PM - Jenit Jain: I'm having the plaster removed and all🔥🔥🔥
+4/14/19, 11:10 PM - Sahil Garg: Peace
+4/14/19, 11:10 PM - Sahil Garg: One beast onlyyy 😂
+4/15/19, 8:20 AM - Jenit Jain: Bro
+4/15/19, 8:21 AM - Jenit Jain: Sorry I sleptt last night
+4/15/19, 8:22 AM - Jenit Jain: You call me
+4/15/19, 8:22 AM - Jenit Jain: Let's get done with this mpi
+4/15/19, 12:39 PM - Sahil Garg: Cuda and serial is done
+4/15/19, 12:59 PM - Jenit Jain: Did you go through the MPI one
+4/15/19, 1:09 PM - Sahil Garg: Calling you
+4/15/19, 1:09 PM - Sahil Garg: It's busy
+4/15/19, 1:37 PM - Jenit Jain: I'm at the hospital
+4/15/19, 1:37 PM - Jenit Jain: Text please
+4/15/19, 1:37 PM - Sahil Garg: alright cool
+4/15/19, 1:38 PM - Sahil Garg: what are you exactly doing in the MPI code?
+4/15/19, 1:39 PM - Jenit Jain: Basically all the values under bestf is being checked to see if it is a ruler
+4/15/19, 1:40 PM - Sahil Garg: i didnt understand that boolean code we scammed from online
+4/15/19, 1:40 PM - Sahil Garg: i made the serial thing again
+4/15/19, 1:40 PM - Sahil Garg: my own code bro
+4/15/19, 1:40 PM - Sahil Garg: did you get what they were doing?
+4/15/19, 1:40 PM - Jenit Jain: So every process just checks if ruler %s ==r and if it is then it checks whether the ruler is valid
+4/15/19, 1:41 PM - Jenit Jain: No bro but I understood the part I had to parallelize
+4/15/19, 1:41 PM - Jenit Jain: Then I'll try to implement this
+4/15/19, 1:41 PM - Jenit Jain: Since you wrote it it should be clearer
+4/15/19, 1:43 PM - Sahil Garg: yupp cool
+4/15/19, 1:43 PM - Sahil Garg: when will you be done from the hospital?
+4/15/19, 1:43 PM - Sahil Garg: I'll try to get something done in the report till then man
+4/15/19, 1:44 PM - Jenit Jain: Yes try this.
+4/15/19, 1:44 PM - Jenit Jain: Don't know bro but I'll do MPI dw
+4/15/19, 1:45 PM - Jenit Jain: Just focus on this
+4/15/19, 1:52 PM - Sahil Garg: alright cool
+4/15/19, 2:30 PM - Sahil Garg: Bro I haven't really stated.
+4/15/19, 2:30 PM - Sahil Garg: Started*
+4/15/19, 2:30 PM - Sahil Garg: But I'll finish it today only, don't worry.
+4/15/19, 2:30 PM - Sahil Garg: This is amrit bro
+4/15/19, 2:30 PM - Sahil Garg: im just gonna do it, he wont do jack
+4/15/19, 2:31 PM - Jenit Jain: 🙈🙈
+4/15/19, 6:10 PM - Jenit Jain: bro
+4/15/19, 6:10 PM - Jenit Jain: i dont understand your code
+4/15/19, 6:10 PM - Jenit Jain: i dont know what to parallelize using mpi
+4/15/19, 6:20 PM - Jenit Jain: tell me please
+4/15/19, 6:20 PM - Sahil Garg: same thing as Im parallising in cude
+4/15/19, 6:20 PM - Sahil Garg: cuda
+4/15/19, 6:21 PM - Sahil Garg: let the kernel function be the same
+4/15/19, 6:21 PM - Sahil Garg: send 2 values to mpi - which im sending as threadIdx and blockIdx everything else remains same
+4/15/19, 6:21 PM - Sahil Garg: and in end get value of r
+4/15/19, 6:22 PM - Sahil Garg: which tells if a ruler was found for that k or not
+4/15/19, 6:22 PM - Sahil Garg: else k++
+4/15/19, 6:22 PM - Sahil Garg: and send to processes again
+4/15/19, 6:24 PM - Jenit Jain: so how do i decide how many processes will be there
+4/15/19, 6:25 PM - Sahil Garg: its a constant
+4/15/19, 6:25 PM - Sahil Garg: like in my cuda code its 5*24
+4/15/19, 6:25 PM - Sahil Garg: let it be 120 only
+4/15/19, 6:25 PM - Jenit Jain: okay
+4/15/19, 6:46 PM - Sahil Garg: Did you get ?
+4/15/19, 6:47 PM - Jenit Jain: Tbh I'm clueless🙈
+4/15/19, 6:47 PM - Sahil Garg: Okay so see
+4/15/19, 6:47 PM - Sahil Garg: every ruler's first element is 0
+4/15/19, 7:12 PM - Sahil Garg: <Media omitted>
+4/15/19, 7:12 PM - Sahil Garg: run this and try
+4/15/19, 7:12 PM - Sahil Garg: give -n 10 and n =4
+4/15/19, 7:14 PM - Sahil Garg: give -n = 10 for number of processes and input as a single number
+4/15/19, 7:14 PM - Sahil Garg: that single number you run and try 1,2,3,4
+4/15/19, 7:15 PM - Jenit Jain: Bro for pow
+4/15/19, 7:15 PM - Jenit Jain: -maths right
+4/15/19, 7:16 PM - Sahil Garg: dont need math
+4/15/19, 7:16 PM - Sahil Garg: oh we need it yeah
+4/15/19, 7:16 PM - Sahil Garg: its -lm
+4/15/19, 7:16 PM - Jenit Jain: Cool
+4/15/19, 7:17 PM - Sahil Garg: mpicc mpi.c
+4/15/19, 7:17 PM - Sahil Garg: mpiexec -n 10 -lm ./a.out
+4/15/19, 7:17 PM - Jenit Jain: Yeah yeah got it
+4/15/19, 7:17 PM - Sahil Garg: I think that should do it
+4/15/19, 7:17 PM - Jenit Jain: give me 5 I'll tell you
+4/15/19, 7:20 PM - Sahil Garg: Line 71 of code is printf("\n%d\n",res);
+4/15/19, 7:20 PM - Jenit Jain: <Media omitted>
+4/15/19, 7:20 PM - Sahil Garg: instead change it to print tn
+4/15/19, 7:21 PM - Sahil Garg: do this and run
+4/15/19, 7:21 PM - Sahil Garg: number of processors make it 10
+4/15/19, 7:22 PM - Jenit Jain: \n?
+4/15/19, 7:22 PM - Sahil Garg: no tn
+4/15/19, 7:22 PM - Sahil Garg: tn is a variable name
+4/15/19, 7:22 PM - Sahil Garg: printf("\n%d\n",tn);
+4/15/19, 7:23 PM - Sahil Garg: <Media omitted>
+4/15/19, 7:24 PM - Sahil Garg: Did you try it ?
+4/15/19, 7:25 PM - Jenit Jain: There are small errors just fixing that
+4/15/19, 7:26 PM - Sahil Garg: cool waiting
+4/15/19, 7:29 PM - Jenit Jain: <Media omitted>
+4/15/19, 7:30 PM - Sahil Garg: peaceful
+4/15/19, 7:30 PM - Sahil Garg: run it with -np as 10 itself
+4/15/19, 7:30 PM - Sahil Garg: but give input as 4
+4/15/19, 7:30 PM - Jenit Jain: How bro
+4/15/19, 7:31 PM - Jenit Jain: See the answer for 2 and 3 and 4
+4/15/19, 7:31 PM - Jenit Jain: That's the first ip
+4/15/19, 7:31 PM - Sahil Garg: I'll remove the extra output, the final result is 0 which is the final size of ruler
+4/15/19, 7:31 PM - Sahil Garg: ohh damn
+4/15/19, 7:32 PM - Jenit Jain: Howww
+4/15/19, 7:32 PM - Sahil Garg: for n = 1 its coming but nothing else is working
+4/15/19, 7:32 PM - Jenit Jain: Yes
+4/15/19, 7:33 PM - Sahil Garg: run this
+4/15/19, 7:33 PM - Sahil Garg: <Media omitted>
+4/15/19, 7:34 PM - Sahil Garg: same -np 10 and input 4
+4/15/19, 7:37 PM - Sahil Garg: tried it ?
+4/15/19, 7:38 PM - Jenit Jain: Bro try installing MPI on your computer
+4/15/19, 7:39 PM - Jenit Jain: My computer is getting kharab
+4/15/19, 7:39 PM - Jenit Jain: It's restarting randomly
+4/15/19, 7:39 PM - Sahil Garg: lol why what happened
+4/15/19, 7:39 PM - Jenit Jain: Haven't tried this yet
+4/15/19, 7:39 PM - Jenit Jain: Old age
+4/15/19, 7:40 PM - Sahil Garg: its on a Mac ill try to download bro
+4/15/19, 7:40 PM - Sahil Garg: but its weird stuff
+4/15/19, 7:41 PM - Jenit Jain: <Media omitted>
+4/15/19, 7:42 PM - Sahil Garg: ohh it printed 6 but its showing 7 in the end
+4/15/19, 7:42 PM - Sahil Garg: ill try to fix it
+4/15/19, 7:42 PM - Sahil Garg: try to run with input 3
+4/15/19, 7:42 PM - Sahil Garg: and input 2
+4/15/19, 7:42 PM - Jenit Jain: dude my output is also coming similar to this random thing
+4/15/19, 7:42 PM - Jenit Jain: try to find a synchronizing functioon for mpi processes
+4/15/19, 7:42 PM - Jenit Jain: because then my code will work for sure
+4/15/19, 7:43 PM - Sahil Garg: <Media omitted>
+4/15/19, 7:43 PM - Sahil Garg: try running this
+4/15/19, 7:43 PM - Sahil Garg: I know only of MPI_barrier lol
+4/15/19, 7:47 PM - Sahil Garg: any improvement?
+4/15/19, 7:47 PM - Sahil Garg: I just put a barrier after MPI_Reduce
+4/15/19, 7:48 PM - Jenit Jain: Bro my laptop also is not working
+4/15/19, 7:48 PM - Jenit Jain: 🙈
+4/15/19, 7:48 PM - Jenit Jain: Try kushagras laptop na
+4/15/19, 7:48 PM - Sahil Garg: he aint in room bro
+4/15/19, 7:50 PM - Jenit Jain: For the time being can you tell me the time for n=1-10 in cuda
+4/15/19, 7:50 PM - Sahil Garg: I dont know them xD
+4/15/19, 7:51 PM - Sahil Garg: we have to scam them using the pdfs of papers I sent
+4/15/19, 7:51 PM - Sahil Garg: they have the timings
+4/15/19, 7:51 PM - Sahil Garg: if you cant find, ill go get Nihal's laptop and try getting the timings
+4/15/19, 8:00 PM - Jenit Jain: <Media omitted>
+4/15/19, 8:01 PM - Sahil Garg: whats the last number for input 2?
+4/15/19, 8:01 PM - Sahil Garg: this is good bro
+4/15/19, 8:01 PM - Sahil Garg: its printing just 1 extra number
+4/15/19, 8:01 PM - Sahil Garg: I dont know why
+4/15/19, 8:05 PM - Jenit Jain: 2
+4/15/19, 8:06 PM - Jenit Jain: What's the 3s output
+4/15/19, 8:06 PM - Sahil Garg: it should be 3 but this is showing 4
+4/15/19, 8:06 PM - Sahil Garg: dont know why
+4/15/19, 8:06 PM - Sahil Garg: but its always 1 extra
+4/15/19, 8:07 PM - Sahil Garg: <Media omitted>
+4/15/19, 8:07 PM - Sahil Garg: run this for -np 10 for input 1-4
+4/15/19, 8:07 PM - Sahil Garg: and -np 15 for input 5
+4/15/19, 8:07 PM - Jenit Jain: We aren't showing for more than 4?
+4/15/19, 8:07 PM - Sahil Garg: and -np 35 for input 6,7,8
+4/15/19, 8:08 PM - Sahil Garg: lets see what happens
+4/15/19, 8:08 PM - Jenit Jain: <Media omitted>
+4/15/19, 8:10 PM - Sahil Garg: sexy
+4/15/19, 8:10 PM - Sahil Garg: its showing everything correct
+4/15/19, 8:10 PM - Sahil Garg: except for 1 its -1
+4/15/19, 8:10 PM - Jenit Jain: Where are the optimal rulers
+4/15/19, 8:10 PM - Sahil Garg: I'll fix that
+4/15/19, 8:10 PM - Sahil Garg: we aren't printing that
+4/15/19, 8:10 PM - Sahil Garg: its fine we're finding it but aren't printing it
+4/15/19, 8:12 PM - Jenit Jain: Bro serial code is printing it so might as well print here too
+4/15/19, 8:12 PM - Sahil Garg: it wont bro
+4/15/19, 8:12 PM - Jenit Jain: And what are those numbers that are getting printed
+4/15/19, 8:12 PM - Sahil Garg: so see the -np youre giving right
+4/15/19, 8:12 PM - Sahil Garg: each process will print its ruler
+4/15/19, 8:12 PM - Sahil Garg: but we want only optimal one
+4/15/19, 8:13 PM - Jenit Jain: Yes
+4/15/19, 8:17 PM - Sahil Garg: <Media omitted>
+4/15/19, 8:19 PM - Jenit Jain: Bro I have sent the graph for n vs time for serial code
+4/15/19, 8:19 PM - Sahil Garg: run this for -np 10 for input n = 1 to 4
+4/15/19, 8:19 PM - Sahil Garg: and -np 35 for n = 5 to 8
+4/15/19, 8:19 PM - Sahil Garg: run it 8 times and see
+4/15/19, 8:19 PM - Sahil Garg: if everything is coming fine
+4/15/19, 8:20 PM - Jenit Jain: Yep
+4/15/19, 8:20 PM - Jenit Jain: .
+4/15/19, 8:20 PM - Jenit Jain: What about cuda and all
+4/15/19, 8:20 PM - Sahil Garg: where?
+4/15/19, 8:20 PM - Jenit Jain: Amrit
+4/15/19, 8:20 PM - Jenit Jain: He'll include
+4/15/19, 8:20 PM - Sahil Garg: peace put it on the group only
+4/15/19, 8:20 PM - Sahil Garg: ill know then
+4/15/19, 8:20 PM - Jenit Jain: Cool cool
+4/15/19, 8:20 PM - Sahil Garg: you wont have to specify
+4/15/19, 8:20 PM - Sahil Garg: for mpi it'll run on your comp
+4/15/19, 8:20 PM - Sahil Garg: so you do the graph for that
+4/15/19, 8:21 PM - Sahil Garg: cuda I'll get from somewhere
+4/15/19, 8:22 PM - Jenit Jain: <Media omitted>
+4/15/19, 8:24 PM - Sahil Garg: did you run this file?
+4/15/19, 8:24 PM - Sahil Garg: <Media omitted>
+4/15/19, 8:24 PM - Sahil Garg: run this file for n = 1
+4/15/19, 8:24 PM - Sahil Garg: and for n = 8 give -np as 40
+4/15/19, 8:37 PM - Jenit Jain: Bro all those are working
+4/15/19, 8:37 PM - Jenit Jain: Just running everything to get timings and then graph
+4/15/19, 8:37 PM - Sahil Garg: perfect man
+4/15/19, 8:38 PM - Sahil Garg: take off till whichever number works
+4/16/19, 9:30 AM - Jenit Jain: Bro If things go south during the presentation please take more credit
+4/16/19, 10:22 AM - Sahil Garg: It's chill da we'll manage
+4/18/19, 5:50 PM - Jenit Jain: Bro do we have lex and yacc
+4/18/19, 5:51 PM - Jenit Jain: And in intermediate code gen did she do the types and declarations part
+4/18/19, 5:51 PM - Sahil Garg: nope mostly not
+4/18/19, 5:51 PM - Sahil Garg: no she didnt do it
+4/18/19, 5:58 PM - Jenit Jain: Both right??
+4/18/19, 5:59 PM - Jenit Jain: Syntax trees full we have
+4/18/19, 6:00 PM - Jenit Jain: In this we have TAC,quads, trips
+4/18/19, 6:01 PM - Sahil Garg: yes no for both
+4/18/19, 6:01 PM - Sahil Garg: yupp
+4/18/19, 6:02 PM - Jenit Jain: And code gen ?
+4/18/19, 6:03 PM - Sahil Garg: havent seen that
+4/18/19, 6:03 PM - Sahil Garg: she didnt do in class
+4/18/19, 6:07 PM - Jenit Jain: Damn, nothing at allM
+4/18/19, 6:16 PM - Sahil Garg: Nope
+4/18/19, 6:23 PM - Jenit Jain: Noicee. Thanks
+4/18/19, 6:23 PM - Jenit Jain: How's the prep going 😂😂
+4/18/19, 6:29 PM - Sahil Garg: lol havent started yet man
+4/18/19, 6:29 PM - Sahil Garg: will do from today night or tomorrow morning xD
+4/18/19, 6:30 PM - Sahil Garg: yours?
+4/18/19, 6:34 PM - Jenit Jain: Legend bc
+4/18/19, 6:35 PM - Jenit Jain: Bro I thought eefm would be done in a day and then came across a PDF of 31 pages on BEP
+4/18/19, 6:35 PM - Jenit Jain: Gave up after that
+4/18/19, 6:35 PM - Jenit Jain: Did he even do it properly in class?
+4/18/19, 6:36 PM - Sahil Garg: ohh whats this? :o
+4/18/19, 6:36 PM - Sahil Garg: where is that
+4/18/19, 6:36 PM - Sahil Garg: he didnt do that topic
+4/18/19, 6:47 PM - Jenit Jain: So after depreciation he just did all those ratios?
+4/18/19, 6:48 PM - Sahil Garg: no didnt do that either
+4/18/19, 6:49 PM - Sahil Garg: depreciation was last
+4/18/19, 7:21 PM - Jenit Jain: 🔥
+4/18/19, 7:25 PM - Jenit Jain: Hello sir, is depreciation the last topic or are the various ratios the last thing in the syllabus
+4/18/19, 7:25 PM - Jenit Jain: BReak Even and Financial mgmt
+4/18/19, 7:26 PM - Sahil Garg: It's there
+4/18/19, 7:26 PM - Sahil Garg: He didn't teach it
+4/18/19, 7:26 PM - Sahil Garg: Self study
+4/18/19, 7:26 PM - Jenit Jain: Rip
+4/22/19, 10:55 PM - Jenit Jain: <Media omitted>
+4/22/19, 10:56 PM - Jenit Jain: Bro in this we'll have to find effective interest
+4/22/19, 10:56 PM - Jenit Jain: What will be 1% per months right
+4/22/19, 10:58 PM - Sahil Garg: yes thats right
+4/22/19, 10:58 PM - Jenit Jain: What are you doing for ratios 🙈
+4/22/19, 11:03 PM - Sahil Garg: havent started man
+4/22/19, 11:03 PM - Sahil Garg: its killing
+4/22/19, 11:03 PM - Sahil Garg: no idea how to learn them lol
+4/22/19, 11:40 PM - Jenit Jain: <Media omitted>
+4/22/19, 11:42 PM - Jenit Jain: <Media omitted>
+4/22/19, 11:42 PM - Jenit Jain: <Media omitted>
+4/22/19, 11:42 PM - Jenit Jain: Solved sum
+4/22/19, 11:42 PM - Jenit Jain: Atb😂
+4/22/19, 11:43 PM - Sahil Garg: you did all this? :o
+4/22/19, 11:43 PM - Jenit Jain: My sister is a ca😂😂😂
+4/22/19, 11:43 PM - Jenit Jain: She sent lol
+4/22/19, 11:44 PM - Sahil Garg: ohh lolol
+4/22/19, 11:44 PM - Sahil Garg: thanks man xD
+4/24/19, 5:47 PM - Jenit Jain: X -> YZ
+Y-> a| epsilon
+Z -> b
+4/24/19, 5:47 PM - Jenit Jain: Will first(X) contain epsilong
+4/24/19, 5:47 PM - Sahil Garg: nope
+4/24/19, 5:47 PM - Sahil Garg: just a and b
+4/24/19, 5:48 PM - Sahil Garg: if y gives (epsilon) then we get X->Z which is b
+4/24/19, 5:48 PM - Jenit Jain: Cool cool
+4/24/19, 5:48 PM - Sahil Garg: thats what i think
+4/24/19, 5:48 PM - Sahil Garg: maybe it does have epsilon also along with a and b
+4/25/19, 8:40 AM - Jenit Jain: If 2 non terminals that's are not starting symbols are in deadlock while finding the follow set then we just add $ to both of them right?
+4/25/19, 9:02 AM - Sahil Garg: Yes
+4/25/19, 7:36 PM - Sahil Garg: How was it bro xD
+4/25/19, 7:40 PM - Jenit Jain: I wrote semantics rules instead of sdd and the 25 states fuck up and many more😂
+4/25/19, 7:40 PM - Sahil Garg: What ?
+4/25/19, 7:40 PM - Sahil Garg: Isn't sdd semantic rules only ?
+4/25/19, 7:41 PM - Sahil Garg: Sdd is the table of productions with semantic rules right ?
+4/25/19, 7:41 PM - Jenit Jain: Did you write something like
+E.syn = E.inh
+Or
+E.node = T.node|| '+'
+4/25/19, 7:42 PM - Sahil Garg: Both
+4/25/19, 7:42 PM - Sahil Garg: Like in the semantic rules both kinda stuff comes
+4/25/19, 7:42 PM - Sahil Garg: Ohh no node
+4/25/19, 7:42 PM - Sahil Garg: It's E.syn = T.val and stuff
+4/25/19, 7:42 PM - Jenit Jain: For sure?
+4/25/19, 7:42 PM - Jenit Jain: Fuck yeahh
+4/25/19, 7:43 PM - Sahil Garg: Yes I wrote that
+4/25/19, 7:43 PM - Sahil Garg: That's what they want
+4/25/19, 7:43 PM - Sahil Garg: I'm almost fully sure
+4/25/19, 7:43 PM - Jenit Jain: Peace mann
+4/25/19, 7:43 PM - Jenit Jain: Did you study pvm stuff btw?
+4/25/19, 7:43 PM - Sahil Garg: What were you talking about?
+4/25/19, 7:44 PM - Jenit Jain: I also wrote that thing only. I wrote that too
+4/25/19, 7:44 PM - Jenit Jain: Sannidhi said node thing is what they wanted
+4/25/19, 7:44 PM - Sahil Garg: Then why's it wrong man? :o
+4/25/19, 7:45 PM - Jenit Jain: I wrote the inherited synthesized thing
+4/25/19, 7:45 PM - Sahil Garg: No man I'll do it in the end
+4/25/19, 7:45 PM - Sahil Garg: You started pcap?
+4/25/19, 7:45 PM - Sahil Garg: Don't think so man, sdd is semantic rules
+4/25/19, 7:45 PM - Sahil Garg: Node thing is construction of syntax tree
+4/25/19, 7:47 PM - Jenit Jain: I did it last week so it's fine but the pvm thing is just random unnecessary shit
+4/25/19, 7:47 PM - Sahil Garg: Yeah lol i remember he did a little in class
+4/25/19, 7:49 PM - Jenit Jain: Stopped attending lectures during my sessional week so all these things are just too new for me haha
+4/25/19, 7:49 PM - Sahil Garg: Haha lol it's chill
+4/25/19, 8:18 PM - Sahil Garg: I think it's the node() thing
+4/25/19, 8:18 PM - Sahil Garg: Saw the question again it says for construction of syntax trees
+4/25/19, 8:36 PM - Jenit Jain: Man
+4/26/19, 7:33 PM - Jenit Jain: Bro can you send the class notes for pvm please
+4/26/19, 8:52 PM - Sahil Garg: Sure give me a while
+4/26/19, 8:56 PM - Jenit Jain: Thanjss
+4/26/19, 10:44 PM - Sahil Garg: <Media omitted>
+4/26/19, 10:44 PM - Sahil Garg: <Media omitted>
+4/26/19, 10:44 PM - Jenit Jain: thanks broo
+4/26/19, 10:45 PM - Sahil Garg: ✌🏻
+4/26/19, 10:45 PM - Jenit Jain: kaisa chal raha hai bhai
+4/26/19, 10:45 PM - Sahil Garg: Bro haven't even started the theory part
+4/26/19, 10:45 PM - Sahil Garg: Just doing cuda now
+4/26/19, 10:45 PM - Sahil Garg: Yours ?
+4/26/19, 10:45 PM - Jenit Jain: doing this only
+4/26/19, 10:45 PM - Jenit Jain: coding should be fine
+4/26/19, 10:46 PM - Jenit Jain: send the pcap lab manual also lol please
+4/26/19, 10:46 PM - Sahil Garg: Haha yeah
+4/26/19, 10:57 PM - Jenit Jain: dude did you see advaits doubt
+4/26/19, 10:58 PM - Jenit Jain: how is the reading and writing happening together?
+4/26/19, 10:58 PM - Jenit Jain: <Media omitted>
+4/26/19, 11:58 PM - Sahil Garg: Aah no idea about this man
+4/27/19, 12:06 PM - Sahil Garg: is createContext() and createCommandQueue() in platform model or execution model?
+4/27/19, 12:22 PM - Jenit Jain: Exec
+4/27/19, 12:22 PM - Sahil Garg: cool
+4/28/19, 12:06 PM - Sahil Garg: Bro how was pcap?
+4/28/19, 12:28 PM - Jenit Jain: Between 30-35 only. I could write only
+4/28/19, 12:29 PM - Jenit Jain: Wasted to much time on the scheduling question
+4/28/19, 12:31 PM - Sahil Garg: Ohh damn, didn't complete ?
+4/28/19, 1:21 PM - Jenit Jain: Nah bro. Hand was paining too much
+4/28/19, 1:23 PM - Sahil Garg: ohh yeah I think I saw you in pain :P
+4/28/19, 2:33 PM - Jenit Jain: Lmaoo
+5/11/19, 11:25 PM - Jenit Jain: <Media omitted>
+5/12/19, 10:14 AM - Sahil Garg: 😂😂
+5/12/19, 10:14 AM - Sahil Garg: Thanks man , I bet this is gonna be me lol
+5/12/19, 10:14 AM - Sahil Garg: What's up with you?
+5/12/19, 6:01 PM - Jenit Jain: Going to give up internship hunt after a week 😂
+5/12/19, 6:02 PM - Jenit Jain: Just chilling for now till I make goals for the summer
+5/12/19, 6:02 PM - Jenit Jain: Sannidhi told me about your hotel scene. What a scammm😂😂🙄
+5/12/19, 6:07 PM - Sahil Garg: Ohh damn man, nothing final yet ?
+5/12/19, 6:07 PM - Sahil Garg: Seems good bro still time is there
+5/12/19, 6:07 PM - Sahil Garg: Yeah bro 😂
+5/13/19, 8:55 AM - Jenit Jain: na man. This hand reallyyyy messed it up
+5/13/19, 8:55 AM - Jenit Jain: no option other than this haha but yeah hoping something comes by
+5/13/19, 8:56 AM - Jenit Jain: full week?!😂
+5/13/19, 8:59 AM - Sahil Garg: Ohh crap it's fine
+5/13/19, 8:59 AM - Sahil Garg: What about internshala and stuff ?
+5/13/19, 8:59 AM - Sahil Garg: It's pretty bad lol I'll go home in a day or two
+5/13/19, 9:00 AM - Jenit Jain: i think i applied too early. because the several companies who replied wanted to me to do a task which i obviously couldn't
+5/13/19, 9:00 AM - Jenit Jain: and now there arent that many companies with my JD
+5/13/19, 9:01 AM - Jenit Jain: dafuq isnt it marriot?
+5/13/19, 9:18 AM - Sahil Garg: Ohh all these internshala ones want this and it sucks
+5/13/19, 9:18 AM - Sahil Garg: Oh damn
+5/13/19, 9:18 AM - Jenit Jain: do you know how to get into corporate ones?
+5/13/19, 9:18 AM - Sahil Garg: It is man but it's double sharing with some random stranger
+5/13/19, 9:18 AM - Jenit Jain: because most of these are startups
+5/13/19, 9:19 AM - Sahil Garg: And on a bed that sucks
+5/13/19, 9:19 AM - Sahil Garg: They'll have career sites to apply at but I think corporate ones are done, they won't be taking for summer anymore
+5/13/19, 9:19 AM - Sahil Garg: You can try if you have referral I guess
+5/13/19, 9:20 AM - Sahil Garg: Yess better chance for startups cause they don't have onboarding and induction programmes
+5/13/19, 9:26 AM - Jenit Jain: lol might as well stay home
+5/13/19, 9:26 AM - Jenit Jain: yeah you're probably rihgt
+5/13/19, 9:26 AM - Jenit Jain: fuckk
+5/13/19, 9:26 AM - Jenit Jain: already tired of the summers
+5/13/19, 9:34 AM - Sahil Garg: Exactly you got it now xD and it's not even twin beds lol
+5/13/19, 9:34 AM - Sahil Garg: Haha you can chill xD
+5/13/19, 9:55 AM - Jenit Jain: how far is it going to be from your place?
+5/13/19, 10:04 AM - Sahil Garg: Around 10 lm
+5/13/19, 10:04 AM - Sahil Garg: Km
+5/13/19, 11:00 PM - Jenit Jain: tooo fuck all for bangalore tho :/
+5/13/19, 11:00 PM - Jenit Jain: but youre getting 75k so worth it lol
+5/13/19, 11:00 PM - Jenit Jain: bro how was your resulttt
+5/13/19, 11:04 PM - Sahil Garg: Lol 1.5-2 hours
+5/13/19, 11:04 PM - Sahil Garg: Guess so
+5/13/19, 11:04 PM - Sahil Garg: Didn't check yet xD
+5/13/19, 11:04 PM - Sahil Garg: Yours ?
+5/13/19, 11:04 PM - Jenit Jain: 8.67!!!
+5/13/19, 11:04 PM - Jenit Jain: nothing else needed
+5/13/19, 11:04 PM - Jenit Jain: god is great
+5/13/19, 11:05 PM - Sahil Garg: That's damn chill
+5/13/19, 11:05 PM - Sahil Garg: Congrats broo
+5/13/19, 11:05 PM - Sahil Garg: What's cg now ?
+5/13/19, 11:06 PM - Jenit Jain: oh fuckkk
+5/13/19, 11:06 PM - Jenit Jain: i got too happy
+5/13/19, 11:06 PM - Jenit Jain: i saw my cg
+5/13/19, 11:06 PM - Jenit Jain: :x
+5/13/19, 11:06 PM - Jenit Jain: 7.95 gpa
+5/13/19, 11:06 PM - Jenit Jain: nevermind
+5/13/19, 11:11 PM - Sahil Garg: This is Gpa right? Not cgpa ?
+5/13/19, 11:12 PM - Jenit Jain: ha
+5/13/19, 11:12 PM - Sahil Garg: Ay man I'm sorry
+5/13/19, 11:12 PM - Jenit Jain: this is cg
+5/13/19, 11:12 PM - Jenit Jain: such is life
+5/13/19, 11:12 PM - Jenit Jain: 0.05 ill give reval man
+5/13/19, 11:12 PM - Jenit Jain: thoda ego will be saved lol
+5/13/19, 11:20 PM - Sahil Garg: Still damn good bro
+5/13/19, 11:20 PM - Sahil Garg: Lolol xD
+5/13/19, 11:21 PM - Jenit Jain: Atleast I'll be able to sit for all the placements so damn chill
+5/13/19, 11:21 PM - Jenit Jain: You check yours lol
+5/13/19, 11:22 PM - Sahil Garg: Easy bro
+5/13/19, 11:23 PM - Sahil Garg: Everything is 8
+5/13/19, 11:24 PM - Sahil Garg: Shows 10 🙈
+5/13/19, 11:26 PM - Jenit Jain: Obviously🔥🔥🔥🔥
+5/13/19, 11:26 PM - Jenit Jain: Congratssss
+5/14/19, 5:45 AM - Sahil Garg: Thanks man 🤟🏻
+6/25/19, 10:20 AM - Sahil Garg: What's up broo
+6/25/19, 10:20 AM - Sahil Garg: How're you doing man
+6/25/19, 10:20 AM - Sahil Garg: What's the scene with that environmental petition xD
+6/25/19, 10:29 AM - Jenit Jain: Hey man
+6/25/19, 10:30 AM - Jenit Jain: Arre I was trying to sign it and an option came to broadcast is to all the emails on my gmail
+6/25/19, 10:30 AM - Jenit Jain: Instead of skipping I pressed send 😂
+6/25/19, 10:30 AM - Jenit Jain: I'm sure even the Hod got it hahah
+6/25/19, 10:30 AM - Sahil Garg: 😂😂😂😂
+6/25/19, 10:30 AM - Sahil Garg: Good move bro
+6/25/19, 10:30 AM - Jenit Jain: I'm good. Just reached Chandigarh.
+6/25/19, 10:30 AM - Sahil Garg: How's the summer going
+6/25/19, 10:30 AM - Jenit Jain: How have you been!
+6/25/19, 10:31 AM - Jenit Jain: Is GS being good to SG hahaha
+6/25/19, 10:31 AM - Sahil Garg: Going good dude
+6/25/19, 10:31 AM - Sahil Garg: Lolol i don't think they're good to anyone 😂
+6/25/19, 10:31 AM - Sahil Garg: What plans ? Work or travel?
+6/25/19, 10:37 AM - Jenit Jain: Work hahahahha. I'm going to kasol and all and planning to do the same thing as Manipal lol
+6/25/19, 10:37 AM - Jenit Jain: But how's the internship
+6/25/19, 10:38 AM - Sahil Garg: Badiyaaa starting your internship now bro?
+6/25/19, 10:39 AM - Sahil Garg: Kasol is chill, bhai take white over there
+6/25/19, 10:39 AM - Sahil Garg: It's going good dude, it's Java development only not some crazy tech but it's good learning
+6/25/19, 1:09 PM - Jenit Jain: Nooo. I was laughing at the fact that you think that it can be work. I'm here to chill with school friends
+6/25/19, 1:09 PM - Jenit Jain: White?
+6/25/19, 1:10 PM - Jenit Jain: I did a scam internship with ankur haha
+6/25/19, 1:11 PM - Jenit Jain: Ppo💪🏻💪🏻💪🏻
+6/25/19, 1:17 PM - Jenit Jain: I'm so scared for the placements fuckk
+6/25/19, 1:37 PM - Sahil Garg: Ohh got it nice nice
+6/25/19, 1:37 PM - Sahil Garg: You'll know, you'll find various varieties there bro 😜
+6/25/19, 1:37 PM - Sahil Garg: Haha let's see xD
+6/25/19, 1:37 PM - Sahil Garg: Yeah man it's scary
+6/25/19, 1:37 PM - Sahil Garg: Where did you intern man? And it's over?
+6/25/19, 2:14 PM - Jenit Jain: What drugs are you into man idk all this tellll
+6/25/19, 2:14 PM - Jenit Jain: Cms infotech. It's corporate and through reference so went only once a week for a month :p
+6/25/19, 2:24 PM - Sahil Garg: Haha you'll know once you reach there 😂
+6/25/19, 2:24 PM - Sahil Garg: Ohh lolol 4 weeks internship?
+6/25/19, 2:24 PM - Sahil Garg: What did you do rest of the time then lol 😂
+6/25/19, 5:52 PM - Jenit Jain: Idk if it was a project or internship but I'll just put it as an internship cos why not
+6/25/19, 5:53 PM - Jenit Jain: I'm trying to learn cpp😂. Need to get rid of Python habjt since they don't allow that.
+6/25/19, 5:53 PM - Jenit Jain: So not much :x
+6/25/19, 6:14 PM - Sahil Garg: Did you get an internship certificate lol?
+6/25/19, 6:14 PM - Sahil Garg: Haha they allow bro but python is slow xD
+6/25/19, 6:14 PM - Sahil Garg: Haha
+7/12/19, 9:34 PM - Jenit Jain: Hey bro
+7/12/19, 9:35 PM - Jenit Jain: Please congratulate ananya on my behalf 💪🏻
+7/12/19, 9:38 PM - Sahil Garg: Hey man
+7/12/19, 9:38 PM - Sahil Garg: Did that ✌🏻
+7/12/19, 9:39 PM - Sahil Garg: She says thanks bruh
+7/12/19, 9:39 PM - Jenit Jain: When are you finding out!!!
+7/12/19, 9:39 PM - Sahil Garg: No idea man should be soon
+7/12/19, 9:39 PM - Sahil Garg: By next week
+7/12/19, 9:39 PM - Sahil Garg: I hope 😜
+7/12/19, 9:40 PM - Jenit Jain: Arghh the wait is killing me too :p
+7/12/19, 9:40 PM - Jenit Jain: Keep me updated!
+7/12/19, 9:41 PM - Sahil Garg: Ayyy mah man
+7/12/19, 9:41 PM - Sahil Garg: You'll be first to know ✌🏻
+7/12/19, 9:41 PM - Sahil Garg: How was kasol trip
+7/13/19, 2:26 PM - Jenit Jain: Oh dude too good. Didn't get the white stuff but definitely got some other good stuff haha
+7/13/19, 2:26 PM - Jenit Jain: We're planning to make it an annual trip haha let's hope that happens
+7/13/19, 2:26 PM - Jenit Jain: Haha yayyy
+7/13/19, 2:37 PM - Sahil Garg: Haha 😂😂
+7/13/19, 2:37 PM - Sahil Garg: Mad too much hope xD
+7/19/19, 6:34 PM - Sahil Garg: broo
+7/19/19, 6:34 PM - Sahil Garg: all manipal peeps got itt
+7/19/19, 6:34 PM - Jenit Jain: Aeeee my man
+7/19/19, 6:34 PM - Jenit Jain: Congratulations bro
+7/19/19, 6:34 PM - Sahil Garg: thanks broo
+7/31/19, 10:36 PM - Sahil Garg: Good luck for Citrix broo
+7/31/19, 11:13 PM - Jenit Jain: Thanksss nibba
+7/31/19, 11:56 PM - Jenit Jain: Bro
+7/31/19, 11:57 PM - Jenit Jain: Ask your friend about how the citrix interview goes please? Anything to help me for tomorrow
+8/1/19, 12:09 AM - Sahil Garg: Rakshit MIT ACM.vcf (file attached)
+8/1/19, 12:09 AM - Sahil Garg: He's in Citrix right now
+8/1/19, 7:34 AM - Jenit Jain: Bro what do I even ask him. Like I'll be in the hall. Can I text him?
+8/1/19, 8:56 AM - Sahil Garg: Yeah just text saying can you tell me about the process or whatever you wanna ask
+8/1/19, 8:57 AM - Sahil Garg: Saying you're giving interviews today and wanted to know few things
+8/1/19, 11:36 AM - Jenit Jain: Bro how do you use a main variable Inna function without passing it as a parameter
+8/1/19, 11:37 AM - Sahil Garg: Meaning ?
+8/1/19, 11:38 AM - Jenit Jain: How do you access it
+8/1/19, 11:38 AM - Sahil Garg: You can either have it as a global variable
+8/1/19, 11:38 AM - Sahil Garg: Or use its pointer
+8/1/19, 11:38 AM - Jenit Jain: Not allowed
+8/1/19, 11:38 AM - Sahil Garg: Don't pass the variable
+8/1/19, 11:38 AM - Sahil Garg: Pass its pointer address
+8/1/19, 11:38 AM - Jenit Jain: But you can't pass any arguments
+8/1/19, 11:39 AM - Sahil Garg: Store it at a fixed address space then
+8/1/19, 11:39 AM - Sahil Garg: That's the only way
+8/1/19, 11:39 AM - Sahil Garg: You'll need to know where it is
+8/1/19, 11:39 AM - Jenit Jain: You can't use the scope resolution operator any how?
+8/1/19, 11:40 AM - Sahil Garg: No scope resolution is only for global and local
+8/1/19, 11:40 AM - Sahil Garg: Here it's between 2 functions
+8/1/19, 11:40 AM - Sahil Garg: We want to access a variable of func1 in func2 say
+8/1/19, 11:41 AM - Jenit Jain: I asked him pointer also he said I can't do that 😭
+8/1/19, 11:41 AM - Sahil Garg: That'll only be if you pass it somehow (address or value) or pointer, or have common memory (global) or store it at fixed constant memory location and use that constant address
+8/1/19, 11:41 AM - Sahil Garg: Damn what all did they ask you
+8/1/19, 11:41 AM - Sahil Garg: In the interview ?
+8/1/19, 11:42 AM - Jenit Jain: Dude !
+8/1/19, 11:42 AM - Jenit Jain: Os algo ds cn dbms
+8/1/19, 11:42 AM - Jenit Jain: He asked me https vs http
+8/1/19, 11:42 AM - Sahil Garg: You knew ?
+8/1/19, 11:43 AM - Jenit Jain: I forgot that it was ssl layer but I said more authentication blah blah
+8/1/19, 11:43 AM - Jenit Jain: He didn't ask from my CV because most of it is Python related :/ kinda sucks
+8/1/19, 11:44 AM - Sahil Garg: To make a variable calculated in function A visible in function B, you have three choices:
+
+make it a global,
+make it an object property, or
+pass it as a parameter when calling B from A.
+If your program is fairly small then globals are not so bad. Otherwise, I would consider using the third method
+8/1/19, 11:44 AM - Sahil Garg: Peaceful
+8/1/19, 11:44 AM - Sahil Garg: Ayy man it's fine
+8/1/19, 11:45 AM - Sahil Garg: How many rounds did you have till now? 1?
+8/1/19, 11:45 AM - Sahil Garg: And how did DS algo go?
+8/1/19, 11:45 AM - Jenit Jain: They haven't finished the first round of interviewing also yet
+8/1/19, 11:46 AM - Jenit Jain: Used words like hashmap and what not so peace 😂
+8/1/19, 11:46 AM - Sahil Garg: Aah how many people are there for interviews?
+8/1/19, 11:46 AM - Sahil Garg: Haha
+8/1/19, 11:46 AM - Jenit Jain: 40ish rip
+8/1/19, 11:46 AM - Sahil Garg: Ohh damn
+8/2/19, 7:37 PM - Jenit Jain: bro where did you select your paper from and which one did you select
+8/2/19, 7:39 PM - Sahil Garg: have selected
+8/2/19, 7:39 PM - Sahil Garg: and no idea how to do it
+8/2/19, 7:39 PM - Sahil Garg: and struggling
+8/2/19, 7:39 PM - Jenit Jain: Haha yeah same I'm not understanding it only
+8/2/19, 7:40 PM - Jenit Jain: if you figure something out let me know. I'll ask others as well
+8/2/19, 7:40 PM - Sahil Garg: I'm just looking at ieee site, its all weird and tough things xD
+8/2/19, 7:40 PM - Sahil Garg: sure
+8/2/19, 7:41 PM - Sahil Garg: lmk if you find something
+8/2/19, 7:41 PM - Jenit Jain: Yep
+8/2/19, 8:13 PM - Jenit Jain: You deleted this message
+8/2/19, 8:24 PM - Sahil Garg: yes
+8/2/19, 8:24 PM - Sahil Garg: using ion
+8/2/19, 8:24 PM - Jenit Jain: it is chill I found some site to convert the links to pdf blah
+8/2/19, 8:24 PM - Sahil Garg: oh cool
+8/2/19, 8:25 PM - Jenit Jain: did you get anything good
+8/2/19, 8:26 PM - Sahil Garg: Idek what to search bro
+8/2/19, 9:36 PM - Jenit Jain: bro did you find a paper?
+8/2/19, 9:37 PM - Jenit Jain: <Media omitted>
+8/2/19, 9:37 PM - Jenit Jain: check this one out if you like it. it is pretty easy tbh but just give it a read
+8/2/19, 11:28 PM - Sahil Garg: thanks bro
+8/2/19, 11:28 PM - Sahil Garg: I saw this one
+8/2/19, 11:29 PM - Sahil Garg: planning on taking it
+8/2/19, 11:29 PM - Sahil Garg: doesn't look too intense
+8/2/19, 11:30 PM - Sahil Garg: <Media omitted>
+8/2/19, 11:30 PM - Sahil Garg: You're taking this bro?
+8/2/19, 11:40 PM - Jenit Jain: Aeee nice one
+8/2/19, 11:40 PM - Jenit Jain: Nope I'm this other one
+8/2/19, 11:44 PM - Sahil Garg: What's yours on
+8/3/19, 12:11 AM - Jenit Jain: Phishing and ml related
+8/3/19, 12:11 AM - Jenit Jain: Simple and nice so
+8/3/19, 8:17 AM - Sahil Garg: That's chill
+8/7/19, 9:00 AM - Jenit Jain: Bro can you please send the last question from lab1 and lab2
+8/7/19, 9:12 AM - Jenit Jain: :*
+8/7/19, 9:12 AM - Sahil Garg: Sent you all
+8/7/19, 9:12 AM - Sahil Garg: From lab 1 and 2
+8/7/19, 9:29 AM - Jenit Jain: Thanks bro
+8/8/19, 10:18 AM - Jenit Jain: Bro What do we have to include in the ppt
+8/8/19, 10:20 AM - Sahil Garg: Just about your internship bro
+8/8/19, 10:20 AM - Sahil Garg: Same as the report
+8/8/19, 10:23 AM - Jenit Jain: What bt man
+8/8/19, 10:25 AM - Sahil Garg: yeah lol
+8/8/19, 11:21 AM - Jenit Jain: Bro did you reach
+8/8/19, 11:22 AM - Sahil Garg: No going
+8/9/19, 3:43 PM - Sahil Garg: https://www.goldmansachs.com/careers/students/programs/india/engineers-campus-hiring-program.html?cid=scl%2Dnp%2Dlinkedin%2Devergreen%2Dpost%2D20171&sf217202525=1
+8/9/19, 5:04 PM - Jenit Jain: Thanks
+8/9/19, 5:04 PM - Jenit Jain: Also did you get your abstract signed?
+8/9/19, 5:20 PM - Sahil Garg: Yes
+8/9/19, 5:20 PM - Jenit Jain: Is it compulsory?
+8/9/19, 5:20 PM - Jenit Jain: Someone said it's not for us
+8/9/19, 5:20 PM - Sahil Garg: Not sure bro
+8/9/19, 5:20 PM - Sahil Garg: I just got it done anyway
+8/9/19, 5:20 PM - Sahil Garg: Safe
+8/9/19, 5:21 PM - Jenit Jain: Chal alright
+8/9/19, 5:21 PM - Sahil Garg: Who said
+8/9/19, 5:21 PM - Jenit Jain: Don't know lol
+8/9/19, 5:21 PM - Jenit Jain: I'll have to get it done mostly lol
+8/9/19, 5:21 PM - Sahil Garg: Haha lol
+8/18/19, 7:19 PM - Jenit Jain: Bro I got quantiphi
+8/18/19, 7:20 PM - Sahil Garg: Ayy mad bro
+8/18/19, 7:20 PM - Sahil Garg: Congrats!
+8/18/19, 7:20 PM - Sahil Garg: Is it a good company
+8/18/19, 7:22 PM - Jenit Jain: Bro in the interview I said I copied GitHub repos for both my internships, acted dyslexic. He said to explain how the algo works and I said I have no idea. I told the hr guy I am going for further studies asap. I didn't greet a single person. I was crossfading till 3:30 am and went for the thing at 8 am still tipsy. I really tried to fuck it up bro this is not fucking fair.
+8/18/19, 7:23 PM - Jenit Jain: Got mixed reviews so I guess we'll find out
+8/18/19, 7:23 PM - Sahil Garg: Ayy damn this just sucks man
+8/18/19, 7:23 PM - Sahil Garg: Now you're stuck?
+8/18/19, 7:23 PM - Sahil Garg: Is this p+I?
+8/18/19, 7:23 PM - Jenit Jain: Such is life
+8/18/19, 7:24 PM - Jenit Jain: P
+8/18/19, 7:24 PM - Sahil Garg: Yeah let's see

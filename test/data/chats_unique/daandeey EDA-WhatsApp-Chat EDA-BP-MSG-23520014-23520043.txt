@@ -1,0 +1,1239 @@
+10/26/20, 15:43 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+10/26/20, 15:43 - Anggi Tri Rizki created group "FIB - Rumah Cantik Citra"
+10/26/20, 15:43 - Anggi Tri Rizki added you
+10/26/20, 15:43 - Anggi Tri Rizki: halooo
+10/26/20, 15:43 - ~: Haloo
+10/26/20, 15:43 - Josua Crishan: kira" kapan ada waktu kita diskusi awal dulu kli ya 😅
+10/26/20, 15:44 - Anggi Tri Rizki: boleehh
+10/26/20, 15:44 - Anggi Tri Rizki: aku free trs siih kayanya
+10/26/20, 15:45 - ~: Malem ini?
+10/26/20, 15:45 - Anggi Tri Rizki: https://elib.unikom.ac.id/files/disk1/601/jbptunikompp-gdl-ofikperman-30011-11-unikom_o-i.pdf
+
+untuk struktur organisasi tdi aku smpet cari bentar, dapetnya disana
+10/26/20, 15:45 - Anggi Tri Rizki: mngkin ada yg ktemu struktur organisasi lain bisa dibandingin jg mana yg lebih baik dipake nnti
+10/26/20, 15:45 - Anggi Tri Rizki: boleeh
+10/26/20, 15:46 - Josua Crishan: boleh sy free juga
+10/26/20, 15:47 - Anggi Tri Rizki: mau jam brapa?
+10/26/20, 15:49 - Josua Crishan: jam 8 mungkin bisa
+10/26/20, 15:49 - Josua Crishan: sy sdh buat teams juga, nnt meeting di ms teams aja
+10/26/20, 15:52 - Anggi Tri Rizki: okaayy
+10/26/20, 16:00 - ~: Boleh jam 8
+10/30/20, 20:37 - ~: temen2, ini deadlinenya senin besok ya berarti?
+10/30/20, 21:00 - ~: jadi setelah aku baca2, RCC tuh jualannya jasa spa (hand massage, face massage, body massage) + jasa konsultasi serta produk (lotion, scrub, body wash)
+
+jadi kalo yang aku kebayang bisnis modelnya dia 
+1. RCC mengadakan campaign (social media, bill board dll)
+2. Pelanggan tertarik, konsultasi ke RCC
+3. Diberi resep produk kecantikan
+4. Pelanggan memberi resep produk kecantikan
+5. Pelanggan yg merasa cocok akan balik lagi dan nyoba produk lainnya spt jasa spa
+10/30/20, 21:00 - ~: <Media omitted>
+10/30/20, 21:00 - ~: ini contoh banner produknya dpt dr google
+10/30/20, 21:01 - Josua Crishan: berarti dihilangkan aja yg penjualan produknya ya
+10/30/20, 21:01 - ~: oh enggak mas, kan tetep ada jualan produk
+10/30/20, 21:02 - ~: misal setelah dikasih resep setelah konsultasi, pelanggan kan akan beli produk tsb
+10/30/20, 21:04 - ~: tapi kayaknya orang yang mau beli bisa sekedar langsung beli aja kali ya tanpa lewat konsul dulu, soalnya produk2 citra pun enggak semahal produk kecantikan lainnya, jadi sangat dimungkinkan orang bisa beli untuk sekedar coba2
+10/30/20, 21:05 - Josua Crishan: mungkin bisa diasumsikan sja kyknya sebagai batas masalah yg akan dimodelkan
+10/30/20, 21:05 - Josua Crishan: supaya nda melebar
+10/30/20, 21:05 - ~: hmmm bener juga
+10/30/20, 21:06 - Anggi Tri Rizki: ituu kayaknyaa kita pilih mau treatment apa dan produk yg dipake apa utk treatment, nanti kalo udh treatment produk nya msh ada ya dibawa pulang
+10/30/20, 21:06 - Anggi Tri Rizki: jdi kaya beli produk bonus treatment gasih(?)
+10/30/20, 21:06 - ~: kalo aku baca itu kita pilih treatment bonus produk nggi
+10/30/20, 21:07 - Anggi Tri Rizki: oalah kebalik ya wkwk
+10/30/20, 21:07 - ~: jd produk2 yg disini tuh gratisan dari treatment, mungkin dipake jg pas treatment kali ya
+10/30/20, 21:08 - ~: http://www.agnesoryza.com/2013/03/lets-go-to-rumah-cantik-citra.html
+10/30/20, 21:08 - Anggi Tri Rizki: iyaa bisa siih, jdi kalo
+pilih service otomatis include produk tapi kalo pilih produk blm tentu include produk
+10/30/20, 21:09 - Anggi Tri Rizki: kalo diliat dri erd kmarin masih bener sii erd nya
+10/30/20, 21:09 - ~: ini juga bener kan ya Nggi?
+10/30/20, 21:09 - ~: iya masih cocok
+10/30/20, 21:10 - Anggi Tri Rizki: iyaa bener, produk citra jg bnyk di supermarket soalnya wkwk
+10/30/20, 21:11 - ~: Kita define aja berarti business process nya (minimal 3)
+10/30/20, 21:12 - Anggi Tri Rizki: This message was deleted
+10/30/20, 21:13 - Anggi Tri Rizki: campaign itu sekedar promosi atau gimana ya?
+10/30/20, 21:18 - ~: yah kok di unsend nggi wkwkkw
+10/30/20, 21:19 - ~: kalo yang aku tangkep iya sih
+10/30/20, 21:19 - Anggi Tri Rizki: masih mikir kayanya ada yg salah wkwk
+10/30/20, 21:20 - ~: gapapa Nggi sambil dipikirin bareng2 aja
+10/30/20, 21:27 - ~: sambil sekalian masukin di docsnya aja
+10/30/20, 21:27 - ~: aku sambil tambah2 juga
+10/30/20, 21:28 - Anggi Tri Rizki: 1. proses pendaftaran utk pemesanan service + produk
+2. proses pelayanan service oleh terapis
+3. proses pembelian produk saja
+4. proses masuk / keluar produk + barang(misal brg yg habis/sudah tidak layak pakai)
+10/30/20, 21:28 - Anggi Tri Rizki: eh iya docs aku rncana mau rapihin yaa, kelupaan wkwk malem ini yaa
+10/30/20, 21:29 - Anggi Tri Rizki: ini dari pemikiran aku, kalo ada tmbahan atau yg mana mau di cut / ubah silahkaan
+10/30/20, 21:32 - ~: nomor 1 tuh booking untuk konsul berarti ya Nggi?
+10/30/20, 21:45 - Anggi Tri Rizki: iyaa sejenis kaya daftar konsul dlu gitu
+10/30/20, 22:02 - ~: Oooh iya2
+10/31/20, 19:40 - Anggi Tri Rizki: haloo
+10/31/20, 19:40 - Anggi Tri Rizki: <Media omitted>
+10/31/20, 19:40 - Anggi Tri Rizki: krna kita kan ngerjain bareng dri awal, pembagiannya jdi gimana?😂
+10/31/20, 19:42 - Josua Crishan: sembarang aja sih kyknya
+10/31/20, 19:43 - Josua Crishan: mau tanya juga, ini baru sy perhatikan
+itu nomor 1 berarti ERD nya dipisah" ya ?
+10/31/20, 19:48 - Anggi Tri Rizki: kayanya engga deh, soalnya yg ditulis kan masing2 kasus bkn departemen atau proses bisnisnya gitu😂
+10/31/20, 19:49 - Josua Crishan: ohh iya 😂
+sorry salah nangkep 😅🙏
+10/31/20, 19:50 - Anggi Tri Rizki: <Media omitted>
+10/31/20, 19:50 - Anggi Tri Rizki: eh iya word nya udaah itu dri aku ckup coba silahkan diliat dlu kalo ada yg mau ditambahin atau dibenerin
+10/31/20, 19:51 - Josua Crishan: berarti file ERD dan struktur organisasinya dipisah ya
+10/31/20, 19:52 - Anggi Tri Rizki: tp aku msh bingung sih kebutuhan analisis yg diminta tu gimana, apakah fungsi departemen atau lngsng proses bisnis, atau bentuk laporan dan data yg dibutuhkan setiap departemen itu gimana😂
+10/31/20, 19:52 - Anggi Tri Rizki: msh nnya yg lain tp mreka jg kayanya blm clear wkwk
+10/31/20, 19:52 - Anggi Tri Rizki: iyaa mas
+10/31/20, 19:56 - Anggi Tri Rizki: yg word lama nya msh ada yaa scroll aja kalo mau baca-baca lg
+10/31/20, 19:57 - ~: Kalo aku nangkepnya sih lebih ke data analisis yang diperlukan setiap departemen sih.
+
+Kan nantinya kita bikin dashboard, pasti dashboard tsb menunjukkan data yang diperlukan sebagai analisis tiap departemen (untuk nantinya mengambil keputusan bisnis)
+
+Contoh: 
+departemen marketing
+Keperluan analisisnya adalah melihat apakah hasil campaign yang dilakukan sukses atau tidak
+10/31/20, 20:00 - Josua Crishan: sama sih, setuju
+karna tugas besarnya dibuat bertahap. klo tujuan untuk membuat mockup dashboard pasti yg lebih diutamakan analisis proses bisnisnya
+10/31/20, 20:04 - ~: Ok Nggi, ntar maleman aku tambah2in lg
+10/31/20, 20:04 - Anggi Tri Rizki: oalaahh iyaa yaa
+10/31/20, 20:05 - Anggi Tri Rizki: brrti aku tambahin aja di bwh proses bisnis nya kali yaa
+10/31/20, 20:05 - Anggi Tri Rizki: siaap
+10/31/20, 20:06 - ~: Di masing2 dept aja Nggi
+10/31/20, 20:06 - ~: Biar jelas ini kebutuhan analisis untuk dept apa
+10/31/20, 20:08 - Anggi Tri Rizki: iyaa probis nya jg udh aku pisah per dept kok tdi, makanya mau ditambahin di bwh itu aja😅
+10/31/20, 20:08 - ~: OOO ok2 Nggii
+11/1/20, 19:07 - Anggi Tri Rizki: halooo malem
+11/1/20, 19:07 - Anggi Tri Rizki: mau tanyaa fib nya gimana yaa? udh di cek semuaa?
+11/1/20, 19:08 - Anggi Tri Rizki: soalnya deadline kumpul jam 8 pagi besok nih, perwakilan tiap kelompok
+11/1/20, 19:09 - Anggi Tri Rizki: ehiya ada yg bisa buatin ppt nya? soalnya aku lg diluar ada acara keluarga
+11/1/20, 19:52 - ~: @6282194451406 Mas Josua boleh minta tolong enggak bikinin ppt nya? aku udah lengkapin yang di docs, tinggal dijadiin bentuk ppt aja sptnya
+11/1/20, 19:52 - Josua Crishan: boleh"
+11/1/20, 19:52 - ~: aku masih ada deadline tugas lain soalnya buat besok
+11/1/20, 19:52 - ~: oke thanks mas
+11/1/20, 19:52 - Josua Crishan: sudah fix ini ?
+11/1/20, 19:55 - ~: kalo dari aku udah sih periksanya
+11/1/20, 19:55 - ~: @628127125586 gimana?
+11/1/20, 19:56 - Anggi Tri Rizki: wait aku coba baca skali lg yaa
+11/1/20, 19:57 - ~: eh bentar2, perasaan kemarin departementnya udah diganti jd sales deh
+11/1/20, 19:57 - ~: PR kan diganti sales
+11/1/20, 19:58 - Anggi Tri Rizki: ehh iyaa ini aku buat lg PR karna di bwh marketing taunya udh ada sales
+11/1/20, 19:58 - Anggi Tri Rizki: account apa gituu ya namanya itu trnyata sales
+11/1/20, 19:58 - ~: account executive ya
+11/1/20, 19:59 - Anggi Tri Rizki: naah iyaa
+11/1/20, 19:59 - Anggi Tri Rizki: ehh ga dimasukin yaa di bagan nya?
+11/1/20, 19:59 - Anggi Tri Rizki: soalnya aku buat analisis fungsi sm kebutuhan dri per divisi bwhnya jg😂
+11/1/20, 20:00 - ~: gapapa sih kalo dimasukin juga
+11/1/20, 20:00 - ~: ohhh iya2
+11/1/20, 20:00 - ~: ok deh
+11/1/20, 20:03 - Anggi Tri Rizki: mau tanya kalo seminar/workshop/publikasi itu bisa termasuk campaign jg kan?
+11/1/20, 20:03 - Anggi Tri Rizki: atau beda lg ya?
+11/1/20, 20:04 - ~: Hmmm
+11/1/20, 20:04 - ~: Kurang paham wkwk
+11/1/20, 20:04 - ~: Mirip2 sih ya
+11/1/20, 20:05 - Anggi Tri Rizki: soalnya aku mikir ke erd nya gitu, bisa ga nnti riwayat ngelakuin seminar dll ini yg dilakuin PR masuk ke db yg sama kaya campaign
+11/1/20, 20:06 - Josua Crishan: mungkin ditambahkan sja atribut jenis_campaign supaya bisa mencakup keseluruhan
+11/1/20, 20:06 - ~: Platform
+11/1/20, 20:06 - ~: Nama atributnya kemarin platform
+11/1/20, 20:07 - ~: Itu jenis campaign sih maksudnya
+11/1/20, 20:07 - Josua Crishan: ohh oke" berarti masuk kesitu semua ya
+11/1/20, 20:07 - Anggi Tri Rizki: oalaah aku kira itu kaya pilihan sosmed wkwk
+11/1/20, 20:07 - ~: Platform = sosmed, billboard, dll
+11/1/20, 20:08 - Josua Crishan: jgn sampe miskom aja sih dgn nama atributnya 😂
+11/1/20, 20:10 - Josua Crishan: oke. sudah fix docs nya ?
+11/1/20, 20:10 - Anggi Tri Rizki: ohiyaa bisa sih harusnya
+11/1/20, 20:11 - Anggi Tri Rizki: trs tambahin atribut date deh kayanya disana
+11/1/20, 20:12 - Anggi Tri Rizki: utk yg atas2 fix mas kalo mau buat ppt
+11/1/20, 20:12 - Josua Crishan: oke
+11/1/20, 20:12 - ~: Dimana?
+11/1/20, 20:12 - Anggi Tri Rizki: struktur organisasi nya mau aku tambahin bwhnya
+11/1/20, 20:12 - Anggi Tri Rizki: tp bentaraan nyari pinjeman laptop dlu wkwk
+11/1/20, 20:13 - Anggi Tri Rizki: di campaign, bisaa?
+11/1/20, 20:13 - ~: Aku aja gpp nggi
+11/1/20, 20:13 - ~: Aku aja gpp
+11/1/20, 20:13 - ~: Mau disamain persis kayak yg di link kemarin?
+11/1/20, 20:13 - ~: Bisa
+11/1/20, 20:13 - Anggi Tri Rizki: oalaah okeey mas
+11/1/20, 20:14 - Anggi Tri Rizki: kayanya iyaa
+11/1/20, 20:14 - ~: Okk
+11/1/20, 20:16 - ~: nggi tp kamu tau itu semua kerjaan masing2 bawahannya itu?
+11/1/20, 20:16 - ~: aku soalnya kurang paham
+11/1/20, 20:17 - ~: kalo per department masih bisa jelasin
+11/1/20, 20:18 - ~: btw itu erd, sm struktur organisasi ada di draw.io yg ku share kemarin ya
+11/1/20, 20:20 - Anggi Tri Rizki: semogaaa wkwkw
+11/1/20, 20:20 - Anggi Tri Rizki: udh aku cari semua kmarin itu smpe bwh2 nyaa, aku ringas dlm 1 paragraf yg di docs wkwkw
+11/1/20, 20:21 - ~: ohhh okok siap nggi mantep
+11/1/20, 20:21 - Anggi Tri Rizki: tp aku taunya yg fungsi pada umumnya siih, karna cm asumsi kita kan ya?
+11/1/20, 20:21 - ~: iya betul
+11/1/20, 20:21 - Anggi Tri Rizki: okeeyy semoga bisaa
+11/1/20, 20:22 - ~: ok udh aku update ya
+11/1/20, 20:22 - Anggi Tri Rizki: samaa mau tnya kan itu ada survei kepuasan consumen sm pegawai, butuh database nya ga ya khusus buat itu? atau bisa dimasukin kemana?
+11/1/20, 20:23 - ~: hmm
+11/1/20, 20:24 - ~: emangnya kenapa nggi
+11/1/20, 20:24 - ~: daritadi bahas db terus kayaknya
+11/1/20, 20:25 - Anggi Tri Rizki: enggaaaa😂
+11/1/20, 20:25 - Anggi Tri Rizki: aku nyesuain sm probis nyaa
+11/1/20, 20:25 - Anggi Tri Rizki: bisa masuk ke db semua ga wkwkw
+11/1/20, 20:26 - Anggi Tri Rizki: db yg itu udh bener semuaaaa kok:")
+11/1/20, 20:28 - ~: aku masih rada bingung sih kaitannya, waktu nentuin proses bisnis emangnya kita perlu mikirn schema db nya ya?
+11/1/20, 20:31 - Anggi Tri Rizki: kalo sepemahaman ku iyaa, soalnya kan nanti mau buat dashboard nah misal analisis dashboard nya mau liat alasan kenapa pegawai bnyk yg resign, otomatis diliat dri data hsil survei itu kan yaa... misal pas diliat di hsil survey ga puas dibagian gaji gituu
+11/1/20, 20:32 - Anggi Tri Rizki: tapi kesepakatannya aja gimana, kalo ga perlu jg gapapa
+11/1/20, 20:33 - ~: Iya2 betul
+11/1/20, 20:34 - ~: Nanti kan bakal liat tabel survei kepuasan konsumen dan tabel survei kepuasan pegawai ya
+11/1/20, 20:34 - ~: Ohh maksud mu ditambahin entity di ERD nya ya nggi?
+11/1/20, 20:35 - ~: Sorry2, baru ngeh
+11/1/20, 20:46 - Anggi Tri Rizki: iyaaa gituu wkwkw tapi mau tnya dlu itu kira2 hrs dibuat baru kah atau bisa dimasukin ke entity/atribut yg udah ada aja?
+11/1/20, 20:47 - ~: Baru kayaknya deh
+11/1/20, 20:53 - Josua Crishan: <Media omitted>
+11/1/20, 20:53 - Josua Crishan: boleh dikoreksi mungkin apa yg krng ?
+11/1/20, 20:53 - Josua Crishan: syp yg mau submit nnt ?
+11/1/20, 20:53 - ~: Boleh taro di google slide aja gak mas? biar kalo ada koreksi bs langsung
+11/1/20, 20:54 - Josua Crishan: oke"
+11/1/20, 20:56 - Josua Crishan: sdh sy send directorynya via email std
+11/1/20, 21:04 - Anggi Tri Rizki: ohh okeeyy baru aja brrti ya
+11/1/20, 21:04 - Anggi Tri Rizki: okeey mas makasiih
+11/1/20, 21:06 - Josua Crishan: tinggal di submit tuh
+11/1/20, 21:06 - Josua Crishan: format penamaannya juga sdh sy sesuaikan
+11/1/20, 21:43 - Anggi Tri Rizki: erd nya udh saya tambahin itu yg survei kepuasan
+11/1/20, 21:43 - Anggi Tri Rizki: udh saya gnti jg di drive
+11/1/20, 21:43 - Anggi Tri Rizki: silahkan kalo mau upload mas
+11/1/20, 21:45 - Josua Crishan: oke" sy submit ya
+11/1/20, 22:23 - Josua Crishan: <Media omitted>
+11/1/20, 23:20 - Anggi Tri Rizki: makaasiih mas josuaa
+11/1/20, 23:20 - Anggi Tri Rizki: yg di kita brrti lngsng turn in aja ya
+11/2/20, 04:09 - ~: makasihhh
+11/2/20, 16:01 - ~: Tadi akhir2 ada tugas apa gimana ya?
+11/2/20, 16:01 - ~: Aku out sebelum kelar euy
+11/2/20, 16:14 - Josua Crishan: nnt ada file SQL yg dibagikan pak tori
+kemudian kita buat dashboard di tableau
+11/2/20, 16:20 - Josua Crishan: kemudian di publish ke gallery, nnt link yg di turn in ms teams
+11/6/20, 18:08 - Josua Crishan: progress ke-2 kita membuat star schema ya ?
+11/6/20, 18:19 - Anggi Tri Rizki: bingung beda conseptual sm logical apa
+11/6/20, 18:19 - Anggi Tri Rizki: setau ku star schema bknnya logical?
+11/7/20, 15:21 - Anggi Tri Rizki: progress kita gimana yaa jdinya? wkwk
+11/7/20, 15:38 - Anggi Tri Rizki: aku udh tnya mba ratih katanya kayanya buat semacam skema relation trs star skema dll itu di logical, tp dia jg msh ragu soalnya msh beda pendapat sm mas daniel
+11/7/20, 15:47 - Josua Crishan: kita buat keduanya aja kali ya
+11/7/20, 15:47 - Josua Crishan: kan di progress ke 3 juga ada logical
+11/7/20, 16:19 - Anggi Tri Rizki: ohhiyaa boleehhh
+11/7/20, 16:19 - Anggi Tri Rizki: jdi lngsng yaaa
+11/7/20, 16:20 - Anggi Tri Rizki: kalo sepahaman aku sm mba ratih sih conceptual tu define tabel dimensi sm fact nya
+kalo logical baru susun mnjadi tabel fact
+11/7/20, 16:20 - Anggi Tri Rizki: mau kapan diskusi nya? atau bagi tugas?
+11/7/20, 16:20 - Josua Crishan: malam aja mungkin
+11/7/20, 16:20 - Josua Crishan: jam 8
+11/7/20, 16:21 - Anggi Tri Rizki: boleehhh
+11/7/20, 17:28 - ~: Maaf baru bales
+11/7/20, 17:28 - ~: Boleh jam 8
+11/7/20, 20:03 - ~: dimana meetingnya ta
+11/7/20, 20:03 - ~: *ya
+11/7/20, 20:03 - Josua Crishan: https://meet.google.com/xsc-pska-waw
+11/7/20, 20:05 - Anggi Tri Rizki: ohiya lupa
+11/7/20, 20:05 - Anggi Tri Rizki: wait
+11/8/20, 19:36 - ~: doc sm ppt udah aku update ya
+11/8/20, 19:41 - Anggi Tri Rizki: okeey thankyouu mas
+11/8/20, 19:43 - Josua Crishan: berarti digabung ya progress 1 dan 2 ?
+11/8/20, 19:43 - ~: untuk file googledoc sm googleslidenya saya gabung sih
+11/8/20, 19:43 - ~: pengumpulannya memangnya pisah atau gabung ya harusnya?
+11/8/20, 19:45 - ~: Upload laporan dan slide presentasi yang berisi perkembangan tugas besar kalian sampai ke progress 2 ini
+11/8/20, 19:45 - ~: mestinya digabung sih
+11/8/20, 19:45 - Josua Crishan: iya betul" digabung klo dari petunjuk assignmentnya
+11/8/20, 19:45 - ~: ok, masih mau ada revisi?
+11/8/20, 19:45 - Josua Crishan: kemarin jga blm sempat presentasi
+11/8/20, 19:46 - Anggi Tri Rizki: ckup siih kalo aku
+11/8/20, 19:46 - Josua Crishan: sama
+11/8/20, 19:47 - Anggi Tri Rizki: pling bingung nya bener ga conceptual schema tu yg gitu🤣
+11/8/20, 19:47 - ~: conceptual schema emang dimasukin ke deliverable progress 2?
+11/8/20, 19:48 - Josua Crishan: ohh iya, itu proses bisnis tetap kita tampilkan yg nda kita gunakan nnt ?
+11/8/20, 19:49 - Anggi Tri Rizki: progress 2 emng tntng conceptual schema mas wkwk
+11/8/20, 19:49 - ~: nah concernku ini sih paling. takutnya sm bu putri malah ditanyain "kok proses bisnis yg ini enggak dibikin conceptual design-nya?"
+11/8/20, 19:49 - ~: eh WKWK
+11/8/20, 19:50 - ~: conceptual tuh yg schema relation ini kan?
+11/8/20, 19:50 - Anggi Tri Rizki: karena ga kita pilih bu... tkutnya kan trlalu luas dan bnyk kalo dipilih semua(?)😅
+11/8/20, 19:50 - Anggi Tri Rizki: iyaaa
+11/8/20, 19:51 - ~: ohh okok
+11/8/20, 19:51 - ~: bener sih nggi kyknya
+11/8/20, 19:51 - ~: conceptual design = schema relation
+11/8/20, 19:53 - Josua Crishan: untuk progress 3 jga udah siap tuh, tinggal tambahin dikit measurenya
+11/8/20, 19:55 - Anggi Tri Rizki: okeokeey
+11/8/20, 19:55 - Anggi Tri Rizki: katanya ada yg blg tuh tnpa atribut kalo conceptual😂
+11/8/20, 19:56 - Josua Crishan: gpp kita selangkah lebih maju 😅
+11/8/20, 19:57 - Josua Crishan: filenya sy masukan ke folder progress 2 ya
+11/8/20, 19:57 - Josua Crishan: tinggal di submit tuh
+11/8/20, 19:58 - ~: ok saya submit ya
+11/8/20, 19:58 - Josua Crishan: oke, yg disubmit PPT dan PDF aja kyknya ya
+11/8/20, 19:58 - ~: iya
+11/8/20, 19:59 - Josua Crishan: oke" silahkan mas dandy
+11/8/20, 20:01 - ~: sudah disubmit yaa
+11/8/20, 20:01 - ~: thankss
+11/8/20, 20:02 - Josua Crishan: terima kasih mas 👍
+11/8/20, 21:32 - Anggi Tri Rizki: makaasih mas
+11/15/20, 16:45 - Anggi Tri Rizki: halooo utk progress 3 yg logical schema yg star skema kmarin kan ya?
+11/15/20, 16:46 - Anggi Tri Rizki: nnti boleeh aku aja yg tmbahin di ppt sm pdf nya skalian upload
+11/15/20, 17:53 - ~: sepertinya iya mba
+11/15/20, 17:54 - ~: okeee, makasih banyak Mba
+11/15/20, 19:54 - Josua Crishan: oke" terima kasih mba 🙏
+11/15/20, 20:08 - Anggi Tri Rizki: di schema nya aku izin ubah susunan gambar sm nama nya yaa biar tau mana yg dimensi sm fact
+11/15/20, 20:25 - Josua Crishan: oke" 👍
+11/15/20, 21:37 - Anggi Tri Rizki: <Media omitted>
+11/15/20, 21:42 - Josua Crishan: oke terima kasih ya
+11/15/20, 22:28 - Anggi Tri Rizki: siaap
+11/22/20, 10:51 - ~: Pagii
+11/22/20, 10:51 - ~: Minggu ini kita disuruh bikin mockup ya?
+11/22/20, 11:04 - Josua Crishan: pagi
+11/22/20, 11:04 - Josua Crishan: iya. kyknya mirip" tugas tableau kemarin ya ?
+11/22/20, 11:05 - ~: Kalau belum ada datanya memang bisa ya bikin dashboard pake tableau?
+11/22/20, 11:05 - Josua Crishan: blm bisa
+11/22/20, 11:05 - Josua Crishan: cuma mockup nya aja mungkin
+11/22/20, 11:06 - ~: Ada ide ga bikin mockup nya pake apa?
+11/22/20, 11:07 - ~: Kalo aku saran, bisa pakai figma kayaknya
+11/22/20, 11:07 - Josua Crishan: boleh"
+11/22/20, 12:03 - Josua Crishan: bagi account figmanya, nnt sy add collaboration
+11/22/20, 12:35 - ~: Eh tp menurut mas susah ga ya pake figma?
+11/22/20, 12:36 - ~: Aku tadi sempet cari2 BI dashboard di google, ada beberapa template jg dibuat pakai powerpoint
+11/22/20, 12:36 - Josua Crishan: krng tau sih sy baru nyoba jga 😂
+11/22/20, 12:36 - Josua Crishan: yg mudah aja kyknya
+11/22/20, 12:37 - ~: hahahah yaudah jgn figma deh, saya jg baru nyoba sekali
+11/22/20, 12:39 - Josua Crishan: iya 😅
+11/22/20, 12:49 - ~: saya dapat ini sih mas https://www.powermockup.com/libs/wireframe-and-mockup-shapes/dashboard-shapes
+11/22/20, 12:49 - ~: jadi dia adds on gitu untuk microsoft ppt
+11/22/20, 12:49 - ~: dia ada free sama paid version
+11/22/20, 12:50 - ~: yg free udah cukup jg sih, udah banyak template untuk chart2 (column, bar, area, bubble) buat BI dashboard
+11/22/20, 12:50 - ~: mungkin kita pakai itu aja kali ya?
+11/22/20, 12:50 - Josua Crishan: iya itu aja
+11/22/20, 12:50 - ~: terus biar bisa ngerjain bareng2 gimana ya? soalnya dia kan di microsoft adds on nya, gabisa pake google slide
+11/22/20, 12:51 - Josua Crishan: nah itu dia
+11/22/20, 12:51 - ~: pake teams bisa kayaknya
+11/22/20, 12:52 - ~: coba mas install si powermockup dulu, saya coba masukin file ppt nya ke teams
+11/22/20, 12:52 - Josua Crishan: oke"
+11/22/20, 12:54 - Josua Crishan: <Media omitted>
+11/22/20, 12:54 - ~: nah download more shapes mas
+11/22/20, 12:55 - ~: download yang BI Dashboard
+11/22/20, 12:55 - Josua Crishan: oke sudah
+11/22/20, 12:56 - ~: ok, terus buka file yg di teams, abis itu "Open in Desktop App"
+11/22/20, 12:56 - ~: nanti bisa langsung edit2 pakai microsoft ppt yg sudah terinstall powermockup
+11/22/20, 12:56 - ~: sekarang tinggal pembagiannya gimana ya? biar design nya juga tetap seragam
+11/22/20, 12:58 - Josua Crishan: gini aja dulu, kita list output analisa apa sja yg bisa dihasilkan dri schema kita kemarin
+11/22/20, 12:58 - ~: ok
+11/22/20, 12:58 - Josua Crishan: kemudian tinggal kita modelkan aja kira" untuk analisis ini bagusnya ditampilkan seperti apa
+11/22/20, 12:59 - ~: nih proses bisnisnya:
+1. Menghitung pendapatan Rumah Cantik Citra
+2. Melakukan survey kepuasan pegawai
+3. Melakukan promosi dan campaign
+4. Melakukan survei kepuasan pelanggan
+11/22/20, 13:02 - ~: nih proses bisnisnya:
+1. Menghitung pendapatan Rumah Cantik Citra
+  - per product
+  - per waktu (week, month, year)
+2. Melakukan survey kepuasan pegawai
+3. Melakukan promosi dan campaign
+4. Melakukan survei kepuasan pelanggan
+11/22/20, 13:02 - ~: kita kayaknya ada yang kelupaan ya, biasanya ada dimensi store kan ya hahah
+11/22/20, 13:03 - Josua Crishan: waduh iya juga 😂
+11/22/20, 13:07 - Josua Crishan: Analisis yang dapat dilakukan
+1. Menampilkan jumlah promosi terhadap setiap produk
+2. menampilakn produk yang paling banyak terjual
+3. menampilkan jumlah revenue masing-masing produk secara DESC
+4. menampilkan jenis campaign yang paling banyak dilakukan
+5. Menampilkan nilai survey masing" karyawan
+6.
+11/22/20, 13:07 - Josua Crishan: tambahkan lgi bila perlu
+11/22/20, 13:08 - Josua Crishan: dri sini sdh bisa ditentukan kita pakai diagram apa yang bagus untuk memodelkan analisanya
+11/22/20, 13:09 - Josua Crishan: untuk yg ini mungkin masi bisa direvisi ya ? 😅
+11/22/20, 13:09 - ~: iya betul
+11/22/20, 13:10 - ~: tapi kita tetap fokus bikin dashboardnya dulu aja (dengan anggapain ada dimensi store). Nanti kalau sudah selesai baru kita revisi dokumen2 sebelumnya
+11/22/20, 13:10 - Josua Crishan: oke"
+11/22/20, 13:11 - ~: Analisis yang dapat dilakukan
+1. Menampilkan jumlah promosi terhadap setiap produk
+2. menampilakn produk yang paling banyak terjual
+3. menampilkan jumlah revenue masing-masing produk secara DESC
+4. menampilkan jenis campaign yang paling banyak dilakukan
+5. Menampilkan nilai survey masing" karyawan
+6. menampilkan jumlah revenue masing-masing store (+ berdasarkan waktu) secara DESC
+11/22/20, 13:14 - ~: <Media omitted>
+11/22/20, 13:15 - ~: soalnya kan, analisis yg kita perlukan sebenarnya melihat jumlah promotion yg succes pakai jenis_campaign apa (misal billboard atau social media)
+11/22/20, 13:18 - Josua Crishan: iya betul yg success
+11/22/20, 13:18 - Josua Crishan: apa mungkin perlu measure tambahan ya seperti persentase keberhasilannya gitu
+11/22/20, 13:20 - ~: Boleh2
+11/22/20, 13:21 - ~: Measurenya success rate gitu ya berarti
+11/22/20, 13:21 - Josua Crishan: iya
+11/22/20, 13:21 - ~: Misal produk A dengan promosi di billboard success rate nya 70%
+11/22/20, 13:21 - ~: Kita gaperlu mikirin kan ya cara ngitung success rate drmn? Hahaha. Apa perlu ya
+11/22/20, 13:22 - Josua Crishan: nda perlu kyknya
+11/22/20, 13:26 - ~: Measurenya mungkin diganti jadi Success_rate sm biaya_promosi kali ya
+11/22/20, 13:27 - ~: Kayaknya lebih relevan 2 measures ini
+11/22/20, 13:27 - Josua Crishan: iya boleh"
+11/22/20, 13:31 - ~: Analisis yang dapat dilakukan
+1. Menampilkan success_rate, biaya promosi terhadap setiap produk
+2. Menampilkan success_rate, biaya promosi terhadap setiap jenis_promotion
+3. menampilakn produk yang paling banyak terjual
+4. menampilkan jumlah revenue masing-masing produk secara DESC
+5. menampilkan jenis campaign yang paling banyak dilakukan
+6. Menampilkan nilai survey masing" karyawan
+7. menampilkan jumlah revenue masing-masing store (+ berdasarkan waktu) secara DESC
+11/22/20, 13:42 - ~: btw saya izin mau keluar dulu ya
+11/22/20, 13:42 - ~: agak maleman baru bisa join lg
+11/22/20, 13:59 - Anggi Tri Rizki: haloo
+11/22/20, 14:00 - Anggi Tri Rizki: maaf baru bisa on lg dijalan nih soalnya😂
+11/22/20, 14:00 - Anggi Tri Rizki: jdi gimana utk pembagian tugasnya? nnti malem buat bareng ya?
+11/22/20, 14:01 - Anggi Tri Rizki: ohiyaa ini wkwk kmarin anggapannya cm analisis di 1 store rumah cantik citra😂
+11/22/20, 20:42 - Josua Crishan: teman", sy sudah buat dashboardnya kira-kira ada yang mau dikoreksi ?
+bisa cek di MSTeams
+11/22/20, 20:48 - ~: saya coba lihat dulu ya mas
+11/22/20, 20:49 - Josua Crishan: oke siap
+11/22/20, 21:00 - ~: ini kita 1 page aja kan ya?
+11/22/20, 21:01 - Josua Crishan: iya
+11/22/20, 21:01 - ~: di ppt 6 itu referensinya dari sini bukan ya mas?
+11/22/20, 21:02 - Josua Crishan: iya dri situ
+11/22/20, 21:02 - ~: okok
+11/22/20, 21:02 - Josua Crishan: sebenarnya mau pake map chart tdinya untuk memetakan wilayah storenya bgtu
+11/22/20, 21:03 - Josua Crishan: cuma free version gak bisa 😅
+11/22/20, 21:03 - ~: tapi gabisa ya
+11/22/20, 21:03 - ~: hahahah
+11/22/20, 21:03 - ~: iya
+11/22/20, 21:03 - Josua Crishan: boleh disubmit aja klo udah fix
+11/22/20, 21:03 - ~: nanti dulu masih mau saya benerin
+11/22/20, 21:04 - ~: most type promotion of product maksudnya gimana ya mas
+11/22/20, 21:04 - Josua Crishan: tipe promosi yang terbanyak yang dipakai untuk product 😅
+agak keliru kyknya kata"nya ya
+11/22/20, 21:05 - ~: oooh woke2 hahah gpp mas
+11/22/20, 21:05 - Josua Crishan: mungkin kata"nya yg perlu dikoreksi 😅
+11/22/20, 21:06 - ~: ok saya coba benerin ya mas
+11/22/20, 21:06 - ~: oiya itu kenapa bubble chart ya mas
+11/22/20, 21:07 - Josua Crishan: iya betul, biar gampang diliat tipe promosi yg dominan
+11/22/20, 21:07 - ~: sumbu x sm sumbu y merepresentasikan apa ya
+11/22/20, 21:08 - Josua Crishan: sumbu x tipe promosi, sumbu y average success rate per tipe promosi
+11/22/20, 21:08 - Anggi Tri Rizki: aku baru bisa on laptop nihhh
+11/22/20, 21:08 - Anggi Tri Rizki: aku cb liat juga yaaa
+11/22/20, 21:08 - ~: kalau tiap warna?
+11/22/20, 21:09 - Josua Crishan: tipe promosinya bisa juga
+11/22/20, 21:10 - ~: bentar2 jd bingung saya hahaha
+11/22/20, 21:10 - Josua Crishan: sama kyk mentimeter gitu
+11/22/20, 21:11 - Anggi Tri Rizki: eeh bentar
+11/22/20, 21:11 - Anggi Tri Rizki: gimana ngedit nya ini ya? wkwk
+11/22/20, 21:11 - Anggi Tri Rizki: lngsng dri ms teams itu?
+11/22/20, 21:11 - ~: coba open in desktop app deh
+11/22/20, 21:12 - Anggi Tri Rizki: udaaah
+11/22/20, 21:12 - Anggi Tri Rizki: cara memperbesarnya gimana sih
+11/22/20, 21:12 - ~: langsung edit aja klik2
+11/22/20, 21:12 - ~: bawah kanan bs di zoom
+11/22/20, 21:12 - Anggi Tri Rizki: ohh zoom manual?
+11/22/20, 21:12 - Anggi Tri Rizki: kirain klik dua kali bisa auto wkwk
+11/22/20, 21:12 - ~: iya
+11/22/20, 21:12 - Anggi Tri Rizki: okedeehh mau liat dlu
+11/22/20, 21:13 - ~: maaf mas masih bingung saya, ini tuh chart nomor berapa ya
+11/22/20, 21:13 - ~: kalo disini no berapa
+11/22/20, 21:14 - Josua Crishan: nomor 1
+11/22/20, 21:16 - Josua Crishan: harusnya sih pakai heat map kyknya
+11/22/20, 21:16 - Josua Crishan: cuma gak ada jga
+11/22/20, 21:18 - Anggi Tri Rizki: kenapa ga pake pie chart aja? ada ga ya
+11/22/20, 21:19 - ~: kalau nomor 1 berarti kan harus ada biaya promosi, success rate, dan jenis produk ya
+11/22/20, 21:19 - ~: gaada mba kalo di free versionnya
+11/22/20, 21:22 - ~: mba @628127125586 paham ga baca chart no 1?
+11/22/20, 21:23 - ~: kalau bubble chart disitu bisa menampun 4 variabel kan ya (warna, ukuran bubble, sumbu x, sumbu y)
+11/22/20, 21:23 - Josua Crishan: kyknya gak ada chart yg kompatibel untuk analisis yg nomor 1 soalnya ada 3 variabel yg dipakai
+11/22/20, 21:23 - ~: column sm bar chart bisa sih mas, 3 variabel kan dia
+11/22/20, 21:24 - Anggi Tri Rizki: paham sii kalo udh dijelasin kaya yg atas
+11/22/20, 21:24 - Anggi Tri Rizki: tp kalo  utk bubble biasa nya ga pake sumbu x y lagi
+11/22/20, 21:24 - Anggi Tri Rizki: dia lebih ke warna sm ukuran aja
+11/22/20, 21:24 - ~: ohhh
+11/22/20, 21:25 - ~: itu tiap chart harus kita tulis secara explicit deh kayaknya label ini menyatakan apa
+11/22/20, 21:25 - ~: kalau X Y X Y agak membingungkan takutnya
+11/22/20, 21:26 - Anggi Tri Rizki: <Media omitted>
+11/22/20, 21:26 - Anggi Tri Rizki: atau kalo mau yg ada x y paling scatter
+11/22/20, 21:27 - Anggi Tri Rizki: iyaa kayanya di slide stelahnya aja mngkin?
+11/22/20, 21:27 - Anggi Tri Rizki: line chart ada mas yg di free?
+11/22/20, 21:27 - ~: mba anggi coba install ini dulu deh
+11/22/20, 21:28 - Anggi Tri Rizki: oalaah wkwk
+11/22/20, 21:28 - Anggi Tri Rizki: okeeyy
+11/22/20, 21:28 - Josua Crishan: nda ada jga
+11/22/20, 21:31 - ~: <Media omitted>
+11/22/20, 21:31 - Josua Crishan: ohh iya boleh di koreksi aja
+11/22/20, 21:34 - ~: Chart Most Ordered Product, Revenue by Store, dan Revenue by Product udah aku revisi ya
+11/22/20, 21:35 - ~: sisanya minta tolong dicekin lagi dong nggi @628127125586
+11/22/20, 21:35 - ~: label2nya tolong dilengkapin
+11/22/20, 21:36 - Josua Crishan: kira progress selanjutnya nnt harus diimplementasikan ke tableau gak ya ?
+11/22/20, 21:36 - ~: hmmm belum lihat lg progress selanjutnya aku mas
+11/22/20, 21:37 - Josua Crishan: tertulis di ppt nya cuma presentation aja sih
+11/22/20, 21:37 - ~: ohhh
+11/22/20, 21:37 - ~: hmmm
+11/22/20, 21:38 - ~: kalau implementasi di tableau berarti butuh data kan ya
+11/22/20, 21:38 - Josua Crishan: iya data dummy gitu
+11/22/20, 21:38 - Anggi Tri Rizki: okeeyy
+11/22/20, 21:38 - Anggi Tri Rizki: msh memahami dlu aku wkwk
+11/22/20, 21:39 - ~: Makasih nggii
+11/22/20, 21:39 - Anggi Tri Rizki: ini auto update kan?
+11/22/20, 21:39 - ~: Autoo
+11/22/20, 21:39 - ~: Kayak gslide aja
+11/22/20, 21:39 - Anggi Tri Rizki: okeey
+11/22/20, 21:39 - Anggi Tri Rizki: kalo aku masukin chart manual bisa ga ya wkwk
+11/22/20, 21:40 - Anggi Tri Rizki: atau bakal ancur nnti dia susunan nya?
+11/22/20, 21:46 - Anggi Tri Rizki: <Media omitted>
+11/22/20, 21:47 - ~: Tanya mas @6282194451406  deh, dia yg buat awal2 ituu
+11/22/20, 21:47 - ~: Coba aja mba wkwk
+11/22/20, 21:48 - ~: Kalo chart yg dr template dia cuman shape ditimpuk2 doang kok kayaknya
+11/22/20, 21:48 - Josua Crishan: nomor 4
+11/22/20, 21:49 - ~: Nomor 4 tp udah di chart bawah kanan (revenue by product)
+11/22/20, 21:49 - ~: Itu kayaknya diganti ajadeh
+11/22/20, 21:50 - ~: Redundan nggak sih?  sm revenue by store dan by product
+11/22/20, 21:50 - Josua Crishan: iya double kyknya
+11/22/20, 21:50 - Anggi Tri Rizki: ohh iya by store udaah
+11/22/20, 21:50 - ~: Diganti no 1/2 aja berarti
+11/22/20, 21:51 - ~: Soalnya yg chart promotion baru 1 kalo aku liat td
+11/22/20, 21:51 - Anggi Tri Rizki: aku coba pake line chart ya
+11/22/20, 21:51 - Anggi Tri Rizki: manual tapi wkwkw
+11/22/20, 21:51 - ~: Okeeee
+11/22/20, 21:51 - ~: Semangat nggi wkwk
+11/22/20, 22:59 - Anggi Tri Rizki: mas josua
+11/22/20, 23:00 - Josua Crishan: ya
+11/22/20, 23:00 - Anggi Tri Rizki: heatmap yg dibilang tdi itu mksdnya gitu bkn ya>
+11/22/20, 23:00 - Anggi Tri Rizki: ?
+11/22/20, 23:00 - Anggi Tri Rizki: atau ada yg mau dibenerin lg?
+11/22/20, 23:00 - Josua Crishan: wait aku cek
+11/22/20, 23:02 - Anggi Tri Rizki: okeey
+11/22/20, 23:02 - Anggi Tri Rizki: kalo ada mau dibenerin klik kanan, edit data aja mas
+11/22/20, 23:03 - Josua Crishan: oke"
+11/22/20, 23:04 - Josua Crishan: gak ada sumbu x dan y nya ya ?
+11/22/20, 23:04 - Anggi Tri Rizki: ga ada mas kalo di heatmap
+11/22/20, 23:05 - Anggi Tri Rizki: ga ada pilihannya ntah knapa
+11/22/20, 23:05 - Josua Crishan: ohh iya boleh gitu aja
+11/22/20, 23:06 - Josua Crishan: nnt mungkin dijelaskan aja. itu tujuannya untuk melihat hubungan antara promotion dan product berdasarkan success ratenya
+11/22/20, 23:07 - Josua Crishan: boleh di submit aja mba anggi
+11/22/20, 23:08 - Anggi Tri Rizki: iyaa ini lg mau di copy ke slide slanjutnya yg hasil diskusi 7 poin di atas tdi
+11/22/20, 23:08 - Anggi Tri Rizki: ppt itu aja kan ya?
+11/22/20, 23:08 - Josua Crishan: oke" siap
+11/22/20, 23:08 - Josua Crishan: iya
+11/22/20, 23:09 - Josua Crishan: file limitnya cuma 1 aja di submit tuh
+11/22/20, 23:09 - Josua Crishan: antara ppt atau pdf
+11/22/20, 23:15 - Anggi Tri Rizki: ohh okeey
+11/22/20, 23:15 - Anggi Tri Rizki: udaah itu ya
+11/22/20, 23:15 - Anggi Tri Rizki: ada mau ditambah lagi?
+11/22/20, 23:15 - Josua Crishan: udah
+11/22/20, 23:16 - Anggi Tri Rizki: okey saya submit ya
+11/22/20, 23:16 - Josua Crishan: oke
+11/22/20, 23:20 - Anggi Tri Rizki: <Media omitted>
+11/22/20, 23:20 - Anggi Tri Rizki: udah
+11/22/20, 23:20 - Josua Crishan: oke terima kasih ya 🙏
+11/23/20, 04:42 - ~: Terimakasih banyak mba anggi dan mas josua🙏
+11/29/20, 19:21 - Anggi Tri Rizki: haloo malem
+11/29/20, 19:21 - Anggi Tri Rizki: bsok kan present tubes yaa
+11/29/20, 19:22 - Anggi Tri Rizki: yg katanya mau masukin dimensi store apakah jdi? soalnya kan msh boleh di ganti seingetku kata pak tori
+11/29/20, 19:49 - ~: Malemm
+11/29/20, 19:50 - ~: Sepertinya jadi aja deh
+11/29/20, 19:56 - Anggi Tri Rizki: di erd nya udh aku tambahin yaa
+11/29/20, 19:56 - Anggi Tri Rizki: sama mau nnya kan conceptual yg dijelasin pak tori itu yg schema bulet bulet gitu, apa mau gnti bentuk gitu jg?
+11/29/20, 20:08 - Josua Crishan: boleh sih klo mau disesuaikan
+11/29/20, 20:37 - Josua Crishan: sy lanjut edit schema lainnya ya
+11/29/20, 20:57 - ~: aku nyoba convert jd yg schema bulet2 itu bingung daritadi
+11/29/20, 20:58 - ~: apa kayak gini aja udah cukup ya wkkw
+11/29/20, 20:58 - Josua Crishan: bukan tinggal hilangkan atributnya ya ?
+11/29/20, 21:04 - ~: ilangin atribut gmn mas maksudnya? masih kurang paham
+11/29/20, 21:05 - Josua Crishan: kan yg bulat" itu dimensinya. jdi tinggal hilangkan field"nya aja
+bukan gitu ya ? 😅
+11/29/20, 21:07 - ~: kalo dimensi waktu misalnya, kan ada atribut date, week, month, year sebagai grains, itu memangnya dihilangkan?
+11/29/20, 21:10 - Josua Crishan: iya jadi tersisa dimensinya sja
+11/29/20, 21:10 - ~: <Media omitted>
+11/29/20, 21:13 - Josua Crishan: sepertinya ga semua ada juga sih. seperti product, yg tersisa hanya measurenya sja
+11/29/20, 21:13 - Josua Crishan: tabel fakta juga hanya measure
+11/29/20, 21:14 - Josua Crishan: ga ada aturan tertulis juga sih
+11/29/20, 21:19 - Anggi Tri Rizki: kalo sepaham saya sih entity nya di ilangin mas, jdi lngsng ke primary key
+nah nnti dri PK itu baru pecah ke atribut lain yg bkn PK
+11/29/20, 21:20 - Anggi Tri Rizki: nnti saya coba bantu jg yaa, ini ada krjaan mendadak keluar
+11/29/20, 21:34 - Josua Crishan: di schema relation dan fact constellation schema sdh sy tambahkan dimensi store
+mungkin bisa dikoreksi juga klo keliru
+11/29/20, 21:55 - Anggi Tri Rizki: okee mas
+11/29/20, 21:55 - Anggi Tri Rizki: mas dandy udh coba buat yg conceptual ya? boleh minta link nya mas? biar saya bantu jugaa
+11/30/20, 04:45 - ~: Maaff mba saya ketiduran, saya bikin di tab 2 nya conceptual schema kemarin
+11/30/20, 07:45 - ~: <Media omitted>
+11/30/20, 07:53 - ~: saya udah lengkapi logical schema nya ya
+11/30/20, 07:53 - ~: sudah saya masukin ke ppt & laporan (doc), mohon dicek lg kalo ada perubahan
+11/30/20, 07:53 - ~: deadline upload ke team jam 12 siang
+11/30/20, 07:54 - Josua Crishan: oke siap mas
+11/30/20, 07:56 - Josua Crishan: sy pindahkan ke conceptual ya mas
+11/30/20, 07:56 - ~: Oke
+11/30/20, 07:58 - Josua Crishan: yg lama tetap dimasukan ya ?
+11/30/20, 08:01 - Anggi Tri Rizki: masih bingung jg sbnerny, tp kayanya kalo buletan itu dri atribut dia bisa jdi dimensi baru(bisa dijadiin groupby) kalo lurus ga bisa
+11/30/20, 08:01 - Anggi Tri Rizki: saya blm cek semua sih smalem baru udh buat 1 itu aja
+11/30/20, 08:02 - ~: tapi kita buat ini tuh acuannya dari yang fact constellation schema itu bukan ya? saya takut salah, soalnya saya ngacu kesitu
+11/30/20, 08:02 - Anggi Tri Rizki: conceptual nya udh semua jdi ya mas?
+11/30/20, 08:02 - Anggi Tri Rizki: bukaann wkwk conceptual tuh ngacu nya sm erd/skema relation
+11/30/20, 08:02 - ~: astagfirullah
+11/30/20, 08:02 - ~: salah dong
+11/30/20, 08:02 - Anggi Tri Rizki: soalnya wktu kuis kan dikasih erd, trs disuruh buat conceptual
+11/30/20, 08:02 - Anggi Tri Rizki: saya ngeh nya disini jg
+11/30/20, 08:03 - ~: tapi kok ada measure2 segala sih
+11/30/20, 08:03 - ~: di erd kan gaada measure
+11/30/20, 08:03 - Anggi Tri Rizki: iyaa measure nya itu bagian dri step gitu mas
+11/30/20, 08:03 - Anggi Tri Rizki: jdi conceptual tu tetep buat smpe fact, tp yaa conceptual gitu jdulnya wkwk
+11/30/20, 08:04 - Anggi Tri Rizki: tp yg ditampilin hsil fact aja kayanya dri step conceptual itu
+11/30/20, 08:04 - ~: ooohh
+11/30/20, 08:05 - ~: ada yang bisa tolong revisiin lg ga conceptual schemanya? saya udah masuk kerja nih soalnya
+11/30/20, 08:05 - Josua Crishan: sy bisa mas
+11/30/20, 08:06 - ~: oke makasih banyak mas josua
+11/30/20, 08:06 - Josua Crishan: oke mas
+11/30/20, 08:10 - Anggi Tri Rizki: bisaa bisaa kok saya
+11/30/20, 08:11 - Anggi Tri Rizki: lg otw idupin laptop
+11/30/20, 08:14 - Josua Crishan: tinggal diubah dikit aja juga tuh kyknya
+11/30/20, 08:16 - ~: oke makasih banyak mba anggi
+11/30/20, 09:14 - Anggi Tri Rizki: okeey
+11/30/20, 09:14 - Anggi Tri Rizki: udh saya benerin yaa, tp gatau bener ga gitu juga soalnya ga terlalu ngerti jg😂
+11/30/20, 09:14 - Anggi Tri Rizki: ga familiar sm yg gitu wkwk
+11/30/20, 10:12 - Anggi Tri Rizki: word sm ppt udh aku sesuain jg yaa sama yg gnti2 tadi
+11/30/20, 10:13 - Anggi Tri Rizki: ada yg msh mau gnti?
+11/30/20, 10:13 - Anggi Tri Rizki: kalo ngga tinggal upload brrti
+11/30/20, 10:13 - Josua Crishan: klo sy nda ada lagi
+11/30/20, 10:50 - Josua Crishan: disubmit aja klo gak ada lagi perubahan
+11/30/20, 10:56 - Anggi Tri Rizki: oke saya submit ya
+11/30/20, 11:00 - Josua Crishan: oke"
+11/30/20, 11:05 - ~: saya enggak mba
+11/30/20, 11:05 - ~: oke terimakasih mba
+11/30/20, 11:06 - Anggi Tri Rizki: <Media omitted>
+11/30/20, 11:07 - ~: okeee🙏
+11/30/20, 11:07 - Josua Crishan: oke terima kasih mba 🙏
+11/30/20, 11:08 - Anggi Tri Rizki: samasamaa
+11/30/20, 11:08 - Anggi Tri Rizki: nnti gimana pembagiannya?
+11/30/20, 12:23 - ~: - Rumah Cantik Citra & Divisi
+- ERD & Conceptual
+- Logical & Dashboard
+11/30/20, 12:23 - ~: kalau kayak gini aja gimana?
+11/30/20, 12:49 - Anggi Tri Rizki: boleeeh
+11/30/20, 12:53 - ~: ayo dipilih deh
+11/30/20, 12:55 - Josua Crishan: sy bagian logical & dashboard aja
+11/30/20, 12:55 - ~: - Rumah Cantik Citra & Divisi
+- ERD & Conceptual
+- Logical & Dashboard (Josua)
+11/30/20, 12:55 - Anggi Tri Rizki: bebas saya mah
+11/30/20, 12:55 - ~: - Rumah Cantik Citra & Divisi (Dandy)
+- ERD & Conceptual (Anggi)
+- Logical & Dashboard (Josua)
+11/30/20, 12:55 - ~: gini aja yaa
+11/30/20, 12:56 - Anggi Tri Rizki: okeeyy
+11/30/20, 12:56 - ~: total ada berapa kelompok sih
+11/30/20, 12:56 - Anggi Tri Rizki: conceptual nnti bantuin yaa kalo saya ada salah jelasin😂
+11/30/20, 12:56 - Anggi Tri Rizki: share screen siapa?
+11/30/20, 12:57 - Anggi Tri Rizki: 5
+11/30/20, 12:57 - ~: aku juga boleh
+11/30/20, 12:59 - Anggi Tri Rizki: okeey
+11/30/20, 13:37 - ~: abis ini kalo ditawarin, mau presentasi ga?
+11/30/20, 13:37 - Josua Crishan: bebas sih 😅
+11/30/20, 13:38 - Anggi Tri Rizki: boleeh wkwk
+11/30/20, 13:38 - ~: okee maju aja ya biar cepet wkwkw
+11/30/20, 13:38 - Josua Crishan: okey 😅👍
+11/30/20, 13:39 - Anggi Tri Rizki: wkwk okeey
+11/30/20, 13:49 - ~: detail jg ya pak tori
+11/30/20, 13:49 - Josua Crishan: iya
+11/30/20, 13:50 - Josua Crishan: diawasi bu putri lagi 😅
+11/30/20, 13:50 - ~: baru sadar hahahaha
+11/30/20, 13:50 - Anggi Tri Rizki: ohh baru ngeh ada buk putri...
+11/30/20, 13:50 - Anggi Tri Rizki: jdi takutt wkkwkww
+11/30/20, 13:50 - Josua Crishan: sdh sekitar 10 menit yg lalu mungkin join room
+11/30/20, 14:00 - ~: yah urutan ternyata wkwk
+11/30/20, 14:04 - Anggi Tri Rizki: gapapa kan abs ini kita wkwk
+11/30/20, 15:08 - Anggi Tri Rizki: kita yg buat fact turnover itu aja kan ya revisi nya?
+11/30/20, 15:08 - Josua Crishan: iya. yg dikomentari hanya itu
+11/30/20, 15:09 - Anggi Tri Rizki: iyaa krna wktunya jg mepet ya
+11/30/20, 15:09 - ~: iya karena mepet ya
+11/30/20, 15:10 - Anggi Tri Rizki: gapapa dkit brrti😂
+12/7/20, 09:35 - Anggi Tri Rizki: halo pagii mas
+12/7/20, 09:35 - Josua Crishan: pagi
+12/7/20, 09:35 - Anggi Tri Rizki: fib yg revisian kmarin kata bpknya kapan diminta kumpul ya?
+12/7/20, 09:35 - ~: Pagi2
+12/7/20, 09:36 - ~: Saya kurang merhatiin kapan tglnya
+12/7/20, 09:36 - Josua Crishan: katanya nnt diinfokan mengenai assignment perbaikannya
+12/7/20, 09:46 - Anggi Tri Rizki: ohh okee
+12/7/20, 09:46 - Anggi Tri Rizki: kita cm nambahin fact aja kan ya
+12/7/20, 09:46 - Anggi Tri Rizki: aku cb tambahin yaa
+12/12/20, 10:29 - Anggi Tri Rizki: halooo
+12/12/20, 10:29 - Anggi Tri Rizki: deadline upload tubes jam 12 ini nih
+12/12/20, 10:29 - ~: halo mba, maaf lupa bales yg kemarin
+12/12/20, 10:29 - ~: 12 siang ya?
+12/12/20, 10:30 - Anggi Tri Rizki: dri yg aku tambahin ada yg mau ditambah lg ga?
+12/12/20, 10:30 - Anggi Tri Rizki: kalo ga salah iyaaa
+12/12/20, 10:30 - Anggi Tri Rizki: eh engga, malem mas wkwk
+12/12/20, 10:30 - ~: oh malem
+12/12/20, 10:30 - ~: alhamdulillah wkwk
+12/12/20, 10:31 - ~: bentar aku cek lg ya mbaa
+12/12/20, 10:31 - Anggi Tri Rizki: iyaa seinget ku 12 aja gatau am apa pm wkwk
+12/12/20, 10:31 - Anggi Tri Rizki: okedeehh
+12/12/20, 10:31 - Anggi Tri Rizki: nnti kalo udh lngsng upload aja yaa mas dandy atau mas josua nyaa
+12/12/20, 10:31 - ~: oke mba, makasih banyak yaaa
+12/12/20, 10:32 - ~: 11.59 pm itu 11 malem kan ya?
+12/12/20, 11:26 - Josua Crishan: baiknya disubmit skrng aja
+mencegah aja 😂
+12/12/20, 11:27 - Josua Crishan: yg baru diedit file yg mana ya ?
+12/12/20, 11:27 - ~: saya belum sempet edit lg sih
+12/12/20, 11:27 - ~: yaudah mas dikumpul aja dulu deh
+12/12/20, 11:28 - Josua Crishan: oke". aku cek dulu klo gitu
+12/12/20, 11:28 - Josua Crishan: mas dandy masi mau menambahkan ?
+12/12/20, 11:30 - ~: enggak deh aku mas
+12/12/20, 11:30 - Josua Crishan: oke" mas
+12/12/20, 11:30 - ~: aku masih kerja soalnya, belum sempet ngecek2 lg
+12/12/20, 11:30 - ~: oke mas
+12/12/20, 11:30 - Josua Crishan: nnt aku submit klo gitu
+12/12/20, 11:43 - Josua Crishan: <Media omitted>
+12/12/20, 11:49 - ~: Ok makasih mas
+12/12/20, 12:49 - Anggi Tri Rizki: okeey makasiih mas josuaa
+1/18/21, 14:14 - ~: wkwk lanjut kelompoknya?
+1/18/21, 14:14 - Josua Crishan: sepertinya bgtu mas 😂
+1/18/21, 14:15 - Anggi Tri Rizki: kayaknya sih iya😂
+1/18/21, 14:15 - ~: hahahah mantap👍
+1/27/21, 11:52 - Anggi Tri Rizki: <Media omitted>
+1/27/21, 13:05 - ~: Oke mba
+1/30/21, 09:05 - ~: tugasnya:
+1. visi misi
+2. struktur organisasi
+3. KPI
+4. tools & data yg dibutuhkan tim BI 
+
+deliverable pdf & slide
+1/30/21, 09:06 - ~: [Visi & Misi RCC]
+
+Visi perusahaan adalah ingin memberikan produk perawatan kulit yang berkualitas dari warisan kecantikan tradisional Indonesia. Misi pertama adalah Citra ingin menjadi merek produk perawatan kulit lengkap yang tercermin dari jajaran produk perawatan kulit yang sudah ada.
+
+sumber: https://text-id.123dok.com/document/8yd9r9ezp-sejarah-perusahaan-visi-misi-perusahaan.html
+1/30/21, 09:06 - ~: nomor 2 juga udah kan ya, tinggal dari ambil struktur organisasi sebelumnya
+1/30/21, 09:06 - ~: nomor 3 & 4 kayaknya kita harus diskusikan ini
+1/30/21, 09:33 - ~: Gimana @6282194451406 @628127125586 ??
+1/30/21, 09:51 - Josua Crishan: boleh mas
+1/30/21, 11:41 - Anggi Tri Rizki: boleeh boleeh
+1/30/21, 11:41 - Anggi Tri Rizki: mau kapan?
+1/30/21, 17:45 - ~: Besok jam 10 gimana?
+1/30/21, 18:23 - Josua Crishan: boleh bsok jam 10
+1/30/21, 18:24 - Anggi Tri Rizki: boleeh boleeh
+1/31/21, 09:50 - ~: https://meet.google.com/jjp-txoh-peq
+1/31/21, 09:51 - ~: ini link gmeetnya ya
+1/31/21, 10:16 - Anggi Tri Rizki: https://elib.unikom.ac.id/files/disk1/601/jbptunikompp-gdl-ofikperman-30011-11-unikom_o-i.pdf
+1/31/21, 10:20 - ~: <Media omitted>
+1/31/21, 11:50 - ~: <Media omitted>
+1/31/21, 11:52 - Josua Crishan: sepertinya keliru tuh mas
+1/31/21, 11:52 - Josua Crishan: PPT dan PDF ekstensinya
+1/31/21, 11:53 - ~: Itu boleh pdf/ppt di keterangannya
+1/31/21, 11:53 - ~: Ya gak sih?
+1/31/21, 11:53 - ~: Apa salah ya
+1/31/21, 11:53 - Josua Crishan: ohh gitu ya. oke" sy salah nangkep berarti 😅🙏
+1/31/21, 11:53 - Anggi Tri Rizki: boleeh aja siih
+1/31/21, 11:54 - ~: Wkwk okok
+1/31/21, 11:54 - Anggi Tri Rizki: yg jls itu yg .pptx.pdf bentuk ppt kan dlmnya?
+1/31/21, 11:54 - ~: Pdf
+1/31/21, 11:54 - ~: Ok ntar saya ganti aja ppt sm pdf
+1/31/21, 11:54 - Anggi Tri Rizki: eh mksdnya slide kan ya dlmnya? bkn docs?
+1/31/21, 11:54 - ~: Iya
+1/31/21, 11:55 - Anggi Tri Rizki: ohh okee gapapa mas
+2/1/21, 10:07 - ~: milestone minggu depan
+- mulai mendefine data source dari studi kasus
+2/1/21, 10:08 - ~: membuat ER untuk studi kasus
+2/1/21, 10:12 - Anggi Tri Rizki: bukannya smester kmarin kan udh ya😂
+2/1/21, 10:47 - ~: Makanya wkwk
+2/7/21, 08:10 - Anggi Tri Rizki: halooo
+2/7/21, 08:10 - Anggi Tri Rizki: tugas kita gimana ya?
+2/7/21, 08:10 - Anggi Tri Rizki: mau pake yg smester kmarin aja? atau ada mau ditambahin?
+2/7/21, 08:21 - ~: Haloo
+2/7/21, 08:21 - ~: Mungkin harus disesuaiin sm KPI yg kita defined minggu lalu kali ya
+2/7/21, 08:28 - Anggi Tri Rizki: kalo menurut ku sih iya
+2/7/21, 08:28 - Anggi Tri Rizki: kita jg udh define db apa aja kan kmarin
+2/7/21, 08:28 - Anggi Tri Rizki: mngkin disesuain sm itu ya
+2/7/21, 08:53 - Josua Crishan: <Media omitted>
+2/7/21, 08:56 - Josua Crishan: atau mungkin dimodifikasi dikit proses bisnis yg kemarin, biar keliatan lebih fokus ke operasional sehari-hari
+2/7/21, 09:07 - Anggi Tri Rizki: iyaa boleeh gituuu
+2/7/21, 09:07 - Anggi Tri Rizki: karna ada tmbahan jg kan data yg dibutuhkan skrng utk prediksi masa dpn  kalo brdasarkan tugas kmarin
+2/7/21, 09:07 - Anggi Tri Rizki: sama itu diminta syntax sql ddl jugaa
+2/7/21, 09:07 - Anggi Tri Rizki: mau jam brp ngerjainnya?
+2/7/21, 09:09 - Josua Crishan: skrng boleh
+2/7/21, 09:11 - Anggi Tri Rizki: eh jam 10 aja deh mas wkwk
+2/7/21, 09:12 - Josua Crishan: ohh iya boleh 😁👍
+2/7/21, 09:19 - ~: Yah aku ada acara hari ini, baru bisa malem palingan. Kalian diskusi aja berdua gimana. Aku ngerjain bagian sql ddl nya ntar
+2/7/21, 09:22 - Anggi Tri Rizki: oalaah okeey
+2/7/21, 09:22 - Anggi Tri Rizki: atau mau malem aja mas? @6282194451406
+2/7/21, 09:22 - Anggi Tri Rizki: btw ada yg msh nyimpen file draw io erd kita ga
+2/7/21, 09:22 - Anggi Tri Rizki: di drive kok ga ada ua
+2/7/21, 09:37 - Josua Crishan: bebas sih
+2/7/21, 09:38 - Josua Crishan: https://app.diagrams.net/#G1GHAipX7qVhg5FeO6-myZOnstXt8HS3b_
+2/7/21, 09:42 - Anggi Tri Rizki: malem aja deh ya mungkin biar skalian
+2/7/21, 09:42 - Anggi Tri Rizki: mas @6285774293032 mlm nya bisa jam brp
+2/7/21, 09:42 - Josua Crishan: oke" siap
+2/7/21, 09:42 - ~: Oh boleh2
+2/7/21, 09:43 - ~: Jam 8 paling
+2/7/21, 09:46 - Anggi Tri Rizki: okeeii
+2/7/21, 18:42 - ~: udah aku buat invitation gmeetnya ya
+2/7/21, 18:42 - ~: kita coba batasin 45 menit aja meetingnya ya, biar lebih efektif
+2/7/21, 18:43 - ~: coba di-cek di email udah masuk atau belum
+2/7/21, 19:12 - Anggi Tri Rizki: okee udah masukk kok
+2/7/21, 22:01 - Josua Crishan: <Media omitted>
+2/7/21, 22:23 - Anggi Tri Rizki: terimakasih mas
+2/7/21, 22:23 - ~: Makasih semua
+2/7/21, 22:25 - Josua Crishan: lanjut ADB mas 🤣
+2/7/21, 22:25 - ~: Hahaha siapp
+2/7/21, 22:25 - ~: Saya lg baca2 dulu
+2/7/21, 22:26 - Josua Crishan: siap 😁👍
+
+udah sy buat tuh filenya
+2/13/21, 19:06 - ~: Mingdep ada tugas gak ya?
+2/13/21, 19:07 - Josua Crishan: sepertinya masi presentasi mas
+2/13/21, 19:07 - Josua Crishan: blm ada assignment deliverable 3 juga tuh 😅
+2/13/21, 19:08 - ~: Ohhh iya2
+2/13/21, 19:17 - Anggi Tri Rizki: iyaa blm ada, kelas kemarin jg ga dibahas apa apa utk tugas slanjutnya😂
+2/13/21, 19:17 - ~: Oke mungkin saatnya istirahat minggu ini hahahaha
+2/13/21, 19:19 - Anggi Tri Rizki: wkwkw iyaa semogaa
+2/15/21, 13:53 - Anggi Tri Rizki: kenapa org erd nya jdi 1 semua ya wkww
+2/15/21, 13:54 - ~: tapi aku lebih setuju yg mba anggi bilang sih
+2/15/21, 13:54 - ~: operasional kan multisources ya
+2/15/21, 13:54 - Anggi Tri Rizki: iyaa wkwk
+2/15/21, 13:54 - Anggi Tri Rizki: atau di akhir kita masukin aja erd yg wktu itu?
+2/15/21, 13:54 - Anggi Tri Rizki: biar kesimpulan gitu
+2/15/21, 13:56 - Anggi Tri Rizki: atau ga usah? wkwk soalny ada yg blm ditambah jg disana
+2/15/21, 13:57 - ~: apa yg belum ditambah?
+2/15/21, 13:57 - Anggi Tri Rizki: di erd gabungan yg lama
+2/15/21, 13:57 - Anggi Tri Rizki: yg smester kemarin
+2/15/21, 13:57 - ~: ohhh
+2/15/21, 13:57 - ~: gausah kalo menurutku sih, kayak gini aja
+2/15/21, 13:58 - ~: nanti dijelasin aja operational db nya per departemen
+2/15/21, 13:58 - ~: jadi schemanya ada 4
+2/15/21, 13:58 - Anggi Tri Rizki: ohh okeokeey
+2/15/21, 14:00 - ~: eh proses bisnis di ppt belum di update ya
+2/15/21, 14:05 - ~: ntar aku aja yg present ya
+2/15/21, 14:06 - Anggi Tri Rizki: okee
+2/15/21, 14:18 - ~: Lanjut aja mas abis ini @6282194451406
+2/15/21, 14:18 - Josua Crishan: siap
+2/15/21, 14:21 - ~: wakkaka ga dipisah ternyata ya
+2/15/21, 14:22 - Anggi Tri Rizki: wkwk iyaa ya😂😂
+2/15/21, 14:22 - Josua Crishan: feeling mba anggi udah bener 😅
+2/15/21, 14:22 - ~: feeling wanita emg kuat biasanya
+2/15/21, 14:23 - Anggi Tri Rizki: wkwkkw
+2/15/21, 14:23 - Anggi Tri Rizki: tinggal tambahin aja nnti brrti yg ERD lama
+2/15/21, 14:27 - ~: iya bener
+2/15/21, 14:27 - ~: KPI kayaknya udh lumayan bener nih ya kita wkwk
+2/15/21, 14:27 - Josua Crishan: sepertinya kita tdk present deliverable 1 ya
+2/15/21, 14:28 - Josua Crishan: kelompok lain tdi keliatannnya ada present deliverable 1
+2/15/21, 14:28 - Anggi Tri Rizki: iyaa bener siih kayanya udh
+2/15/21, 14:28 - Anggi Tri Rizki: deliverable 1 kan udh KPI itu?
+2/15/21, 14:28 - ~: deliverable 1 bukannya udh tercakup di deliverable 2 ya?
+2/15/21, 14:29 - Anggi Tri Rizki: harusnya iyaa
+2/15/21, 14:30 - Josua Crishan: proses bisnisnya yg ke ganti tdi
+2/15/21, 14:30 - Josua Crishan: deliv 1 masi proses bisnis yg awal
+2/15/21, 14:33 - ~: Ohh iya2
+2/15/21, 14:33 - Anggi Tri Rizki: ohiyaa ya wkwk
+2/15/21, 14:34 - Anggi Tri Rizki: gapapa sih kayanya lebih fokus bahas KPI itu tdi
+2/15/21, 14:34 - Anggi Tri Rizki: sm erd yg terpisah😂
+2/15/21, 14:34 - Josua Crishan: yg penting ibu dan pak tori gak nyadar. amanlah 😅
+2/15/21, 14:35 - Josua Crishan: kita tinggal gabungin lagi aja ERD nya
+2/15/21, 14:35 - Anggi Tri Rizki: iyaa
+2/15/21, 14:35 - Anggi Tri Rizki: nnti skalian deliverable 3 aja kayanya ya
+2/15/21, 14:35 - Josua Crishan: iya
+2/19/21, 11:31 - Anggi Tri Rizki: <Media omitted>
+2/19/21, 11:31 - Anggi Tri Rizki: mau di kerjain kapan?
+2/19/21, 11:31 - Anggi Tri Rizki: nanti malem deadline nya
+2/19/21, 11:32 - Anggi Tri Rizki: atau mau bagi tugas aja?
+2/19/21, 11:32 - ~: Yaampun ga nyadar
+2/19/21, 11:32 - ~: Bagi tugas aja deh
+2/19/21, 11:32 - Anggi Tri Rizki: ddl insert data saya bisa, tp datanya gimana? bebas?
+2/19/21, 11:33 - Anggi Tri Rizki: <Media omitted>
+2/19/21, 11:34 - Anggi Tri Rizki: mungkin benerin dlu erd nya baru bisa insert data
+2/19/21, 11:35 - ~: berarti yg harus dilakuin
+1. benerin ERD
+2. input data
+2/19/21, 11:35 - ~: perbaikan tuh selain benerin ERD apa lg ya
+2/19/21, 11:36 - ~: kayaknya pak tori pernah bilang sesuatu ttg tiap KPI harus bisa menjawab tujuan yg mana (semacam di-pair bikin table gt)
+2/19/21, 11:36 - Anggi Tri Rizki: nah iyaa baru mau bilang
+2/19/21, 11:37 - Anggi Tri Rizki: mungkin tambahin aja di tabel KPI nya, itu merefer ke tujuan nmor berapa gitu
+2/19/21, 11:37 - ~: menjawab tujuan atau proses bisnis sih?
+2/19/21, 11:37 - Josua Crishan: seingat sy visi misi
+2/19/21, 11:38 - Anggi Tri Rizki: ohiya visi misi deh wkwk
+2/19/21, 11:39 - Josua Crishan: ada videonya kok itu
+bisa di cek ulang 😅
+2/19/21, 11:40 - ~: Oiya, visi misi kan untuk mencapai tujuan, nah taunya tujuannya dapat tercapai atau enggak itu diukur berdasarkan KPI
+2/19/21, 11:41 - ~: Semacam itu kalau gak salah denger
+2/19/21, 12:59 - Anggi Tri Rizki: iyaaap
+2/19/21, 12:59 - Anggi Tri Rizki: jdi gimana mau bagi tugasnya?
+2/19/21, 13:32 - ~: berarti yg harus dilakuin
+1. benerin ERD
+2. input data
+3. mapping KPI ke visi misi
+2/19/21, 13:32 - ~: berarti yg harus dilakuin
+1. benerin ERD (josua)
+2. input data (anggi)
+3. mapping KPI ke visi misi (dandy)
+2/19/21, 13:32 - ~: gini ada yg keberatan?
+2/19/21, 13:41 - Anggi Tri Rizki: okeeyy
+2/19/21, 13:41 - Anggi Tri Rizki: aku input data stelah erd nya slesai ya brrti
+2/19/21, 13:41 - Josua Crishan: boleh mas
+2/19/21, 13:42 - Josua Crishan: cuma sy kerjanya blm bisa skrng
+2/19/21, 13:42 - Josua Crishan: masi ada MK
+2/19/21, 13:42 - Josua Crishan: sehabis ADB sy mulainya
+2/19/21, 13:43 - Anggi Tri Rizki: oke gapapa mas
+2/19/21, 13:44 - ~: Okeee
+2/19/21, 18:46 - ~: bingung mapping nya gimana deh...
+2/19/21, 18:46 - ~: visi, misi, tujuan pas dibaca2 agak abstrak gt
+2/19/21, 19:24 - Anggi Tri Rizki: dri tujuan yg udh kita define aja kali mas
+2/19/21, 19:24 - Anggi Tri Rizki: tujuan atau proses bisnis
+2/19/21, 19:25 - Anggi Tri Rizki: btw aku ngerjain nya maleman yaa, mau yasinan dlu ini
+2/19/21, 19:31 - ~: tujuan juga abstrak gitu mba
+2/19/21, 19:31 - ~: paling proses bisnis sih
+2/19/21, 19:32 - ~: tujuan kita kan gak define sendiri
+2/19/21, 19:32 - ~: dari literatur yang anak unikom itu
+2/19/21, 19:33 - Josua Crishan: ERD nya udah selesai
+2/19/21, 19:55 - Anggi Tri Rizki: ohh iya yaa
+2/19/21, 19:55 - Anggi Tri Rizki: yaudah proses bisnis aja mas
+2/19/21, 19:55 - Anggi Tri Rizki: okeee
+2/19/21, 19:55 - ~: okeee
+2/19/21, 21:39 - Anggi Tri Rizki: data nya mau diisi brp yaa?
+2/19/21, 21:39 - Anggi Tri Rizki: 5 ckup ga? atau 10?
+2/19/21, 21:39 - Josua Crishan: boleh
+2/19/21, 21:39 - ~: 10 bolehh
+2/19/21, 21:40 - Josua Crishan: blm ada perintah untuk isi banyak data 😅
+2/19/21, 21:58 - Anggi Tri Rizki: wkwk okey
+2/19/21, 21:59 - Anggi Tri Rizki: btw erd terbaru blm dimasukin di ppt atau word ya?
+2/19/21, 21:59 - Anggi Tri Rizki: dimana jadi erd nyaa?
+2/19/21, 21:59 - Josua Crishan: wait sy pindahin
+2/19/21, 22:02 - Josua Crishan: udah
+2/19/21, 22:03 - Anggi Tri Rizki: okee makasih mas
+2/19/21, 22:03 - Josua Crishan: erd yg kepisah dibiarin aja ya ?
+2/19/21, 22:04 - Anggi Tri Rizki: kayanya iya
+2/19/21, 22:04 - Anggi Tri Rizki: buat aja penjelasan di judulnya biar tau
+2/19/21, 22:04 - Josua Crishan: oke"
+2/19/21, 23:14 - Anggi Tri Rizki: udah kan ya?
+2/19/21, 23:14 - Anggi Tri Rizki: aku submit ya
+2/19/21, 23:18 - Anggi Tri Rizki: <Media omitted>
+2/19/21, 23:21 - Josua Crishan: oke
+terima kasih mba anggi 🙏
+2/19/21, 23:22 - Anggi Tri Rizki: makasih juga mas
+2/20/21, 05:11 - ~: Terimakasih mba, mas
+2/22/21, 09:06 - ~: Hari ini ada kuis atau apa enggak ya?
+2/22/21, 09:26 - Anggi Tri Rizki: ada kuis kalo ga salah
+2/22/21, 09:27 - ~: Materinya yang mana ya
+2/22/21, 09:28 - Anggi Tri Rizki: yg minggu kemarin
+2/22/21, 10:00 - ~: Oooo okokk
+2/22/21, 11:07 - ~: <Media omitted>
+2/22/21, 11:08 - ~: nanti disuruh buat laporan kesimpulang dr materi minggu 5
+2/22/21, 11:08 - ~: pas aku cek materi minggu 5 = materi minggu 4
+2/22/21, 11:09 - ~: wkwkwk
+2/22/21, 11:09 - ~: kuisnya jg materi minggu 4
+2/22/21, 11:14 - Anggi Tri Rizki: iyaa wkwk
+2/22/21, 11:14 - Anggi Tri Rizki: kayanya kesimpulan scara keseluruhan aja deh jdinya😂
+2/22/21, 12:26 - ~: oooo
+2/22/21, 13:24 - ~: ayo2 bagi tugas
+2/22/21, 13:24 - ~: dokumennya sudah saya buat di drive ya
+2/22/21, 13:24 - ~: sudah ada struktur secara umumnya
+2/22/21, 13:24 - Josua Crishan: 3 item masing"
+2/22/21, 13:25 - ~: ini udah lengkap apa belum ya tp?
+2/22/21, 13:26 - Josua Crishan: ehh ada tugas tambahan lagi tuh dri ibu putri
+2/22/21, 13:26 - Josua Crishan: <Media omitted>
+2/22/21, 13:27 - Anggi Tri Rizki: harusnya yg di kerjakan tuh ini ga sih? atau ini tambahan? wkwk
+2/22/21, 13:27 - Josua Crishan: iya bingung juga
+2/22/21, 13:28 - Josua Crishan: soalnya materinya beda tuh
+2/22/21, 13:28 - ~: ooo ganti lg toh
+2/22/21, 13:28 - ~: tanya dulu di grup deh
+2/22/21, 13:30 - Josua Crishan: <Media omitted>
+2/22/21, 13:33 - Anggi Tri Rizki: <Media omitted>
+2/22/21, 13:33 - Anggi Tri Rizki: pdhl buka yg lain bisa wkwk
+2/22/21, 13:35 - Josua Crishan: week 6 jadinya
+2/22/21, 13:36 - Anggi Tri Rizki: week 6 materi nya cm 5 slide?...
+2/22/21, 13:36 - Josua Crishan: iya cuma 5 slide 😅
+2/22/21, 13:37 - Anggi Tri Rizki: bener2 diskusi kayanya wkwk
+2/22/21, 13:37 - Anggi Tri Rizki: mau gmeet aja ga?
+2/22/21, 13:37 - ~: cari referensinya dulu deh
+2/22/21, 13:37 - ~: gmeet kalo gaada referensi bingung jg
+2/22/21, 13:38 - ~: aku lg liat bukunya sih
+2/22/21, 13:42 - ~: gaada sptnya
+2/22/21, 13:42 - ~: wkwkkw
+2/22/21, 13:45 - ~: boleh deh gmeet aja
+2/22/21, 13:45 - Anggi Tri Rizki: ada di buku nya
+2/22/21, 13:45 - Josua Crishan: https://meet.google.com/xmp-pizh-gdr
+2/22/21, 13:45 - Anggi Tri Rizki: tp ya itu hrs bagi bagi soalnya bnyk wkwk
+2/22/21, 14:20 - ~: bagianku udah ya
+2/22/21, 14:27 - Anggi Tri Rizki: tolong cek bagian ku dong
+2/22/21, 14:27 - Anggi Tri Rizki: bener ga jawabannya itu wkwk
+2/22/21, 14:34 - ~: Udah lumayan sih kayaknya wkwk
+2/22/21, 14:37 - Josua Crishan: sy tambahin dikit mba ya
+2/22/21, 14:38 - Anggi Tri Rizki: boleh boleeh silahkan mas
+2/22/21, 14:41 - Josua Crishan: sudah sy tambahkan mba, boleh dikoreksi juga 😅
+2/22/21, 14:42 - Josua Crishan: untuk bagian benefit udah ya
+2/22/21, 14:45 - Anggi Tri Rizki: mungkin bkn door to door aja ya mas, tp seluruh karyawan yg di store jg wkwk
+2/22/21, 14:45 - Josua Crishan: ya betul
+2/22/21, 14:47 - Anggi Tri Rizki: okeee
+2/22/21, 14:47 - Anggi Tri Rizki: udh semua ya jadi?
+2/22/21, 14:47 - Josua Crishan: bagian business initiative emang gitu aja ya
+nda mengarah ke RCC juga ?
+2/22/21, 14:51 - ~: Ini tuh harus explore lebih lanjut business initiatives RCC nya sih aku mikirnya
+2/22/21, 14:51 - ~: Makanya agak bingung sih
+2/22/21, 14:54 - Josua Crishan: https://smallbusiness.chron.com/business-initiative-23201.html
+seperti ini mungkin contohnya
+2/22/21, 14:54 - Josua Crishan: udah mepet juga sih waktuunya 😅
+2/22/21, 14:54 - ~: Yaudah dikumpulkan aja dulu paling ya
+2/22/21, 14:54 - ~: Paling jg tugas berkelanjutan ini
+2/22/21, 14:55 - Josua Crishan: oke" siap
+disubmit aja klo gitu 😁🙏
+2/22/21, 14:56 - ~: aku submit ya
+2/22/21, 14:56 - Josua Crishan: silahkan mas
+2/22/21, 14:56 - Josua Crishan: 1 org aja kan itu ?
+2/22/21, 14:56 - Anggi Tri Rizki: kayanya iyaa
+2/22/21, 14:57 - ~: <Media omitted>
+2/22/21, 14:57 - ~: iya 1 orang aja
+2/22/21, 14:57 - Josua Crishan: oke terima kasih mas
+2/22/21, 14:59 - Anggi Tri Rizki: makasiih mas
+3/7/21, 17:47 - ~: Mba anggi, saya sm mas josua izin pake data chat ini ya, buat tugas ADB hahah
+3/7/21, 17:47 - Josua Crishan: nnt dihapus chat yg sensitif
+3/7/21, 18:47 - Anggi Tri Rizki: waduuh wkwkw
+3/7/21, 18:48 - Anggi Tri Rizki: okeokee boleeh silahkan mas, hapus aja kalo ada yg ga pantes
+3/7/21, 18:48 - ~: Nanti namanya kita replace juga aja kali ya mas
+3/7/21, 18:52 - Josua Crishan: oke"
+3/16/21, 11:25 - Anggi Tri Rizki: <Media omitted>
+3/20/21, 09:19 - Anggi Tri Rizki: haloo pagii
+3/20/21, 09:19 - Anggi Tri Rizki: mau tnya mas tugas 4 gimana? bsok nih deadline wkwk
+3/20/21, 09:20 - Anggi Tri Rizki: itu kita hrs ada data nya ya? buat sendiri ngarang gitu?
+3/20/21, 10:13 - ~: Pagi
+3/20/21, 10:14 - ~: Kayaknya iya deh
+3/20/21, 10:27 - Anggi Tri Rizki: mau bagi tugas dlu buat data nya?
+3/20/21, 10:27 - Anggi Tri Rizki: soalnya bpknya prnh ngmng kan makin bnyk data sbnernya makin bagus
+3/20/21, 10:32 - Josua Crishan: boleh, bagi tugas aja biar cepet
+3/20/21, 11:11 - ~: Setuju
+3/20/21, 11:17 - Anggi Tri Rizki: ini data nya bentuk data transaksi kan ya hrsnya?
+3/20/21, 11:17 - Anggi Tri Rizki: apa yg emng udh dipisahin?
+3/20/21, 11:35 - ~: Aku masih bingung juga sih sejujurnya
+3/20/21, 11:42 - Anggi Tri Rizki: kalo sepengalaman aku sih iya data transaksi
+3/20/21, 11:42 - Anggi Tri Rizki: trs nnti table utk perdimensi nya diambil dri sana
+3/20/21, 11:43 - Anggi Tri Rizki: soalnya kan data operasional biasanya bentukannya data transaksi semua gitu
+3/20/21, 12:08 - ~: Ohhh
+3/20/21, 12:08 - Anggi Tri Rizki: Data:
+1. Customer as member
+2. Product
+3. Customer buy(transaksi pembelian) : customer name + id, time, date, product, price, order_amount, jumlah
+4. Sell(transaksi penjualan) :  date, time, product name, qty, kasir(employee)
+5. Store Product : product + store
+6. Survey kepuasan : survey + employee + customer
+7. Product Campaign/promotion : date, jenis, category(campaign, promotion), product name, price product, biaya
+8. Employee : employee + division + store
+9. Division
+10. Store
+11. Absensi : employee id + name, date, time, kehadiran
+12. Store Publikasi : store, date, jenis publikasi
+13. Store Expenses : store, date, jenis expenses, amount
+3/20/21, 12:08 - Anggi Tri Rizki: ini menurut ku data yg prlu kita karang wkwkw
+3/20/21, 12:08 - ~: Berarti ini maksudnya si data sources nya ya mba?
+3/20/21, 12:08 - Anggi Tri Rizki: kebanyakan ga ya, atau prlu di pangkas dan digabungin?
+3/20/21, 12:08 - Anggi Tri Rizki: iyaa mas
+3/20/21, 12:08 - Anggi Tri Rizki: <Media omitted>
+3/20/21, 12:08 - ~: Kalau reconciled db nya itu gimana sih, saya masih kurang paham
+3/20/21, 12:09 - ~: Apa intinya setelah ETL dari multiple sources masuk ke reconciled db aja?
+3/20/21, 12:10 - Anggi Tri Rizki: iyaa dri multiple source kan trs nnti bisa jdi 1 di reconciled db dan terintegrasi antar data nya
+3/20/21, 12:10 - Anggi Tri Rizki: jdi kan ini ibarat tuh misal ada 13 file excel yg kita pnya nnti
+3/20/21, 12:11 - Anggi Tri Rizki: nah di reconcile db tu bisa jdinya terintegrasi antar data itu
+3/20/21, 12:13 - Anggi Tri Rizki: Data:
+1. Customer as member
+2. Product
+3. Customer buy(transaksi pembelian) : customer name + id, time, date, product, price, order_amount, jumlah
+4. Sell(transaksi penjualan) :  date, time, product name, qty, kasir(employee)
+5. Store Product(produk yg dijual) : product + store
+6. Survey kepuasan : survey + employee + customer
+7. Product Campaign/promotion : date, jenis, category(campaign, promotion), product name, price product, biaya
+8. Employee : employee + division + store
+9. Store
+10. Absensi : employee id + name, date, time, kehadiran
+11. Store Publikasi : store, date, jenis publikasi
+12. Store Expenses : store, date, jenis expenses, amount
+3/20/21, 12:14 - Anggi Tri Rizki: nah ini biar kita bisa bagi jdi msing2 4excel buatnya
+3/20/21, 12:51 - ~: Ohhh gitu woke2
+3/20/21, 12:53 - ~: Aku 1-4 deh
+3/20/21, 12:53 - ~: Tapi baru bisa ngerjain malem, masih di luar soalnya
+3/20/21, 13:16 - Anggi Tri Rizki: okeee gapapa
+3/20/21, 13:17 - Anggi Tri Rizki: dandy : 1-4
+anggi : 5-8
+josua : 9-12
+ini yaaa @6282194451406 @6285774293032
+3/20/21, 13:17 - Anggi Tri Rizki: mungkin kita gmeet nya bsok pagi aja gmna?
+3/20/21, 13:17 - Josua Crishan: oke siap
+3/20/21, 13:17 - Josua Crishan: boleh
+3/20/21, 13:18 - Anggi Tri Rizki: okee jam 10 pagi aja yaa mungkin besok
+3/20/21, 13:20 - Josua Crishan: oke"
+3/20/21, 13:21 - ~: Siappp
+3/20/21, 21:32 - Josua Crishan: file sql yg terbaru ada dimna ya ?
+3/20/21, 21:53 - Josua Crishan: https://www.generatedata.com/
+
+pakai ini mungkin bisa membantu
+3/20/21, 21:58 - Anggi Tri Rizki: di drive ada mas kalo ga salah
+3/20/21, 21:59 - Josua Crishan: didrive masi yg lama sepertinya
+3/20/21, 21:59 - Anggi Tri Rizki: ini bisa ngisi data sendiri mas ya?
+3/20/21, 21:59 - Anggi Tri Rizki: ohh bntr saya update
+3/20/21, 21:59 - Josua Crishan: iya generate bisa sampai 100 row otomatis
+3/20/21, 21:59 - Josua Crishan: oke"
+3/20/21, 22:04 - Anggi Tri Rizki: mas di progress 8 ada file nya
+3/20/21, 22:04 - Anggi Tri Rizki: sama yg kaya aku msh
+3/20/21, 22:04 - Anggi Tri Rizki: okee makasih mas
+3/20/21, 22:04 - Josua Crishan: pas aku import ke xampp, masi 10 tabel bener ya ?
+3/20/21, 22:05 - Anggi Tri Rizki: bener mas, msh yg lama wkwk
+3/20/21, 22:05 - Anggi Tri Rizki: yg baru blm aku buat
+3/20/21, 22:06 - Anggi Tri Rizki: data ini buat di export ke excel aja dlu mas, nnti biar aku lngsng masukin ke mysql nya pake pentaho bisa lngsng
+3/20/21, 22:10 - Josua Crishan: oke siap
+3/21/21, 08:08 - ~: @628127125586 mba, no 3 sama no 4 bukannya bisa digabung ya? Kan transaksi pembelian (dari sisi customer) itu ya penjualan (dari sisi RCC), mohon koreksi kalo salah
+3/21/21, 08:22 - Anggi Tri Rizki: ohiya bisa mas
+3/21/21, 08:22 - Anggi Tri Rizki: paling ditambahin kolom kasir aja ya
+3/21/21, 08:23 - Anggi Tri Rizki: biar tau kasir siapa yg nyatet gitu
+3/21/21, 08:23 - Anggi Tri Rizki: kan ada tujuan kita ngeliat performa employee
+3/21/21, 08:23 - Anggi Tri Rizki: wait aku kirim nama nama kasir
+3/21/21, 08:24 - Anggi Tri Rizki: <Media omitted>
+3/21/21, 08:24 - Anggi Tri Rizki: eh itu deh copy aja, ada dri 4 store aku buat
+3/21/21, 08:25 - Anggi Tri Rizki: @6285774293032 mau minta nama2 customer dong kalo udah ada
+3/21/21, 08:25 - Anggi Tri Rizki: @6282194451406 mau minta nama store dong kalo udh ada
+3/21/21, 08:30 - ~: iya ditambahin kolom kasir ajaa, kan nanti bisa diliat juga performa employee juga
+3/21/21, 08:31 - ~: ok mba makasih
+3/21/21, 08:31 - ~: aku belum bikin, bentar aku bikin dulu ya
+3/21/21, 08:40 - ~: <Media omitted>
+3/21/21, 08:40 - ~: @628127125586 nih mba
+3/21/21, 08:43 - ~: gapapaa gak mba kayak gitu??
+3/21/21, 08:50 - Josua Crishan: oke" wait
+3/21/21, 08:52 - Anggi Tri Rizki: gapapa mas
+3/21/21, 08:52 - Anggi Tri Rizki: makasih yaa
+3/21/21, 08:52 - ~: okehh
+3/21/21, 09:00 - Josua Crishan: This message was deleted
+3/21/21, 09:08 - Anggi Tri Rizki: ohh nama store nya ga disesuain ya mas?
+3/21/21, 09:09 - Josua Crishan: sepertinya gpp, tpi klo mau disesuaikan boleh juga
+3/21/21, 09:09 - ~: disesuaiin aja mas
+3/21/21, 09:09 - Josua Crishan: oke" klo gitu
+3/21/21, 09:09 - ~: sama yang di tabel employee kan maksudnya mba @628127125586 ?
+3/21/21, 09:09 - ~: <Media omitted>
+3/21/21, 09:10 - Anggi Tri Rizki: bebas siih
+3/21/21, 09:10 - Anggi Tri Rizki: maksudnya nama nya itu rumah cantik citra apa gitu
+3/21/21, 09:10 - Anggi Tri Rizki: soalnya di file mas jo nama luar wkwkw
+3/21/21, 09:10 - ~: iya ngikutin yang mba anggi aja tuh biar bingung2 mikir lagi wkwk
+3/21/21, 09:11 - ~: aku nama produk juga ambil nama produknya citra beneran kok
+3/21/21, 09:11 - Josua Crishan: iya, aku pikirnya tdi karna hanya kebutuhan analisis jdi nda perlu disesuaikan 😂
+3/21/21, 09:12 - ~: oooh 😂
+3/21/21, 09:12 - Anggi Tri Rizki: kalo udah mau ya mas, buat nmor 5 wkwk
+3/21/21, 09:12 - ~: siap
+3/21/21, 09:12 - ~: 15 aja cukup kan ya? wkwk
+3/21/21, 09:13 - Anggi Tri Rizki: iyasii tp pak toni prnh bilang tugas nya bisa smpe visualisasi kan ya?
+3/21/21, 09:13 - Anggi Tri Rizki: biar sekalian buatnya gitu wkw
+3/21/21, 09:13 - Anggi Tri Rizki: cukuup mas
+3/21/21, 09:13 - ~: okeh
+3/21/21, 09:13 - ~: eh kalo category treatment perlu pakai stock apa enggak mba?
+3/21/21, 09:17 - ~: <Media omitted>
+3/21/21, 09:17 - ~: tuh mba @628127125586
+3/21/21, 09:24 - Anggi Tri Rizki: mungkin engga yaa
+3/21/21, 09:24 - Anggi Tri Rizki: thanks mas
+3/21/21, 09:39 - Anggi Tri Rizki: yg aku udah ya, tinggal nmor 5 msh nunggu data store dri mas jo
+3/21/21, 09:39 - Anggi Tri Rizki: udh aku upload di drive jg
+3/21/21, 09:39 - Anggi Tri Rizki: msh mau jam 10 ini gmeet? atau siang aja?
+3/21/21, 09:55 - ~: Jam 10 aja gapapa gmeet bentar kayaknya sih mba, bahas apa2 aja yg harus dikerjain lagi biar bisa mulai
+3/21/21, 10:01 - ~: https://meet.google.com/ixc-iamq-vfx
+3/21/21, 10:01 - ~: nih linknya yaa
+3/21/21, 10:37 - Anggi Tri Rizki: <Media omitted>
+3/21/21, 10:37 - Josua Crishan: oke"
+3/21/21, 10:50 - ~: siip
+3/21/21, 10:51 - ~: data store ada dimana ya??
+3/21/21, 10:51 - Josua Crishan: wait, sy upload
+3/21/21, 10:51 - ~: siii
+3/21/21, 10:51 - ~: siip
+3/21/21, 10:52 - Josua Crishan: udah mas
+3/21/21, 10:53 - ~: oke thanks mas
+3/21/21, 11:20 - ~: @6282194451406 mas store publikasi sama expenses minta tolong di upload dong
+3/21/21, 11:23 - Josua Crishan: oke" wait
+3/21/21, 11:32 - Josua Crishan: udah mas
+3/21/21, 11:33 - ~: Sip thanks mas
+3/21/21, 12:35 - ~: temen2 kayaknya dari design ada yg perlu diganti deh
+3/21/21, 12:36 - ~: kan citra itu banyak cabang ya, setiap transaksi mestinya ada kolom dia di store mana kan ya
+3/21/21, 12:37 - ~: <Media omitted>
+3/21/21, 12:38 - ~: terus yang relationship "sells in" dihapus
+3/21/21, 12:38 - ~: ada tanggapan gak?
+3/21/21, 12:39 - Anggi Tri Rizki: bisaaa
+3/21/21, 12:40 - Anggi Tri Rizki: tp ini jgn dihapus, karna relation sells in jg bisa dipake buat define produk di store trtentu tu stok nya berapa gituu
+3/21/21, 12:40 - Anggi Tri Rizki: jdi kan bisa aja ada store yg ga ready semua produk
+3/21/21, 12:40 - ~: ohh iya bener2
+3/21/21, 12:42 - ~: "sell in" diganti "stock" aja kali ya. Aku mikirnya many-to-many terus kolomnya id_produk, id_store, stok
+3/21/21, 12:42 - ~: untuk info terkait produk bakal di tabel produk sendiri
+info terkait store bakal di tabel store sendiri
+3/21/21, 12:43 - ~: biar gak redundan
+3/21/21, 12:44 - Anggi Tri Rizki: ohiyaa boleh boleehh
+3/21/21, 12:44 - ~: sipp
+3/21/21, 12:45 - ~: harga produk di setiap store ga perlu dibedain kan ya
+3/21/21, 12:45 - ~: kita asumsi sama aja
+3/21/21, 12:46 - Anggi Tri Rizki: iyaaa
+3/21/21, 12:46 - Anggi Tri Rizki: data utk etl nya udh semua blm? apa msh ada yg mau gnti?
+3/21/21, 12:51 - Josua Crishan: wait, aku dikit lgi
+3/21/21, 12:58 - ~: belum mba bentar lg
+3/21/21, 13:01 - ~: udah saya
+3/21/21, 13:03 - Josua Crishan: aku juga udah
+3/21/21, 13:31 - Anggi Tri Rizki: okee
+3/21/21, 13:34 - Anggi Tri Rizki: btw mas @6285774293032 yg ngubah erd tdi, itu utk erd yg reconcile apa operasional?
+3/21/21, 13:34 - ~: Dua2nya sih sebenernya
+3/21/21, 13:35 - ~: Ini kan reconciled ya
+3/21/21, 13:36 - ~: Semua yg ada sell_in relationship kan diganti jd stok, terus yg ada buys nambah garis ke store
+3/21/21, 13:36 - Anggi Tri Rizki: iyaa
+3/21/21, 13:36 - Anggi Tri Rizki: oke brrti aku ikutin yg baru itu ya
+3/21/21, 13:36 - ~: Ok2
+3/21/21, 13:36 - ~: Eh udh aku ganti apa belum sih lupa aku jg wkwk, bentar ku cek
+3/21/21, 13:40 - ~: udah aku benerin mba di file ERD.drawio di folder Progress 7
+3/21/21, 16:24 - Anggi Tri Rizki: okee
+3/21/21, 16:24 - Anggi Tri Rizki: ppt sm doc nya tolong dibuat yaa kalo lg kosong
+3/21/21, 16:25 - Anggi Tri Rizki: pentaho nya lg eror ini dritd😂
+3/21/21, 16:26 - ~: Siapp
+3/21/21, 17:02 - Anggi Tri Rizki: survey kepuasan employee emng ga dibuat ya
+3/21/21, 17:02 - Anggi Tri Rizki: ?
+3/21/21, 17:03 - ~: itu masuk departemen mana ya
+3/21/21, 17:04 - ~: hrd? atau apaan?
+3/21/21, 17:05 - ~: kalo di PR cuma yg customer soalnya
+3/21/21, 17:08 - Josua Crishan: sepertinya entitasnya krng ya untuk survey kepuasan employee
+3/21/21, 17:09 - Josua Crishan: wait, sy tambahin ya
+3/21/21, 17:09 - ~: mestinya masuk HR ya
+3/21/21, 17:09 - Josua Crishan: iya
+3/21/21, 17:11 - Anggi Tri Rizki: <Media omitted>
+3/21/21, 17:11 - Anggi Tri Rizki: itu udh 2
+3/21/21, 17:12 - Anggi Tri Rizki: yg dlm kurung nya itu gabungan source yg aku pake, krna wktu mau rename di etl dia error gatau kenapa jdi mending dijelasin aja di word sama ppt nya
+3/21/21, 17:13 - Anggi Tri Rizki: step etl nya perlu dijelasin ga ya di laporan? maksudnya kaya misal select value itu untuk apa, merge itu untuk apa
+3/21/21, 17:16 - Anggi Tri Rizki: survey kepuasan employee itu udh aku buat tdi pagi mas jo, tinggal disesuain aja sm erd yg mnurut per departemen itu
+3/21/21, 17:17 - Josua Crishan: berarti tinggal edit aja erd nya ya ?
+3/21/21, 17:23 - Josua Crishan: oke, udah aku edit ya
+3/21/21, 17:37 - Anggi Tri Rizki: oke thanks mas
+3/21/21, 17:37 - Anggi Tri Rizki: laporan nya tolong yaa mas
+3/21/21, 17:41 - Josua Crishan: oke"
+sehabis ibadah sy lanjut ya
+3/21/21, 17:51 - ~: Oke mbaa
+3/21/21, 19:00 - ~: bagian dokumen udah aku tambahin ya
+3/21/21, 19:00 - ~: yang masih kurang penjelasan mengenai ETL sama reconciled
+3/21/21, 19:00 - ~: kalo ERD nya udah aku bener2in tadi sih
+3/21/21, 19:17 - Anggi Tri Rizki: etl reconciled nya absensi sm promosi/campaign di hilangin mas?
+3/21/21, 19:19 - ~: Hah enggak perasaan
+3/21/21, 19:19 - ~: Ini erd atau apa maksudnya?
+3/21/21, 19:19 - ~: Apa screenshot
+3/21/21, 19:19 - Anggi Tri Rizki: <Media omitted>
+3/21/21, 19:19 - Anggi Tri Rizki: eh erd mksdnya wkwk
+3/21/21, 19:20 - Anggi Tri Rizki: ini penjelasan fungsi2 transform ETL ada disini, scroll aja lngsng ke halaman 29
+3/21/21, 19:20 - Anggi Tri Rizki: soalnya kalo nunggu aku yg nambahin nnti tkut ga kekejer wkwk
+3/21/21, 19:35 - ~: Aku gak hapus sih mba, aku cuma nambah-nambah dikit di drawio nya
+3/21/21, 19:35 - ~: Hmmm nanti aku cek lg deh
+3/21/21, 19:35 - ~: Ok mba
+3/21/21, 19:47 - Anggi Tri Rizki: di progress 8 ada absensi soalnya sih aku liat
+3/21/21, 19:54 - ~: walah, aku ternyata ngambil dari progress 7
+3/21/21, 19:54 - ~: aku benerin dulu ya mba
+3/21/21, 19:54 - Josua Crishan: mbb, bagian apalagi yg bisa sy bantu ?
+3/21/21, 19:56 - ~: paling penjelasan ETL sama bikin slide aja mas
+3/21/21, 19:56 - ~: saya ngerjain bagian penjelasan reconciled db nya
+3/21/21, 19:56 - Josua Crishan: oke" mas
+3/21/21, 20:01 - ~: mba anggiii @628127125586
+3/21/21, 20:02 - ~: ADB tuh udah masuk implementasi apa gimana sih
+3/21/21, 20:08 - Anggi Tri Rizki: beluum mas kalo kata kelompok ku
+3/21/21, 20:08 - ~: wah oke
+3/21/21, 20:08 - Anggi Tri Rizki: msh cuma analisis lanjutan kemarin, tp analisis nya lebih detail
+3/21/21, 20:08 - ~: oooh gitu okeoke
+3/21/21, 20:11 - ~: implementasi sql reconciled db nya ada dimana ya @628127125586
+3/21/21, 20:15 - Anggi Tri Rizki: implementasi sql itu file sql nya?
+3/21/21, 20:15 - Anggi Tri Rizki: beluum selesai wkwk
+3/21/21, 20:15 - ~: iyaa
+3/21/21, 20:15 - Anggi Tri Rizki: msh proses jg seiring etl
+3/21/21, 20:16 - Anggi Tri Rizki: <Media omitted>
+3/21/21, 20:16 - ~: ohhh
+3/21/21, 20:16 - ~: nanti paling tolong masukin aja linknya di laporan ya mba
+3/21/21, 20:18 - ~: <Media omitted>
+3/21/21, 20:18 - ~: kalo pake pentaho gitu, skema si reconcilednya otomatis kebentuk atau gimana sih mba? aku masih agak kurang paham haha
+3/21/21, 20:19 - Anggi Tri Rizki: okee
+3/21/21, 20:19 - Anggi Tri Rizki: enggaa siih
+3/21/21, 20:20 - Anggi Tri Rizki: kan pentaho eksekusi nya jg berdasarkan skema yg dibuat
+3/21/21, 20:20 - Anggi Tri Rizki: jdi buat skema erd reconcile dlu baru acuan eksekusi pentaho nya brdasarkan itu
+3/21/21, 20:31 - ~: Ohhhh
+3/21/21, 20:32 - ~: Pentaho tuh intinya ETL nya aja gt ya
+3/21/21, 20:45 - Anggi Tri Rizki: iyaaa
+3/21/21, 21:31 - Anggi Tri Rizki: ss ETL nya udh semua yaa
+3/21/21, 21:32 - Anggi Tri Rizki: tolong masukin di word sm ppt nya
+3/21/21, 21:32 - Josua Crishan: oke"
+3/21/21, 21:32 - Anggi Tri Rizki: aku msh mau ngatur PK FK nya di sql wkwk
+3/21/21, 21:48 - ~: oke makasih banyak mba
+3/21/21, 22:33 - Anggi Tri Rizki: udah semua yaa itu laporan sm ppt?
+3/21/21, 22:33 - Anggi Tri Rizki: aku upload ya?
+3/21/21, 22:33 - Josua Crishan: oke mba
+3/21/21, 22:37 - Anggi Tri Rizki: <Media omitted>
+3/21/21, 22:37 - Anggi Tri Rizki: thankyouuu
+3/21/21, 22:37 - Josua Crishan: ok, terima kasih mba 🙏🙏
+3/21/21, 22:44 - ~: Makasih banyak mbaa

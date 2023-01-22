@@ -1,0 +1,352 @@
+2021/03/28, 14:37 - Nabeel: I think that's why we're gonna meet up with our supervisor, so he can explain the whole thing to us
+2021/03/28, 14:46 - +27 72 101 9695: I can add pravesh to the discord server and limit the access he has 🤷‍♂️
+2021/03/28, 14:46 - +27 72 101 9695: Then maybe we can speak to him on specific channels only 🤷🏽‍♂️
+2021/03/28, 14:50 - +27 84 485 6965: Yea I think that's a good idea ✨
+2021/03/29, 10:28 - +27 74 760 1963: Guys
+2021/03/29, 10:29 - +27 74 760 1963: We're meeting today right? We need to discuss Taiga.io and everything
+2021/03/29, 11:22 - +27 72 101 9695: Yup
+2021/03/29, 11:23 - +27 72 101 9695: The lab session is at 2 right ?
+2021/03/29, 11:23 - +27 84 485 6965: Yipz
+2021/03/29, 11:23 - +27 72 101 9695: Are we meeting with the tutor on me teams ?
+2021/03/29, 11:23 - +27 72 101 9695: Ms*
+2021/03/29, 13:25 - Nabeel: Yep I think so. But we should ask him today if we could move it discord from next week.
+2021/03/29, 13:27 - +27 74 760 1963: So nothing today at 14:00?
+2021/03/29, 13:28 - +27 72 101 9695: Can we still meet on discord at 2
+2021/03/29, 13:28 - +27 72 101 9695: I just wanna discuss taiga and git
+2021/03/29, 13:28 - +27 74 760 1963: No problem
+2021/03/29, 13:28 - +27 72 101 9695: Shouldn't take long ... Like 20 min 🤷🏽‍♂️
+2021/03/29, 13:28 - ZEE STEENEVELDT: The power in my area is down and I’m not sure when it’ll be fixed. I probably won’t be able to make the meeting
+2021/03/29, 13:29 - +27 72 101 9695: It's cool.. I will also post a summary in the announcement channel
+2021/03/29, 13:29 - +268 7944 7843: <Media omitted>
+2021/03/29, 13:29 - Nabeel: Okay cool
+2021/03/29, 13:29 - ZEE STEENEVELDT: Thank you 🍁
+2021/03/29, 13:30 - Nabeel: Also we need to decide on a date to meet Pravesh
+2021/03/29, 13:30 - +27 72 101 9695: @26879447843 I think you still need to join the server 🤷🏽‍♂️😂
+2021/03/29, 13:31 - +268 7944 7843: Oh, right... been meaning to do that 😅
+2021/03/29, 13:31 - Matthew: @27721019695 have you looked at those docs he sent in the ms teams?
+2021/03/29, 13:32 - +27 72 101 9695: Yeah I have... I'm a bit confused by a few things (travis ci)..
+2021/03/29, 13:32 - +27 72 101 9695: That's partly why I wanted to meet now
+2021/03/29, 13:42 - Nabeel: Where was this message?
+2021/03/29, 13:42 - Matthew: Ms teams...
+2021/03/29, 13:42 - Matthew: I personally never open up ms teams
+2021/03/29, 13:43 - +27 72 101 9695: Same 😂... It's such a waste of time
+2021/03/29, 13:44 - Nabeel: Weird I can't find it 😂
+2021/03/29, 13:48 - Matthew: It's in the group 5 chat
+2021/03/29, 13:56 - +27 84 485 6965: Just lemme know when we starting the meeting please ✨
+2021/03/29, 13:56 - +27 74 760 1963: Co-say
+2021/03/29, 13:56 - +27 72 101 9695: will do
+2021/03/29, 13:57 - +27 72 101 9695: im ready to start
+2021/03/29, 13:57 - +27 74 760 1963: You can start
+2021/03/29, 13:58 - +27 74 760 1963: Discord right?
+2021/03/29, 13:58 - +27 72 101 9695: yup
+2021/03/29, 13:58 - +27 74 760 1963: Awesome
+2021/03/29, 14:00 - +27 72 101 9695: https://discord.gg/R9nmtw3B
+2021/03/29, 14:00 - +27 64 823 8569: Hi, how long will the meeting take? I'm not at home so I'll be late. Will join the meeting at 14h30  or 15h00🤔
+2021/03/29, 14:01 - +268 7944 7843: thank you
+2021/03/29, 14:25 - +27 72 101 9695: @26879447843 @27636961730 please send your email address that you used for registering for taiga
+2021/03/29, 14:25 - +27 72 101 9695: id like to add you to the team
+2021/03/29, 14:26 - +27 72 101 9695: wait not @26879447843 , @27648238569
+2021/03/29, 14:34 - +27 64 823 8569: Email address: 2181532@students.wits.ac.za
+2021/03/29, 14:44 - ZEE STEENEVELDT: 2090475@students.wits.ac.za
+2021/03/31, 13:39 - Nabeel: Our meeting is at 4 right?
+2021/03/31, 13:49 - +27 72 101 9695: Yup
+2021/03/31, 16:40 - +27 74 760 1963: I was confused for a bit but it's clear now. So the bot will run on Discord itself right? Because I'm looking at a video here and Discord allows You to add Your own bots
+2021/03/31, 16:41 - +27 72 101 9695: could you send the vidoe
+2021/03/31, 16:41 - +27 72 101 9695: viddeo link?
+2021/03/31, 16:41 - +27 74 760 1963: He is python here by the way
+2021/03/31, 16:42 - +27 74 760 1963: https://youtube.com/watch?v=SPTfmiYiuok
+2021/03/31, 16:45 - +27 74 760 1963: So far it's helpful though.
+2021/03/31, 16:45 - +27 74 760 1963: Bot permissions are built in, like Managing roles and so on
+2021/03/31, 16:46 - Matthew: https://youtu.be/j_sD9udZnCk
+2021/03/31, 16:46 - +27 72 101 9695: <Media omitted>
+2021/03/31, 16:47 - +27 74 760 1963: 🤣 🤣 We are probably going to use it
+2021/03/31, 16:48 - +268 7944 7843: It seems we're at an impasse coz the one I saw says the most popular is  discord.js 🙆🏾‍♂️😂
+2021/03/31, 16:48 - +268 7944 7843: So which one do we use?
+2021/03/31, 16:49 - +27 74 760 1963: I think we will see which has most resources
+2021/03/31, 16:49 - +27 74 760 1963: The more resources, the better we will be able to code.
+2021/03/31, 16:49 - +27 74 760 1963: Are we supposed to code from scratch or can we use libraries, like Discord.js?
+2021/03/31, 16:50 - +27 74 760 1963: Python has Discord.py too 😂
+2021/03/31, 16:52 - +268 7944 7843: Since we'll need to use it with node.js at some point, so maybe discord.js will be better?
+2021/03/31, 23:11 - +27 72 101 9695: Hey guys.. I have no lights again tonight and my battery is about to die. Could you guys let the tutor know tomorrow if I'm not there and fill me in after 🤷🏽‍♂️
+2021/03/31, 23:22 - Nabeel: Same boat but I think I should be able to make. I'll tell him
+2021/04/01, 08:10 - Nabeel: 9 minutes man? 9 minutes ffs
+2021/04/01, 08:10 - Matthew: 😴😴😴
+2021/04/01, 08:10 - Nabeel: I could've been sleeping
+2021/04/01, 08:11 - +27 64 823 8569: 😭😭 Same
+2021/04/01, 08:12 - Matthew: We need to decide on a language, I personally don't mind so I am putting my vote down for Python
+2021/04/01, 08:13 - Nabeel: Second for Python
+2021/04/01, 08:14 - +27 84 485 6965: Me too
+2021/04/01, 08:14 - +27 74 760 1963: Me too
+2021/04/01, 08:14 - ZEE STEENEVELDT: Are we going to be using node.js?
+2021/04/01, 08:15 - +27 84 485 6965: Can we have like a meeting later ... when everyone's available... just to decide what everyone should do for the first sprint ?
+2021/04/01, 08:16 - +27 74 760 1963: I think so too
+2021/04/01, 08:21 - Nabeel: Can everyone just think of available tasks that needs to be done in th meantime? And message on the group as you come up with some.
+2021/04/01, 08:31 - Nabeel: 0. Pick a language
+- 4 for python so far
+
+1. Create Discord API account.
+- suggest making a separate group email address to use so everyone will be able to have access
+
+2. Use Case diagrams.
+-discuss details on how it's gonna be designed
+
+3. Update Taiga, GitHub, implement Coveralls and the other one.
+
+4. Create git branch for starting the discord bot
+-feature: monitoring messages and being summoned and replying to messages. (Call branch fundamentals?.)
+
+5. Code Feature.
+2021/04/01, 08:32 - Nabeel: This is what I got so far, please add on
+2021/04/01, 08:34 - +27 84 485 6965: 6. Update outline for wiki
+2021/04/01, 12:53 - +27 72 101 9695: Hey guys...
+2021/04/01, 12:53 - +27 72 101 9695: I still don't have electricity by me😂🙈...
+2021/04/01, 12:54 - +27 72 101 9695: I think we should probably code the bot in python because even if we need to use nodejs for the dashboard at a point there is ways to stream the data
+2021/04/01, 12:55 - +27 72 101 9695: And about making a discord API account, I will do that now with a seperate email address and send through the details
+2021/04/01, 12:56 - +27 74 760 1963: I'm cool with Python
+2021/04/01, 12:56 - +27 74 760 1963: Ok mate, we will be waiting for those
+2021/04/01, 12:57 - Nabeel: Can we put "deciding a language" as a completed task? 😂 Like does that count
+2021/04/01, 12:58 - +27 74 760 1963: @26879447843 are You cool with the language decision? I know You were rooting for JS.
+2021/04/01, 12:58 - +268 7944 7843: Yeah... python it is
+2021/04/01, 12:59 - +268 7944 7843: Definitely a PBI 😂
+2021/04/01, 12:59 - +27 74 760 1963: Now You can 😂
+2021/04/01, 13:13 - +27 72 101 9695: blackboxdiscordbot@gmail.com
+2021/04/01, 13:13 - +27 72 101 9695: cos everything else was just taken
+2021/04/01, 13:13 - +27 72 101 9695: password: @Zangetsu
+2021/04/01, 13:15 - +27 72 101 9695: https://discord.com/developers/applications
+2021/04/01, 13:15 - +27 72 101 9695: link to the discord api account
+2021/04/01, 13:15 - +27 74 760 1963: See why we nominated You as sxrum master bro
+2021/04/01, 13:15 - +27 72 101 9695: same login details
+2021/04/01, 13:15 - +27 72 101 9695: as email
+2021/04/01, 13:15 - +27 74 760 1963: *Scrum
+2021/04/01, 13:16 - +27 72 101 9695: im so lost man, im honestly winging this as i go along
+2021/04/01, 13:17 - +27 72 101 9695: can someone send the details for this in a message on discord and pin it.
+2021/04/01, 13:17 - +27 74 760 1963: We are here to help though. If there's something You don't get, shout in the group. It's not Your responsibility alone
+2021/04/01, 13:17 - +27 72 101 9695: in like the team chat or something?
+2021/04/01, 13:17 - +27 74 760 1963: Sure, here on WhatsApp
+2021/04/01, 13:17 - +27 72 101 9695: thanks man ... will do
+2021/04/01, 13:18 - +27 72 101 9695: no i mean can someone send the stuff in the team chat
+2021/04/01, 13:18 - +27 72 101 9695: and pin it
+2021/04/01, 13:18 - +27 74 760 1963: You mean the login details stuff you just sent here?
+2021/04/01, 13:21 - +27 72 101 9695: yeah please
+2021/04/01, 13:21 - +27 72 101 9695: just so that if anyone wants it at any point they have access
+2021/04/01, 13:23 - Nabeel: Okay I sent it.
+2021/04/01, 13:23 - Nabeel: I think you need to pin it
+2021/04/01, 13:24 - Nabeel: Wait should I have sent in the team chat instead?
+2021/04/01, 13:24 - +27 72 101 9695: its all good
+2021/04/01, 14:17 - +27 74 760 1963: You guys done with CGV lab 2?
+2021/04/01, 14:19 - +27 72 101 9695: When's it due ?
+2021/04/01, 14:19 - +27 72 101 9695: Nope
+2021/04/01, 14:19 - +27 74 760 1963: I think the 6th
+2021/04/01, 16:32 - +27 74 760 1963: Guys,when can we meet? So we create the bot. I think to the list of tasks you can add "Choosing bot permissions"
+2021/04/01, 23:18 - +27 84 485 6965: This message was deleted
+2021/04/01, 23:19 - +27 84 485 6965: This message was deleted
+2021/04/01, 23:20 - +27 84 485 6965: This message was deleted
+2021/04/01, 23:21 - +27 84 485 6965: This message was deleted
+2021/04/01, 23:21 - +27 84 485 6965: This message was deleted
+2021/04/01, 23:23 - +27 72 101 9695: I was just about to watch the video 👀😂
+2021/04/01, 23:23 - +27 84 485 6965: Oh shit sorry I'll repost it 😂
+2021/04/01, 23:24 - +27 84 485 6965: https://youtu.be/SPTfmiYiuok
+2021/04/01, 23:24 - +27 84 485 6965: Found this video this guy shows how to create a discord bot he uses repl.it an online ide to code it has a database system with it as well he also shows how to like use that and stuff u guys can check it out ✨
+2021/04/01, 23:24 - +27 72 101 9695: Thank you 💃🏼
+2021/04/01, 23:25 - +268 7944 7843: Thanks
+2021/04/01, 23:25 - +27 84 485 6965: Only problem is I'm not sure how much storage repl.it allows us to use for free
+2021/04/01, 23:25 - +27 84 485 6965: https://youtu.be/nW8c7vT6Hl4
+2021/04/01, 23:26 - +27 74 760 1963: Saw this yesterday, he's really good
+2021/04/01, 23:26 - +268 7944 7843: Still working on it... cant draw the heart though 🤦🏾‍♂️😂
+2021/04/01, 23:28 - +27 74 760 1963: 🤣 You're only left with that part?
+2021/04/01, 23:29 - +268 7944 7843: I've skipped it, doing the second question now 😂
+2021/04/02, 00:26 - +27 84 485 6965: Hi guys ... so I  followed the bot tutorial it was pretty easy I got an example bot set up and responding we can just add a bit more code for responses and stuff and we'll have met the 1st sprint requirement of praveshs
+2021/04/02, 00:27 - +27 74 760 1963: Awesome
+2021/04/02, 12:24 - +268 7944 7843: Did you do it in replit or in your pc?
+2021/04/02, 12:47 - +27 84 485 6965: Replit
+2021/04/02, 12:48 - +27 84 485 6965: I was just struggling to get it to run continuously just have to fix that
+2021/04/02, 13:08 - Nabeel: Maybe just put it in a 
+while True:
+2021/04/02, 13:34 - +27 74 760 1963: It only works with one message or?
+2021/04/02, 13:53 - +27 84 485 6965: What do u mean ??
+2021/04/02, 13:55 - +27 74 760 1963: Does it only respond to a single message when You send? I want to understand what context You mean when You say it does not run continuously
+2021/04/02, 13:56 - +27 84 485 6965: Yea it only responds to one message for now
+2021/04/02, 13:58 - +27 84 485 6965: So what I mean is if I stop running the program then the bot goes offline right and once u close replit it closes the program and stops running so I have to connect it to a webserver so it continues running even when I exit replit and pings the bot so it doesn't go to sleep and stop running
+2021/04/02, 13:58 - +27 74 760 1963: I get it now
+2021/04/02, 13:58 - +27 84 485 6965: 👍🏼👍🏼
+2021/04/02, 14:13 - Nabeel: Yeah I guess we'd use the wits lamp server to run it.
+2021/04/02, 14:16 - +27 84 485 6965: Yea I actually forgot about that  I'll go try it out
+2021/04/02, 18:44 - +27 72 101 9695: hey guys... heres a really awesome playlist on building a discord bot in python... it helps with setup and everything and is really informative.
+2021/04/02, 18:44 - +27 72 101 9695: https://www.youtube.com/playlist?list=PLW3GfRiBCHOhfVoiDZpSz8SM_HybXRPzZ
+2021/04/02, 19:40 - +27 84 485 6965: Thanks ✨
+2021/04/02, 21:46 - +27 84 485 6965: Hi ... could u guys make a list of possible commands for the bot to respond to when requested ??
+2021/04/02, 21:46 - +27 84 485 6965: U have a few general one so like 1. Lab times
+2. Lecturer email addresses 
+3. Tut times
+2021/04/02, 21:47 - +27 84 485 6965: It's general questions the bot can easily answer
+2021/04/02, 22:00 - +27 72 101 9695: Off the top of my head 
+Test dates
+Lecture email addresses 
+Weights of assessments
+2021/04/04, 00:44 - Nabeel: https://github.com/Discord-Botify/project-diagrams
+2021/04/04, 00:45 - Nabeel: I feel like this will come in very useful eventually
+2021/04/04, 01:36 - Nabeel: @27721019695 idk if you made the repo on GitHub already but there is a option on main page called "Working with a team" maybe give that a try. If you already made one it's chilled.
+2021/04/04, 12:40 - +27 74 760 1963: @27721019695 the invitations aren't working
+2021/04/04, 12:42 - +27 72 101 9695: 🙈😭
+2021/04/04, 12:42 - Nabeel: Did you sign in to GitHub?
+2021/04/04, 12:42 - Nabeel: Mine worked
+2021/04/04, 12:42 - +27 72 101 9695: Nabeels and Matty's worked
+2021/04/04, 12:42 - +27 74 760 1963: Let me try to sign in
+2021/04/04, 12:49 - +27 74 760 1963: I'm in
+2021/04/04, 12:49 - +27 74 760 1963: I Needed to sign in😅
+2021/04/04, 12:54 - Nabeel: Please remind me, we need to ask Michael where/how do we store our API keys for our bot. Cause store them as strings on GitHub
+2021/04/04, 12:57 - Nabeel: * Cause we can't store them (I'm tired ) 😂
+2021/04/04, 12:57 - +27 74 760 1963: When are we having our meeting as a group to discuss going further? 1st Sprint is due I think the 12th
+2021/04/04, 12:58 - Nabeel: Do you guys wanna meet up Tuesday 1pm? So just before our tuts
+2021/04/04, 12:59 - +27 74 760 1963: How about tomorrow? Too short notice
+2021/04/04, 12:59 - +27 74 760 1963: *?
+2021/04/04, 12:59 - Nabeel: Yeah idk if I can make it tomorrow but maybe if it's in the evening
+2021/04/04, 12:59 - Nabeel: Let's see what the rest say
+2021/04/04, 13:00 - +27 74 760 1963: No problem
+2021/04/04, 13:01 - +27 72 101 9695: evening tomorrow is good with me
+2021/04/04, 13:01 - +27 64 823 8569: I'm fine with evening tomorrow
+2021/04/04, 13:01 - +27 74 760 1963: Awesome
+2021/04/04, 13:05 - +27 72 101 9695: lets say at about 6ish?
+2021/04/04, 13:05 - +27 72 101 9695: i can do earlier or later.. up to you guys
+2021/04/04, 13:08 - +27 74 760 1963: No problem
+2021/04/04, 13:18 - Nabeel: Can I just confirm with you the time tomorrow? Maybe we can have it earlier like 4pm but again I'm not sure lol.
+2021/04/04, 13:26 - +27 84 485 6965: Unsure if I can make it tomorrow but I shall try
+2021/04/04, 13:27 - +27 72 101 9695: 4 is also good with me
+2021/04/04, 14:45 - ZEE STEENEVELDT: I think 6ish works for me
+2021/04/04, 19:38 - +27 84 485 6965: For the bot on discord what did you use to have it connected 24/7 ??
+2021/04/04, 19:38 - +27 72 101 9695: I just have the python script running constantly on my machine 🤷🏽‍♂️
+2021/04/04, 19:39 - +27 84 485 6965: Ahh ohks
+2021/04/04, 20:02 - +27 74 760 1963: To run it constantly, we need a website to host it right?
+2021/04/04, 20:03 - +27 72 101 9695: Not really
+2021/04/04, 20:04 - +27 72 101 9695: The bot is basically just a python application
+2021/04/04, 20:04 - +27 72 101 9695: So if we can have it running on lamp or anything that's connected to the internet
+2021/04/04, 20:04 - +27 72 101 9695: It will run
+2021/04/04, 20:04 - +27 74 760 1963: Ok bro
+2021/04/04, 20:04 - +27 72 101 9695: Even a raspberry pie would work
+2021/04/05, 14:20 - Nabeel: So 6pm tonight?
+2021/04/05, 14:21 - +27 74 760 1963: I'm good with that
+2021/04/05, 14:23 - +27 72 101 9695: No problem on my side
+2021/04/05, 14:23 - +268 7944 7843: Sounds alright
+2021/04/05, 14:42 - Nabeel: If anyone can't make it, please tell us
+2021/04/05, 14:46 - +27 84 485 6965: 👍🏼👍🏼
+2021/04/05, 14:47 - +27 74 760 1963: @27648238569, @27617969073, @27636961730 are You alright with the meeting time?
+2021/04/05, 14:48 - Matthew: Yeah that is good
+2021/04/05, 15:07 - +27 64 823 8569: I'm fine with it
+2021/04/05, 16:51 - ZEE STEENEVELDT: I’m good
+2021/04/05, 18:54 - Nabeel: Would you say that the bot is an actor and discord itself is a system or is the bot a system on its own?
+2021/04/05, 18:55 - +27 74 760 1963: I think the bot is an actor and Discord is the system
+2021/04/05, 19:33 - Nabeel: <Media omitted>
+2021/04/06, 14:08 - +27 74 760 1963: We have tuts right
+2021/04/06, 14:08 - +27 84 485 6965: Yea
+2021/04/06, 21:48 - Nabeel: Luqmaan can you please just add the repository to Travis Ci and I'll see if I can make sense of it.
+2021/04/06, 21:48 - Nabeel: I think you're the only one who can add it. But everyone can use it afterwards
+2021/04/06, 22:05 - +27 72 101 9695: Okay will try (most likely tomorrow
+2021/04/07, 08:01 - Matthew: We have a meeting now if anyone is awake
+2021/04/07, 08:01 - Matthew: 😂
+2021/04/07, 08:01 - +27 74 760 1963: 🤣 🤣 Just woke up
+2021/04/07, 08:22 - Matthew: Hey guys does anyone need help with anything?
+2021/04/07, 08:24 - Nabeel: I just completed the use case diagram, so I'm good for now. Anyone else?
+2021/04/07, 08:24 - +27 84 485 6965: Getting started on the wiki today will send through when Done
+2021/04/07, 08:25 - +27 74 760 1963: I'm planning to take a look at Travis CI today
+2021/04/07, 08:27 - Nabeel: I'll send the diagram on discord and here.
+2021/04/07, 08:27 - Nabeel: <Media omitted>
+2021/04/07, 09:12 - +27 84 485 6965: what other requirements for the discord bot do we need I just have python and webserver rn
+2021/04/07, 09:56 - +27 84 485 6965: On git it only allows me to post urls for images not the actual image
+2021/04/07, 09:57 - +27 84 485 6965: U did it using like an application right ? ... can u sent me the link for that instead
+2021/04/07, 10:05 - +27 84 485 6965: Guys when u have time can u just take a look at the wiki I have on taiga and github
+2021/04/07, 10:05 - +27 84 485 6965: There isn't much and I didn't really know what to add if u have any suggestions on what to add just let me know
+2021/04/07, 10:07 - +27 84 485 6965: Also on github should I add a bot set up guide (just like the set up of ut on discord) or not because I did add links to the documentation u use and the developer portal
+2021/04/07, 10:08 - Nabeel: Do you want the pdf version?
+2021/04/07, 10:09 - Nabeel: ,https://lucid.app/lucidchart/invitations/accept/7ef41255-2aff-449e-ac0d-daeab8d4737b
+2021/04/07, 10:10 - Nabeel: I have no idea about the rest tbh but I'll have a look at it a bit later
+2021/04/07, 10:13 - +27 84 485 6965: No its okay
+2021/04/07, 10:13 - +27 74 760 1963: Which email was used to create the gitbub account?
+2021/04/07, 10:22 - +268 7944 7843: Shouldn't the requirements state the capabilities of the bot? 
+
+Or maybe I'm just mixing things up
+2021/04/07, 10:24 - +27 74 760 1963: Have we been given admin rights on gitbub? Travis CI doesn't see any repository I have access to
+2021/04/07, 10:41 - +27 74 760 1963: Ok, the project from gitbub appears on my Travis CI account. Now I'm figuring out how to add the ".yml" file so Travis CI can read the code and stuff
+2021/04/07, 10:41 - +27 74 760 1963: @27721019695, please commit the code for the bot
+2021/04/07, 10:42 - +27 72 101 9695: Okay
+2021/04/07, 10:42 - +27 72 101 9695: Did anything happen in the meeting this morning 🙈😂
+2021/04/07, 10:48 - +27 72 101 9695: Code is on GitHub
+2021/04/07, 10:49 - +27 74 760 1963: Awesome
+2021/04/07, 11:02 - +27 84 485 6965: I dont think so I'm pretty sure it's what extra stuff u need for the bot to work
+2021/04/07, 11:06 - +27 84 485 6965: Not really he just went through the wiki briefly and then he went through the rubric that was basically it
+2021/04/07, 11:07 - +27 84 485 6965: He said u can dm him if u need help with the Travis ci and code cov stuff
+2021/04/07, 11:45 - +27 74 760 1963: Hey guys, build is failing on Travis CI because we got no test files
+2021/04/07, 11:55 - +27 74 760 1963: Travis CI works guys
+2021/04/07, 11:56 - +27 74 760 1963: I created a python test file and the build passes
+2021/04/07, 11:56 - +27 74 760 1963: I'm just not sure if it runs for everyone so could someone try to edit the python test file and change it and see if Travis CI works on their side
+2021/04/07, 23:52 - Nabeel: I still don't have access to Travis Ci lmao. How did you get it working?
+2021/04/07, 23:53 - +27 74 760 1963: Sign in with a Github on the Travis CI website, then give it access to Your repositories
+2021/04/07, 23:55 - +27 74 760 1963: *account
+2021/04/07, 23:55 - Nabeel: I did that
+2021/04/07, 23:55 - Nabeel: <Media omitted>
+2021/04/07, 23:58 - +27 74 760 1963: See if You enabled BlackBox in Your repositories in settings on Github
+2021/04/08, 00:00 - Nabeel: Okay I think it's working. I had to use travis-ci.com and not .org
+2021/04/08, 00:39 - Nabeel: <Media omitted>
+2021/04/08, 01:02 - Nabeel: https://towardsdatascience.com/using-dotenv-to-hide-sensitive-information-in-python-77ab9dfdaac8
+2021/04/08, 01:59 - Nabeel: Okay, I created a branch and I  made a cog with some basic functions.
+2021/04/08, 02:01 - Nabeel: Everything is working with my bot but I need to test on ours but I can't log in to discord developers because of 2FA. We need a new token.
+2021/04/08, 02:01 - Nabeel: Can we have a quick meeting tomorrow to show you guys what I did? It shouldn't take long
+2021/04/08, 02:02 - +27 84 485 6965: Sure 👍🏼👍🏼 just confirm a time
+2021/04/08, 02:03 - +268 7944 7843: Cool
+2021/04/08, 02:04 - +27 72 101 9695: Sure
+2021/04/08, 02:04 - Nabeel: What time is good with you guys?
+2021/04/08, 02:04 - +27 72 101 9695: Half past 10?
+2021/04/08, 02:05 - Nabeel: I was thinking more in the afternoon, but if I must we can 😂
+2021/04/08, 02:05 - +27 72 101 9695: Okay no afternoon is better
+2021/04/08, 02:05 - +27 72 101 9695: Let's do that
+2021/04/08, 02:05 - +27 72 101 9695: Sleep is better
+2021/04/08, 02:06 - +268 7944 7843: Yeah afternoon or evening
+2021/04/08, 02:07 - Nabeel: Thank you! 😂 Okay we just need to see when the others are available
+2021/04/08, 02:08 - +27 72 101 9695: I also adjusted the code and added cogs... But I didn't commit it yet.. I want to try and implement the direct message replies first
+2021/04/08, 02:16 - Nabeel: Okay cool so we can go through it all tomorrow then
+2021/04/08, 02:17 - Nabeel: Hey can you turn off 2FA on discord because I couldn't login 😂 they were asking for some code
+2021/04/08, 02:17 - +27 72 101 9695: I can't turn off 2fa
+2021/04/08, 02:18 - +27 72 101 9695: You have to have it on to have a developer account
+2021/04/08, 02:18 - +27 72 101 9695: <Media omitted>
+2021/04/08, 02:18 - +27 72 101 9695: Download google authenticator
+2021/04/08, 02:18 - Nabeel: Oh damn, makes sense. Okay before you commit, just make sure you don't have a the token visible because they'll disable it again
+2021/04/08, 02:19 - +27 72 101 9695: Then you gotta sign in with the Blackbox email
+2021/04/08, 02:19 - +27 72 101 9695: Whenever they ask for 2fa code go to that app and use that code
+2021/04/08, 02:19 - +27 72 101 9695: These are just backups
+2021/04/08, 02:20 - +27 72 101 9695: I'll speak to you about hiding the token tomorrow
+2021/04/08, 02:20 - +27 72 101 9695: Before I commit
+2021/04/08, 02:20 - Nabeel: Okay cool. Thanks
+2021/04/08, 14:43 - +27 72 101 9695: Hey guys what time this afternoon?
+2021/04/08, 14:43 - +27 72 101 9695: Or evening?
+2021/04/08, 14:44 - +27 74 760 1963: Is it possible to make it in the evening, say 18:00? I'm not home currently. I'm out and about
+2021/04/08, 14:51 - +27 72 101 9695: Fine with me
+2021/04/08, 14:52 - Nabeel: Can we make it 18:15 then?
+2021/04/08, 15:05 - Matthew: When y'all said tomorrow at 2 am I thought you meant tomorrow 😂😴 but that time is good for me
+2021/04/08, 15:28 - +27 84 485 6965: I'm good with that 👍🏼
+2021/04/08, 15:32 - +27 64 823 8569: I'm fine with that
+2021/04/09, 00:51 - +27 74 760 1963: Hey guys, I missed the meeting. Any updates?
+2021/04/09, 20:18 - Nabeel: Is anyone currently running the bot on our server also?
+2021/04/09, 23:51 - Nabeel: Can you guys please stop running the bot on our server for now.
+2021/04/09, 23:51 - +27 72 101 9695: Who is running it 🤷🏽‍♂️
+2021/04/09, 23:52 - Nabeel: I have no idea. Like rn its online and I'm not running it
+2021/04/10, 12:01 - Nabeel: Aight guys, I got Travis Ci up and running fine but I'm having trouble with Coveralls.
+2021/04/10, 12:02 - Nabeel: I can post coverage from my terminal on my PC fine, and I get like 78% but it just doesn't want to work from coveralls
+2021/04/10, 12:02 - +27 74 760 1963: Wasn't it already working?
+2021/04/10, 12:04 - Nabeel: Yeah with a fake test case 😂 I mean were not gonna test if 5+1 =6
+2021/04/10, 12:05 - +27 74 760 1963: 🤣 Fair enough
+2021/04/10, 12:05 - Nabeel: It's working with the test cases on our discord server now
+2021/04/10, 12:05 - +27 74 760 1963: Awesome bro
+2021/04/10, 12:05 - Nabeel: *Doesn't want to work from travis
+2021/04/10, 12:08 - Nabeel: God I hate Coveralls and Travis
+2021/04/10, 12:08 - Nabeel: I'll explain everything soon
+2021/04/10, 12:08 - +27 74 760 1963: Ok bro
+2021/04/10, 21:51 - Nabeel: <Media omitted>
+2021/04/10, 21:51 - +27 72 101 9695: good to me
+2021/04/10, 21:51 - +27 84 485 6965: Me too 👍🏼
+2021/04/10, 21:53 - Nabeel: Everything is working.
+2021/04/10, 21:55 - +268 7944 7843: Sounds good
+2021/04/10, 22:17 - Nabeel: I changed the installation guide on the wiki a little. Just check if it's fine. And I think we need to add it to Taiga
+2021/04/10, 22:27 - +27 84 485 6965: I shall add it on Monday to taiga
+2021/04/10, 22:33 - Nabeel: Okay, Michael said he's marking on Monday so maybe do it tomorrow?
+2021/04/10, 22:33 - +27 84 485 6965: Ohks ill do it tomz 👍🏼
+2021/04/10, 22:33 - Nabeel: <Media omitted>
+2021/04/10, 22:35 - +27 84 485 6965: Yea ill make sure everything is there tomorrow just to be safe

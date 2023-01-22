@@ -1,0 +1,69 @@
+9/3/20, 8:37 PM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+8/20/20, 6:50 PM - +91 98335 84282 created group "Smart Hospital"
+9/3/20, 8:01 PM - +91 90225 00037 added you
+9/4/20, 10:40 AM - +91 96643 41513: @919022500037  when do we wish to have a conference call? Let's explain the project and tasks to the new team members.
+9/4/20, 10:41 AM - +91 90225 00037: Let's have it @2
+9/4/20, 10:41 AM - Er. Pratyush: in 2 pm
+9/4/20, 10:42 AM - +91 70113 37162: I have classes till 5
+9/4/20, 10:42 AM - +91 96643 41513: 5.30?
+9/4/20, 10:43 AM - +91 70113 37162: ok
+9/4/20, 10:43 AM - +91 96643 41513: @919022500037 ?
+9/4/20, 10:43 AM - Er. Pratyush: ok
+9/4/20, 11:38 AM - +91 99675 92102: @919022500037 join meeting please
+9/4/20, 12:14 PM - Er. Pratyush: when will be meeting
+9/4/20, 12:14 PM - Er. Pratyush: ??
+9/4/20, 12:15 PM - +91 90225 00037: 2 o clock
+9/4/20, 12:16 PM - Er. Pratyush: on which platform
+9/4/20, 12:16 PM - +91 90225 00037: I'll send the link
+9/4/20, 12:17 PM - Er. Pratyush: zoom or google meet
+9/4/20, 12:19 PM - +91 90225 00037: Guyz 5.30
+9/4/20, 12:19 PM - +91 90225 00037: Meeting will be held
+9/4/20, 12:19 PM - +91 90225 00037: We will send the link
+9/4/20, 12:19 PM - Er. Pratyush: 5.30 final??
+9/4/20, 12:19 PM - +91 90225 00037: This message was deleted
+9/4/20, 12:20 PM - +91 90225 00037: Yes yes
+9/4/20, 12:20 PM - +91 90225 00037: Final
+9/4/20, 12:21 PM - +91 96643 41513: 👍👍
+9/4/20, 5:28 PM - +91 90225 00037: Due to some emergency we won't be able to have the call now
+9/4/20, 5:28 PM - +91 90225 00037: The call has been scheduled for tomorrow 11 am
+9/4/20, 5:29 PM - +91 90225 00037: Is everybody comfortable or should we change the time ?
+9/4/20, 5:29 PM - +91 70113 37162: This message was deleted
+9/4/20, 5:29 PM - Er. Pratyush: ok
+9/4/20, 5:30 PM - +91 98335 84282: I have my lecture till 2pm tomorrow
+9/4/20, 5:31 PM - +91 90225 00037: Is 2pm comfortable for everyone or should we continue at 11
+9/4/20, 5:32 PM - +91 70113 37162: Mine too! Till 3
+9/4/20, 5:37 PM - +91 90225 00037: Ok so plz suggest one time
+9/4/20, 5:39 PM - Er. Pratyush: i can join before 5.30
+9/4/20, 5:39 PM - Er. Pratyush: after 5.30 i have a class
+9/4/20, 5:40 PM - Er. Pratyush: so do meeting 3 to 5
+9/4/20, 5:40 PM - Er. Pratyush: in my point of view
+9/5/20, 10:00 AM - Er. Pratyush: so when will be metting
+9/5/20, 10:24 AM - +91 90225 00037: 3 pm
+9/5/20, 2:54 PM - +91 90225 00037: Everyone free?
+9/5/20, 2:56 PM - Er. Pratyush: yes
+9/5/20, 3:03 PM - +91 98335 84282: Yes
+9/5/20, 3:04 PM - +91 90225 00037: Connecting the call
+9/5/20, 3:04 PM - Er. Pratyush: how
+9/5/20, 3:11 PM - +91 90225 00037: Meeting URL: https://meet.google.com/fur-czcx-ufg
+Phone: +1 929-356-4956 PIN: 802 915 742#
+More numbers: https://t.meet/fur-czcx-ufg
+9/5/20, 3:12 PM - +91 90225 00037: Plz join
+9/5/20, 3:33 PM - Er. Pratyush: ye project start ho gaya ya nh
+9/5/20, 3:33 PM - +91 90225 00037: It has started
+9/5/20, 3:37 PM - Er. Pratyush: <Media omitted>
+9/5/20, 3:37 PM - Er. Pratyush: this is my point of view to build this system
+9/5/20, 3:41 PM - Er. Pratyush: if you are go with WordPress aapko sabhi buy karna padega
+9/5/20, 3:41 PM - Er. Pratyush: uska theme uska integration
+9/5/20, 3:41 PM - Er. Pratyush: and phir 1 year ke baad renewal
+9/5/20, 3:42 PM - Er. Pratyush: ye saab nh karne chate ho to html css mai karna hai
+9/5/20, 3:42 PM - Er. Pratyush: nh to WordPress
+9/5/20, 3:49 PM - +91 90225 00037: Thanks @917077079340 will call you in a while and update
+9/5/20, 3:49 PM - Er. Pratyush: ok
+9/5/20, 4:29 PM - +91 98200 64197: Good thoughts Pratyush. Also think of the time needed to build from scratch as well as time taken to make basic changes using an in house CMS rather than using a CMS platform like Wordpress, and compare all options.
+9/5/20, 5:22 PM - Er. Pratyush: if all are comfortable with php/html it will take one month to complete all stuff
+9/5/20, 6:30 PM - +91 98200 64197: Too long. We shall use Wordpress platform to build the website, then. Simple. And for the rest of the development, tech stack is different, will share and discuss. Doctor and Patient platforms will have links from the main website.
+9/5/20, 8:57 PM - Er. Pratyush: ok
+9/6/20, 9:47 AM - Er. Pratyush: project kaab se start hoga
+9/6/20, 9:47 AM - Er. Pratyush: ??
+9/6/20, 11:10 AM - +91 98200 64197: It’s already started Pratyush. So, as soon as possible. It’s an exciting smart hospital that we are creating and that will be the model of many such hospitals in future
+9/6/20, 11:28 AM - Er. Pratyush: mera kya part hai issme

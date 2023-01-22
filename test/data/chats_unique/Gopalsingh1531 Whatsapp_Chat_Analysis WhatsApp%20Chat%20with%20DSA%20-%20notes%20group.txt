@@ -1,0 +1,982 @@
+30/11/2021, 7:28 am - Mahima PG created group "DSA - notes group"
+30/11/2021, 7:28 am - You were added
+01/03/2022, 2:49 pm - Lokesh Goswami: Sir,
+For SQL LAB exam, jitna syllabus mae mention h utna hee prepare krna h ???
+01/03/2022, 3:08 pm - Ranjan Sir YMCA: Yes
+02/03/2022, 9:54 am - Lokesh Goswami: Sir,
+We need to bring our laptops tomorrow ?
+02/03/2022, 9:55 am - Ranjan Sir YMCA: Yes
+02/03/2022, 9:55 am - Ranjan Sir YMCA: All students must carry your laptop
+02/03/2022, 9:55 am - Ranjan Sir YMCA: If any student have not laptop then raise your hand
+02/03/2022, 9:56 am - Lokesh Goswami: Ok sir
+02/03/2022, 10:32 am - Kuldeep Ccsd: What are the timings for tomorrow
+02/03/2022, 10:33 am - Ranjan Sir YMCA: <Media omitted>
+06/03/2022, 9:13 pm - Muskaan: Sir what is the timing for tomorrow's class?
+06/03/2022, 9:21 pm - Ranjan Sir YMCA: Students there is no class tomorrow due to some official work. So 
+You have to come college day after tomorrow for class as well as project file submission.
+06/03/2022, 9:21 pm - Ranjan Sir YMCA: Practical file
+06/03/2022, 9:21 pm - Lokesh Goswami: Ok sir
+06/03/2022, 9:22 pm - Garima Verma: 👍
+07/03/2022, 7:59 pm - Mahima PG: Sir,
+What are the timings for tomorrow?
+07/03/2022, 8:00 pm - Kuldeep Ccsd: +1
+07/03/2022, 8:31 pm - Ranjan Sir YMCA: 9:30 am
+08/03/2022, 8:50 am - Mahima PG: Sir, Do we have to sit in new building??
+08/03/2022, 9:03 am - Ranjan Sir YMCA: Old building
+08/03/2022, 9:08 am - Gunjan Verma♥️: Okay sir
+09/03/2022, 3:54 pm - Ranjan Sir YMCA: Any person who have written 5 th assignment question . Send it into group.
+09/03/2022, 3:54 pm - Ranjan Sir YMCA: For adbms
+09/03/2022, 3:55 pm - Prateek: [ ] what is concurrency control ?
+[ ] explain  all concurrency  control protocal 
+[ ] explain  time based protocol 
+[ ] explain  validation  based protocol 
+[ ] write advantage  and disadvantage  of  time stamp  based protocol  
+[ ] explain  lock based  protocol
+09/03/2022, 3:56 pm - Ranjan Sir YMCA: It will be import for examination.
+09/03/2022, 3:56 pm - Ranjan Sir YMCA: Important
+15/03/2022, 5:25 pm - Ranjan Sir YMCA: <Media omitted>
+15/03/2022, 5:27 pm - Ranjan Sir YMCA: Students submit your remaining documents before 5 pm (tomorrow ) with fine otherwise problem will be raised for you. Affiliation branch will not allow to submit document after tomorrow. 
+
+So pls mind it
+15/03/2022, 5:27 pm - Bhavesh Sethi: Sir submitted three times
+15/03/2022, 5:27 pm - Pradeep Ccsd: Sir same University k liye migration thodi dena hota h
+15/03/2022, 5:30 pm - Mahima PG: +1
+
+Sir, do baar pucha tha
+Same University se humko migration dene ke lie mana kia tha aapne
+15/03/2022, 5:31 pm - Lokesh Goswami: Sir,
+Already given
+15/03/2022, 5:31 pm - Lokesh Goswami: I gave my UG Degree
+15/03/2022, 5:33 pm - +91 92050 69867: Sir maine bhi de rkhi hai phele hie
+15/03/2022, 5:33 pm - Ranjan Sir YMCA: All students should come tomorrow and verify your documents in front of ccsd clerk.
+15/03/2022, 5:33 pm - Bhavesh Sethi: Okay sir
+15/03/2022, 5:42 pm - Lokesh Goswami: Ok sir
+15/03/2022, 5:42 pm - Lokesh Goswami: We have to bring all documents ?
+15/03/2022, 5:44 pm - Ranjan Sir YMCA: All students must all documents so that document will be verified.
+15/03/2022, 5:45 pm - Ranjan Sir YMCA: Carry
+15/03/2022, 5:46 pm - Ranjan Sir YMCA: 1) Mark's sheet of 10th,12 th and ug
+
+2) Migration of ug
+15/03/2022, 5:49 pm - Mahima PG: This message was deleted
+15/03/2022, 5:49 pm - Mahima PG: Sir, same University se humko migration dene ke lie mana kia tha.
+Or UG wala migration PG k time University me already submitted hai.
+What do we have to do then?
+15/03/2022, 5:52 pm - Ranjan Sir YMCA: Let u know again within 10 min
+15/03/2022, 5:53 pm - Mahima PG: Okay sir
+15/03/2022, 5:57 pm - Ranjan Sir YMCA: No need to submit migration who did ug or pg in jcbose
+15/03/2022, 5:58 pm - Mahima PG: Ok sir
+15/03/2022, 8:08 pm - Gaurav Ccsd: Sir, those students who have no Remarks regarding documents had  to come tomorrow?
+15/03/2022, 8:09 pm - Ranjan Sir YMCA: No
+16/03/2022, 9:29 am - Bhavesh Sethi: Sir, Where we have to come new building or old building
+16/03/2022, 9:37 am - Ranjan Sir YMCA: Old building
+17/03/2022, 7:05 am - Kuldeep Ccsd: <Media omitted>
+17/03/2022, 7:09 am - Dsa Rishu Sir: <Media omitted>
+17/03/2022, 7:10 am - Pradeep Ccsd: <Media omitted>
+17/03/2022, 7:11 am - Gopal: Thankyou sir and same to you and wishing all the group members a very happy holi 🥰🌈
+17/03/2022, 7:12 am - Gopal: <Media omitted>
+17/03/2022, 7:38 am - Mansi Bhardwaj: Happy holi everyone🌈🌈
+17/03/2022, 7:50 am - Manu Attri: <Media omitted>
+17/03/2022, 7:53 am - Gaurav Ccsd: <Media omitted>
+17/03/2022, 7:53 am - Gunjan Verma♥️: <Media omitted>
+17/03/2022, 7:56 am - Gaurav Ccsd: <Media omitted>
+17/03/2022, 8:09 am - Ranjan Sir YMCA: Wishing you and your family success, happiness and prosperity this Holi and always Have a colourful and joyous Holi. May God gift you all the colours of life, colours of joy, colours of happiness, colours of friendship and all other colours you want to paint your life in.
+17/03/2022, 8:45 am - Lokesh Goswami: Happy Holi to everyone 🎉🎉🎉🎉🎉
+17/03/2022, 3:13 pm - Lokesh Goswami: <Media omitted>
+17/03/2022, 3:13 pm - Lokesh Goswami: Congrats kuldeep 🎉🎉🎉
+17/03/2022, 3:14 pm - Pradeep Ccsd: Congratulations dono bhaiyo ko
+17/03/2022, 3:14 pm - Dsa Rishu Sir: Congratulations bro
+17/03/2022, 3:14 pm - Lokesh Goswami: Thanks bhai
+17/03/2022, 3:14 pm - Dsa Rishu Sir: Mujhe v team me le lo
+17/03/2022, 3:14 pm - Lokesh Goswami: Aa jaao sir
+17/03/2022, 3:15 pm - Lokesh Goswami: Pradeep aur aap dono wildcard entry se aa jaao
+17/03/2022, 3:15 pm - Prateek: congratulations  for both of you @919582206707 ,@918295327762
+17/03/2022, 3:15 pm - Dsa Rishu Sir: Okay
+17/03/2022, 3:15 pm - Pradeep Ccsd: Taali maarke switch krle sir k saath
+17/03/2022, 3:15 pm - Pradeep Ccsd: Ki ab sir khelenge meri jgh
+17/03/2022, 3:15 pm - Lokesh Goswami: Thanks bhai
+17/03/2022, 3:16 pm - Lokesh Goswami: Haan am ready for this
+17/03/2022, 3:17 pm - Kuldeep Ccsd: Thanku bhai
+17/03/2022, 3:18 pm - Kuldeep Ccsd: Aap bhi aa jana sir
+17/03/2022, 3:18 pm - Dsa Rishu Sir: Kaha ??
+17/03/2022, 3:19 pm - Kuldeep Ccsd: Shakuntalam hall
+17/03/2022, 3:19 pm - Lokesh Goswami: Han sir hall mae
+17/03/2022, 3:19 pm - Dsa Rishu Sir: Kab?
+17/03/2022, 3:19 pm - Lokesh Goswami: Daily subha 6:30-8:00 am
+17/03/2022, 3:19 pm - Lokesh Goswami: Mon to fri
+17/03/2022, 3:20 pm - Dsa Rishu Sir: Okay
+17/03/2022, 3:20 pm - Kuldeep Ccsd: Subha thodi na h
+17/03/2022, 3:20 pm - Lokesh Goswami: Subha hai
+17/03/2022, 3:20 pm - Lokesh Goswami: Group join kr eklavya waala
+17/03/2022, 3:20 pm - Kuldeep Ccsd: Sham ko h 2:30 se 5
+17/03/2022, 3:20 pm - Dsa Rishu Sir: Okay
+17/03/2022, 3:21 pm - Kuldeep Ccsd: Shi h fir to
+17/03/2022, 3:21 pm - Lokesh Goswami: Hmm
+17/03/2022, 3:22 pm - Dsa Rishu Sir: Subah aana 10 rounds ground ka cover kara jayega
+17/03/2022, 3:22 pm - Dsa Rishu Sir: 6:00
+17/03/2022, 3:22 pm - Lokesh Goswami: Haan sure
+17/03/2022, 3:22 pm - Kuldeep Ccsd: Done sir
+17/03/2022, 3:23 pm - Dsa Rishu Sir: 👍
+17/03/2022, 4:15 pm - Lokesh Goswami: <Media omitted>
+17/03/2022, 4:18 pm - Kuldeep Ccsd: Congrats loki
+17/03/2022, 4:19 pm - Lokesh Goswami: Thnks bhai
+17/03/2022, 4:19 pm - Lokesh Goswami: Tujhe b football ka dena chahiye tha
+17/03/2022, 4:20 pm - Kuldeep Ccsd: Mistake ho gyi
+17/03/2022, 4:20 pm - Lokesh Goswami: Koi nhi...
+18/03/2022, 10:20 am - Kuldeep Ccsd: Ap sabhi student ko mere taraf se holi ki bahut bahut subhkamnaye.
+18/03/2022, 10:21 am - Kuldeep Ccsd: Same 2 u sir
+18/03/2022, 10:12 pm - Lokesh Goswami: This message was deleted
+20/03/2022, 8:06 pm - Gaurav Ccsd: Good evening sir, I have doubts in DSML.
+20/03/2022, 8:07 pm - Ranjan Sir YMCA: Send me
+20/03/2022, 8:08 pm - Gaurav Ccsd: Sir . Is there any difference between pivot_table and group by func
+20/03/2022, 8:12 pm - Ranjan Sir YMCA: <Media omitted>
+20/03/2022, 8:13 pm - Ranjan Sir YMCA: Search more points into google
+20/03/2022, 8:14 pm - Gaurav Ccsd: <Media omitted>
+20/03/2022, 8:15 pm - Ranjan Sir YMCA: Show me error
+20/03/2022, 8:19 pm - Gaurav Ccsd: <Media omitted>
+20/03/2022, 8:21 pm - Ranjan Sir YMCA: First change index into column then apply line plot
+20/03/2022, 8:22 pm - Gaurav Ccsd: kr lia sir reset_index() se but same error occur..
+20/03/2022, 8:23 pm - Gaurav Ccsd: <Media omitted>
+20/03/2022, 8:24 pm - Ranjan Sir YMCA: Print
+
+result1['price']
+20/03/2022, 8:24 pm - Ranjan Sir YMCA: Then show me
+20/03/2022, 8:25 pm - Gaurav Ccsd: <Media omitted>
+20/03/2022, 8:33 pm - Ranjan Sir YMCA: First save permanently
+20/03/2022, 8:35 pm - Ranjan Sir YMCA: sns.lineplot(x=result1.index,y=result1['price']['mean'])
+20/03/2022, 8:35 pm - Ranjan Sir YMCA: Use above code
+20/03/2022, 8:37 pm - Gaurav Ccsd: <Media omitted>
+20/03/2022, 8:39 pm - Ranjan Sir YMCA: Now it isok
+20/03/2022, 8:39 pm - Gaurav Ccsd: sir, want to plot min and max values also?
+20/03/2022, 8:43 pm - Gaurav Ccsd: <Media omitted>
+20/03/2022, 9:07 pm - Ranjan Sir YMCA: Alag alag kar lo ek ho cell  me
+20/03/2022, 9:25 pm - Gaurav Ccsd: <Media omitted>
+23/03/2022, 6:56 pm - Dsa Rishu Sir: Aap sab ki paper check ho gayi hai
+23/03/2022, 6:57 pm - Muskaan: Sir marks?
+23/03/2022, 6:57 pm - Mahima PG: Number bhi batado
+23/03/2022, 6:57 pm - Dsa Rishu Sir: Aap dono ka 23
+23/03/2022, 6:57 pm - Mahima PG: 😅😅
+23/03/2022, 6:57 pm - Dsa Rishu Sir: Mannu 25
+23/03/2022, 6:58 pm - Pradeep Ccsd: Sir mere 25 ?
+23/03/2022, 6:58 pm - Dsa Rishu Sir: Mansi 24
+23/03/2022, 6:58 pm - Dsa Rishu Sir: 21 ya 19 hai
+23/03/2022, 6:58 pm - Pradeep Ccsd: 😕
+23/03/2022, 6:58 pm - Muskaan: Thankyou sir 😇
+23/03/2022, 6:58 pm - Dsa Rishu Sir: 14 do ke hai
+23/03/2022, 6:58 pm - Mahima PG: 🥺🥺🥺🥺
+23/03/2022, 6:59 pm - Mansi Bhardwaj: Thanku sir
+23/03/2022, 6:59 pm - Mahima PG: Thankyou Sir
+23/03/2022, 6:59 pm - Dsa Rishu Sir: Is baar proper check kiye hai
+23/03/2022, 6:59 pm - Dsa Rishu Sir: Ek ko Jabran pass kiye hai
+23/03/2022, 7:00 pm - Manu Attri: Thankyou sir
+23/03/2022, 7:00 pm - Manu Attri: 🙂
+23/03/2022, 7:00 pm - Muskaan: Sir list hi bhej do... Sbko pta chal jaenge
+23/03/2022, 7:01 pm - Dsa Rishu Sir: Jane do next exam kharab ho jayega
+23/03/2022, 7:02 pm - Bhavesh Sethi: Sir mere kitne hai
+23/03/2022, 7:02 pm - Dsa Rishu Sir: 18 ya 19 hoga
+23/03/2022, 7:02 pm - Bhavesh Sethi: Okay sir 👍
+23/03/2022, 7:12 pm - Raghav Arora: Sir mere kitne hai?
+23/03/2022, 7:13 pm - Bhavesh Sethi: 🤣 tere guru ke toh 23 hai tu 25 mag raha hai
+23/03/2022, 7:14 pm - Pradeep Ccsd: Rishu sir ne kb dia paper
+23/03/2022, 7:14 pm - Lokesh Goswami: Sir mere kitne hain ???
+23/03/2022, 7:15 pm - Bhavesh Sethi: 😁 paper vali guru re
+23/03/2022, 7:24 pm - Dsa Rishu Sir: Tu aur kullu 24 aur 22
+23/03/2022, 7:26 pm - Raghav Arora: Thankyou Sir
+23/03/2022, 7:36 pm - Kuldeep Ccsd: Mere 24 ya 22
+23/03/2022, 7:37 pm - Lokesh Goswami: Tere 222
+23/03/2022, 7:37 pm - Lokesh Goswami: Mere 20
+23/03/2022, 7:38 pm - Kuldeep Ccsd: Itne to pure sem k nhi hoge
+23/03/2022, 7:39 pm - Kuldeep Ccsd: Sir Anubhav k kitne h
+23/03/2022, 7:41 pm - Dsa Rishu Sir: 14
+23/03/2022, 7:51 pm - Lokesh Goswami: 🤣🤣 22
+23/03/2022, 7:59 pm - Dsa Rishu Sir: Kuch kam to nahi karna hai jiska zyada ho gaya ho
+23/03/2022, 8:00 pm - Lokesh Goswami: Kam ko zaada krna h 20 hain sir🤣🤣🤣
+23/03/2022, 8:01 pm - Rashid Ali Dsa: Sir mere bhi btado
+23/03/2022, 8:02 pm - Dsa Rishu Sir: 22
+23/03/2022, 8:10 pm - Kuldeep Ccsd: This message was deleted
+23/03/2022, 8:10 pm - Kuldeep Ccsd: Ghamand nhi kiya kabhi
+23/03/2022, 8:11 pm - Kuldeep Ccsd: Sir agr aap kuch chadawa chahte ho to chada skte ho
+23/03/2022, 8:16 pm - Dsa Rishu Sir: Ab kya 25 out of 25 chahiye😂
+23/03/2022, 8:36 pm - Kuldeep Ccsd: 🤣🤣
+23/03/2022, 10:32 pm - Lokesh Goswami: <Media omitted>
+23/03/2022, 10:34 pm - 👑ujjwal👑: Pdhai jiwan ka adhar
+23/03/2022, 10:34 pm - Garima Verma: Pdhai jeevan ka aadhar hai
+23/03/2022, 10:34 pm - Garima Verma: Glt
+23/03/2022, 10:34 pm - Gunjan Verma♥️: Hai*
+23/03/2022, 10:35 pm - Lokesh Goswami: ✔️
+23/03/2022, 10:35 pm - Garima Verma: Adhura gyaan hanikarak hai
+23/03/2022, 10:35 pm - Lokesh Goswami: ❌
+23/03/2022, 10:35 pm - Lokesh Goswami: ✔️
+23/03/2022, 10:35 pm - Garima Verma: 😅👏🏻
+23/03/2022, 10:35 pm - Lokesh Goswami: 🤣
+23/03/2022, 10:35 pm - Gunjan Verma♥️: Are😂😂jab shi kr dia mne uska
+23/03/2022, 10:35 pm - Garima Verma: 🥲
+23/03/2022, 10:36 pm - Garima Verma: Ujjwal feeling like this 🥲
+23/03/2022, 10:36 pm - Garima Verma: 😅
+23/03/2022, 10:37 pm - 👑ujjwal👑: <Media omitted>
+23/03/2022, 10:37 pm - Gunjan Verma♥️: <Media omitted>
+23/03/2022, 10:37 pm - Garima Verma: Ruk ja yhi Sindhu river bna dega
+23/03/2022, 10:37 pm - Garima Verma: 😅✌🏻
+23/03/2022, 10:38 pm - 👑ujjwal👑: <Media omitted>
+23/03/2022, 10:38 pm - Garima Verma: <Media omitted>
+23/03/2022, 10:39 pm - Garima Verma: 😅😅🤣🤣
+24/03/2022, 6:01 pm - Gaurav Ccsd: Sir Good evening , I have a doubt that how to handle outliers?
+28/03/2022, 10:17 am - Lokesh Goswami: Sir,
+Any updates regarding start of 2nd semester ?
+28/03/2022, 10:30 am - Dsa Rishu Sir: Most probably after 5
+28/03/2022, 10:31 am - Lokesh Goswami: Ok sir
+28/03/2022, 11:46 am - Bhavesh Sethi: Phir toh sir ghumane chlte hai
+28/03/2022, 11:48 am - Dsa Rishu Sir: 😂
+28/03/2022, 11:48 am - Bhavesh Sethi: 😁
+28/03/2022, 11:48 am - Dsa Rishu Sir: 1 ke baad
+28/03/2022, 11:48 am - Bhavesh Sethi: 👍
+28/03/2022, 12:25 pm - Kuldeep Ccsd: 😂 kha
+28/03/2022, 12:26 pm - Mahima PG: This message was deleted
+28/03/2022, 12:26 pm - Mahima PG: 😅
+28/03/2022, 12:26 pm - Lokesh Goswami: Chlo fir
+28/03/2022, 12:26 pm - Lokesh Goswami: Sb
+28/03/2022, 12:27 pm - Bhavesh Sethi: Uttrakhand
+28/03/2022, 12:27 pm - Dsa Rishu Sir: Kedarnath
+28/03/2022, 12:27 pm - Mahima PG: Dwarka Nagri
+28/03/2022, 12:28 pm - Bhavesh Sethi: Sir Abhi mehnga toh nhi pdega
+28/03/2022, 12:29 pm - Dsa Rishu Sir: Thoda pad sakta hai
+28/03/2022, 12:29 pm - Dsa Rishu Sir: Gates kab khulengi
+28/03/2022, 12:29 pm - Bhavesh Sethi: Yup yeah bhi theek hai ya sir river rafting and bunjee jumping krni hai
+28/03/2022, 12:30 pm - Bhavesh Sethi: Sir vo toh may ar April me khulte hai
+28/03/2022, 12:30 pm - Dsa Rishu Sir: 😂
+28/03/2022, 12:30 pm - Dsa Rishu Sir: Okay
+28/03/2022, 12:30 pm - Bhavesh Sethi: Abhi toh sir yeah hi hai
+28/03/2022, 12:31 pm - Bhavesh Sethi: Ya tracking
+28/03/2022, 12:32 pm - Dsa Rishu Sir: 👍👍
+28/03/2022, 12:32 pm - Dsa Rishu Sir: Mai aaj jaa raha hu vaishno devi
+28/03/2022, 12:33 pm - Bhavesh Sethi: Sir Darr lgta hai kya river rafting se 🤣
+28/03/2022, 12:33 pm - Bhavesh Sethi: Okay sir phele batate sir
+28/03/2022, 12:33 pm - Bhavesh Sethi: Apun bhi chl padhata
+28/03/2022, 12:34 pm - Dsa Rishu Sir: Kullu dubne lagega to bachayega kaun
+28/03/2022, 12:34 pm - Bhavesh Sethi: Bhagwan sir
+28/03/2022, 12:35 pm - Bhavesh Sethi: 🤣
+28/03/2022, 12:35 pm - Dsa Rishu Sir: 🤣
+28/03/2022, 12:57 pm - Kuldeep Ccsd: Aap sir
+28/03/2022, 1:02 pm - Dsa Rishu Sir: 😂
+28/03/2022, 1:03 pm - Bhavesh Sethi: Sir ko khudki tension hai 🤣
+28/03/2022, 1:03 pm - Bhavesh Sethi: Ussme tu apna bolke ar badha de
+28/03/2022, 1:06 pm - Dsa Rishu Sir: Koi nyi life jacket 4 pehna dunga tujhe @918295327762
+28/03/2022, 1:06 pm - Bhavesh Sethi: 😂😂 sir fir toh life jacket hi dekhegi kullu na dhikheneka
+28/03/2022, 1:07 pm - Kuldeep Ccsd: Phir m swim kaise krunga
+28/03/2022, 1:08 pm - Dsa Rishu Sir: 🤣
+28/03/2022, 1:08 pm - Bhavesh Sethi: Phir tujhe kuch nhi Krna life jacket dekh legi sbh
+28/03/2022, 1:08 pm - Dsa Rishu Sir: Pairo se
+28/03/2022, 1:08 pm - Bhavesh Sethi: Phir tu chill kriyo
+28/03/2022, 1:09 pm - Kuldeep Ccsd: <Media omitted>
+28/03/2022, 1:10 pm - Dsa Rishu Sir: Please in sab ka plan na bananana
+28/03/2022, 1:10 pm - Dsa Rishu Sir: Dangerous hai
+28/03/2022, 1:11 pm - Dsa Rishu Sir: Mai apne bhai ko v mana karta hu
+28/03/2022, 1:11 pm - Kuldeep Ccsd: Rishikesh ki h ye sir 16 km vali rafting
+28/03/2022, 1:11 pm - Dsa Rishu Sir: Acha
+28/03/2022, 1:11 pm - Bhavesh Sethi: Koi na sir jaha app bolo vaha  chal lenge
+28/03/2022, 1:12 pm - Bhavesh Sethi: Tracking pe chl padhete hai
+28/03/2022, 1:12 pm - Bhavesh Sethi: Khahi
+28/03/2022, 1:13 pm - Bhavesh Sethi: Kedharkantha
+28/03/2022, 1:13 pm - Kuldeep Ccsd: Ye kha h
+28/03/2022, 1:13 pm - Bhavesh Sethi: Net or Google hai terepe
+28/03/2022, 1:13 pm - Bhavesh Sethi: Use krr phir
+28/03/2022, 1:24 pm - Dsa Rishu Sir: Ye achi place hai
+28/03/2022, 1:24 pm - Bhavesh Sethi: Yeeep
+28/03/2022, 1:26 pm - Lokesh Goswami: Sir kal chlte h
+28/03/2022, 1:27 pm - Dsa Rishu Sir: Mera ticket confirm hai aaj ka
+28/03/2022, 1:28 pm - Dsa Rishu Sir: Aata hu fir chalte hai
+28/03/2022, 1:28 pm - Bhavesh Sethi: 👍👍
+28/03/2022, 1:28 pm - Lokesh Goswami: Cancel krwa do sir
+28/03/2022, 1:28 pm - Lokesh Goswami: Tatkal m le lenge
+28/03/2022, 1:28 pm - Lokesh Goswami: Confirm
+28/03/2022, 1:28 pm - Lokesh Goswami: Fir chlte h
+28/03/2022, 1:28 pm - Dsa Rishu Sir: Maa ka bulawa aa gaya hai
+28/03/2022, 1:29 pm - Lokesh Goswami: Raat ko train h new delhi se ?
+28/03/2022, 1:29 pm - Lokesh Goswami: Uttar sampark kranti
+28/03/2022, 1:29 pm - Dsa Rishu Sir: Ha
+28/03/2022, 1:29 pm - Bhavesh Sethi: Koi na sir jao app enjoy kro
+28/03/2022, 1:29 pm - Lokesh Goswami: Mai aaj hee dkh rha tha tickets
+28/03/2022, 1:30 pm - Lokesh Goswami: Dkh lo sir kal chlte h
+28/03/2022, 1:30 pm - Dsa Rishu Sir: Chaloge to chalo mere sath
+28/03/2022, 1:30 pm - Lokesh Goswami: Ticket ???
+28/03/2022, 1:30 pm - Lokesh Goswami: Mai toh ready hu chlne ko ticket nhi h 😅
+28/03/2022, 1:30 pm - Dsa Rishu Sir: General le lena mere sath baith jana
+28/03/2022, 1:31 pm - Lokesh Goswami: Sleeper leni hgi 14 hrs h
+28/03/2022, 1:32 pm - Dsa Rishu Sir: Mera Shakti express me hai
+28/03/2022, 1:32 pm - Dsa Rishu Sir: Simple le lena tt se baat ker lenge
+28/03/2022, 1:34 pm - Lokesh Goswami: Tt nhi maanta sir
+28/03/2022, 1:34 pm - Lokesh Goswami: Koi ni aap jaao
+28/03/2022, 1:34 pm - Lokesh Goswami: 👍
+28/03/2022, 1:34 pm - Lokesh Goswami: Mai kal parso dkhta hu
+28/03/2022, 1:35 pm - Dsa Rishu Sir: 👍
+28/03/2022, 1:58 pm - Bhavesh Sethi: Koi na sir ajao phir chale UT
+28/03/2022, 1:59 pm - Dsa Rishu Sir: Thik hai
+01/04/2022, 7:43 am - Ranjan Sir YMCA: http://innovateindia.mygov.in/ppc-2022/
+01/04/2022, 7:44 am - Ranjan Sir YMCA: Students do registration with above link so that you can participate pariksha pe charcha 2022 event
+03/04/2022, 11:13 am - Mahima PG: Sir,
+When will Sem-2 start?
+03/04/2022, 12:12 pm - Ranjan Sir YMCA: Let u know soon
+05/04/2022, 9:27 pm - Lokesh Goswami: Sir,
+When will Sem-2 start?
+05/04/2022, 9:28 pm - Kuldeep Ccsd: +1
+06/04/2022, 8:38 am - Ranjan Sir YMCA: Let u know soon within 2 days
+06/04/2022, 9:18 am - Gunjan Verma♥️: Okay sir
+09/04/2022, 5:31 pm - Gaurav Ccsd: Sir, can I ask when will our 2 sem start?
+09/04/2022, 5:31 pm - Lokesh Goswami: 18
+09/04/2022, 5:31 pm - Lokesh Goswami: April
+09/04/2022, 5:42 pm - Garima Verma: ?
+09/04/2022, 5:44 pm - Gaurav Ccsd: Itna delay kyun koi muhurat h 18 ko?
+09/04/2022, 7:45 pm - Ranjan Sir YMCA: <Media omitted>
+14/04/2022, 12:31 pm - Ranjan Sir YMCA: Notice:
+
+2nd semester class is going to start on 18/04/2022.
+
+Tomorrow class time table will be available into official WhatsApp group.
+14/04/2022, 12:31 pm - Pradeep Ccsd: Ok sir
+15/04/2022, 12:24 pm - Lokesh Goswami: Sir,
+ML principal sir pdhyange ?
+15/04/2022, 12:26 pm - Mahima PG: Time table me likha to h😂
+15/04/2022, 12:26 pm - Lokesh Goswami: Han tbhi confirmation k liye
+15/04/2022, 12:30 pm - Ranjan Sir YMCA: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/Ck3hvF06kEfK4alfTbuA11
+15/04/2022, 12:30 pm - Gaurav Ccsd: Sir, Guest lectures will be held on weekends?
+15/04/2022, 12:31 pm - Ranjan Sir YMCA: Students join this group
+15/04/2022, 12:32 pm - Gunjan Verma♥️: Joined sir ✔
+18/04/2022, 7:51 am - Ranjan Sir YMCA: Classes will be conducted in room no 301 of ccsd old building
+18/04/2022, 9:09 am - Ranjan Sir YMCA: If any student has reached then connect laptop with projector
+18/04/2022, 4:00 pm - Ranjan Sir YMCA: Stats class will start within 10 minutes so all student must join
+18/04/2022, 4:00 pm - Kuldeep Ccsd: Ok sir
+18/04/2022, 4:20 pm - Mahima PG: Please join the class
+18/04/2022, 5:06 pm - Muskaan: This message was deleted
+18/04/2022, 9:37 pm - Lokesh Goswami: <Media omitted>
+18/04/2022, 9:37 pm - Lokesh Goswami: हरियाणा में मास्क पहनना अनिवार्य
+
+ब्रेकिंग न्यूज़:-
+
+हरियाणा में मास्क पहनने के आदेश फिर हुए जारी
+
+हरियाणा सरकार द्वारा आदेश जारी
+20/04/2022, 9:14 am - Ranjan Sir YMCA: Students wait into classroom I am coming within 5 to 10 min
+20/04/2022, 9:15 am - Garima Verma: Okay
+22/04/2022, 6:43 am - Ranjan Sir YMCA: Today class will start at 10 am.
+22/04/2022, 8:30 am - Muskaan: This message was deleted
+22/04/2022, 6:58 pm - Ranjan Sir YMCA: You all guys not attaining  statistics class properly.
+Why?
+
+You know already ccsd is paying big amount for each statistics lecture but you are attaining lecture only 20 minutes.
+22/04/2022, 7:02 pm - Muskaan: Sir there were only 5 to 6 students attending class today.
+So, Kiran sir asked if we are ok with continuing the lecture in next class with more students and we said ok to that.
+22/04/2022, 7:02 pm - Muskaan: That's why today's class was only 20 mins long.
+22/04/2022, 7:04 pm - Ranjan Sir YMCA: You should attain complete 50 minutes.
+22/04/2022, 7:04 pm - Ranjan Sir YMCA: All students must attain statistics class from tomorrow
+22/04/2022, 7:19 pm - Bhavesh Sethi: sir due to personal reason I hadn't attend the class, and sir,sir is cover statistics with r software
+22/04/2022, 7:21 pm - Ranjan Sir YMCA: You should tell him cover theory part first then.
+
+I will talk with him regarding this
+22/04/2022, 7:22 pm - Rashid Ali Dsa: Agnihotri sir also attended the classes of statistics with R software but student didn't gather much info about the topic and We have to learn firstly the topic theory but kiran sir is doing just coding with R with a little explanation about topic
+22/04/2022, 7:22 pm - Ranjan Sir YMCA: Ok will talk with him
+22/04/2022, 7:23 pm - Rashid Ali Dsa: Ok sir
+22/04/2022, 7:32 pm - Garima Verma: That's why not attaining the class sir
+22/04/2022, 8:19 pm - Gunjan Verma♥️: +1
+23/04/2022, 5:45 pm - Dsa Rishu Sir: https://classroom.google.com/c/NDg1MTExODk1NzU5?cjc=znzzj6h
+23/04/2022, 5:46 pm - Dsa Rishu Sir: Linear algebra notes are uploaded in Google classroom
+23/04/2022, 5:46 pm - Pradeep Ccsd: Ok sir
+23/04/2022, 5:46 pm - Garima Verma: 👍🏻
+23/04/2022, 5:50 pm - Gunjan Verma♥️: Thank you sir
+23/04/2022, 6:53 pm - Rashid Ali Dsa: Sir pls upload Deep learning notes also
+23/04/2022, 6:55 pm - Mansi Bhardwaj: Deep learning k bhi notes upload kar diye h in the same class room
+23/04/2022, 6:56 pm - Rashid Ali Dsa: Ok
+25/04/2022, 9:18 am - Ranjan Sir YMCA: Reaching into classroom within 10 min . Connect laptop with projector
+26/04/2022, 1:51 pm - Asish Sharma Dsa: *Support My Son Vansh To Fight Super Refractory Epilepticus* 
+
+Sanjay Dhupar wants to raise funds for his son, Vansh Dhupar. He has been suffering from Super Refractory Epilepticus. Your donation can guide them to reach their fund goals. Please help.
+
+*Read More:* http://impactguru.com/s/P31U6K
+
+*Donate Here:* http://impactguru.com/s/N1Kgda
+
+*NEFT / IMPS / RTGS*
+*(From Banks in India only)*
+===========================
+Account number: 700701717365481
+Account name: Vansh Dhupar
+IFSC code: YESB0CMSNOC
+===========================
+
+-------------------------------------
+*UPI Handle:*
+supportvansh40@yesbankltd
+*Pay via GooglePay / PhonePe / UPI (Android Only):* http://impactguru.com/s/EBZxZw
+-------------------------------------
+*Donations via Yes Bank UPI and Account Transfers are safe with ImpactGuru.*
+
+
+*Indian tax benefits available*
+26/04/2022, 1:52 pm - Asish Sharma Dsa: Please Donate 🌻
+27/04/2022, 12:28 pm - Dsa Rishu Sir: <Media omitted>
+27/04/2022, 12:41 pm - Dsa Rishu Sir: <Media omitted>
+27/04/2022, 12:41 pm - Dsa Rishu Sir: <Media omitted>
+30/04/2022, 1:02 pm - Dsa Rishu Sir: I have sent notes on Google classroom
+30/04/2022, 1:05 pm - Dsa Rishu Sir: There is a stats notes as well
+30/04/2022, 1:05 pm - Dsa Rishu Sir: I will explain it in class
+30/04/2022, 1:05 pm - Mahima PG: Okay sir 😊
+30/04/2022, 1:07 pm - Kuldeep Ccsd: Ok sir thanku
+30/04/2022, 1:09 pm - Mansi Bhardwaj: Thanku sir
+03/05/2022, 4:51 pm - Lokesh Goswami: Ranjan Sir,
+Kal aapki class nahi hogi ?
+03/05/2022, 5:03 pm - Ranjan Sir YMCA: Tomorrow will be class
+03/05/2022, 5:03 pm - Lokesh Goswami: Ok sir
+04/05/2022, 10:30 am - Ranjan Sir YMCA: IIIT Hyderabad is pleased to announce a 50-week online training programme for its flagship course on Foundations of Modern Machine Learning. The course is open to all second year undergraduate engineering students, interested to pursue a technical career involving machine learning.
+
+https://ihub-data.iiit.ac.in/programs/courses/foundations-of-modern-machine-learning/
+05/05/2022, 8:38 pm - Ranjan Sir YMCA: Class will start at 10 am tomorrow
+06/05/2022, 2:37 pm - Mahima PG: Sir ek ek din ka gap to dedo🥲
+06/05/2022, 2:38 pm - Gopal: Yes sir
+06/05/2022, 2:38 pm - Garima Verma: +1
+06/05/2022, 2:45 pm - Raghav Arora: +1
+06/05/2022, 2:47 pm - Dsa Rishu Sir: Exam cancel
+06/05/2022, 2:47 pm - Dsa Rishu Sir: Enjoy
+06/05/2022, 2:47 pm - Bhavesh Sethi: Thanks sir 👍
+06/05/2022, 2:47 pm - Bhavesh Sethi: 🤣
+06/05/2022, 2:47 pm - Raghav Arora: Thankyou sir
+06/05/2022, 2:47 pm - Gaurav Ccsd: Kabhi nhi honge
+06/05/2022, 2:48 pm - Gunjan Verma♥️: 😂
+08/05/2022, 9:44 pm - Ranjan Sir YMCA: Date of Sessional exam will be extended . So let u know
+08/05/2022, 9:44 pm - Garima Verma: Ok sir
+09/05/2022, 8:35 pm - Mahima PG: Sir,
+What are the timings for tomorrow's class?
+09/05/2022, 8:39 pm - Ranjan Sir YMCA: Classes will be conducted into robotics lab at 9 am
+09/05/2022, 8:39 pm - Mahima PG: Okay sir
+09/05/2022, 8:46 pm - Lokesh Goswami: Robotics lab in which building sir ?
+09/05/2022, 8:50 pm - Ranjan Sir YMCA: Into machanical branch building
+09/05/2022, 8:50 pm - Lokesh Goswami: Ok sir
+10/05/2022, 9:09 am - Gunjan Verma♥️: Sir lab is locked
+10/05/2022, 4:35 pm - Lokesh Goswami: <Media omitted>
+10/05/2022, 4:36 pm - Dsa Rishu Sir: <Media omitted>
+10/05/2022, 4:36 pm - Bhavesh Sethi: 🤣
+10/05/2022, 4:37 pm - Mahima PG: 😂😂😂
+10/05/2022, 5:11 pm - Garima Verma: Y konsa avtaar hai 🫣😂🤣😅
+10/05/2022, 5:23 pm - Dsa Rishu Sir: Nope
+10/05/2022, 5:24 pm - Dsa Rishu Sir: By the way avatar 2 is coming in December
+10/05/2022, 5:24 pm - Gunjan Verma♥️: Yes
+10/05/2022, 5:24 pm - Gunjan Verma♥️: Avatar 1 to yaad hoga
+10/05/2022, 5:24 pm - Gunjan Verma♥️: 😂
+11/05/2022, 12:33 pm - Dsa Rishu Sir: <Media omitted>
+11/05/2022, 12:34 pm - Dsa Rishu Sir: <Media omitted>
+11/05/2022, 1:41 pm - Mahima PG: <Media omitted>
+11/05/2022, 4:41 pm - Lokesh Goswami: Everyone share your resume with me...I will mail...
+My email id - lucky.goswami55@gmail.com
+11/05/2022, 4:44 pm - Lokesh Goswami: Please share by today evening before 7:00 pm.
+11/05/2022, 4:44 pm - Pradeep Ccsd: Ok
+12/05/2022, 12:21 pm - Gunjan Verma♥️: Class m aajao sab
+12/05/2022, 12:38 pm - Dsa Rishu Sir: <Media omitted>
+12/05/2022, 12:38 pm - Dsa Rishu Sir: <Media omitted>
+12/05/2022, 12:38 pm - Dsa Rishu Sir: <Media omitted>
+13/05/2022, 8:20 am - Lokesh Goswami: Sir,
+Class will start at 10 am ?
+13/05/2022, 8:39 am - Ranjan Sir YMCA: Yes
+13/05/2022, 8:41 am - Gunjan Verma♥️: Okay sir
+13/05/2022, 10:03 am - Ranjan Sir YMCA: Wait into classroom I am reaching within 15 min
+13/05/2022, 12:26 pm - Ranjan Sir YMCA: https://forms.gle/iRUzuZhtif8JHuG57
+13/05/2022, 12:27 pm - Ranjan Sir YMCA: Fill up this form who are doing job or internship so that attendance can be managed otherwise you will be considered as sort attendance student
+13/05/2022, 1:07 pm - Dsa Rishu Sir: I have uploaded notes 
+Please check
+13/05/2022, 1:08 pm - Prateek: ok sir
+13/05/2022, 3:57 pm - Ranjan Sir YMCA: Prepare yourself for telephonic interview .
+It may be scheduled tomorrow.
+13/05/2022, 4:04 pm - Lokesh Goswami: Ok sir
+16/05/2022, 6:41 am - Ranjan Sir YMCA: Students class will be at 10 am today
+16/05/2022, 6:41 am - Gunjan Verma♥️: Okay sir
+16/05/2022, 10:39 am - Dsa Rishu Sir: <Media omitted>
+16/05/2022, 11:48 am - Dsa Rishu Sir: <Media omitted>
+16/05/2022, 12:07 pm - Dsa Rishu Sir: <Media omitted>
+16/05/2022, 11:29 pm - Lokesh Goswami: Venkateshwara Swamy in Thirupathi Thirumala of Andhra Pradesh. This video is shot by National Geograpic channel with the permission of central government. Don't miss the darshana. It's our luck to see this video thanks to National Geograpic channel.
+It's a rare video and has to be shared with all our close friends and families and those who are sick.
+16/05/2022, 11:29 pm - Lokesh Goswami: <Media omitted>
+16/05/2022, 11:30 pm - Pradeep Ccsd: 🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻
+17/05/2022, 6:21 am - Gunjan Verma♥️: 👏🏻🙏🏻
+17/05/2022, 6:28 am - Gaurav Ccsd: Shri Venkateswara brhmam okate 🙏🏻
+17/05/2022, 8:59 am - Dsa Rishu Sir: 🙏🙏🙏🙏
+17/05/2022, 9:33 am - Mahima PG: Bhavesh 
+Lokesh
+Kuldeep
+Garima
+Ujjwal
+Anubhav
+17/05/2022, 9:34 am - Ranjan Sir YMCA: Submit your project name
+17/05/2022, 11:13 am - Dsa Rishu Sir: <Media omitted>
+17/05/2022, 11:18 am - Dsa Rishu Sir: <Media omitted>
+17/05/2022, 11:34 am - Dsa Rishu Sir: <Media omitted>
+17/05/2022, 11:45 am - Garima Verma: <Media omitted>
+17/05/2022, 11:57 am - Dsa Rishu Sir: <Media omitted>
+17/05/2022, 2:15 pm - Mahima PG: Please join Stats Class
+17/05/2022, 2:16 pm - Lokesh Goswami: Sir,
+We have recieved Task from Algo8.Ai.
+17/05/2022, 2:17 pm - Kuldeep Ccsd: +1
+17/05/2022, 2:17 pm - Mahima PG: +1
+17/05/2022, 2:18 pm - Kuldeep Ccsd: Same task has given deadline will be tomorrow 5 pm
+17/05/2022, 2:30 pm - Ranjan Sir YMCA: Ap sabhi milkar prepare karo
+17/05/2022, 5:57 pm - Ranjan Sir YMCA: Any one who did not get mail till now then send your mail id
+19/05/2022, 12:30 pm - Rashid Ali Dsa: <Media omitted>
+19/05/2022, 12:30 pm - Rashid Ali Dsa: <Media omitted>
+20/05/2022, 11:50 am - Mahima PG: Kindly fill the form by submitting your projects latest by 6 PM today
+
+https://forms.gle/hTZTAzMWLdCWzYnT8
+20/05/2022, 11:51 am - Mahima PG: @918851177045 
+@919582206707 
+@918295327762 
+@919306302902 
+@919971319559 
+@918076699414
+21/05/2022, 12:14 am - Garima Verma: <Media omitted>
+21/05/2022, 5:08 pm - Dsa Rishu Sir: <Media omitted>
+21/05/2022, 5:08 pm - Dsa Rishu Sir: <Media omitted>
+22/05/2022, 8:51 am - Dsa Rishu Sir: <Media omitted>
+23/05/2022, 9:10 am - Lokesh Goswami: Sir,
+Can you please conduct online class today. It's difficult to commute.
+23/05/2022, 9:10 am - Asish Sharma Dsa: Yes sir
+23/05/2022, 9:13 am - Rashid Ali Dsa: +1
+23/05/2022, 9:13 am - Gunjan Verma♥️: +1
+23/05/2022, 9:13 am - Ranjan Sir YMCA: Let u know within 15 minutes
+23/05/2022, 9:26 am - Garima Verma: +1
+23/05/2022, 9:45 am - Ranjan Sir YMCA: Classroom me bahut pani lag gya hai so tomorrow will be class
+23/05/2022, 9:49 am - Ranjan Sir YMCA: <Media omitted>
+23/05/2022, 9:49 am - Ranjan Sir YMCA: <Media omitted>
+23/05/2022, 9:49 am - Lokesh Goswami: Ok
+27/05/2022, 9:01 am - Mahima PG: By mistake I had left my ID card in the conference room yesterday.
+If anyone finds it please keep it safe and return me
+Laminated tha to dekhlena ek baari agar🙂
+27/05/2022, 9:01 am - Garima Verma: Okay
+27/05/2022, 9:02 am - Pradeep Ccsd: I also forgot my laptop keypad protection black color jute like ...can say a cloth
+27/05/2022, 9:03 am - Pradeep Ccsd: Please if found keep
+27/05/2022, 9:03 am - Pradeep Ccsd: First priority id card
+29/05/2022, 5:41 am - Dsa Rishu Sir: Activation function 
+Types of sigmoidal function
+And gassian signal function are important for your exam
+29/05/2022, 7:34 am - Gunjan Verma♥️: Okay sir
+29/05/2022, 11:15 pm - Lokesh Goswami: <Media omitted>
+29/05/2022, 11:16 pm - Mahima PG: Faculty Development Program h
+29/05/2022, 11:16 pm - Mahima PG: For Faculty members
+29/05/2022, 11:26 pm - Mahima PG: <Media omitted>
+29/05/2022, 11:29 pm - Pradeep Ccsd: Short m btao m eligible hu ?
+29/05/2022, 11:29 pm - Lokesh Goswami: Yes
+29/05/2022, 11:29 pm - Pradeep Ccsd: Ok
+29/05/2022, 11:34 pm - Mahima PG: Ni bhyiii
+29/05/2022, 11:34 pm - Mahima PG: 😂
+29/05/2022, 11:35 pm - Mahima PG: It's for Ph.D./M.Tech Scholars and
+29/05/2022, 11:35 pm - Mahima PG: Faculty
+03/06/2022, 11:15 pm - Mahima PG: <Media omitted>
+03/06/2022, 11:15 pm - Mahima PG: _"Knowledge has a beginning but no end."_ 
+
+*Greetings everyone!*
+
+University Computer Centre and Digital Affairs Cell in collaboration with Department of Computer Engineering announces  to conduct a 
+Value added course 📖on  
+_*Data management and content creation*_ 📈📊
+during June-July 2022 in online mode.
+
+*Focused Skillset:* 📢
+📊 Excel
+✨ Photoshop
+📄 Latex 
+
+*Exclusive Benifits*🔥
+
+-> Course Content Created by 6 Expert Mentors
+-> Doubt Support during course
+-> Department Recognised Certification on Course Completion
+-> Nominal Course Fees
+-> Open to every program/branch
+
+*Course Fees : 500/- Only*
+
+Hurry Up Register now👇👇
+https://bit.ly/vac-22
+
+Teacher Coordinators  :
+Dr. Neelam Duhan
+Dr. Deepika Punj
+03/06/2022, 11:15 pm - Mahima PG: Interested ones
+03/06/2022, 11:15 pm - Mahima PG: Can take
+12/06/2022, 1:33 pm - Lokesh Goswami: Sir,
+Please conduct expert lectures on PowerBi, pyspark and tensorflow.
+12/06/2022, 1:34 pm - Ranjan Sir YMCA: Sure
+12/06/2022, 1:34 pm - Lokesh Goswami: Please start as soon as possible
+12/06/2022, 1:44 pm - Ranjan Sir YMCA: How many students have joined for paid internship recently?
+12/06/2022, 6:58 pm - Raghav Arora: Sir, I am doing paid internship.
+12/06/2022, 7:05 pm - Gunjan Verma♥️: +1
+12/06/2022, 9:15 pm - Ranjan Sir YMCA: Ok
+13/06/2022, 4:15 pm - Ranjan Sir YMCA: All the students who have *passed* their first sem examination are required to verify the above DMC pdf file for their Name, Father Name and Mother name and fill the Google form as a proof of verification. 
+Note: DMC will not be printed for those students who will not fill the google from.
+https://forms.gle/kvPhf2314K9uQhSz9
+13/06/2022, 4:15 pm - Ranjan Sir YMCA: <Media omitted>
+13/06/2022, 4:20 pm - Garima Verma: <Media omitted>
+13/06/2022, 4:20 pm - Lokesh Goswami: Filled 👍
+13/06/2022, 4:21 pm - Gunjan Verma♥️: <Media omitted>
+13/06/2022, 4:22 pm - Mahima PG: Good evening Sir,
+Other than this,
+When will the result of the students, who were having fine, will be displayed on portal?
+
+We are nearly 7 students.
+
+@917318086509 Sir.
+13/06/2022, 4:30 pm - Ranjan Sir YMCA: Let u know soon
+13/06/2022, 4:49 pm - Mahima PG: Thankyou, Sir.
+13/06/2022, 5:16 pm - Kuldeep Ccsd: <Media omitted>
+13/06/2022, 10:34 pm - Raghav Arora: <Media omitted>
+01/07/2022, 9:12 am - Ranjan Sir YMCA: Where are you all?
+01/07/2022, 9:24 am - Lokesh Goswami: Plz take online class as well
+01/07/2022, 9:24 am - Ranjan Sir YMCA: Let u know for this
+01/07/2022, 9:24 am - Lokesh Goswami: Ok
+04/07/2022, 9:06 am - Ranjan Sir YMCA: Classes will start at 9:30am so students reach college on time.
+04/07/2022, 11:59 am - Dsa Rishu Sir: <Media omitted>
+04/07/2022, 11:59 am - Dsa Rishu Sir: <Media omitted>
+04/07/2022, 11:59 am - Dsa Rishu Sir: <Media omitted>
+05/07/2022, 9:34 am - Ranjan Sir YMCA: Students where are you? Waiting into class.
+05/07/2022, 9:37 am - Lokesh Goswami: Please take online class as well.
+05/07/2022, 10:58 am - Ranjan Sir YMCA: Anubhav 
+Bhavesh
+Gopal
+Rashid Ali
+05/07/2022, 10:58 am - Ranjan Sir YMCA: Fill up google form
+05/07/2022, 10:58 am - Ranjan Sir YMCA: And immediately send your passport size photo
+05/07/2022, 10:59 am - Bhavesh Sethi: Which form??
+05/07/2022, 11:00 am - Ranjan Sir YMCA: https://forms.gle/PYm5c34qZYuEhQsr5
+05/07/2022, 11:00 am - Bhavesh Sethi: <Media omitted>
+05/07/2022, 11:01 am - Ranjan Sir YMCA: Ok
+05/07/2022, 11:02 am - Gopal: <Media omitted>
+05/07/2022, 11:05 am - Ranjan Sir YMCA: Send passport size images
+05/07/2022, 11:06 am - Ranjan Sir YMCA: ☝️
+05/07/2022, 11:08 am - Gopal: Done sir
+05/07/2022, 11:08 am - Bhavesh Sethi: Done sir
+05/07/2022, 11:09 am - Ranjan Sir YMCA: Ok
+05/07/2022, 11:09 am - Ranjan Sir YMCA: Rashid and anubhav?
+05/07/2022, 11:18 am - Rashid Ali Dsa: Already submitted
+08/07/2022, 7:50 am - Ranjan Sir YMCA: Today class will be started from 10 am
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:05 pm - Dsa Rishu Sir: <Media omitted>
+08/07/2022, 7:41 pm - Raghav Arora: Thankyou sir
+08/07/2022, 11:52 pm - Kanika Dsa left
+11/07/2022, 9:55 am - Ranjan Sir YMCA: <Media omitted>
+12/07/2022, 12:07 pm - Gaurav Ccsd: <Media omitted>
+12/07/2022, 12:07 pm - Gaurav Ccsd: <Media omitted>
+12/07/2022, 12:07 pm - Gaurav Ccsd: <Media omitted>
+12/07/2022, 12:07 pm - Gaurav Ccsd: <Media omitted>
+12/07/2022, 12:07 pm - Gaurav Ccsd: <Media omitted>
+12/07/2022, 12:07 pm - Gaurav Ccsd: <Media omitted>
+12/07/2022, 12:07 pm - Gaurav Ccsd: <Media omitted>
+13/07/2022, 12:19 pm - Dsa Rishu Sir: <Media omitted>
+13/07/2022, 12:19 pm - Dsa Rishu Sir: <Media omitted>
+13/07/2022, 12:19 pm - Dsa Rishu Sir: <Media omitted>
+13/07/2022, 12:19 pm - Dsa Rishu Sir: <Media omitted>
+13/07/2022, 12:19 pm - Dsa Rishu Sir: <Media omitted>
+13/07/2022, 12:19 pm - Dsa Rishu Sir: <Media omitted>
+13/07/2022, 12:19 pm - Dsa Rishu Sir: Code
+13/07/2022, 12:23 pm - Dsa Rishu Sir: <Media omitted>
+13/07/2022, 12:23 pm - Dsa Rishu Sir: <Media omitted>
+13/07/2022, 12:23 pm - Dsa Rishu Sir: <Media omitted>
+13/07/2022, 12:23 pm - Dsa Rishu Sir: <Media omitted>
+13/07/2022, 12:23 pm - Dsa Rishu Sir: <Media omitted>
+13/07/2022, 12:23 pm - Dsa Rishu Sir: <Media omitted>
+13/07/2022, 4:33 pm - Ranjan Sir YMCA: https://drive.google.com/file/d/1oWxjmqKCkeh3F8SN3jgvGnHhWzmlGwGK/view?usp=sharing
+13/07/2022, 4:33 pm - Ranjan Sir YMCA: https://forms.gle/V9doRkB8T1V5RRTY7
+13/07/2022, 4:34 pm - Ranjan Sir YMCA: Students check your I'd card and fill up Google form to very I'd card
+13/07/2022, 4:35 pm - Ranjan Sir YMCA: By today
+13/07/2022, 4:41 pm - Gunjan Verma♥️: <Media omitted>
+13/07/2022, 4:53 pm - Lokesh Goswami: My date of birth is incorrect
+13/07/2022, 4:53 pm - Lokesh Goswami: Date and months are interchanged
+13/07/2022, 4:54 pm - Ranjan Sir YMCA: Contact to neha mam
+13/07/2022, 4:54 pm - Lokesh Goswami: Plz share her contact no.
+13/07/2022, 4:54 pm - Prateek: same here
+13/07/2022, 4:55 pm - Prateek: and my  Spelling  mistake on my father's  name
+13/07/2022, 4:55 pm - Ranjan Sir YMCA: That's students who get mistake then send proper detail
+13/07/2022, 4:55 pm - Gunjan Verma♥️: Same
+13/07/2022, 4:55 pm - Gunjan Verma♥️: +1
+13/07/2022, 4:56 pm - Gunjan Verma♥️: Where?
+13/07/2022, 4:56 pm - Lokesh Goswami: My correct d.o.b is- 5 August 1996
+13/07/2022, 4:57 pm - Gunjan Verma♥️: My D.O.B. is 9-Jan-2000
+13/07/2022, 4:57 pm - Garima Verma: +1
+13/07/2022, 4:59 pm - Garima Verma: +1
+13/07/2022, 5:01 pm - Gaurav Ccsd: Sir , Youganter ki spelling me error h
+13/07/2022, 5:17 pm - 👑ujjwal👑: ~06/10/1996~  *→*  *10/06/1996*
+13/07/2022, 5:18 pm - 👑ujjwal👑: DOB.
+13/07/2022, 6:12 pm - Kuldeep Ccsd: <Media omitted>
+13/07/2022, 6:21 pm - Gopal: Sir i didn't find my id there
+13/07/2022, 6:56 pm - Ranjan Sir YMCA: Mention proper detail for correction into this group
+13/07/2022, 7:02 pm - Gopal: ID card doesn't exist
+Gopal Singh
+Roll no. 21021271006
+13/07/2022, 7:04 pm - Prateek: Data of birth - 04/02/1999
+
+Father's  Name - Dhananjaya Magdum
+13/07/2022, 7:09 pm - Garima Verma: Garima, 09-01-2001 is my actual d.o.b. 
+Please correct this
+13/07/2022, 7:10 pm - Gunjan Verma♥️: Gunjan 
+D.O.B is 9-Jan-2000
+Please do this correction in my id card
+13/07/2022, 7:16 pm - 👑ujjwal👑: Ujjwal
+D.O.B → *10/06/1996*
+14/07/2022, 9:57 am - Ranjan Sir YMCA: This is to inform to all the students that bus pass for boys will be issued from the student window in the ground floor of community college. *Last date to fill the same is 15 July 2022*
+14/07/2022, 10:10 am - Prateek: <Media omitted>
+14/07/2022, 10:10 am - Prateek: <Media omitted>
+14/07/2022, 10:10 am - Prateek: <Media omitted>
+14/07/2022, 10:10 am - Prateek: <Media omitted>
+14/07/2022, 10:10 am - Prateek: <Media omitted>
+14/07/2022, 10:10 am - Prateek: <Media omitted>
+14/07/2022, 10:10 am - Prateek: <Media omitted>
+14/07/2022, 10:10 am - Prateek: <Media omitted>
+14/07/2022, 10:10 am - Prateek: <Media omitted>
+15/07/2022, 9:26 am - Ranjan Sir YMCA: Class will be conducted at 10 am today
+15/07/2022, 3:30 pm - Ranjan Sir YMCA: https://www.benchire.com/jobs/
+15/07/2022, 3:31 pm - Ranjan Sir YMCA: check this website and apply for relevant post
+15/07/2022, 4:01 pm - Ranjan Sir YMCA: https://www.instahyre.com/jobs-at-krazybee/
+17/07/2022, 2:45 pm - Dsa Rishu Sir: <Media omitted>
+18/07/2022, 9:36 am - Ranjan Sir YMCA: Students send resumes into this group so that I can forward to company.
+18/07/2022, 11:13 am - Bhavesh Sethi: <Media omitted>
+18/07/2022, 11:29 am - Kuldeep Ccsd: <Media omitted>
+18/07/2022, 12:04 pm - +91 92050 69867: This message was deleted
+18/07/2022, 12:04 pm - Gaurav Ccsd: <Media omitted>
+18/07/2022, 12:04 pm - +91 92050 69867: <Media omitted>
+18/07/2022, 1:04 pm - Pradeep Ccsd: <Media omitted>
+18/07/2022, 1:05 pm - Mansi Bhardwaj: <Media omitted>
+18/07/2022, 5:41 pm - Dsa Rishu Sir: <Media omitted>
+18/07/2022, 5:41 pm - Dsa Rishu Sir: <Media omitted>
+18/07/2022, 5:43 pm - Dsa Rishu Sir: @918447037292 see whether it works or not for feature extraction
+18/07/2022, 5:44 pm - Prateek: ok  sir
+18/07/2022, 5:44 pm - Prateek: thank you sir
+20/07/2022, 3:57 pm - Dsa Rishu Sir: <Media omitted>
+20/07/2022, 3:58 pm - Dsa Rishu Sir: <Media omitted>
+20/07/2022, 3:58 pm - Dsa Rishu Sir: Important for final exam
+20/07/2022, 3:58 pm - Prateek: thank you sir
+20/07/2022, 5:39 pm - Kuldeep Ccsd: Thanks 👍 sir
+20/07/2022, 5:40 pm - Dsa Rishu Sir: Aur v aane wala hai
+20/07/2022, 5:42 pm - Kuldeep Ccsd: 😂 I am 🤹‍♂️catching
+20/07/2022, 5:42 pm - Dsa Rishu Sir: 😂👍
+20/07/2022, 5:43 pm - Lokesh Goswami: Juggling 😂
+20/07/2022, 5:44 pm - Dsa Rishu Sir: Ankhe Kharab to nyi hui,
+Juggling😂
+20/07/2022, 5:45 pm - Kuldeep Ccsd: 🤣🤣🤣😀😆😂
+20/07/2022, 5:48 pm - Lokesh Goswami: ⛹🏻‍♂️⛹🏻‍♂️⛹🏻‍♂️
+20/07/2022, 5:51 pm - Dsa Rishu Sir: Exam ke baad khelte hai basketball
+20/07/2022, 5:51 pm - Lokesh Goswami: 🏏
+20/07/2022, 5:51 pm - Lokesh Goswami: Cricket
+20/07/2022, 5:51 pm - Dsa Rishu Sir: Ye v chalega
+21/07/2022, 1:59 pm - Dsa Rishu Sir: Final exam would start from  8 Aug start studying
+21/07/2022, 3:50 pm - Dsa Rishu Sir: <Media omitted>
+21/07/2022, 3:50 pm - Dsa Rishu Sir: <Media omitted>
+21/07/2022, 3:50 pm - Dsa Rishu Sir: Practice for sessional exam
+21/07/2022, 3:55 pm - Gunjan Verma♥️: Thank you sir
+22/07/2022, 2:47 pm - Dsa Rishu Sir: <Media omitted>
+24/07/2022, 10:55 am - Ranjan Sir YMCA: Unit-1
+ML Fundamentals:
+ML Modelling Flow, Parametric and Non-Parametric ML, Algorithm, Types of ML, Performance Measures, Bias-Variance Trade-Off, Overfitting and Underfitting, Optimization
+Unit-2
+Linear Regression:
+Linear Regression with OLS, Linear Regression with SGD, Evaluating Model Parameters , L1 and L2 Regularization, Mesuring Performance Metrics
+Unit-3:
+Logistic Regression:
+Logistic Regression MLE , Logistic Regression with SGD , Evaluating Model Performance, Measuring Performance Metrics: Precision, Recall, AUC ROC, etc
+Unit-4
+Decision Trees:
+Intro to Decision Tree ,| Entropy and Information Gain , Standard Deviation Reduction, Gini Index , CART , Performance Metrics
+Unit-5
+Random Forests:
+Bootstrap Sampling , Bagging (Bootstrap Aggregation) , Intro to Random Forest , Why Random Forest ,Performance Metrics
+Unit-6
+Model Selection Technique:
+Cross Validation , Types of Cross Validation , Hold-out , K-fold , Grid and random search for Parameter tuning.
+Unit-7
+Support Vector Machines (SVM):
+Understanding Vectors, Decision Boundary , Support Vectors , Understanding Hyperplane , What is Support Vector Machine , Working of SVM , Kernels and Types of Kernels ,Strengths and Challenges of SVM
+
+Unit-9
+Principal Component Analysis:
+Intro to Dimensionality Reduction, Computing Components in PCA, Dimensionality Reduction using PCA
+24/07/2022, 10:56 am - Ranjan Sir YMCA: Ml syllabus for 2and sessional
+24/07/2022, 10:58 am - Ranjan Sir YMCA: UNIT-1
+Text Analysis: Understanding nlp , install nltk , tokenize words , tokenizing sentences , stop word customization , stemming and lemmatization , Feature Extraction , Sentiment Analysis , Count Vectorizer, Tfidf Vectorizer.
+UNIT-2
+Image Processing: Install opencv module, Reading images , Understanding gray scaleimage , Resizing image , Understanding haar classifiers , Face and eyes Detection , Building image dataset , capturing video, Face classification in video.
+UNIT-3
+Recommendation System:
+Content based technique, Collaborative filtering technique, Evaluating similarity based on correlation Classification-based recommendations.
+24/07/2022, 10:58 am - Ranjan Sir YMCA: Fds 2and sessional syllabus
+24/07/2022, 11:12 am - Gunjan Verma♥️: Thank you sir
+27/07/2022, 9:23 am - Dsa Rishu Sir: This message was deleted
+27/07/2022, 9:23 am - Dsa Rishu Sir: This message was deleted
+27/07/2022, 9:23 am - Dsa Rishu Sir: Practice for final
+27/07/2022, 9:24 am - Manu Attri: Thankyou sir
+27/07/2022, 9:24 am - Manu Attri: 😊
+27/07/2022, 2:00 pm - Mahima PG: @917318086509 Sir,
+Is there any update on the application for sessionals??
+27/07/2022, 2:00 pm - Ranjan Sir YMCA: Let you know tomorrow
+27/07/2022, 2:01 pm - Mahima PG: Okay 👍🏻
+27/07/2022, 2:01 pm - Lokesh Goswami: Plz conduct practicals in online mode also
+27/07/2022, 2:01 pm - Ranjan Sir YMCA: But ap pahle se alert raho ki change hone ki probability kam hai .
+27/07/2022, 2:02 pm - Ranjan Sir YMCA: Not possible
+27/07/2022, 2:03 pm - Ranjan Sir YMCA: All students must present into sessional , practical or final exam otherwise your session will be extended.
+27/07/2022, 2:03 pm - Mahima PG: Sir
+Sessionals to manageable ho skte hai
+Hum kitti holidays apply kare?
+And it will become difficult to apply.
+Most of us are in a training/probation period.
+27/07/2022, 2:03 pm - Lokesh Goswami: Taking so many leaves are not allowed...so if possible plz conduct sessionals plus practicals in online mode
+27/07/2022, 2:04 pm - Ranjan Sir YMCA: Mai apne end se try kar raha hu.
+27/07/2022, 2:04 pm - Manu Attri: Sir itni saari leaves ki vjh se job/internship or chli jayegi jo log probation period mein hai
+27/07/2022, 2:04 pm - Ranjan Sir YMCA: I can understand
+27/07/2022, 2:04 pm - Mahima PG: We were also informed that these things will be taken care of.
+Sir jbhi sbne job k lie apply kardia tha and focus vahi kia tha.
+27/07/2022, 2:05 pm - Ranjan Sir YMCA: But mere according college nahi chalta hai
+27/07/2022, 2:06 pm - Lokesh Goswami: Can we talk to principal with this issue ?
+27/07/2022, 2:07 pm - Lokesh Goswami: Its 27 today...plz let us know by EOD.
+27/07/2022, 2:14 pm - Mahima PG: A little stressed that taking so many leaves can hamper the quality of doing work.
+Pata chale job hi chale jaye😂
+27/07/2022, 2:16 pm - Kuldeep Ccsd: Ab to office bhi khulne start ho gye
+27/07/2022, 2:17 pm - Lokesh Goswami: Start ni hue bro....already khule pde h
+27/07/2022, 2:17 pm - Kuldeep Ccsd: Right
+27/07/2022, 2:20 pm - Kuldeep Ccsd: Please conduct sessional and exam in online mode
+27/07/2022, 8:29 pm - Ranjan Sir YMCA: Reminder: 
+All students have to verify project hardcopy of project report  till 30 th july otherwise only  you will be responsible for this.
+27/07/2022, 8:40 pm - Lokesh Goswami: Can you share project names list ?
+27/07/2022, 8:43 pm - Gaurav Ccsd: Please share list of python projects .
+27/07/2022, 8:44 pm - Gunjan Verma♥️: Sir agr apne approve nhi kiye to ap phle approve to kro
+27/07/2022, 8:44 pm - Mahima PG: Sir,
+Soft copy kab approve karenge aap?
+27/07/2022, 8:44 pm - Gunjan Verma♥️: Or this is very less time to submit hard copy
+27/07/2022, 8:44 pm - Mahima PG: Exactly
+27/07/2022, 8:44 pm - Lokesh Goswami: Phle project names clear kro sir
+27/07/2022, 8:45 pm - Lokesh Goswami: I think I changed my project...I want to see ki wo updated hai ya nahi...otherwise I will submit different one
+27/07/2022, 8:45 pm - Gunjan Verma♥️: Sessional practical 3 projects then final all are in one month this is not a good system....
+27/07/2022, 8:46 pm - Gunjan Verma♥️: Sir 3 saal m ek project dete hn 3 bnde or yha 1 saal ke diploma m ap 3 projects lere ho vo bhi itna kam time
+27/07/2022, 8:49 pm - Ranjan Sir YMCA left
+27/07/2022, 8:50 pm - Mahima PG: This message was deleted
+27/07/2022, 8:51 pm - Mahima PG: This message was deleted
+27/07/2022, 8:52 pm - Mahima PG added Ranjan Sir YMCA
+27/07/2022, 8:53 pm - Mahima PG: This message was deleted
+27/07/2022, 8:55 pm - Mahima PG: Sir,
+Kindly approve the soft copy first so that we can give it for printing.
+We can mail you the soft copy by 30th July so that you can view it and tell us if there are any changes required.
+
+For printing we would need a proper logo of the university, the design gets printed after that only, because if there changes we would not be able to print them multiple times.
+
+Printing also requires a day and costs 250 per file.
+
+Indentation, formatting, report, logo, abstract, images if any need to be checked first.
+
+Kindly give us a good solution because you are also not giving us time to focus on anything.
+
+
+You have said that there is no need to worry, you will manage everything.
+
+Kindly provide a good solution for everything
+
+
+Regards,
+Students of PGDDSA
+27/07/2022, 9:01 pm - Gopal: Exactly same sir
+27/07/2022, 9:01 pm - Gunjan Verma♥️: +1
+27/07/2022, 9:03 pm - Ranjan Sir YMCA: All students can send me soft copy of projects so that I can verify.
+
+Students apse request hai ap Hume suggestion dene ke banaye ap project ready kare ye apke liye bahar hoga.
+
+Or ap logo ko mai sort time nahi diya project prepare karne ke liye.but ap sabhi ne mere bat ko nahi mana or last time me ap sabhi hungama kar rahe. 
+
+Kisi ko exam online chahiye kisi ko 3 project submit nahi karna. 
+
+Or sirf ghar se baithkar msg karna hai. 
+
+Ap aisa kijiye department akar examination controller se bat kar lijiye
+27/07/2022, 9:05 pm - Ranjan Sir YMCA: Examination controller agar apko ghar pe exam dene ko ready hai to Hume koi problem nahi hai
+27/07/2022, 9:05 pm - Muskaan: Sir almost hum sab k pass ab jobs and internships hain...
+Jo ki humne khud se dhundhi h....
+Unko compromise nhi kr skte h...
+Isliye hum apse thoda support ki request kr rhe h
+27/07/2022, 9:05 pm - Muskaan: Humari jobs jaengi toh
+27/07/2022, 9:05 pm - Muskaan: Hum kya krenge
+27/07/2022, 9:05 pm - Muskaan: Aap humesha kehte ho... I am trying my best... Yet nothing works out
+27/07/2022, 9:06 pm - Ranjan Sir YMCA: Already support always but jo possible hoga wahi kar payenge
+27/07/2022, 9:07 pm - Muskaan: Toh projects banane me time lgta h... Pehle apne 2 minor aur 1 major kaha tha... 
+Suddenly apne change krke 2 major aur minor kr diya h.
+27/07/2022, 9:07 pm - Muskaan: Aur sessional, practical, finals sab ek hi month me h
+27/07/2022, 9:07 pm - Gunjan Verma♥️: This is not a way sir
+27/07/2022, 9:07 pm - Gunjan Verma♥️: This is not called support or management
+27/07/2022, 9:07 pm - Muskaan: Agr aap yeh chiz examination controller se discuss krte toh shyad sari chize sort ho jati
+27/07/2022, 9:08 pm - Gunjan Verma♥️: We want some support and liability
+27/07/2022, 9:08 pm - Garima Verma: Our training and internships are going on.... 
+
+How could we manage all the tasks together..... 
+
+Allot some more time for the project....
+27/07/2022, 9:08 pm - Gunjan Verma♥️: Graduation m hme ek hi project pe ache se time or support mila tha
+27/07/2022, 9:08 pm - Muskaan: And starting me kaha gya tha... Ki placements hongi... Jobs milenge....
+Kuch bhi nhi hua... Session khtm ho gya h...
+Ab hum khud kr rhe h toh usme bhi aap keh rhe h ki hum hungama kr rhe h
+27/07/2022, 9:08 pm - Gunjan Verma♥️: Or ek project pe kaam shi hota h or team bhi honi chiye
+27/07/2022, 9:11 pm - Ranjan Sir YMCA: Apsabhi ka kya demand hai wo write kijiye mai principal sir se bat karta hu
+27/07/2022, 9:12 pm - Muskaan: Sir humko de chuke h... Application...
+27/07/2022, 9:12 pm - Muskaan: Aap har baar application likhwa lete h...
+27/07/2022, 9:12 pm - Muskaan: Uska kuch hota nhi h aage
+27/07/2022, 9:13 pm - Muskaan: Sir we'll write it again. We don't have any issue in that.
+But please take action on that.
+27/07/2022, 9:22 pm - Gaurav Ccsd: Principal sir along with VC sir taken initiative for signing MoU with hero motorcorp for B.Voc students but nothing worried about P.G Diploma Data Science students why???
+28/07/2022, 10:31 am - Ranjan Sir YMCA: This message was deleted
+28/07/2022, 10:33 am - Ranjan Sir YMCA: Ccsd is going to conduct online exam of 2nd sessional exam of second semester of pg diploma data science on same date and same time as mentioned into sessional exam  datesheet.
+28/07/2022, 10:36 am - Mahima PG: Thankyou soo much Sir
+28/07/2022, 10:36 am - Mahima PG: Thanks for all your efforts and support
+28/07/2022, 10:36 am - Mahima PG: 🥺
+28/07/2022, 10:36 am - Manu Attri: Thankyou so much sir
+28/07/2022, 10:37 am - Lokesh Goswami: thanks sir
+28/07/2022, 10:38 am - Garima Verma: +1
+29/07/2022, 10:29 am - Gopal: Sir is it okay to give a soft copy till Monday on email and hard copy on practicals
+29/07/2022, 10:31 am - Mansi Bhardwaj: Sir,
+What has been decided for projects??
+
+We will give soft copies of 3 projects by *MONDAY MORNING*.
+We have weekdays working.
+So this is our last request. After that we won't be irritating you.
+
+We'll give you soft copies by Monday Morning and HARD COPIES on practicals.
+
+Regard
+Students PGDDSA
+29/07/2022, 10:31 am - Ranjan Sir YMCA: ok
+29/07/2022, 10:31 am - Mahima PG: Thankyou sir 😊
+29/07/2022, 10:37 am - Gaurav Ccsd: Sir, please mention email id project verification.
+29/07/2022, 10:38 am - Ranjan Sir YMCA: ranjan@jcboseust.ac.in
+29/07/2022, 10:39 am - Gaurav Ccsd: Sir , my ML project report is ready . I have to send python notebook along with report sir?
+29/07/2022, 10:40 am - Ranjan Sir YMCA: students send me project reports , not only code
+29/07/2022, 10:40 am - Gaurav Ccsd: Ok
+29/07/2022, 11:45 am - Ranjan Sir YMCA: Tomorrow PowerBI expert lecture will be conducted at 11:00 am into offline mode.
+
+All students must attain expert lecture.
+30/07/2022, 8:39 am - Ranjan Sir YMCA: Powerbi expert lecture will be conducted today at 11am so all students must attain class
+30/07/2022, 8:40 am - Ranjan Sir YMCA: Class will be into offline mode
+30/07/2022, 8:44 am - Gaurav Ccsd: Sir , it's raining outside almost not possible to reach college . So , please conduct today session in online mode only for today.
+30/07/2022, 8:46 am - Ranjan Sir YMCA: Bahane mat banao aa jao tulogo ke liye hi offline conduct karaya hai
+30/07/2022, 8:46 am - Ranjan Sir YMCA: Jo student job kar rahe aj unka off hoga to sabhi ko present rahna hai
+30/07/2022, 8:47 am - Gaurav Ccsd: Baarish me laptop kharab ho skta h .
+30/07/2022, 8:47 am - Ranjan Sir YMCA: Mai bhi duty ke liye ghar se bahar nikal hu
+30/07/2022, 8:47 am - Ranjan Sir YMCA: Laptop mat lao

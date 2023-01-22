@@ -1,0 +1,327 @@
+11/01/2022, 13:56 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+11/01/2022, 13:56 - Khushboo Xie created group "Miniprojects Sem 6"
+11/01/2022, 13:56 - Khushboo Xie added you
+11/01/2022, 13:57 - Sonam: Usi ko rename kar dete
+11/01/2022, 13:57 - Sonam: Naya kya banayi
+11/01/2022, 13:57 - Khushboo Xie: Usme bhot kuch tha re chats n all
+11/01/2022, 13:57 - Khushboo Xie: Toh kar di delete
+11/01/2022, 13:57 - Sonam: Achha thik hai
+11/01/2022, 13:58 - Sonam: Ab iska kya karna hai star or snowflake ka
+11/01/2022, 13:58 - Khushboo Xie: Diagram h na wo er jaise
+11/01/2022, 13:58 - Sonam: Ha wahi
+11/01/2022, 13:58 - Khushboo Xie: Mai whi dekh rhi hu ki exact kya kya mention krna h usme
+11/01/2022, 13:59 - Sonam: https://www.guru99.com/star-snowflake-data-warehousing.html
+11/01/2022, 13:59 - Sonam: Aisa
+11/01/2022, 13:59 - Khushboo Xie: Haa
+11/01/2022, 14:00 - Khushboo Xie: Sun na
+11/01/2022, 14:00 - Khushboo Xie: Evening ko ek meet krte h..?
+11/01/2022, 14:00 - Sonam: *Group:1*
+
+*Members:*
+1.Sonam Gupta
+2.Khushboo Chaudhari
+3.Lekha Ladhe
+
+*Topics:*
+1.Employee-manager (time sheet portal)system
+
+2.Inventory management system (bakery management)
+11/01/2022, 14:00 - Khushboo Xie: ML ka bhi topics dhund lete h
+11/01/2022, 14:00 - Sonam: Ha yar
+11/01/2022, 14:00 - Sonam: Bahot kuch karna hai
+11/01/2022, 14:00 - Khushboo Xie: Pagal log h 3 3 kya miniproject
+11/01/2022, 14:01 - Sonam: Ek Sensor lab ka
+11/01/2022, 14:01 - Sonam: Ek BI lab ka
+11/01/2022, 14:01 - Sonam: Ek official
+11/01/2022, 14:01 - Khushboo Xie: Wo muzebhi smjha nhi h...
+11/01/2022, 14:01 - Sonam: Mai to thi hi nai lecture me
+11/01/2022, 14:01 - Sonam: Suvarna mam hai na sensor lab ki
+11/01/2022, 14:01 - Khushboo Xie: Haa
+11/01/2022, 14:02 - Sonam: Prathamesh ko pata hoga
+11/01/2022, 14:02 - Sonam: Usko puch
+11/01/2022, 14:03 - Khushboo Xie: Ha
+11/01/2022, 14:07 - Khushboo Xie: <Media omitted>
+11/01/2022, 14:07 - Sonam: Ha ye mini project hai
+11/01/2022, 14:08 - Sonam: Or abhi jo ye liya ye 1st experiment hai na
+11/01/2022, 14:08 - Khushboo Xie: Haa
+11/01/2022, 14:22 - Khushboo Xie: Suno
+11/01/2022, 14:22 - Khushboo Xie: Sensor ka na sensor device use krke kuch banana hai...
+11/01/2022, 14:23 - Sonam: Real project
+11/01/2022, 14:23 - Sonam: Aise coding nai karna hai kya
+11/01/2022, 14:33 - Khushboo Xie: krna padta h na sensor device conection me bhi
+11/01/2022, 14:33 - Khushboo Xie: coding with demonstration
+11/01/2022, 14:34 - Sonam: Achha waise
+11/01/2022, 14:34 - Khushboo Xie: Problem statement krna tha😂😂
+11/01/2022, 14:34 - Sonam: Mujhe to nai pata
+11/01/2022, 14:34 - Khushboo Xie: Abhi pta chala
+11/01/2022, 14:35 - Sonam: Phele samjhna to padega
+11/01/2022, 14:35 - Sonam: Ki karna kya hai
+11/01/2022, 14:35 - Khushboo Xie: Whi na
+11/01/2022, 14:42 - Khushboo Xie: https://circuitdigest.com/microcontroller-proejcts/iot-based-air-quality-index-monitoring-system-measure-pm25-pm10-co-using-esp32
+11/01/2022, 14:43 - Khushboo Xie: Mera ek fd ye kr rha h
+11/01/2022, 14:45 - Sonam: Abhi search karna padega
+11/01/2022, 14:45 - Sonam: Topic sham ko meet karte hai
+11/01/2022, 14:45 - Khushboo Xie: Haa
+11/01/2022, 14:45 - Khushboo Xie: Suno na
+11/01/2022, 14:46 - Khushboo Xie: Ye problem statement apne purane nhi chalenge kya
+11/01/2022, 14:46 - Khushboo Xie: Alag kya krna hai usme
+11/01/2022, 14:46 - Sonam: Kiska problem statement
+11/01/2022, 14:46 - Sonam: Aj wale experiment ka
+11/01/2022, 14:47 - Khushboo Xie: Haa
+11/01/2022, 14:47 - Khushboo Xie: Ma'am ne whi bola h na abhi krne k liye
+11/01/2022, 14:47 - Sonam: Ha wahi making star and snowflake schema for _______
+11/01/2022, 14:48 - Khushboo Xie: Toh tu bata degi abhi
+11/01/2022, 14:49 - Khushboo Xie: Mera gala kharab h🥴😂
+11/01/2022, 14:49 - Sonam: Kya yar
+11/01/2022, 14:49 - Sonam: Maine to kuch bhi nai kiya abhi gk
+11/01/2022, 14:49 - Sonam: Tk
+11/01/2022, 14:49 - Khushboo Xie: Maine bhi
+11/01/2022, 14:49 - Khushboo Xie: Koi bhi nhi kr rha hoga abhi
+11/01/2022, 14:49 - Sonam: Pehle wale problem statement
+11/01/2022, 14:49 - Sonam: Copy paste kar diya to
+11/01/2022, 14:49 - Sonam: Nai chalega kya
+11/01/2022, 14:49 - Khushboo Xie: Muze kitne logo ka msg aaya ki kya krna h
+11/01/2022, 14:50 - Khushboo Xie: Whi toh bola maine
+11/01/2022, 14:50 - Sonam: 😂
+11/01/2022, 14:50 - Sonam: Chalega shayd or last ek line add kar dene ka star and snowflake ka
+11/01/2022, 14:50 - Khushboo Xie: Ha
+11/01/2022, 14:50 - Khushboo Xie: Chhod
+11/01/2022, 14:50 - Khushboo Xie: Kremge
+11/01/2022, 14:52 - Sonam: Sham ko kitne baje meet karna hai
+11/01/2022, 14:55 - Khushboo Xie: 7..?
+11/01/2022, 14:56 - Sonam: Ha chalega
+11/01/2022, 18:22 - Sonam: Meeting hai na abhi 7 ko?
+11/01/2022, 18:38 - Khushboo Xie: Ha
+11/01/2022, 18:38 - Khushboo Xie: Abhi free ho dono
+11/01/2022, 18:39 - Khushboo Xie: Bhejdu link
+11/01/2022, 18:43 - Sonam: Ha mujhe chalega
+11/01/2022, 18:44 - Lekha Xie: ha chalega
+11/01/2022, 18:51 - Khushboo Xie: Ek min ha.
+11/01/2022, 18:51 - Khushboo Xie: Wifi band hua h😂
+11/01/2022, 18:51 - Sonam: Ha
+11/01/2022, 18:53 - Lekha Xie: let there be world crises .. this problem is permanent 😂
+11/01/2022, 18:53 - Sonam: 😂😂😂
+11/01/2022, 18:54 - Khushboo Xie: he mjaa ghe lekha tu
+11/01/2022, 18:54 - Khushboo Xie: meet.google.com/kgd-axxk-opc
+13/01/2022, 11:55 - Lekha Xie: BI miniproject
+13/01/2022, 11:56 - Lekha Xie: Group 1 Topic: Google Play Store Apps Rows:10841 Colums:13  Khushboo Chuadhari: 201903008 Sonam Gupta (14) Lekha Ladhe(21)
+13/01/2022, 12:00 - Khushboo Xie: Topic humne select Kiya h..?
+13/01/2022, 12:01 - Sonam: Ha
+13/01/2022, 12:01 - Lekha Xie: lec mai decide karna tha
+13/01/2022, 12:03 - Khushboo Xie: Sry me thoda hospital gyi thi toh nhi thi lec me
+13/01/2022, 14:27 - Lekha Xie: Dataset taken for this miniproject is googleplaystore.csv which includes the data of about 10k+ apps of google play store with the information of each app having App name,Category,Rating,Reviews,Size,Installs,Type,Price,Content Rating,Genres,Last Updated,Current Version ,Android Version.
+By using this dataset we can find information regarding this apps and based on thier category which category is most rated by people and used by them, their reviews and how many people have installed apps and got benefited by using those apps and which other apps are underrated. Improvement required for apps which are underrated and many other things. Also sum values are unknown because the information was not available distinctly.
+13/01/2022, 14:32 - Sonam: Yahi denge na mam ko abhi
+13/01/2022, 14:33 - Lekha Xie: dikhayenge bolenege maam yeh sahi hai kya !!
+13/01/2022, 17:22 - Sonam: <Media omitted>
+13/01/2022, 17:22 - Sonam: <Media omitted>
+13/01/2022, 17:22 - Sonam: Dekh khushboo ye sahi hai kya
+13/01/2022, 17:31 - Khushboo Xie: Ha right h re
+13/01/2022, 17:34 - Sonam: Thik hai fir
+13/01/2022, 17:34 - Sonam: Tu timesheet portal ka aise bana le
+13/01/2022, 17:34 - Sonam: Fir lekha word me bana degi
+13/01/2022, 17:47 - Khushboo Xie: Haan..bnati hu me aaj
+14/01/2022, 18:06 - Sonam: Monday ko mini project ka presentation dena bai
+14/01/2022, 18:06 - Sonam: Topic select karke
+14/01/2022, 18:09 - Khushboo Xie: Hey raam
+14/01/2022, 18:09 - Khushboo Xie: Presentation me kya exactly
+14/01/2022, 18:09 - Sonam: Topic select karke
+14/01/2022, 18:09 - Sonam: Batana hai ki kya karenge fir wo
+14/01/2022, 18:10 - Sonam: Select hona hoga to hoga nai to nai
+14/01/2022, 18:37 - Khushboo Xie: Accha
+15/01/2022, 14:27 - Khushboo Xie: <Media omitted>
+15/01/2022, 14:27 - Khushboo Xie: <Media omitted>
+15/01/2022, 14:28 - Khushboo Xie: @919921780268 he diagrammatic  bnvaychay...
+15/01/2022, 14:28 - Khushboo Xie: Start karnyaadhi call kr..thoda sangaychay tula...
+15/01/2022, 16:57 - Sonam: https://youtube.com/playlist?list=PLKnIA16_RmvY5eP91BGPa0vXUYmIdtfPQ
+15/01/2022, 16:57 - Sonam: Is playlist me se koi project dekho na
+15/01/2022, 16:57 - Sonam: Shayd apne kaam aa jaye
+15/01/2022, 17:17 - Khushboo Xie: Covid ka dekh rhi hu me isme se
+15/01/2022, 17:18 - Sonam: WhatsApp chat analyzer bhi hai usme wo dekh ek bar
+15/01/2022, 17:19 - Khushboo Xie: Ye nhi janede.. intresting nhi h
+15/01/2022, 19:06 - Khushboo Xie: https://www.slideshare.net/DipeshPatel30/whatsapp-analytics-149022329
+15/01/2022, 20:34 - Lekha Xie: <Media omitted>
+15/01/2022, 20:34 - Lekha Xie: <Media omitted>
+15/01/2022, 20:39 - Khushboo Xie: Perfect❣️
+15/01/2022, 23:02 - Khushboo Xie: Baki dogh on lvkrbkrun tak
+16/01/2022, 11:06 - Lekha Xie: <Media omitted>
+16/01/2022, 11:06 - Lekha Xie: <Media omitted>
+16/01/2022, 11:06 - Khushboo Xie: 100yrs jagshil tu😂😂
+16/01/2022, 11:10 - Lekha Xie: kyu..
+16/01/2022, 11:10 - Sonam: Abhi tera hi bat kar rahe the hum
+16/01/2022, 11:11 - Lekha Xie: acha
+16/01/2022, 11:11 - Lekha Xie: project ka kya decide hua phir
+16/01/2022, 11:11 - Sonam: Wahi
+16/01/2022, 11:11 - Sonam: WhatsApp chat analyzer
+16/01/2022, 11:11 - Sonam: Karenge
+16/01/2022, 11:11 - Lekha Xie: deep mai kuch decide hua ?
+16/01/2022, 11:12 - Sonam: Nai abhi khushboo presentation banaegi
+16/01/2022, 11:12 - Sonam: Fir sham ko meet karte hai
+16/01/2022, 11:14 - Lekha Xie: acha thik hai time ?
+16/01/2022, 11:15 - Sonam: 8 tk
+16/01/2022, 11:16 - Lekha Xie: done
+16/01/2022, 17:54 - Khushboo Xie: Ppt bhejti hu raat tak
+16/01/2022, 17:54 - Khushboo Xie: Thoda bahar Jana pad rha h...
+16/01/2022, 19:07 - Sonam: Meet nai karna hai kya
+16/01/2022, 19:28 - Lekha Xie: Ha karna hai
+16/01/2022, 19:28 - Lekha Xie: I m free..khush kaha hai
+16/01/2022, 19:32 - Sonam: Meet link bhejna
+16/01/2022, 19:33 - Sonam: Jab sb free ho jaye tb
+16/01/2022, 19:33 - Lekha Xie: Mai free hu ab
+16/01/2022, 19:33 - Lekha Xie: Khush ka msg ka wait karte hai
+16/01/2022, 19:53 - Khushboo Xie: Khana khaa rhi hu
+16/01/2022, 19:53 - Khushboo Xie: Krti hu
+16/01/2022, 19:54 - Lekha Xie: Ppt zhala?
+16/01/2022, 20:08 - Khushboo Xie: Nahi ga
+16/01/2022, 20:08 - Khushboo Xie: Baher hoti jara
+16/01/2022, 20:09 - Lekha Xie: problem definition banavla ?
+16/01/2022, 20:09 - Khushboo Xie: Kal relative ka operation hai .unke sath koi nhi h toh shayad Jana padega uske hi gadbad me hu...
+16/01/2022, 20:09 - Khushboo Xie: Naah...frst template zali fkt
+16/01/2022, 20:10 - Lekha Xie: bara meet karaychiye ?
+16/01/2022, 20:11 - Lekha Xie: kalch karun takayla pahije hota half and hour pn lagat nhi hya slides la satarting chya ..
+16/01/2022, 20:11 - Khushboo Xie: Pathv link
+16/01/2022, 20:11 - Khushboo Xie: Mi ppt krtey
+16/01/2022, 20:12 - Lekha Xie: https://meet.google.com/igp-taof-zgf
+16/01/2022, 20:14 - Sonam: Ppt complete hoga
+16/01/2022, 20:14 - Sonam: Tb karte gai meet
+16/01/2022, 20:14 - Sonam: Hai
+16/01/2022, 20:15 - Lekha Xie: acha thik hai
+16/01/2022, 20:16 - Khushboo Xie: 9ntak krti hu me complete
+16/01/2022, 20:17 - Sonam: Ha chalega
+16/01/2022, 20:17 - Lekha Xie: aaram se
+16/01/2022, 20:59 - Khushboo Xie: <Media omitted>
+16/01/2022, 20:59 - Khushboo Xie: roblem statement baki h
+16/01/2022, 20:59 - Khushboo Xie: aur kya add karu
+16/01/2022, 21:00 - Khushboo Xie: Scope likh rhi hu
+16/01/2022, 21:01 - Khushboo Xie: Object galat h yeh
+16/01/2022, 21:02 - Khushboo Xie: This message was deleted
+16/01/2022, 21:02 - Sonam: Sahi to hai na
+16/01/2022, 21:02 - Sonam: Lekha ko boli thi mai
+16/01/2022, 21:02 - Khushboo Xie: Kr rhi h wo
+16/01/2022, 21:02 - Khushboo Xie: Rhne du
+16/01/2022, 21:04 - Khushboo Xie: aur kya krna h add
+16/01/2022, 21:05 - Khushboo Xie: meet.google.com/fyg-iwhj-kht
+16/01/2022, 21:05 - Khushboo Xie: Join kro
+16/01/2022, 21:05 - Lekha Xie: mai 5 min mai karti hu
+16/01/2022, 21:05 - Lekha Xie: problem statement bana rahi hu
+16/01/2022, 21:10 - Lekha Xie: Social media has been the most intriguing factor
+in the life of today's youth, well precisely in 
+everybody's life. One of all is WhatsApp  which is
+ used quite by all generations and has shown 
+us both good as well as evil side of it.
+Whatsapp chat Analyzer is a statistical tool for
+whatsapp chats. Whatapp chat analyzer our website
+will have a option to select or browse a .txt file.
+And then the user can view the analysis of their chat 
+wrt either overall group or a individual person. 
+Show Analysis will enable user to see Top Statistics
+in which the user will be able to find Total messages, 
+Total Words, Media and Linked shared.
+Also Monthly Timeline, daily timeline in which the user is free to access it use of whatapp for the person 
+or in the group. Also 
+this will be useful for cyber crimes to analyze 
+things because it will show the user Activity map
+on monthly,weekly and daily basis in statistical format.
+Not only this but also it will help user to check there percent involment of himself
+in the chat. Machine learning has bought 
+user to the most glaring experience of wordcloud.
+And the user may also get a chance to view the emojis analysis.
+16/01/2022, 21:44 - Khushboo Xie: Krti hu ppt shqre
+16/01/2022, 21:44 - Khushboo Xie: 5 min me
+16/01/2022, 21:45 - Lekha Xie: meet madhun ka nighali?
+16/01/2022, 21:48 - Sonam: Khushboo tu
+16/01/2022, 21:48 - Sonam: Slides divide karde
+16/01/2022, 21:49 - Sonam: Kisko kya bolna hai waise fir uska pic bhej de
+16/01/2022, 21:49 - Sonam: Subah meet kar lete hai fir ek bar sb apna practice kar lo uske bad
+16/01/2022, 21:49 - Khushboo Xie: Koi ek bhi krdega toh chalega na
+16/01/2022, 21:50 - Khushboo Xie: Ki sabko bolna h
+16/01/2022, 21:50 - Sonam: Bich bich me
+16/01/2022, 21:50 - Khushboo Xie: Thik h krti hu then me
+16/01/2022, 21:50 - Sonam: Bol denge sb to lagega ka sbne prepare kiya hai
+16/01/2022, 21:50 - Khushboo Xie: Haa
+16/01/2022, 22:01 - Khushboo Xie: <Media omitted>
+16/01/2022, 22:02 - Khushboo Xie: llekha-1,2,3,4
+16/01/2022, 22:02 - Khushboo Xie: khushboo-5,6,7
+16/01/2022, 22:02 - Khushboo Xie: This message was deleted
+16/01/2022, 22:02 - Khushboo Xie: srysry
+16/01/2022, 22:03 - Khushboo Xie: sonam - 8,9,10,11
+16/01/2022, 22:38 - Sonam: Subah kitne baje
+16/01/2022, 22:38 - Sonam: Karna hai meet
+16/01/2022, 22:39 - Khushboo Xie: Me shayad hospital me rahungi kal subah se
+16/01/2022, 22:39 - Khushboo Xie: Direct bol denge na
+16/01/2022, 22:39 - Khushboo Xie: Padhna toh hai sirf
+16/01/2022, 22:40 - Khushboo Xie: Haa
+16/01/2022, 22:40 - Khushboo Xie: Nhitoh break me karenge
+16/01/2022, 22:40 - Khushboo Xie: Agar nhi gyi toh subah batati hu me
+16/01/2022, 22:40 - Khushboo Xie: Chalega
+16/01/2022, 22:41 - Sonam: Ha jaise tujhe thik lage
+16/01/2022, 22:41 - Sonam: Bata dena
+16/01/2022, 22:41 - Khushboo Xie: Haa
+17/01/2022, 10:35 - Khushboo Xie: 2 topic bola h.?
+17/01/2022, 10:36 - Khushboo Xie: Humne toh ek hi ka ppt banaya
+17/01/2022, 10:36 - Khushboo Xie: Bolenge ki till now we only researched on one topic..
+17/01/2022, 10:43 - Lekha Xie: Ha maine kal wahi toh bola tha ! But yeh select hojayega aisa bola tha
+17/01/2022, 10:44 - Khushboo Xie: Hm
+17/01/2022, 11:15 - Sonam: <Media omitted>
+17/01/2022, 11:16 - Sonam: Thoda spelling mistake tha kr
+17/01/2022, 11:16 - Sonam: Or
+17/01/2022, 11:16 - Sonam: Xie Id add ki dekho sahi hai sbka ki nai
+17/01/2022, 11:17 - Khushboo Xie: Right h
+17/01/2022, 14:37 - Sonam: Abhi 3 baje hoga na presentation
+17/01/2022, 14:44 - Lekha Xie: Ha
+17/01/2022, 14:45 - Lekha Xie: Present kon kar raha hai
+17/01/2022, 14:45 - Lekha Xie: Problem statement mai abhi bhi hai
+17/01/2022, 14:46 - Sonam: Nai
+17/01/2022, 14:46 - Sonam: Isme correct kar diya maine
+17/01/2022, 14:46 - Sonam: Yahi present karna
+17/01/2022, 14:46 - Sonam: Tu hi kar de
+17/01/2022, 14:47 - Lekha Xie: Most intriguing factoring🤣 first line mai hi
+17/01/2022, 14:48 - Khushboo Xie: Evdha kon bghel gaa
+17/01/2022, 14:48 - Sonam: Hote hai koi koi bahot dekhte hai jo
+17/01/2022, 14:48 - Khushboo Xie: Reject kela tr next ppt purn mistake wali deil mi tyanna
+17/01/2022, 14:49 - Lekha Xie: Mla bolava tr lagel n baghun
+17/01/2022, 14:49 - Khushboo Xie: Hushar e tshi tu
+17/01/2022, 14:49 - Khushboo Xie: Vishwas e mla tuzyavr🥺😂
+17/01/2022, 14:49 - Khushboo Xie: Muze ek call kr dena plz
+17/01/2022, 14:49 - Lekha Xie: Nhi e mi
+17/01/2022, 15:25 - Khushboo Xie: Inko exactly samjh hi nhi h kya
+17/01/2022, 15:25 - Khushboo Xie: Muze doubt aarha hai ki nhi smjha ki hum kya krna chahte hai
+17/01/2022, 15:26 - Sonam: Mai mam ko bad me call karke apne hisab se samjhati hu
+17/01/2022, 15:26 - Khushboo Xie: Thik hai...
+17/01/2022, 15:26 - Khushboo Xie: Aur ye Jay sir ka kya h colour n all
+17/01/2022, 15:26 - Khushboo Xie: Hum kidhar bol rhe h humne bnaya h whatsapp
+17/01/2022, 15:27 - Sonam: Wahi humne to sirf theme dala hai taaki achha lage
+17/01/2022, 15:27 - Khushboo Xie: Theme lagna chahiye esliye wo kiya..paapi manushya😤
+17/01/2022, 15:27 - Khushboo Xie: Matlab dhyaan nhi tha toh kuch bhi bola😂
+17/01/2022, 15:27 - Sonam: Mtlb hum log kaha kyu karne wale hai yar
+17/01/2022, 15:27 - Khushboo Xie: Sonam baat krlena tu ...dekhte hai fir
+17/01/2022, 15:28 - Sonam: Kya karenge kisika chat leke hum
+17/01/2022, 15:28 - Khushboo Xie: Aur humare pass kaise aayenge chats
+17/01/2022, 15:28 - Sonam: Hume to sirf application banana hai jo baki log use kar sake
+17/01/2022, 15:28 - Khushboo Xie: Database thodi set kr rhe hai hum..wo toh private hi rhega na
+17/01/2022, 15:28 - Sonam: Wahi to mai bol rahi hu
+17/01/2022, 15:29 - Khushboo Xie: Ye toh wo translator ke tarah h...analysis kro khudko..chhod do
+17/01/2022, 15:29 - Khushboo Xie: Save vagaira thodi hoga kuch
+17/01/2022, 15:29 - Sonam: Wahi hum kya achar dalenge unke chat ka
+17/01/2022, 15:30 - Khushboo Xie: 😂Dekhte h ab
+17/01/2022, 15:30 - Khushboo Xie: Point is ki inko smjha hi nhi
+17/01/2022, 15:31 - Sonam: Mai sham ko bat karti hu mam se
+17/01/2022, 16:03 - Khushboo Xie: Ha
+17/01/2022, 17:14 - Lekha Xie: 🤣
+19/01/2022, 17:58 - Lekha Xie: Khush te ppt madhe corrections karun takun te classroom vr
+19/01/2022, 17:59 - Lekha Xie: Ani ithe pn pathav
+19/01/2022, 18:03 - Khushboo Xie: ho
+20/01/2022, 14:49 - Khushboo Xie: correction ky kru nemke..?
+20/01/2022, 14:49 - Khushboo Xie: te bullete n all ka
+20/01/2022, 20:41 - Khushboo Xie: Suno na
+20/01/2022, 20:42 - Khushboo Xie: BI ka exp 1 me kya kya likhna hai
+20/01/2022, 21:19 - Sonam: Wahi snowflake or star schema  ka thoda intro
+20/01/2022, 21:20 - Sonam: Fir problem definition sbka
+20/01/2022, 21:20 - Sonam: Or conclusion
+20/01/2022, 21:20 - Sonam: Itna hi tha shayd
+20/01/2022, 22:03 - Khushboo Xie: Accha
+23/01/2022, 23:26 - Lekha Xie: <Media omitted>
+24/01/2022, 00:19 - Lekha Xie: <Media omitted>
+24/01/2022, 00:19 - Lekha Xie: conclusion aapna likh lena tum log !!
+24/01/2022, 00:19 - Lekha Xie: kyuki problem na ho phir ..
+24/01/2022, 10:14 - Khushboo Xie: Thank u so much

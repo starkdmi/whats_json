@@ -1,0 +1,2317 @@
+03/05/22, 8:37 am - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+03/05/22, 8:37 am - You joined using this group's invite link
+03/05/22, 8:41 am - Animesh: <Media omitted>
+03/05/22, 8:48 am - sourabh: when it will give index out of bound range?
+03/05/22, 8:48 am - sourabh: u r using x or x-1.. how it would give index out of bound 🤔
+03/05/22, 8:48 am - sourabh: but if u r talking about -1,-2 index then
+03/05/22, 8:49 am - Animesh: Hold on I'll provide the sol
+03/05/22, 8:49 am - sourabh: this is python.. i python negative index are correct... -ve index means access from the right side
+03/05/22, 8:49 am - Animesh: Yeah. That wasn't the issue I think.
+03/05/22, 8:50 am - Animesh: <Media omitted>
+03/05/22, 8:50 am - Animesh: <Media omitted>
+03/05/22, 8:51 am - sourabh: u mean both the solution are giving the correct answer ?🤔
+03/05/22, 8:51 am - Animesh: Yes
+03/05/22, 8:51 am - +91 84467 42971: Hello guys, I want to learn plain *jest* 
+Shall I need to init node project ?
+03/05/22, 8:52 am - sourabh: if m not wrong this submatrices sum ryt??
+the one discussed in class too ?
+03/05/22, 8:52 am - Animesh: Yes
+03/05/22, 8:53 am - Animesh: I am just trying to understand what in my approach is causing the necessity to have 4 conditionals
+03/05/22, 8:56 am - sourabh: This message was deleted
+03/05/22, 8:56 am - sourabh: This message was deleted
+03/05/22, 8:56 am - sourabh: This message was deleted
+03/05/22, 8:56 am - sourabh: This message was deleted
+03/05/22, 8:57 am - sourabh: sry sry my mistake
+03/05/22, 8:57 am - Animesh: Np
+03/05/22, 8:59 am - sourabh: one small thing when C[q] will be when then B[q] should also be one
+03/05/22, 8:59 am - sourabh: ryt ?
+03/05/22, 9:00 am - sourabh: coz bottom right can't be less that top left
+03/05/22, 9:00 am - Animesh: Yes but let me check the B[q] and C[q]
+03/05/22, 9:01 am - sourabh: so acc to me last condition would never work
+03/05/22, 9:02 am - Animesh: No. B[q] is the row for topLeft and C[q] will be the col for top left. Both need to be 1 at the same time. They can be but they can also have different values. Say row 1 but col 2 so topLeft becomes (0,1).
+03/05/22, 9:04 am - sourabh: let me make it simple
+03/05/22, 9:04 am - sourabh: what we mean by ps[i][j]
+03/05/22, 9:04 am - sourabh: sum from 00 to i,j ryt ?
+03/05/22, 9:05 am - sourabh: so i think u just need to check if top left is 1,1 or not.. only this condition i think jeeds to be cheked
+03/05/22, 9:07 am - Animesh: This works when the topLeft starts from the 1st col and rows can change.
+03/05/22, 9:09 am - +91 88869 93508: can anyone please provide code for below problem :
+Problem Description
+Given a 2D integer matrix A of size N x N, find a B x B submatrix where B<= N and B>= 1, such that the sum of all the elements in the submatrix is maximum.
+03/05/22, 9:09 am - Animesh: My code is working. Its just that in the solution the implementation is very clean and concise so I was trying to understand why do I have to put that many conditions because when I use that formula, then the code doesn't work. In the solution also they have created the PS array and then simply applied the formulae.
+03/05/22, 9:09 am - Animesh: Try sliding window technique for this
+03/05/22, 9:10 am - +91 88869 93508: Hi animesh, thanks for replying. I am trying that.
+But I am getting incorrect answer.
+I wanted to check where I am doing wrong.
+Can you please share. Ode if possible
+03/05/22, 9:10 am - +91 88869 93508: *code
+03/05/22, 9:11 am - Animesh: Will do. I'll solve that after the sub Matrix. Just trying to understand its solution now.
+03/05/22, 9:12 am - +91 88869 93508: From yesterday I am raising TA help, but no reply, I have to reschedule again and again 😊. But still no TA help.
+I'd anyone facing same issue from yesterday
+03/05/22, 9:12 am - +91 88869 93508: *is anyone
+03/05/22, 9:13 am - Animesh: I've facing that issue for the past two weeks. Yesterday I had a call with one of the Scaler representatives. They said that WFH has been cancelled for a lot of people so they've lost a lot of TAs in a short amount of time. They have hired new ones but they are trying to bridge the TA deficit.
+03/05/22, 9:14 am - sourabh: 🙆🏻‍♂️🙆🏻‍♂️
+03/05/22, 9:15 am - sourabh: same excuse.. they also said it will be improved within coming weeks..
+but I don't think there is any improvement 🤐
+03/05/22, 9:15 am - +91 88869 93508: Yes
+03/05/22, 9:15 am - sourabh: me too.🤐
+03/05/22, 9:15 am - Animesh: 👍🏻
+03/05/22, 9:17 am - Madhuri Roy: I faced a same issue and kept raising requests repeatedly.  Finally someone picked up and explained very well. So till the crunch is going on I suggest keep raising requests repeatedly
+03/05/22, 9:18 am - +91 88869 93508: ok thank you 😃
+03/05/22, 9:47 am - +91 84311 83110 joined using this group's invite link
+03/05/22, 1:58 pm - +91 86581 34750: Need some help on rain water trapped.
+03/05/22, 1:58 pm - Animesh: Go ahead
+03/05/22, 1:58 pm - +91 86581 34750: <Media omitted>
+03/05/22, 1:59 pm - +91 86581 34750: This is my code could you pls check.and let me know what is wrong on it
+03/05/22, 1:59 pm - +91 96526 44523: Take leftmax and rightmax of that index
+03/05/22, 2:00 pm - Animesh: Don't include the index when calculating the leftMax and RightMax
+03/05/22, 2:00 pm - Animesh: You are doing that right now
+03/05/22, 2:01 pm - +91 96526 44523: <Media omitted>
+03/05/22, 2:03 pm - +91 86581 34750: During prefix and suffix array right?
+03/05/22, 2:04 pm - Animesh: yes
+03/05/22, 2:04 pm - +91 86581 34750: Okay let me try thanks
+03/05/22, 2:05 pm - Animesh: 👍🏻
+03/05/22, 2:10 pm - +91 86581 34750: Thanks
+03/05/22, 2:10 pm - +91 86581 34750: Finally it worked
+03/05/22, 2:20 pm - +91 98994 17184: Need help with prefix matrix computation using arraylist
+03/05/22, 2:20 pm - +91 98994 17184: Anyone was able to solved it using arraylist of arraylist
+03/05/22, 2:46 pm - +91 98696 22890: I guess only mistake was ur final loop...it shud start from 1...rest was perfect
+03/05/22, 3:05 pm - Siddharth Modi: <Media omitted>
+03/05/22, 3:07 pm - Siddharth Modi: I'm following the approach as taught in one of the earlier classes but somehow not getting the correct answer.
+03/05/22, 3:08 pm - Animesh: Create 2D array in Python either using NumPy or List comprehension. Multiplication works for 1D.
+03/05/22, 3:09 pm - Animesh: Line 1
+03/05/22, 3:09 pm - Siddharth Modi: oh.. okay. let me try that. Thanks Animesh!
+03/05/22, 3:12 pm - Siddharth Modi: it worked. Thanks again 😀
+03/05/22, 3:13 pm - Animesh: 👍🏻
+03/05/22, 5:12 pm - Sarbjot: <Media omitted>
+03/05/22, 5:21 pm - +91 98696 22890: Thanks for informing
+03/05/22, 9:05 pm - Rishabh Sharma: Facing TLE in minimum swaps 1 even after giving O(n) solution
+03/05/22, 9:05 pm - +91 97693 42335 joined using this group's invite link
+03/05/22, 9:05 pm - +91 81062 68238 joined using this group's invite link
+03/05/22, 9:06 pm - +91 89811 70012 joined using this group's invite link
+03/05/22, 9:08 pm - +91 98994 17184: Might be infinite loop problem it is getting stuck in
+03/05/22, 9:08 pm - Rishabh Sharma: on submit only facing tle
+03/05/22, 9:12 pm - +91 94266 40985 left
+03/05/22, 9:13 pm - +91 80878 08998 joined using this group's invite link
+03/05/22, 9:18 pm - +91 73558 18420: searching row wise and column wise sorted matrix
+it passes the test cases but fails to submit when there are duplicates..
+can someone help on that.
+ public int solve(List<List<int>> A, int B) {
+        int row = A.Count;
+        int col = A[0].Count;
+        int i = 0;
+        int j = col-1;
+        while(i<row && col>=0){
+                int val = A[i][j];
+                if(val<B){
+                    i++;
+                }
+                if(val>B){
+                    j--;
+                }
+                if(B==val){
+                    //Console.Write("i="+i+" j="+j+"  ");
+                  
+                    return ((i+1) * 1009 + (j+1));
+                }
+        }
+        return -1;
+    }
+03/05/22, 9:18 pm - +91 73558 18420: failing for this case
+A : 
+[
+  [2, 8, 8, 8]
+  [2, 8, 8, 8]
+  [2, 8, 8, 8]
+]
+B : 8
+03/05/22, 9:20 pm - +91 99715 71053: <Media omitted>
+03/05/22, 9:20 pm - +91 99715 71053: Do this
+03/05/22, 9:21 pm - +91 99715 71053: Read question carefully
+03/05/22, 9:21 pm - +91 99715 71053: <Media omitted>
+03/05/22, 9:21 pm - +91 99715 71053: Help me out someone
+03/05/22, 9:22 pm - +91 99715 71053: My name is Shivam
+03/05/22, 9:26 pm - +91 73558 18420: Thnx man...thts wat I wasn't getting...
+03/05/22, 9:30 pm - +91 99715 71053: Anytime bro
+04/05/22, 6:52 am - +91 97693 42335 left
+04/05/22, 7:19 am - +91 85888 17677 joined using this group's invite link
+04/05/22, 8:44 am - +91 96192 84251: Is there any option to Offfline view previous classes ?
+04/05/22, 8:49 am - +91 86581 34750: Yes
+04/05/22, 8:49 am - +91 86581 34750: You can goto allclasses tab and there you can check all previous classes week wise
+04/05/22, 8:50 am - +91 88840 00284: Yesterday Yash sir asked to create a new group. Please add me to that group
+04/05/22, 9:11 am - sourabh: no option for offline bro.. need to connect with internet
+04/05/22, 10:17 am - +91 86581 34750: I thought offline means  not live classes
+04/05/22, 10:17 am - +91 86581 34750: 😀
+04/05/22, 10:30 am - +91 96192 84251: Thanks👍
+04/05/22, 12:09 pm - +91 73899 22297: <Media omitted>
+04/05/22, 12:12 pm - +91 73899 22297: <Media omitted>
+04/05/22, 12:15 pm - sourabh: if i am not wrong there shud b 3 conditions
+04/05/22, 12:15 pm - sourabh: 2 for checking if those are overlapping or not
+04/05/22, 12:15 pm - sourabh: and if both of not satisfing then it means it's mergable interval
+04/05/22, 12:15 pm - sourabh: try to think in this way
+04/05/22, 12:16 pm - sourabh: and also follow the pseudocde mentioned in the notes
+04/05/22, 12:17 pm - sourabh: tbh I don't think ur logic is correct..
+and if u r talking about error
+04/05/22, 12:17 pm - +91 73899 22297: Cool, will think about that approach too. 
+Btw can you please tell why am I getting the above error for my code?
+04/05/22, 12:17 pm - sourabh: the error is u
+04/05/22, 12:17 pm - sourabh: r appending i in the result
+04/05/22, 12:17 pm - sourabh: which is integer value
+04/05/22, 12:19 pm - +91 86581 34750: This error is related to code. Your ans is type of int and then you are inserting invterval object to it later at the end.
+04/05/22, 12:19 pm - +91 73899 22297: Appending only those index which are not satisfying above overlapping condition , so that after 1st for lopp we can add those non overlapping intervals as well to our answer
+04/05/22, 12:21 pm - +91 73899 22297: Could you specify where? 😅
+04/05/22, 12:21 pm - +91 73899 22297: Please*
+04/05/22, 12:21 pm - sourabh: i would suggest u to go through pseudocode mentioned in notes.. u will automatically get ur error😄
+04/05/22, 12:22 pm - +91 73899 22297: Yes, on it. 
+Thank you for the quick response @919478712215
+04/05/22, 12:23 pm - sourabh: 👍🏻
+04/05/22, 2:58 pm - +91 89108 70182: can anyone help me with alternating subarray question
+04/05/22, 5:59 pm - Animesh: <Media omitted>
+04/05/22, 6:01 pm - +91 98211 63140: Coz for negative numbers the last will be 1 and total count of bits will become 4 for any number which occurs 3 times and 4 is not a multiple of 3 so it will fail
+04/05/22, 6:02 pm - Animesh: So any fix?
+04/05/22, 6:02 pm - Animesh: Because then %4 can give 1 for the unique number as well
+04/05/22, 6:03 pm - Animesh: along with the negative numbers MSB
+04/05/22, 6:03 pm - +91 98211 63140: It won't work for negative numbers bro
+04/05/22, 6:04 pm - Animesh: ok.
+04/05/22, 6:34 pm - +91 94921 74500: Ok, I'm not sure that check only 31st bit count bcz  msb will be 1 for negative  if the count is divisible it's ok , if not consider that bit along with some other bits
+04/05/22, 7:37 pm - Siddhant: <Media omitted>
+04/05/22, 7:37 pm - Siddhant: Try this, this is working for negative numbers
+04/05/22, 7:38 pm - Siddhant: Not sure about time complexity
+04/05/22, 8:05 pm - Animesh: ok thx
+04/05/22, 9:06 pm - +91 89811 70012: Getting test case error on submit on Array 3 : Assignment 2
+04/05/22, 9:06 pm - +91 89811 70012: My Code
+04/05/22, 9:06 pm - +91 89811 70012: <Media omitted>
+04/05/22, 9:07 pm - +91 89811 70012: public class Solution {
+    public ArrayList<Integer> solve(ArrayList<ArrayList<Integer>> A, ArrayList<Integer> B, ArrayList<Integer> C, ArrayList<Integer> D, ArrayList<Integer> E) {
+
+        ArrayList<Integer> ans = new ArrayList();
+        ArrayList<ArrayList<Integer>> PS = new ArrayList();
+
+        //Creating prefix matrix
+        for(int i=0; i<A.size(); i++){
+            int sum = 0;
+            ArrayList<Integer> prevRow = new ArrayList();
+            prevRow = A.get(i);
+            for(int j=0; j<A.get(i).size(); j++){
+                sum+=A.get(i).get(j);
+                if(i!= 0){
+                    sum+=A.get(i-1).get(j);
+                }
+                if(i!=0 && j!=0)
+                    sum-=A.get(i-1).get(j-1);
+
+                A.get(i).set(j, sum);
+            }
+        }
+        // System.out.println(A);
+        int q = B.size();
+        for(int i=0; i<q; i++){
+            int top = B.get(i)-1;
+            int left = C.get(i)-1;
+            int bottom = D.get(i)-1;
+            int right = E.get(i)-1;
+            int P = A.get(bottom).get(right);
+            int Q = 0, R = 0, S = 0;
+            if(left != 0){
+                Q = A.get(bottom).get(left-1);
+            }
+            if(top != 0){
+                R = A.get(top-1).get(right);
+            }
+            if(top!= 0 && left != 0){
+                S =  A.get(top-1).get(left-1);
+            }
+            int sum = P - Q - R + S;
+            ans.add(sum);
+        }
+
+        return ans;
+
+    }
+}
+04/05/22, 9:07 pm - +91 89811 70012: Can anyone please help me on this..if anybody faced the same issue and solved it
+04/05/22, 9:09 pm - +91 89811 70012: <Media omitted>
+04/05/22, 9:13 pm - Rishabh Sharma: This question requires mod of ans as well as the mod of sum in prefix arrays...like sum =mod(sum+A.get(i-1).get(j))
+04/05/22, 9:13 pm - Rishabh Sharma: you can do mod with 1000000007
+04/05/22, 9:15 pm - +91 89811 70012: let me try that
+04/05/22, 9:15 pm - Rishabh Sharma: ok
+04/05/22, 9:17 pm - +91 89811 70012: nope not working still the same issue
+04/05/22, 9:17 pm - +91 89811 70012: btw why are we doing mod with 1000000007 @917895778052
+04/05/22, 9:17 pm - +91 96731 23857: U r just creating prefix sum for each row but after that u also need to create column wise prefix sum on resulted matrix then it will become prefix matrix
+04/05/22, 9:19 pm - +91 89811 70012: no column wise its doing also
+04/05/22, 9:19 pm - +91 89811 70012: to test it just open the // System.out.println(A); statement
+04/05/22, 9:19 pm - +91 89811 70012: it will print the prefix matrix for u
+04/05/22, 9:28 pm - +91 96731 23857: For each arithmetic operation u need to get mod
+((((P-Q) %mod) -R) %mod) +S) %mod
+04/05/22, 9:28 pm - +91 89811 70012: okay
+04/05/22, 9:29 pm - Rishabh Sharma: i used it because i found it many different other questions where we had to do the mod with 10^9 + 7
+04/05/22, 9:30 pm - Rishabh Sharma: It also has a reason
+04/05/22, 9:30 pm - +91 89811 70012: okay let me try have to MODify all the sums I think
+04/05/22, 9:31 pm - Rishabh Sharma: you'll have to check for -ve results after modding also
+04/05/22, 9:32 pm - Rishabh Sharma: cause we have negative values in input
+04/05/22, 9:32 pm - Rishabh Sharma: remember the logic of modding negative values
+04/05/22, 9:32 pm - +91 89811 70012: yeah..have to add MOD while creating the PS Matrix and the main answer also
+04/05/22, 9:40 pm - +91 89811 70012: Thanks guys it ran @917895778052 @919673123857
+04/05/22, 9:40 pm - +91 89811 70012: Updated Code:
+04/05/22, 9:40 pm - +91 89811 70012: public class Solution {
+    public ArrayList<Integer> solve(ArrayList<ArrayList<Integer>> A, ArrayList<Integer> B, ArrayList<Integer> C, ArrayList<Integer> D, ArrayList<Integer> E) {
+
+        ArrayList<Integer> ans = new ArrayList();
+        ArrayList<ArrayList<Integer>> PS = new ArrayList();
+        int MOD = 1000000007;
+        //Creating prefix matrix
+        for(int i=0; i<A.size(); i++){
+            int sum = 0;
+            ArrayList<Integer> prevRow = new ArrayList();
+            prevRow = A.get(i);
+            for(int j=0; j<A.get(i).size(); j++){
+                sum+=A.get(i).get(j);
+                if(i!= 0){
+                    sum=(sum+A.get(i-1).get(j))%MOD;
+                }
+                if(i!=0 && j!=0)
+                    sum = (sum - A.get(i-1).get(j-1))%MOD;
+
+                if(sum<0)
+                    sum=sum+MOD;
+                A.get(i).set(j, sum);
+            }
+        }
+        // System.out.println(A);
+        int q = B.size();
+        for(int i=0; i<q; i++){
+            int top = B.get(i)-1;
+            int left = C.get(i)-1;
+            int bottom = D.get(i)-1;
+            int right = E.get(i)-1;
+            int P = A.get(bottom).get(right);
+            int Q = 0, R = 0, S = 0;
+            if(left != 0){
+                Q = A.get(bottom).get(left-1);
+            }
+            if(top != 0){
+                R = A.get(top-1).get(right);
+            }
+            if(top!= 0 && left != 0){
+                S =  A.get(top-1).get(left-1);
+            }
+            int sum = (((P - Q - R + S)%MOD)+MOD)%MOD;
+            ans.add(sum);
+        }
+
+        return ans;
+
+    }
+}
+04/05/22, 10:28 pm - Rishabh Sharma: 👍😊
+04/05/22, 10:36 pm - +91 96731 23857: 👍
+04/05/22, 11:21 pm - +91 85888 17677: Anyone tried Bitmanipulation 1 Homework Q2. Repeat and Missing Number Array ?
+04/05/22, 11:21 pm - Animesh: Yes
+04/05/22, 11:27 pm - +91 85888 17677: public int[] repeatedNumber(final int[] A) {
+        int[] arr = new int[2];
+        int aXorb = 0;
+        for(int i = 0; i<A.length; i++){
+            aXorb = (A[i]^(i+1)^aXorb);
+            }
+        int lastBit = (aXorb & (aXorb - 1)) ^ aXorb; // the last bit that a diffs b
+        
+        //System.out.println(" *aXorb* " +aXorb +" *lastBit* "+lastBit);
+        
+        arr[0] = (aXorb -lastBit)/2;
+        arr[1] =  aXorb -arr[0];
+        
+        return arr;
+    }
+04/05/22, 11:28 pm - Animesh: Use simple algebra for this problem
+04/05/22, 11:29 pm - +91 85888 17677: I have used somewhat simple logic. Did XOR of each element with i+1
+04/05/22, 11:30 pm - +91 85888 17677: this should leave me with the missing element and which came twice
+04/05/22, 11:31 pm - +91 85888 17677: then 
+x+y = sum
+x-y = diff 
+add both get 2x = (sum +diff)/2 get x and then y
+04/05/22, 11:33 pm - Animesh: 👍🏻
+04/05/22, 11:34 pm - +91 94921 74500: Hi, Anyone has did minimum swaps. How to do it.
+04/05/22, 11:34 pm - +91 85888 17677: but it's not working for large input 🙃
+04/05/22, 11:38 pm - Animesh: I code in Python & JS. So, int long are never a problem.
+04/05/22, 11:38 pm - Animesh: But I can paste my solution if you want
+04/05/22, 11:42 pm - +91 98994 17184: Which one minimum swap one or minimum swap 2
+04/05/22, 11:43 pm - +91 94921 74500: Minimum swap one
+04/05/22, 11:48 pm - +91 98994 17184: yeah i was able to do it
+04/05/22, 11:49 pm - Animesh: How would this work? Only 1 element is repeating. Every other is unique and 1 is missing. So how would cancellation happen?
+04/05/22, 11:49 pm - +91 98994 17184: total number of swap required would be all the numbers greater than B
+04/05/22, 11:51 pm - +91 98994 17184: he is taking xor with i+1
+04/05/22, 11:51 pm - +91 98994 17184: unique number will be zero
+04/05/22, 11:52 pm - Animesh: Still not able to understand. Do you have a resource link for this approach?
+04/05/22, 11:54 pm - +91 85888 17677: numbers are from 1 to n
+x is repeated twice & y is missing
+
+if I run a loop from 0 to  n-1. And do a XOR
+04/05/22, 11:55 pm - +91 98994 17184: nah i just read the code and tried to undestand it
+sample array [3 1 2 5 3]
+
+when you will take the xor with i+1 then unique element will be also zero
+xor=3^1^1^2^2^3^5^4^5
+04/05/22, 11:55 pm - +91 85888 17677: for(int i = 0; i<A.length; i++){
+            aXorb = (A[i]^(i+1)^aXorb);
+04/05/22, 11:55 pm - +91 85888 17677: yes we would be left with missing and the one repeated twice
+04/05/22, 11:56 pm - +91 97422 88058: This is tricky one
+04/05/22, 11:56 pm - +91 97422 88058: I also not get it fully
+04/05/22, 11:56 pm - +91 85888 17677: 🤣🤣🤣
+04/05/22, 11:56 pm - +91 97422 88058: But it looks nice solution
+04/05/22, 11:56 pm - +91 97422 88058: 👌🏻
+04/05/22, 11:56 pm - +91 85888 17677: No worries
+04/05/22, 11:56 pm - Animesh: Yeah. But incredible👏🏻
+04/05/22, 11:57 pm - +91 98994 17184: when you will take the xor with i+1 then unique element will be also zero
+xor=3^1^1^2^2^3^5^4^5
+xor=3^3^3^2^2^5^5^4
+04/05/22, 11:57 pm - +91 97422 88058: Yes unique will be zero
+04/05/22, 11:58 pm - +91 85888 17677: so repeated is left
+04/05/22, 11:58 pm - +91 85888 17677: and missing is left
+04/05/22, 11:58 pm - +91 98994 17184: not able understand this part 
+int lastBit = (aXorb & (aXorb - 1)) ^ aXorb; // the last bit that a diffs b
+04/05/22, 11:58 pm - +91 98994 17184: with unique
+04/05/22, 11:58 pm - +91 97422 88058: Yes
+04/05/22, 11:58 pm - +91 97422 88058: 3^4 left
+04/05/22, 11:59 pm - +91 98994 17184: i know if n&(n-1) will it unset the right most bit
+05/05/22, 12:00 am - +91 97422 88058: But abhinav at the end, we left with 3^4, what to do next? How can we separate them
+05/05/22, 12:01 am - Animesh: This we have already seen. Using (xor & (xor - 1))^xor & a
+05/05/22, 12:01 am - +91 85888 17677: now for 3^4 = 7,  get the diiference 
+then use 
+x+y = sum 
+x-y = diff 
+simple algebra
+05/05/22, 12:01 am - +91 85888 17677: I am doing something wrong
+05/05/22, 12:02 am - Animesh: I think Abhinav algebra is not needed. We can simply use Xor itself right?
+05/05/22, 12:02 am - +91 85888 17677: yeah
+05/05/22, 12:02 am - Animesh: If just 3^4 is left, 3 and 4 can be isolated
+05/05/22, 12:02 am - Animesh: But this was dope trick. Thanks @918209586719 @919899417184 🙏🏻🙏🏻🙏🏻
+05/05/22, 12:03 am - +91 85888 17677: Thanks guys :)
+05/05/22, 12:04 am - +91 85888 17677: I am not able to execute it properly. Will see. Thanks :)
+05/05/22, 12:05 am - Rittik: Great approach @918588817677
+05/05/22, 12:06 am - Rittik: Have u done the Single number III qstn..similar way u can isolate x and y
+05/05/22, 12:06 am - Animesh: Yes
+05/05/22, 12:06 am - Animesh: @918209586719
+05/05/22, 12:07 am - +91 97422 88058: But it seems different here
+05/05/22, 12:08 am - +91 97422 88058: Elements were repeated in that queation
+05/05/22, 12:08 am - Animesh: But we isolate a and b from a^b. That execution is same. How we arrive at it is different.
+05/05/22, 12:09 am - +91 97422 88058: Can you pls share your code if possible?
+05/05/22, 12:09 am - +91 97422 88058: For this isloation thing
+05/05/22, 12:09 am - +91 85888 17677: Something is off logic was to to XOR with  1 to N, get missing and repeated element
+05/05/22, 12:10 am - Animesh: <Media omitted>
+05/05/22, 12:11 am - +91 97422 88058: Thank you animesh 😊
+05/05/22, 12:11 am - Animesh: 👍🏻
+05/05/22, 12:13 am - +91 98994 17184: @919131728831 i am not able recall where we have used it earlier
+it will be helpful if you can point
+05/05/22, 12:14 am - Animesh: This was used to isolate two numbers which don't repeat in an array where every other number repeats.
+05/05/22, 12:17 am - Rishabh Sharma: but in that question we had the numbers in our array to do & with at the last...in this one it is missing..
+05/05/22, 12:17 am - Animesh: You deleted this message
+05/05/22, 12:18 am - Animesh: That is fixed with i + 1 as Abhinav pointed out
+05/05/22, 12:18 am - Animesh: We arrive at a^b
+05/05/22, 12:18 am - Animesh: Then we isolate from there
+05/05/22, 1:26 am - +91 96731 23857: Another approach is coz we have numbers 1-n we can put them into their correct index i.e. i-1 at the end the number which is not at its correct index will b the repeating one and the that index+1 will be the missing number
+ ex 3 5 1 2 5
+Resulting array  will b 1 2 3 3 5 
+here at index 3, 3 is present where ideally it should be 4  (index +1) and the number at that index is 3 which is the repeated number 
+
+Note : this is possible coz we have number  in range 1-n in input array
+05/05/22, 1:39 am - +91 98994 17184: You cannot modify the given array
+05/05/22, 6:59 am - Animesh: Sorting not allowed
+05/05/22, 8:58 am - +91 85888 17677: it works, but as others said it's not allowed.
+05/05/22, 8:59 am - +91 85888 17677: I had same idea 1st then I had to change
+05/05/22, 9:46 am - +91 99876 45015: @919131728831 please send Js code
+05/05/22, 9:50 am - +91 99668 24848: I like this solution which is O(n) apart from XOR solution.
+05/05/22, 10:07 am - Animesh: Which problem?
+05/05/22, 10:42 am - +91 99876 45015: Single Number II
+05/05/22, 10:45 am - Animesh: <Media omitted>
+05/05/22, 10:51 am - +91 99876 45015: Ok will go through it
+05/05/22, 10:51 am - +91 99876 45015: Thanks
+05/05/22, 10:52 am - Animesh: 👍🏻
+05/05/22, 11:38 am - +91 94921 74500: Just check the formula how u have generalized .
+A-B = total-array sum
+(A-B)(A+B) = totalSqaure- arraySumsqaure.
+
+After substitution 2A= (sum RHS of equation) will get A and then get B.
+I didn't get why you are dividing and checking..
+05/05/22, 11:38 am - Animesh: Division is to get A + B
+05/05/22, 11:39 am - Animesh: Then the Sum and Diff can deliver A and B. This already passed for Python, its just that there is some syntax issue with the ArraySum or some other function. I'll fix that later.
+05/05/22, 4:52 pm - Animesh: <Media omitted>
+05/05/22, 5:04 pm - +91 80170 55548: Thanks Animesh
+05/05/22, 5:05 pm - Animesh: 👍🏻
+05/05/22, 5:06 pm - Rishabh Sharma: can you please send the link to this channel?
+05/05/22, 5:07 pm - Animesh: https://scaler-co.slack.com/archives/C032H2GG97Z
+05/05/22, 5:08 pm - Rishabh Sharma: Thanks 😃
+05/05/22, 5:08 pm - Animesh: 👍🏻
+05/05/22, 5:08 pm - Animesh: Does anyone know why a,b = b, a swap in Python only works one way and not like b, a = a, b?
+05/05/22, 6:16 pm - +91 98696 22890: Can u share an example?
+05/05/22, 6:18 pm - Animesh: <Media omitted>
+05/05/22, 6:18 pm - Animesh: Line 8 doesn't execute if we reverse the swap order
+05/05/22, 6:20 pm - +91 96731 23857: put A[index] in a variable and try again
+05/05/22, 6:21 pm - Animesh: ok
+05/05/22, 6:21 pm - Madhuri Roy: A[A[index]] is syntactically wrong I think?
+05/05/22, 6:21 pm - +91 96731 23857: yes not sure why but this is the problem
+05/05/22, 6:21 pm - Madhuri Roy: Yeah try this way
+05/05/22, 6:24 pm - +91 94921 74500: This message was deleted
+05/05/22, 6:28 pm - Animesh: <Media omitted>
+05/05/22, 6:31 pm - +91 96731 23857: no it does not just try swapping with two simple numbers in another code
+05/05/22, 6:32 pm - Animesh: I think then its a Scaler compiler issue
+05/05/22, 7:09 pm - +91 91722 78710: <Media omitted>
+05/05/22, 7:11 pm - +91 73558 18420: Same here...
+Did u try with long?
+05/05/22, 7:12 pm - +91 91722 78710: Nope .. but the array size is big .. the numbers are integers only.
+05/05/22, 7:12 pm - +91 91722 78710: This message was deleted
+05/05/22, 7:13 pm - +91 91722 78710: Also I am doing in JS .. so long int doesn't affect !!
+05/05/22, 8:56 pm - Animesh: Has someone attempted Max Distance without the solution approach?
+05/05/22, 11:43 pm - Sachin: Yes
+05/05/22, 11:43 pm - Sachin: I am missing out on one edge case
+05/05/22, 11:44 pm - Sachin: Need to solve tomo
+05/05/22, 11:48 pm - +91 91644 66553: @919131728831 is this link correct I am not able to access it... Can share the group name please
+05/05/22, 11:49 pm - Rishabh Sharma: may be we don't have access to it that's why we are not able to join it
+05/05/22, 11:50 pm - +91 91644 66553: Who do we reach out to for access
+05/05/22, 11:50 pm - +91 91644 66553: ??
+05/05/22, 11:51 pm - Rishabh Sharma: may be scaler support i think
+06/05/22, 5:41 am - +91 86581 34750: Hi Can anyone pls explain , why we can not set array element to zero in else condition of checkbit in last question of yesterday session?
+06/05/22, 6:16 am - +91 98696 22890: Me and @918335097165 had same doubt too... so we thought we'll first try jt ourselves
+06/05/22, 6:21 am - +91 86581 34750: Okau
+06/05/22, 6:22 am - +91 86581 34750: Then I shall also try today and share my findings , pls share your findings also
+06/05/22, 6:43 am - Animesh: Feb 22 academy. That was the only link. Maybe t
+Scaler support can help
+06/05/22, 7:10 am - +91 98696 22890: Sure
+06/05/22, 8:27 am - sourabh: This message was deleted
+06/05/22, 8:28 am - sourabh: see if u do in else condition ryt.. it will set the element to 0 even if we don't want..
+
+consider the case where at position i only one element has set bit 1 others have 0... do u want to make all the elements 0 ? no ryt.. because no matter what whatever pair u will take that will give u 0 only on that bit position..
+
+so before making an element to 0 we have to check whether we are having more then 2 elements which have that bit position set or not...
+06/05/22, 8:37 am - +91 85888 17677: Q2. Repeat and Missing Number Array
+
+Finally, I am able to resolve using my logic, not sure if it is a good solution or not. I am just feeling happy. :)
+06/05/22, 8:38 am - sourabh: 🥳..
+untill and unless it's optimised it's good..
+
+can u share ur approach to btw ?😃
+06/05/22, 8:43 am - +91 86581 34750: Thanks for the explanation now I got it
+06/05/22, 8:59 am - sourabh: 🤝🏻
+06/05/22, 9:04 am - +91 85888 17677: It's optimized, just it might not be a conventional solution.
+06/05/22, 9:20 am - +91 85888 17677: Bit Manipulation 1 Homework Question 2 
+
+Q2. Repeat and Missing Number Array
+
+You are given a read-only array of n integers from 1 to n.
+
+Each integer appears exactly once except A which appears twice and B which is missing.
+
+Return A and B.
+
+I think I am able to do it in O(N), please validate from the code. 
+
+My approach to using the 2 missing number approach. But since A appears twice and B is missing so for each XOR operation I used i = i+1 to N.
+
+ @919131728831 @919899417184 @919742288058 Thanks Guys :)
+06/05/22, 9:23 am - +91 85888 17677: <Media omitted>
+06/05/22, 9:24 am - +91 85888 17677: <Media omitted>
+06/05/22, 9:25 am - sourabh: images are not downloading
+06/05/22, 9:25 am - Animesh: @918209586719 Give me some time to study this. I don't code in Java.
+06/05/22, 9:30 am - +91 85888 17677: @919131728831 it's the same logic as missing 2 numbers.. You can think of adding numbers 1 to N in the array and doing the same as the missing number operation. This approach got stuck in my head ..
+06/05/22, 9:30 am - Animesh: ok
+06/05/22, 9:31 am - +91 85888 17677: So, 3 1 2 5 3 would be executed like 3 1 2 5 3 1 2 3 4 5
+06/05/22, 9:32 am - sourabh: yeah main idea behind is we have to xor with elements as well as with 1 to N.
+
+if m not wrong.
+06/05/22, 9:32 am - +91 85888 17677: correct
+06/05/22, 9:50 am - Animesh: Has someone implemented MaxDistance in Python?
+06/05/22, 9:51 am - +91 82819 94620: I am not able to think MaxDistance logic other that bruteforce can some one help ?
+06/05/22, 9:53 am - +91 85888 17677: location of Question ?
+06/05/22, 9:53 am - Animesh: Arrays 3
+06/05/22, 9:53 am - Animesh: Homework 1
+06/05/22, 9:54 am - +91 96731 23857: Think how sorting can help
+06/05/22, 9:55 am - Animesh: Can you provide your code? I've spent some time on this. Just want to understand the solution now.
+06/05/22, 9:57 am - +91 82819 94620: But if we do sorting the array elements will not be inplace and the i and j th position will get disturb
+06/05/22, 9:58 am - Animesh: Make a tuple array which stores the element value and its original index and then sort this tuple array. I'm struggling to understand the future steps as to how from here they calculated the max diff
+06/05/22, 10:01 am - +91 96731 23857: Think how u will b able to sort and keep track of it's indexes
+06/05/22, 10:01 am - Mayank Sagar: this approach is a little hard to manage, try making a suffixmax array and then compare the original array values with suffixmax array
+06/05/22, 10:02 am - +91 96731 23857: Now one data structure comes to mind is hashmap but can you sort hashmap?
+06/05/22, 10:03 am - +91 82819 94620: Ok , got it i will check in that direction  .
+06/05/22, 10:03 am - +91 96731 23857: So now think of which data structure can help u keep track as well as can be sorted
+06/05/22, 10:03 am - Animesh: ok thx 🙏🏻
+06/05/22, 10:04 am - +91 96731 23857: class Solution:
+    # @param A : tuple of integers
+    # @return an integer
+    def maximumGap(self, A):
+
+        valueIndex=[]
+
+        for i in range(len(A)):
+            valueIndex.append([A[i], i])
+
+        valueIndex.sort(key=lambda x:x[0])
+
+        ans=0
+        maxIndex=valueIndex[-1][1]
+
+        for i in range(len(A)-2, -1, -1):
+            ans=max(ans, maxIndex-valueIndex[i][1])
+            maxIndex=max(maxIndex, valueIndex[i][1])
+
+        return ans
+06/05/22, 10:04 am - Animesh: 🙏🏻🙏🏻🙏🏻
+06/05/22, 10:05 am - +91 82819 94620: I can use a vector of pairs and then sort it .
+06/05/22, 10:06 am - +91 96731 23857: exactly
+06/05/22, 10:10 am - +91 96731 23857: but did u think how sorting will help
+06/05/22, 10:10 am - +91 85888 17677: Are we trying for brute force N2 or less than that
+06/05/22, 10:10 am - Animesh: O(N)
+06/05/22, 10:10 am - Animesh: Nsquare will give TLE
+06/05/22, 10:20 am - +91 88719 60116: Is notes uploaded for Bit Manipulation - 2 Session?
+06/05/22, 10:24 am - sourabh: nope
+06/05/22, 12:05 pm - +91 88869 93508: Has notes been uploaded for yesterday lecture?
+06/05/22, 12:05 pm - +91 88869 93508: ok
+06/05/22, 12:42 pm - Animesh: Can a^b be negative? If yes then under what kind of a scenario?
+06/05/22, 12:46 pm - sourabh: as sir said... that won't be the case... bit manip works differently with negative nmbrs..
+06/05/22, 12:46 pm - sourabh: so the nmbrs would always be positive
+06/05/22, 12:46 pm - Animesh: ok thx
+06/05/22, 12:50 pm - +91 77299 87431: Guys I uploaded the notes 
+Sorry for the delay.
+06/05/22, 12:50 pm - +91 77299 87431: and Girls*
+06/05/22, 12:51 pm - Mayank Sagar: if a is positive ans b is negative or vice versa then xor will be negative
+06/05/22, 12:51 pm - Mayank Sagar: *and
+06/05/22, 12:54 pm - +91 96435 08083: Thanks sir
+06/05/22, 1:24 pm - +91 73558 18420: Did you find the issue....is it working now??
+06/05/22, 1:25 pm - +91 73558 18420: @919172278710
+06/05/22, 1:26 pm - +91 91722 78710: Nope ... Not yet .. will raise a TA request .. now
+06/05/22, 1:26 pm - +91 91722 78710: Did you find solution ?
+06/05/22, 1:27 pm - +91 73558 18420: TA not replying
+06/05/22, 1:30 pm - +91 91722 78710: Ohh ... This is problematic ... Will try it once .. if still didn't receive any reply will check the hints and solutions .. in the hints tab..
+06/05/22, 1:43 pm - Animesh: 🙏🏻 thx
+06/05/22, 5:15 pm - +91 98696 22890: <Media omitted>
+06/05/22, 5:47 pm - +91 81060 40994: <Media omitted>
+06/05/22, 5:48 pm - +91 81060 40994: Hint solution for submatrix sum query..can someone explain why mod is added in line 12
+06/05/22, 6:12 pm - +91 98994 17184: While creating prefix matrix sum could exceed the limit
+06/05/22, 6:21 pm - +91 81060 40994: Thats understood, but I was asking about +mod
+06/05/22, 6:21 pm - +91 81060 40994: preSum[i][j] = (A[i-1][j-1] + preSum[i-1][j] + preSum[i][j-1] - preSum[i-1][j-1] + mod) % mod;
+06/05/22, 6:53 pm - Rittik: To handle the negative no.s mod, for e.g if we do (-7%4) ans must me -1 right, but compiler don't work that way, it will give -3, so to handle that we must do (-7+4)%4 then we will get -1
+06/05/22, 6:54 pm - +91 81060 40994: understood, thanks
+06/05/22, 7:05 pm - +91 81234 19100: Can anyone suggest good site for pl/sql
+06/05/22, 7:12 pm - sourabh: yeah only if u r not using python 🤐
+06/05/22, 7:12 pm - +91 97008 71400: It depends on oracle or Mssql
+06/05/22, 7:13 pm - +91 97008 71400: Every database has few concepts that are specific to them
+06/05/22, 7:13 pm - +91 91765 82585: <Media omitted>
+06/05/22, 7:13 pm - +91 91765 82585: Can anypne help me this answer
+06/05/22, 7:14 pm - +91 81234 19100: Here I wanted to konw more on stored procedures andd functions
+06/05/22, 7:14 pm - +91 81234 19100: And relates to SQL
+06/05/22, 7:15 pm - +91 99516 57219: https://www.sqlshack.com/sql-server-training/
+06/05/22, 7:15 pm - +91 99516 57219: This website contains all basics to highly advanced concepts
+06/05/22, 7:16 pm - +91 81234 19100: Oaky, Thanks for the information👍.
+06/05/22, 7:17 pm - +91 97008 71400: https://youtube.com/playlist?list=PL_nMO-wncU0nYz_BFwHJENd2YWoobA9Ly
+06/05/22, 7:18 pm - +91 97008 71400: If you are fond of video format, you can go through this playlist and it's really good
+06/05/22, 7:19 pm - +91 81234 19100: Yes,looks Good.
+06/05/22, 7:20 pm - +91 81234 19100: Thanks alot👍.
+06/05/22, 7:25 pm - +91 94921 74500: I'm not sure , try this
+Use stack and insert all the elements whenever you get A or B , pop and check the last element if they form AB or BA pop it,  if not insert again till length of string.
+Returns elements from stack .
+06/05/22, 8:28 pm - Animesh: <Media omitted>
+06/05/22, 8:28 pm - Animesh: The approach taught in the class is failing for this case
+06/05/22, 8:28 pm - Animesh: <Media omitted>
+06/05/22, 8:28 pm - Animesh: <Media omitted>
+06/05/22, 8:29 pm - Animesh: Does anyone know how to fix this??
+06/05/22, 8:29 pm - +91 98100 39795: You have to keep traversing column wise even after a match is found
+06/05/22, 8:29 pm - Mayank Sagar: Don't return directly after finding one
+06/05/22, 8:29 pm - +91 98100 39795: You can use max function
+06/05/22, 8:29 pm - Mayank Sagar: Return the minimum value of all
+06/05/22, 8:29 pm - +91 73558 18420: Do this...
+06/05/22, 8:29 pm - +91 98100 39795: Min*
+06/05/22, 8:36 pm - Animesh: Thx everyone🙏🏻
+06/05/22, 8:42 pm - Siddhant: Not sure if you have noticed, many approach and sudo code are not working.. If remember the bitwise operator program had same issue
+06/05/22, 10:07 pm - Animesh: <Media omitted>
+06/05/22, 10:07 pm - Animesh: Its giving three times more value
+06/05/22, 10:08 pm - Animesh: <Media omitted>
+06/05/22, 10:08 pm - Animesh: <Media omitted>
+06/05/22, 10:11 pm - +91 98963 01552: You are multiplying by 1<<i
+06/05/22, 10:11 pm - +91 98963 01552: In line 13
+06/05/22, 10:12 pm - +91 98963 01552: Not required in question
+06/05/22, 10:12 pm - +91 98963 01552: Also do modulus
+06/05/22, 10:13 pm - Animesh: Oh shit. Just the bit count is needed. Thx 🙏🏻
+06/05/22, 10:13 pm - +91 98963 01552: 👍👍
+06/05/22, 10:13 pm - Animesh: I was calculating the values as well
+06/05/22, 10:13 pm - +91 98963 01552: That was done in lecture
+06/05/22, 10:14 pm - Animesh: yeah
+06/05/22, 10:15 pm - +91 98768 60580: This is not the exactly same question we discussed in the class ...
+06/05/22, 10:16 pm - Animesh: I know. I was just absent-mindedly trying to calculate the value of the matrix. We just have to return the pair count sum and not the value of it.
+06/05/22, 10:18 pm - +91 98768 60580: 👍👍
+06/05/22, 10:20 pm - +91 84311 83110: Group link please?
+06/05/22, 10:26 pm - Animesh: <Media omitted>
+06/05/22, 10:42 pm - +91 88869 93508: has anybody solved below question?
+if possible, please share code : 
+Given an integer A.
+Two numbers, X and Y, are defined as follows:
+
+X is the greatest number smaller than A such that the XOR sum of X and A is the same as the sum of X and A.
+Y is the smallest number greater than A, such that the XOR sum of Y and A is the same as the sum of Y and A.
+Find and return the XOR of X and Y.
+
+NOTE 1: XOR of X and Y is defined as X ^ Y where '^' is the BITWISE XOR operator.
+06/05/22, 11:08 pm - Animesh: <Media omitted>
+06/05/22, 11:08 pm - Animesh: Only partial scoring on submission
+06/05/22, 11:09 pm - Animesh: Is there an O(1) TC solution?
+06/05/22, 11:14 pm - +91 94921 74500: Which question?
+06/05/22, 11:17 pm - Animesh: ☝🏻
+06/05/22, 11:50 pm - +91 98994 17184: need help with Repeat and Missing Number Array question
+06/05/22, 11:52 pm - +91 98994 17184: my code https://codeshare.io/kmPQwY
+07/05/22, 12:20 am - Rishabh Sharma: yes
+07/05/22, 12:53 am - Rishabh Sharma: Y in this is left shit of A with all the bits after msb 0 and X is the toggle of Bits from msb in A... including msb
+07/05/22, 3:08 am - Rittik: This message was deleted
+07/05/22, 3:15 am - Rittik: public class Solution {
+    public int solve(int A) {
+        int msb = (int)(Math.log(A)/Math.log(2));
+        int ans = 0;
+
+        for(int i=msb; i>=0; i--){
+            int checkBit = A>>i & 1;
+            if(checkBit == 0){
+                ans += (1<<i);
+            }
+        }
+
+        return ans+(1<<(msb+1));
+    }
+}
+07/05/22, 7:58 am - Animesh: <Media omitted>
+07/05/22, 8:30 am - +91 88869 93508: Thank you 😊
+07/05/22, 9:32 am - Animesh: For this question if we just take a xor with 1111 (as far as the MSB of A is) and add (1 << MSB + 1) then that would be the quickest way to do it. But does anyone know how to implement it?
+07/05/22, 9:37 am - +91 95555 31433: (1 << 32) -1 makes all value 1
+07/05/22, 9:37 am - Animesh: Thx 🙏🏻
+07/05/22, 9:45 am - Animesh: <Media omitted>
+07/05/22, 10:53 am - +91 81060 40994: Mohit Yadav shared his resume in one of the masterclass. Does anyone have it or remember the title of session?
+07/05/22, 11:56 am - +91 88869 93508: Hi rittik, it it possible to explain logic?
+07/05/22, 12:17 pm - Rittik: @918886993508 This is the logic only.. you can take few examples and try, for this only all the conditions will satisfy
+07/05/22, 12:24 pm - +91 88869 93508: ok thank you
+07/05/22, 1:16 pm - +91 90362 82869: Hi, just solved this question, and tried to explain the answer and its approach under discussion with O(1).
+07/05/22, 1:29 pm - +91 90362 82869: <Media omitted>
+07/05/22, 1:30 pm - +91 90111 62494: can you please explain this?
+I understood first part (xor ^ A) can't understand the second part of return.
+07/05/22, 1:43 pm - Animesh: <Media omitted>
+07/05/22, 1:47 pm - Animesh: The best way to understand this problem is by keenly observing any test case and its behaviour and then programming the same
+07/05/22, 2:23 pm - +91 99419 65159 left
+07/05/22, 3:00 pm - +91 94921 74500: How u get it actually the context and code are different!!!!
+07/05/22, 3:01 pm - Animesh: Can you elaborate/
+07/05/22, 3:01 pm - Animesh: *?
+07/05/22, 3:04 pm - +91 94921 74500: I'm asking that based on question u have analysed came up with a solution. But question description is quite different..
+07/05/22, 3:05 pm - Animesh: That could be true. I was just going through the test case and analysing how the final answer reflects vis-a-vis the input and then found the direct way to arrive at the answer.
+07/05/22, 3:18 pm - +91 96731 23857: Does anyone know why I am getting black screen in mentor session recordings?
+07/05/22, 3:59 pm - Animesh: Anyone facing weird compiler behaviour for Smallest XOR -> Python
+07/05/22, 3:59 pm - Animesh: ?
+07/05/22, 4:26 pm - +91 99516 57219: I am facing same issue some times
+07/05/22, 4:32 pm - Rishabh Sharma: i think that's the only way to find out that what we need to do in this ques
+07/05/22, 4:47 pm - +91 98994 17184: Me too
+07/05/22, 4:50 pm - Animesh: Can anyone share the approach for Smallest XOR?
+07/05/22, 4:59 pm - +91 96435 08083: Think that if xor with number itself  then the xor will be 0 that is minimum. 
+So iterate the bits from MSB and check set bits and  and generate x by suing x += 1 << i,  do this for B number of MSB.
+
+There is one catch, if B is greater than the set bits in A then for rest set bits start setting bits from LSB.
+07/05/22, 5:06 pm - +91 96435 08083: For example ,
+A = 12, B = 4
+Where binary of A is 1100,
+We're only 2 sit bits are there so X will be 12 to make the xor A^ X  minimum but B is 4, that means X  should have 4 set bits,
+So need to set 2 more bits in X , that we can set bits that is unset.
+Set remaining bits starting from 0 bit index, because we need minimum XOR.
+
+So X will be 1111 = 15
+A^ X = 12 ^ 15 = 1100 ^ 1111 = 0011 = 3 that is minimum possible.
+07/05/22, 5:07 pm - Animesh: So, I think I've implemented this incorrectly
+07/05/22, 5:07 pm - Animesh: <Media omitted>
+07/05/22, 5:07 pm - Animesh: <Media omitted>
+07/05/22, 5:07 pm - Animesh: I need to add the remaining set bits as well
+07/05/22, 5:09 pm - +91 96435 08083: Another example 
+A = 24 = 11000
+B = 4
+So X will be 11011 = 27 
+A^ X = 11000 ^ 11011 = 00011 = 3 that is minimum
+07/05/22, 5:09 pm - Animesh: Thanks for such a detailed explanation. I'm not adding the 11 at the start. 🙏🏻🙏🏻
+07/05/22, 5:11 pm - +91 96731 23857: start adding set bits from right till end here u will add at the bit position where A has set bits now in another loop start from left and in this loop add bits at bit position where 0 is present in A now u will add total B bits combining iteration two loops
+07/05/22, 5:12 pm - +91 96435 08083: You can do one thing, 
+Use can use one loop to check set bits from MSB side and calculate X += 1 << I and do B -= 1; 
+and then check if B is > 0 then again run a loop starting from 0 and set the unset bits of X , X += 1 << i
+07/05/22, 5:12 pm - +91 96435 08083: 👍🏻
+07/05/22, 5:24 pm - Sarbjot: <Media omitted>
+07/05/22, 5:25 pm - Sarbjot: Y Is 1<<noOfBits i.e 3 in this case
+07/05/22, 5:25 pm - Sarbjot: Not 4
+07/05/22, 5:25 pm - Animesh: 👍🏻
+07/05/22, 5:26 pm - Sarbjot: <Media omitted>
+07/05/22, 5:51 pm - Sarbjot: <Media omitted>
+07/05/22, 6:00 pm - +91 98994 17184: "Top LeetCode posts that you cannot miss"
+
+1) For Online Assessment + Phone Screen + Onsite Rounds:
+- https://lnkd.in/dXB7xbsc
+- https://lnkd.in/dhgnCHDh
+- https://lnkd.in/dV65F9s2
+- https://lnkd.in/dmMsTEXb
+- https://lnkd.in/dyCbzm7P
+- https://lnkd.in/dvPHRbi3
+- https://lnkd.in/d5C5AfDB
+
+2) For Behavioural Rounds:
+- https://lnkd.in/daWKBYxu
+- https://lnkd.in/d2VThaPC
+- https://lnkd.in/dUAGGSRg
+- https://lnkd.in/dV9kQ2e9
+- https://lnkd.in/dRsXPyfW
+
+3) For System Design Rounds (LLD + HLD):
+- https://lnkd.in/dYqeeU8v
+- https://lnkd.in/gZ_AEPTP
+- https://lnkd.in/dFXbu9sk
+- https://lnkd.in/dCcyUVuJ
+- https://lnkd.in/dcu9mZeF
+- https://lnkd.in/dFBM9aPg!
+- https://lnkd.in/ddv7-88p
+
+4) Top Interview Experiences to go through:
+- https://lnkd.in/d5THPkkW
+- https://lnkd.in/d9cTpYKE
+- https://lnkd.in/dcAdcben
+- https://lnkd.in/dhFyWtEf
+- https://leetcode.com/discuss/interview-experience/776280/Google-or-L3-or-Bangalore-or-July-2020-Offer
+- https://leetcode.com/discuss/interview-experience/455354/Give-Away-Mistakes-i-did-in-interview-and-which-should-be-avoided.
+- https://leetcode.com/discuss/interview-experience/646712/FAANG-Struggle-to-Offer-Amazon-or-SDE2-or-Seattle-or-May-2020-Offer
+
+5) Some Strategies To Follow:
+- https://leetcode.com/discuss/study-guide/698684/Interview-Preparation-for-Beginners-DS-or-Algorithms-or-OS-or-System-Design
+- https://leetcode.com/discuss/study-guide/1177039/%22Practice-More-Learn-More%22-greater-Study-Guide-and-Interview-Preparation-Using-LEETCODE
+- https://leetcode.com/discuss/study-guide/623011/A-guide-for-dummies-(like-me)
+- https://leetcode.com/discuss/study-guide/2009997/How-to-get-started-with-DSA-and-practice-Leetcode-Efficiently
+07/05/22, 6:19 pm - +91 80170 55548: 👍🏻
+07/05/22, 8:31 pm - sourabh: any1 did min swap 1 ?
+i want to know the intuition behind sliding window and kadanes algo🤔
+07/05/22, 8:37 pm - sourabh: <Media omitted>
+07/05/22, 8:41 pm - Animesh: 😅😅
+07/05/22, 8:43 pm - +91 88869 93508: 😄😄
+07/05/22, 8:47 pm - Aakash Chandra Srivastava: 🤣🤣🤣🤣
+07/05/22, 8:47 pm - Aakash Chandra Srivastava: Best is to watch the video hint
+07/05/22, 8:47 pm - Animesh: +1
+07/05/22, 8:48 pm - Aakash Chandra Srivastava: I used it for first time.
+Really helped in solving the problem
+07/05/22, 8:50 pm - Sarbjot: Hint 1 is for brute force approach
+07/05/22, 8:50 pm - Sarbjot: It would be of no use if you already know the brute force
+07/05/22, 9:08 pm - +91 98994 17184: link of the sheet -> https://docs.google.com/spreadsheets/d/1UAZ92QeGmHaCEksxhqnR5bfCivdVbY7S1s_n9K9nUp4/edit
+08/05/22, 6:47 am - +91 97733 40195 joined using this group's invite link
+08/05/22, 10:58 am - +91 84467 42971: 👍🏼
+08/05/22, 10:59 am - +91 90078 39423: Can anyone share the link of watsapp group which Yash has created.
+08/05/22, 11:10 am - +91 88869 93508: +1
+08/05/22, 11:19 am - +91 96002 57033: +1
+08/05/22, 11:19 am - Aakash Chandra Srivastava: +1^100
+08/05/22, 11:23 am - +91 96860 59262: It is same as 1
+08/05/22, 11:26 am - Animesh: 101
+08/05/22, 11:26 am - +91 98963 01552: +1
+08/05/22, 11:26 am - Aakash Chandra Srivastava: 🤣 that's why it's+1
+08/05/22, 11:27 am - Animesh: Can you explain? How is 1^100 1?
+08/05/22, 11:27 am - Aakash Chandra Srivastava: 1 to power 100
+08/05/22, 11:27 am - Animesh: Oh I thought xor
+08/05/22, 11:27 am - Aakash Chandra Srivastava: Haha no
+08/05/22, 11:27 am - Animesh: 😅😅
+08/05/22, 11:28 am - Animesh: So, how does compiler distinguish '^' as power or xor?
+08/05/22, 11:28 am - Animesh: For python power is **
+08/05/22, 11:29 am - Aakash Chandra Srivastava: Good question.
+08/05/22, 11:29 am - +91 96860 59262: Animesh is overdosed with bit manipulations.
+08/05/22, 11:30 am - Animesh: Acrimonious Avarice of a Bit Binge 😉
+08/05/22, 11:32 am - +91 96860 59262: There is never power calculated using ^ it is only in the calculators shown like that there is no single operator for calculating power.
+08/05/22, 11:32 am - Animesh: ok
+08/05/22, 11:33 am - Aakash Chandra Srivastava: 👍🏻
+08/05/22, 11:45 am - +91 99711 12208 left
+08/05/22, 12:01 pm - +91 90520 50404: This message was deleted
+08/05/22, 12:14 pm - Venu Scaler: rearrange array : quest says return array but provided method has void return type.. can anyone who already solved it  clarify
+08/05/22, 12:15 pm - sourabh: then result array would have been passed as an argument
+08/05/22, 12:16 pm - sourabh: can u send the function signature mentioned in the code by default?
+08/05/22, 12:16 pm - Venu Scaler: i get it but whether we should return anything???
+08/05/22, 12:16 pm - Venu Scaler: as in the questions example it says return array
+08/05/22, 12:17 pm - sourabh: nope... if it's passed as an argument u just need to make the changed there.. 
+as we know arrays are passed by refference.. so whatever changes u would make it will autoreflected
+08/05/22, 12:18 pm - Venu Scaler: yup thats the property of objects.  let me tey submitting then.. thanks for replying
+08/05/22, 12:18 pm - sourabh: 👍🏻
+08/05/22, 12:23 pm - +91 88869 93508: <Media omitted>
+08/05/22, 12:24 pm - Venu Scaler: he wants us to practise the same tech which he taught yesterday
+08/05/22, 12:26 pm - Venu Scaler: but you can also try to resolve it in better way if there exists any such way.. basically he wants us to remember the technique taught yesterday
+08/05/22, 12:28 pm - +91 88869 93508: Yes venu, that only I was looking for, how to resolve based on yesterday lecture
+08/05/22, 12:29 pm - Venu Scaler: oh ok.. i taught u just want to confirm... iam yet to complete assignments....
+08/05/22, 12:30 pm - +91 88869 93508: Me too 😊
+08/05/22, 4:03 pm - +91 96192 84251: Does anyone know if these sessions are also recorded , https://www.scaler.com/event/roadmap-how-to-make-best-use-of-learning-ecosystem-crack-offers/
+08/05/22, 4:15 pm - +91 99537 76037: <Media omitted>
+08/05/22, 4:16 pm - +91 99537 76037: Any idea why this one is giving incorrect  value?
+08/05/22, 4:20 pm - +91 98211 63140: m = A[0].size()-1
+08/05/22, 4:27 pm - +91 99537 76037: 0thanks for pointing out the error
+08/05/22, 4:27 pm - +91 99537 76037: 🙏
+08/05/22, 5:44 pm - Animesh: Why are we asked to return modulo of 10 pow 9 + 7? What is the significance of 7 in this?
+08/05/22, 5:44 pm - +91 99537 76037: I asked this query to yahnit earlier he said we will get reply in advance class 🙂
+08/05/22, 5:45 pm - Animesh: ok thx 🙏🏻
+08/05/22, 6:02 pm - Animesh: Does anyone have the schedule of the advance module which Yash showed in that excel sheet?
+08/05/22, 6:06 pm - +91 94921 74500: Take screenshot of the excel sheet from recording session
+08/05/22, 6:06 pm - Sarbjot: It is the largest prime no possinle for integer!! 32bits !! So that it doesn’t have any multiple and help us to reduce the range and not overflow
+08/05/22, 6:07 pm - Animesh: Thx 🙏
+08/05/22, 6:20 pm - +91 95555 31433: This message was deleted
+08/05/22, 6:28 pm - +91 98994 17184: anyone solved the question maximum staisfaction
+08/05/22, 6:28 pm - Animesh: Yes
+08/05/22, 6:30 pm - +91 98994 17184: can help me in understanding the issue in my code
+08/05/22, 6:30 pm - +91 98994 17184: https://codeshare.io/K8nkV7
+08/05/22, 6:33 pm - Animesh: I am not able to understand what the code does. I implemented the video hint approach.
+08/05/22, 6:34 pm - Animesh: The mask one. I was not able to figure out how to implement the min 4 count scenario while keeping track of the numbers we have already counted starting from MSB. So, that bit masking thing is something which I learnt for the first time in this question. Check it out. That way we can simply retain all the set bits to the left of the current bit without having to keep an extra count variable (which doesn't even work).
+08/05/22, 6:37 pm - +91 98994 17184: actually it was discussed in class i used that only
+08/05/22, 6:39 pm - Animesh: The question is slight different. The class question I think was of max AND. This one requires at least 4 occurrence of set Bits which requires a slight adjustment to the approach.
+08/05/22, 6:39 pm - +91 98994 17184: yeah thats why taking count as 4
+08/05/22, 6:41 pm - Rittik: Same only... There it was >=2, here it will be >=4
+Rest of the code will be same
+08/05/22, 6:41 pm - Animesh: What does .get and .set do?
+08/05/22, 6:42 pm - Animesh: I'll try that. For some reason my program was giving a math domain error.
+08/05/22, 6:42 pm - +91 98994 17184: got the issue 
+actually in inside loop i am using i instead j
+08/05/22, 6:42 pm - +91 94921 74500: This message was deleted
+08/05/22, 6:43 pm - +91 98994 17184: added comment where the issue was
+08/05/22, 6:43 pm - +91 98994 17184: get is used to get the element at that index similar A[i]
+08/05/22, 6:43 pm - +91 94921 74500: Check 8th line do A get(j)
+08/05/22, 6:43 pm - +91 98994 17184: similarly set is use to set the value at the index
+08/05/22, 6:44 pm - Animesh: ok
+08/05/22, 6:44 pm - +91 98994 17184: yeah done
+08/05/22, 6:44 pm - +91 94921 74500: Is it working?
+08/05/22, 6:45 pm - +91 98994 17184: yes
+08/05/22, 6:46 pm - +91 94921 74500: Then fine everything looks good..!!
+08/05/22, 6:46 pm - +91 98994 17184: thanks @919131728831 @919492174500 for helping me out
+08/05/22, 6:46 pm - Animesh: 👍🏻
+08/05/22, 6:51 pm - +91 94921 74500: Anyone done the implement power function?
+08/05/22, 6:51 pm - Animesh: yes
+08/05/22, 6:51 pm - +91 94921 74500: I'm getting tle....
+08/05/22, 6:52 pm - Animesh: Use recursion by dividing B. Brute force will give TLE
+08/05/22, 6:52 pm - Animesh: <Media omitted>
+08/05/22, 6:55 pm - +91 94921 74500: It was submitted?
+08/05/22, 6:55 pm - Animesh: yes
+08/05/22, 7:25 pm - Sarbjot: Where is your base conditin ?
+08/05/22, 7:25 pm - Sarbjot: B = 0 or B = 1 ?
+08/05/22, 7:27 pm - Animesh: Don't need it. Pow is an inbuilt function, and also for B == 1, the else statement executes which already has A.
+08/05/22, 7:30 pm - Animesh: I'm getting TLE for the Pair Sum divisible by M while implementing the approach taught in class. The test case is huge. Anyone else facing the same issue?
+08/05/22, 7:30 pm - Animesh: https://codeshare.io/loq8MB
+08/05/22, 7:32 pm - +91 94921 74500: Hey question is quite different, in the session he taught how to make pairs.
+But in this question make pairs which are disvisible by M..
+08/05/22, 7:44 pm - Animesh: Its the same question. Wasn't taking mod 10 pow 9 + 7. Silly mistake 🙃
+08/05/22, 7:44 pm - Animesh: Thx for replying 🙏🏻
+08/05/22, 7:49 pm - +91 90111 62494: <Media omitted>
+08/05/22, 7:50 pm - Animesh: Which test case?
+08/05/22, 7:54 pm - +91 90111 62494: it was with big array of size more than 500 but all were positive nubmer... test went fine faced this error when submitted.. I dont have exact snap of the test now
+08/05/22, 7:55 pm - +91 90111 62494: thought somebody might notice anything missing by looking at the code :)
+08/05/22, 7:56 pm - Animesh: Maybe a language issue then. Java folks might help.
+08/05/22, 7:56 pm - Animesh: This is my solution if you want to compare
+08/05/22, 7:56 pm - +91 90111 62494: this is cpp
+08/05/22, 8:13 pm - +91 90575 26754: Yeah for me too
+08/05/22, 8:14 pm - Animesh: ok
+08/05/22, 8:36 pm - +91 94921 74500: Is the solution is submitted?
+08/05/22, 8:36 pm - Animesh: yes
+08/05/22, 8:36 pm - Animesh: You deleted this message
+08/05/22, 8:49 pm - Sarbjot: Ans<0 would make (ans+mod)%mod
+08/05/22, 8:51 pm - +91 90111 62494: Yes, thats intentional.
+08/05/22, 8:51 pm - Sarbjot: You haven’t mod it after adding
+08/05/22, 8:53 pm - +91 90111 62494: I think not required..
+just tried still same error
+08/05/22, 8:59 pm - +91 90111 62494: It worked!
+I just changed map type to <long, long> and it went fine
+09/05/22, 9:14 am - Animesh: Has anyone done Count of Divisors - Python?
+09/05/22, 9:15 am - Animesh: Sieve of Eratosthenes solution => TC: O(N^1/3)
+09/05/22, 10:38 am - Rishabh Tatia: Yes
+09/05/22, 10:38 am - Animesh: Please provide a codeshare link
+09/05/22, 11:34 am - +91 91644 66553: Has anyone done Count Of Divisors homework problem in Java?
+09/05/22, 11:35 am - Animesh: There's a java solution in the discussion section
+09/05/22, 11:36 am - +91 91644 66553: Okay thanks
+09/05/22, 11:37 am - Animesh: 👍🏻
+09/05/22, 12:29 pm - +91 98912 77044: Hii all, I am not able to solve multiple questions even after looking at the hint..is it for me or everyone is facing this..like count of divisor(seive of erothesis) and large power(fermats theorem) Will these be covered in later lectures ?
+09/05/22, 12:49 pm - +91 98994 17184: Same here 
+Even for bit manipulation class I faced same
+09/05/22, 12:51 pm - Sachin: Same here +1
+09/05/22, 12:52 pm - +91 89811 70012: Same also
+09/05/22, 12:53 pm - Rishabh Sharma: +1...when the TA tells me about the solution to be implemented..which is an approach or theoram i have never studied in my life...i first have to study about it and then i implement is...and for fermat's theoram i am waiting this to be taught in advance cause i am not able to understand it anyway
+09/05/22, 12:55 pm - +91 84399 71861: Same with me
+09/05/22, 1:25 pm - Animesh: If someone has understood the optimal solution for Count the Divisors please clarify the following
+09/05/22, 1:25 pm - Animesh: When we are calculating the total divisors we are using the powers of each prime factor incrementing it by 1 and then taking a product
+09/05/22, 1:26 pm - Animesh: So, the way I understand it is that if there are n prime factors we can assume each one of them to be a bag. The powers can represent the number of items in the bag. That way the every divisor would be a unique combination of a product. So, the number of unique combinations would simply be the product of all the items in each bag. So, then why do +1?
+09/05/22, 1:28 pm - Animesh: Does it represent the possibility of not counting that prime factor at all??
+09/05/22, 1:28 pm - Animesh: or something else?
+09/05/22, 1:50 pm - +91 88869 93508: have we been taught "sieve of eratosthenes"?
+09/05/22, 1:50 pm - Animesh: You deleted this message
+09/05/22, 1:50 pm - +91 88869 93508: ok thank you
+09/05/22, 1:50 pm - Animesh: No
+09/05/22, 1:56 pm - Siddharth Modi: Same here too
+09/05/22, 1:59 pm - +91 98912 77044: No
+09/05/22, 2:01 pm - +91 82819 94620: I think some of these will be covered in prime number class . But we can ask our instructor about this. Since every one is facing issue we can request instructor  to cover these theoram during doubt session .
+09/05/22, 2:01 pm - +91 77299 87431: Hey everyone
+
+We will touch upon little fermat and sieve in the next class.
+09/05/22, 2:01 pm - +91 77299 87431: - Yash
+09/05/22, 2:02 pm - Aakash Chandra Srivastava: 👍🏻
+09/05/22, 2:02 pm - +91 82819 94620: Thank you 👍🏻😊
+09/05/22, 2:08 pm - +91 88869 93508: Thank you
+09/05/22, 2:08 pm - Animesh: 👍🏻
+09/05/22, 2:17 pm - +91 98912 77044: 👍
+09/05/22, 2:54 pm - sourabh: 🥹🤝🏻
+09/05/22, 2:56 pm - Sarbjot: I haven’t even open homework yet 😅😂😂
+09/05/22, 3:08 pm - +91 88869 93508: Hi,
+For this question , i have not used seive of erothesis. Solved it using what we have taught.
+Fortunately it got accepted .
+
+public class Solution {
+    public ArrayList<Integer> solve(ArrayList<Integer> A) {
+        int n = A.size();
+        ArrayList<Integer> ans = new ArrayList<Integer>();
+
+        for(int i=0; i<n; i++){
+            int count = 0;
+            int num = A.get(i);
+            int sq_num= (int)Math.sqrt(num);
+            for(int j=1; j*j <= num; j++ ){
+                if((num % j) == 0){
+                    count++;
+                    if(num / j != j){
+                        count++;
+                    }
+                }
+            }
+
+           
+
+            ans.add(count );
+        }
+
+        return ans;
+        
+    }
+}
+09/05/22, 3:08 pm - Animesh: For Python the sqrt approach is not getting accepted
+09/05/22, 3:09 pm - +91 88869 93508: ooooo ok
+09/05/22, 3:11 pm - +91 82819 94620: For c++ also it was not getting accepted.
+09/05/22, 3:15 pm - +91 88869 93508: how come for java, IDE accepted it 😃
+09/05/22, 3:22 pm - Animesh: Now I understood. We are calculating the power of every prime factor by dividing the array element by its prime factor. The reason we are adding 1 to every count is because 1 is the factor of every number. Hooooffff 😌
+09/05/22, 3:29 pm - +91 98994 17184: why taking sqrt when already doing j*j 
+
+This. condn i didn't understood if(num / j != j){
+                        count++;
+                    }
+09/05/22, 3:29 pm - Rishabh Sharma: +1
+09/05/22, 3:30 pm - +91 98994 17184: first one i got it , he might be earlier using sqrt func but it would be giving tle so used j*j
+09/05/22, 3:31 pm - Rishabh Sharma: hmmm..but why dividing by j?
+09/05/22, 3:33 pm - +91 98994 17184: to include the number also a divisor
+09/05/22, 3:33 pm - +91 99537 76037: That is for calculating pairs
+09/05/22, 3:35 pm - +91 99537 76037: Say for 9 
+1 3 3 9 
+3 cannot be calculated twice in 1 iteration but when you  iterate for 1 9 will be taken care as c++
+09/05/22, 3:37 pm - +91 98994 17184: its complexity will be nlognum
+09/05/22, 3:42 pm - +91 88869 93508: Hi rajat, yes
+09/05/22, 3:42 pm - +91 88869 93508: yes
+09/05/22, 3:43 pm - +91 98994 17184: for calculating the pair num itself and 1
+09/05/22, 3:44 pm - +91 88869 93508: yes
+09/05/22, 3:44 pm - Rishabh Sharma: Got it...Thanks guys
+09/05/22, 3:44 pm - Rishabh Sharma: 👍
+09/05/22, 3:45 pm - +91 88869 93508: This message was deleted
+09/05/22, 4:59 pm - +91 98963 01552: This message was deleted
+09/05/22, 7:14 pm - +91 95555 31433: +1
+09/05/22, 7:19 pm - +91 98994 17184: I think Yash sir will take doubt session class
+09/05/22, 8:13 pm - sourabh: in python
+(a-b)%m = (a%m - b%m)%m 
+
+ryt ?
+09/05/22, 8:14 pm - Animesh: I think you can directly compute LHS in Python
+09/05/22, 8:14 pm - Animesh: It can store upto pow(10, 200)
+09/05/22, 8:15 pm - sourabh: yeah that's correct.. but sometimes they specially mentioned the answer shud be module ..... something
+09/05/22, 8:16 pm - sourabh: i think in python both the way would work.
+(a%m -b%m + m)%m
+or
+(a%m -b%m)%m
+09/05/22, 8:17 pm - Animesh: The upper method would reduce your marks in the interview. I was asked the same question and so I just said that Python always returns a positive remainder. That's what's expected. Never answer in generic terms when the question is Language specific.
+09/05/22, 8:18 pm - Animesh: The upper method is of no significance vis-a-vis Python
+09/05/22, 8:18 pm - sourabh: ohh 😮.
+so i shud tell the second way ryt ?
+09/05/22, 8:19 pm - sourabh: thanks bro.🤝🏻
+09/05/22, 8:19 pm - Animesh: 👍🏻
+09/05/22, 11:34 pm - +91 99237 04608: Ever wondered how awesome it would be to live with your Scaler Batchmates and learn and have fun togather in real life? Here is an opportunity to do that. 
+The first ScalerVerse building is just about to get ready, and you can join the waitlist!
+
+If you'd like us to launch ScalerVerse in your city too, just let us know, and we'll be on it.
+
+Details here: https://www.scaler.com/scaler-verse
+09/05/22, 11:37 pm - sourabh: great initiative... once wfo will start .. will prefer to stay there😄.
+09/05/22, 11:58 pm - Rishabh Sharma: there's no mention of rent 😅
+10/05/22, 12:00 am - +91 99237 04608: Rent depends on properties, page will be updated soon with the details of first two properties being launched in Bangalore.
+10/05/22, 12:00 am - +91 99237 04608: pics, exact location and rent.
+10/05/22, 12:00 am - Rishabh Sharma: 👍
+10/05/22, 12:02 am - +91 96020 23728: Will there be any plan for such property in Delhi ncr??😅
+10/05/22, 12:03 am - Rishabh Sharma: very much needed
+10/05/22, 12:03 am - Rishabh Sharma: i would have joined immediately 😅
+10/05/22, 12:04 am - +91 96020 23728: Same goes for me... It would be a great opportunity to learn and stay with scaler mates
+10/05/22, 12:10 am - +91 99237 04608: Join the waitlist, most likely we'll have one in Delhi within 2 months.
+10/05/22, 12:10 am - +91 99237 04608: Depends on from whichever city we have highest number of people in the waitlist :)
+10/05/22, 12:12 am - Rishabh Sharma: Done 👍
+10/05/22, 12:13 am - +91 96020 23728: Done...
+10/05/22, 12:14 am - +91 96020 23728: @917895778052 where do you stay in Delhi?
+10/05/22, 12:14 am - Rishabh Sharma: I don't stay in Delhi 😅 but i am willing to move in Delhi NCR... preferably Noida
+10/05/22, 12:15 am - Rishabh Sharma: i am from Mathura btw
+10/05/22, 12:15 am - Rishabh Sharma: not far away
+10/05/22, 12:15 am - +91 96020 23728: Complete opposite to my place... I stay in Gurgaon... But would gladly like to meet.
+10/05/22, 12:16 am - +91 99237 04608: Slack ke Delhi channel main meetup plan ho raha tha. Lets do that sometime
+10/05/22, 12:16 am - +91 99237 04608: I might be in Delhi in few weeks too
+10/05/22, 12:19 am - Rishabh Sharma: We don't have a link to that... please provide us the link
+10/05/22, 12:23 am - +91 99237 04608: Search for city-chapter-delhi on slack, it’s a public channel
+10/05/22, 12:25 am - +91 96020 23728: Found it... Thank you
+10/05/22, 2:44 am - +91 89811 70012: Is anyone got TLE in error in Q.No 5 of Assignment ?
+10/05/22, 3:09 am - +91 89811 70012: Of Modular Arithmetic
+10/05/22, 6:54 am - Animesh: <Media omitted>
+10/05/22, 6:56 am - Animesh: <Media omitted>
+10/05/22, 8:06 am - +91 72042 96568: solution class doesn't have a method solve so whichever method contains the main logic and is supposed to return the answer, change its name to solve and this error would resolve
+10/05/22, 8:06 am - +91 94921 74500: This message was deleted
+10/05/22, 8:18 am - Animesh: ok I'll try that Thx 🙏🏻
+10/05/22, 8:21 am - +91 72042 96568: np bro👍🏻
+10/05/22, 8:23 am - Animesh: It resolved the error but I am getting Memory Limit exceeded which would mean only Fermat Little Theorem approach will be accepted
+10/05/22, 8:39 am - +91 94921 74500: Yes, factorial of number takes lot of time for computing, so store the factorial of a number in an array.
+ Definitely will get memory exceeded.
+10/05/22, 9:35 am - Animesh: For very large power solution in Python the factorial has to be calculated iteratively. The recursive solution won't be accepted. Use mod value as 1000000007 or pow(10, 9) + 7. 1e9 + 7 renders a float which messes up the calculations so that way the function returns an incorrect value. Just some observations while solving this question.
+10/05/22, 9:36 am - +91 99876 45015: Largest Continuous Sequence Zero Sum : i don't understand why i am getting NaN in ans?
+
+ function(A){
+    let n = A.length;
+        let map1 = new Map();
+        let sum = 0;
+        let maxi =0;
+        let prev_index = map1.get(sum);
+
+        for(let i=0; i<n; i++){
+            sum += A[i];   // making prefix sum
+           // console.log(sum)
+        
+        if(sum == 0){
+            if(maxi < i){
+            maxi = i+ 1;  
+            //console.log(maxi) 
+        }
+     } else if(prev_index !== null){
+                maxi = Math.max(maxi, i - prev_index);
+               
+
+            } else {
+                map1.set(sum, i);
+            }
+        }
+        return maxi;
+
+	}
+10/05/22, 9:55 am - Animesh: Does anyone know why we are using mod - 1 when calculating factorial?
+10/05/22, 9:55 am - Animesh: For very large power?
+10/05/22, 9:58 am - +91 90362 82869: Fermet little theorm
+10/05/22, 9:59 am - Animesh: Yeah was hoping for a little more 😶
+10/05/22, 9:59 am - +91 90362 82869: Decompose power in terms of mod -1
+10/05/22, 10:00 am - +91 90362 82869: Since fermet little theorm says for any integer a, (a^(mod-1)) %mod =1
+10/05/22, 10:01 am - +91 90362 82869: Where mod is prime
+10/05/22, 10:01 am - +91 90362 82869: Here in the question we have mod as 10^9+7 which is prime
+10/05/22, 10:04 am - +91 90362 82869: If simple words the equation (a^(b!) %mod)= (a^(b! %(mod -1)) %mod) - trying dividing b! In multiples of (mod -1) ,thereby making value of b smaller
+10/05/22, 10:05 am - +91 85888 17677: Anyone worked on hyperledger fabric ?
+10/05/22, 10:15 am - +91 81060 40994: One Page resume format:
+10/05/22, 10:15 am - +91 81060 40994: https://v1.overleaf.com/latex/templates/deedy-cv/bjryvfsjdyxz.pdf
+10/05/22, 10:35 am - +91 77299 87431: Hey Everyone
+
+Today's class is Maths - GCD.
+
+We will try to understand how GCD is calculated and solve some famous questions asked in interviews.
+We will talk about modulo inverse and little fermat at the end of the class. We could't complete it in the last class.
+I will talk about sieve in the thursday class. That class would be entirely dedicated to prime numbers
+
+We will be starting at 9:05 pm sharp.
+10/05/22, 10:36 am - sourabh: 👍🏻
+10/05/22, 10:36 am - +91 82819 94620: 👍🏻
+10/05/22, 10:37 am - +91 98912 77044: 👍
+10/05/22, 11:06 am - Animesh: ok Now i get it what you meant by this. Thx 🙏🏻
+10/05/22, 11:42 am - Animesh: <Media omitted>
+10/05/22, 11:47 am - +91 95555 31433: 👍
+10/05/22, 7:12 pm - Animesh: Has anybody solved design Linked List in Python?
+10/05/22, 7:21 pm - Siddharth Modi: Yes
+10/05/22, 7:21 pm - Animesh: Please provide a codeshare link
+10/05/22, 7:21 pm - Siddharth Modi: Sure.
+10/05/22, 7:23 pm - Siddharth Modi: https://codeshare.io/1YXJ7n
+10/05/22, 7:40 pm - Animesh: Thx
+10/05/22, 7:41 pm - Siddharth Modi: Nw bro👍
+10/05/22, 8:30 pm - +91 99200 35045: https://codeshare.io/1Y
+
+can someone help me debugging design Linked List code in Python
+10/05/22, 8:30 pm - +91 99200 35045: <Media omitted>
+10/05/22, 8:31 pm - Animesh: you mean that on other compilers the answer is matching?
+10/05/22, 8:31 pm - +91 99200 35045: <Media omitted>
+10/05/22, 8:31 pm - Animesh: oh ok
+10/05/22, 8:32 pm - Animesh: I was once told by a TA that the Linked List problems have a backend template so stick to that. Have you altered the template?
+10/05/22, 8:32 pm - Animesh: The node creation one - .val and .next
+10/05/22, 8:34 pm - +91 99200 35045: I have used ListNode class only for node creation
+10/05/22, 8:34 pm - Animesh: ok
+10/05/22, 8:35 pm - Animesh: You can refer to the codeshare link that @919634717366 posted above. This code is tidy. Maybe comparison will help in debugging.
+10/05/22, 8:36 pm - +91 99200 35045: sure will check
+10/05/22, 8:37 pm - +91 72042 96568: updated your code, try this code it will work
+10/05/22, 8:38 pm - +91 72042 96568: the issue with your code was you declared llist as a global variable so garbage value will appear unless you clear the object on run for a new input
+10/05/22, 8:41 pm - Animesh: Can you explain why this is not an issue in CoLab or Jupyter?
+10/05/22, 8:42 pm - +91 99200 35045: great it worked
+10/05/22, 8:43 pm - +91 72042 96568: I think it should break if the code is run again and again for multiple inputs
+10/05/22, 8:44 pm - +91 99200 35045: Thanks Aakash and Animesh
+This was pending on my side like this since very long
+10/05/22, 8:44 pm - +91 72042 96568: but I am not sure if CoLab or Jupyter has a garbage collector which clears the global variable after every single run
+10/05/22, 8:45 pm - +91 72042 96568: np bro👍🏻
+10/05/22, 8:46 pm - Animesh: ok
+10/05/22, 9:29 pm - +91 84467 42971: Hey guys,
+I just found that,
+
+N >> 1
+Returns : N/2
+
+(For odd numbers, it returned value without fraction)
+
+So which method is faster, if we require to calculate half of given N ?
+
+1. N / 2
+or
+2. N >> 1
+10/05/22, 9:30 pm - Animesh: Bit manipulation is always faster than arithematic operation - Yahnit
+10/05/22, 9:32 pm - +91 84467 42971: @919131728831 okay
+Have you checked, how following works in python ?
+I checked for JS
+
+N >> 1
+10/05/22, 9:33 pm - Animesh: What do you mean?
+10/05/22, 9:33 pm - Animesh: How can right and left shift be language dependent?
+10/05/22, 9:33 pm - Animesh: I think its always int division
+10/05/22, 9:45 pm - +91 84467 42971: Is there no assignments for lecture 
+Day 17 - 15 March - Bit Manipulation 3 ?
+11/05/22, 11:04 am - +91 88869 93508: yesterday's lecture notes is not attached, correct?
+11/05/22, 11:05 am - Siddharth Modi: Yea
+11/05/22, 11:40 am - +91 77299 87431: Uploaded now
+11/05/22, 11:40 am - +91 88869 93508: thank you
+11/05/22, 12:05 pm - +91 88869 93508: Hi Everyone,
+how to solve below question with Little fermat theorem :
+In little fermat theorem we were told :
+(a^-1) % p = (a^p-2) % p.
+how to apply above logic in below question?
+
+Problem Description
+Given two Integers A, B. You have to calculate (A ^ (B!)) % (1e9 + 7).
+
+"^" means power,
+
+"%" means "mod", and
+
+"!" means factorial.
+11/05/22, 12:07 pm - Animesh: <Media omitted>
+11/05/22, 12:08 pm - Animesh: @918886993508 Do you need the code as well?
+11/05/22, 12:08 pm - +91 88869 93508: Thanks Animesh, notes will be helpful. I will ask for code  later 👍
+11/05/22, 1:13 pm - +91 99876 45015: Anyone getting RangeError: Maximum call stack size exceeded in Delete one Question?
+11/05/22, 1:16 pm - Rishabh Tatia: Nope
+11/05/22, 1:26 pm - +91 94921 74500: In prime modular inverse , using fermat little theorem if p is prime number the a^p -a is multiple of p.
+Then when calling power(a,p-2,p). Why we considering p-2
+11/05/22, 1:29 pm - Animesh: <Media omitted>
+11/05/22, 1:53 pm - +91 90111 62494: To calculate the B! % (p-1)
+Is there any other optimal way other than O(B) TC?
+11/05/22, 1:54 pm - Animesh: I don't know
+11/05/22, 2:32 pm - +91 94084 42714 joined using this group's invite link
+11/05/22, 2:45 pm - Animesh: It will happen if you alter the parameters. Implement the Euclid algo as it is. (B, A % B). Larger number first always.
+11/05/22, 3:30 pm - +91 99876 45015: Yes I tried this but still getting same error
+11/05/22, 3:33 pm - Rishabh Tatia: Share the code
+11/05/22, 3:33 pm - +91 99876 45015: function deleteOne(A){
+        let n = A.length;
+        let pre = [];
+        let suf = [];
+        pre[0] = A[0];
+        suf[n-1] = A[n-1];
+
+        for(let i=1; i<n; i++){
+            pre[i] = gcd(pre[i-1], A[i]);
+          //  console.log(pre[i])
+        }
+        for(let i=n-2; i>=0; i--){
+            suf[i] = gcd(A[i], suf[i+1]);
+           // console.log(suf[i])
+        }
+        let result = suf[1];
+        for(let i=0; i<n; i++){
+            if(i == n-1){
+                result = Math.max(result, pre[n-2]);
+            } else {
+                result = Math.max(result, gcd(pre[i-1], suf[i+1]));
+            }
+            return result;
+
+        }
+
+    function gcd(A, B){
+    if(B == 0){
+        return A;
+    }
+    return gcd(B, A%B);
+}
+
+}
+
+    console.log(deleteOne([12, 15, 18]));
+11/05/22, 3:53 pm - Rishabh Sharma: <Media omitted>
+11/05/22, 8:38 pm - Animesh: <Media omitted>
+11/05/22, 8:39 pm - Animesh: Largest Coprime Divisor
+11/05/22, 9:00 pm - +91 98696 22890: Find all factors of A
+...iterate over factors n chk if divisible by B...that may help
+11/05/22, 9:01 pm - Animesh: That's what I was doing. The optimal approach is smarter. Just passed the solution. Thx for replying 🙏🏻
+11/05/22, 10:34 pm - +91 94921 74500: Is it worked. I have took the divisors of A in sqrt(n) still gets tle..
+11/05/22, 10:35 pm - Animesh: No it won't work.
+11/05/22, 10:36 pm - +91 94921 74500: Any approach ?
+11/05/22, 10:37 pm - Rishabh Sharma: in java it is passing by finding factors and checking each factor if it is co prime with another 😅
+11/05/22, 10:38 pm - Animesh: see video hint. That's the optimised approach.
+11/05/22, 10:38 pm - Rishabh Sharma: but there's a way better approach that blew my mind 😅
+11/05/22, 10:38 pm - Animesh: yup
+11/05/22, 10:39 pm - +91 94921 74500: I think those are unique approaches to solve these questions.. never get these thoughts😞
+11/05/22, 10:39 pm - Animesh: <Media omitted>
+11/05/22, 10:40 pm - +91 94921 74500: No I did in Java , got tle ..
+11/05/22, 10:40 pm - +91 98994 17184: same here
+11/05/22, 10:43 pm - Rishabh Sharma: <Media omitted>
+11/05/22, 11:47 pm - Sarbjot: <Media omitted>
+11/05/22, 11:47 pm - Sarbjot: Passed
+12/05/22, 1:28 pm - +91 81234 19100: <Media omitted>
+12/05/22, 1:30 pm - Animesh: Use a dictionary with the word as key and the int as value. Lookup would be O(1) but space would be needed.
+12/05/22, 1:30 pm - Animesh: Map 0 - 9 as syllables
+12/05/22, 1:31 pm - Animesh: Edge Case: Division by "ZERO"
+12/05/22, 1:31 pm - +91 81234 19100: Let me try out...thanks for the reply.
+12/05/22, 3:08 pm - +91 98994 17184: Anyone solved the subarray or question
+12/05/22, 3:09 pm - Animesh: yes
+12/05/22, 3:15 pm - +91 98696 22890: Yes
+12/05/22, 3:16 pm - +91 98994 17184: can help me in finding the issue https://codeshare.io/OdoK4x
+12/05/22, 3:30 pm - +91 98696 22890: Did u attend the doubt solving session whr the optimized approach was discussed?
+12/05/22, 3:31 pm - Animesh: Sorry bro. Can't understand Java
+12/05/22, 3:36 pm - +91 98994 17184: approach is optimized but issue was overflow
+12/05/22, 3:36 pm - +91 98994 17184: fixed it
+12/05/22, 3:37 pm - +91 98994 17184: np bro
+12/05/22, 3:44 pm - +91 98994 17184: in python i don't think overflow happens
+12/05/22, 3:45 pm - Animesh: I've never encountered such an instance
+12/05/22, 3:45 pm - Animesh: It can store up to 10^200
+12/05/22, 3:46 pm - +91 98994 17184: god level powers
+12/05/22, 3:46 pm - Animesh: Good for beginners
+12/05/22, 3:48 pm - +91 96731 23857: was it at the statement ans= (size*(size+1))/2
+12/05/22, 3:49 pm - +91 98994 17184: total number of subarray = n(n+1)/2
+12/05/22, 3:50 pm - +91 96731 23857: though so too otherwise u covered everything😅
+12/05/22, 3:55 pm - +91 98994 17184: yeah now passing , overflow issue was there earlier ans was of int type
+12/05/22, 4:02 pm - Animesh: Sorting, Recursion, Trees, Graphs, DP - Is there any other DSA topic which qualifies as very imp for Interview prep?
+12/05/22, 4:03 pm - Aakash Chandra Srivastava: Array Strings
+12/05/22, 4:52 pm - Animesh: <Media omitted>
+12/05/22, 4:52 pm - Animesh: <Media omitted>
+12/05/22, 4:53 pm - Animesh: Question --> Generate Array
+12/05/22, 4:54 pm - sourabh: u have to return a list of integers..
+but u r returning a single value
+12/05/22, 4:55 pm - Animesh: <Media omitted>
+12/05/22, 4:56 pm - Animesh: That feeling when you waste too much time trying to find an error which is staring you in the face
+12/05/22, 5:51 pm - +91 98994 17184: In which class is this question
+12/05/22, 5:52 pm - Animesh: Intermediate Batch - Contest
+12/05/22, 5:52 pm - Rishabh Sharma: Has anyone solved All GCD pairs...i know that the distinct numbers in the input array will be in the resultant array as their gcd was calculated by themselves to the number itself...but how to get for those which are repeating in input array?
+12/05/22, 5:55 pm - Animesh: <Media omitted>
+12/05/22, 6:02 pm - Rishabh Sharma: Thanks Buddy
+12/05/22, 6:47 pm - Sarbjot: That’s the only case which is difficult to find !!
+12/05/22, 6:51 pm - Rishabh Sharma: 😅
+12/05/22, 7:06 pm - +91 98222 58710: Hello everyone ... I'm working in SailPoint Technologies, a leader in Identity Security solutions . There are a number of open positions currently for Engineers working on Java Stack for roles ranging from Sr. Software Engg to Principal Software Engg .  All positions can be found here => https://sailpoint.wd1.myworkdayjobs.com/SailPoint/jobs?locations=b0d5a0c394c810a36fcde621b2b15a5b
+If anyone is interested dm me..  Thanks
+12/05/22, 8:31 pm - Animesh: Has anyone solved Remove Subarray (Contest) in Python?
+12/05/22, 8:31 pm - Animesh: The solution provided is giving TLE
+12/05/22, 9:47 pm - sourabh: check in python 2.7? 🤔
+12/05/22, 11:24 pm - +91 91194 44259: https://youtu.be/zlm1aajH6gY
+
+Found something interesting about prime number, and there pattern
+13/05/22, 12:54 am - sourabh: <Media omitted>
+13/05/22, 10:24 am - Animesh: What does spf stand for? That's the acronym used to name the sieve filter function.
+13/05/22, 10:24 am - sourabh: smallest prime factor
+13/05/22, 10:24 am - Rishabh Sharma: smallest prime factor
+13/05/22, 10:24 am - Animesh: ok thx
+13/05/22, 1:15 pm - Animesh: <Media omitted>
+13/05/22, 1:16 pm - sourabh: can u share the output too
+13/05/22, 1:17 pm - Animesh: <Media omitted>
+13/05/22, 1:18 pm - Animesh: Never mind. Silly mistake. Line 11. maxA instead of n.
+13/05/22, 1:18 pm - Animesh: It worked
+13/05/22, 1:18 pm - Rishabh Sharma: you are traversing till  input array length need to traverse till max element
+13/05/22, 1:18 pm - Animesh: yup
+13/05/22, 1:18 pm - Animesh: Just spotted
+13/05/22, 1:19 pm - Rishabh Sharma: it happens with me too most of the time
+13/05/22, 1:19 pm - Rishabh Sharma: 😅
+13/05/22, 2:00 pm - +91 97594 88691 left
+13/05/22, 3:42 pm - Animesh: <Media omitted>
+13/05/22, 3:42 pm - Animesh: Prime Sum
+13/05/22, 3:48 pm - +91 94921 74500: I think that better to generate primes less than N and do hashmap..
+13/05/22, 3:48 pm - Animesh: Yeah that's what I did
+13/05/22, 3:49 pm - Animesh: Just wanted to understand if there is an optimal way
+13/05/22, 3:49 pm - Animesh: What is the TC of the above approach
+13/05/22, 3:49 pm - Animesh: There are two function calls with AND
+13/05/22, 3:50 pm - Animesh: Both calls render sqrt(N) TC
+13/05/22, 3:50 pm - Animesh: So, how is TC calculated for AND?
+13/05/22, 3:50 pm - Rishabh Sharma: I used 2 pointer on the prime numbers less than N too calculate prime sum
+13/05/22, 3:50 pm - Animesh: So, that way space is saved
+13/05/22, 3:50 pm - Animesh: 👏🏻
+13/05/22, 3:51 pm - Animesh: Please provide a codeshare link
+13/05/22, 3:51 pm - Rishabh Sharma: but i used an extra array to first store the prime numbers ...which i got from sieve
+13/05/22, 3:51 pm - Animesh: Oh ok
+13/05/22, 3:52 pm - Animesh: Then relatively hashSet space can be ignored, right?
+13/05/22, 3:52 pm - Rishabh Sharma: but we can do that on the sieve array also
+13/05/22, 3:52 pm - Animesh: Because the Sieve will be huge
+13/05/22, 3:52 pm - Animesh: lookup O(1) is required
+13/05/22, 3:52 pm - Animesh: with that approach
+13/05/22, 3:52 pm - Animesh: I'll try the 2 pointer one
+13/05/22, 3:53 pm - +91 94921 74500: That's what I told.. it computes fast compare to ur approach @919131728831
+13/05/22, 3:56 pm - Animesh: Thx
+13/05/22, 3:56 pm - Animesh: So, this then is most certainly the slowest?
+13/05/22, 3:59 pm - Rishabh Sharma: can we apply 2 pointer on the sieve array itself with just additional check of IS IT PRIME?
+13/05/22, 3:59 pm - Animesh: yeah the index stores the value
+13/05/22, 4:00 pm - Animesh: let me know when your code passes for this
+13/05/22, 4:00 pm - Animesh: if the sieve array is A + 1 size
+13/05/22, 4:03 pm - +91 94921 74500: If need I will share the code link..
+13/05/22, 4:03 pm - Animesh: please do thx
+13/05/22, 4:03 pm - Rishabh Sharma: Did you applied two pointer on seive?
+13/05/22, 4:04 pm - Animesh: +1
+13/05/22, 4:04 pm - +91 94921 74500: Yeah..
+13/05/22, 4:04 pm - Rishabh Sharma: ohk then please share
+13/05/22, 4:04 pm - Animesh: gr8!
+13/05/22, 4:04 pm - Rishabh Sharma: but seive itself requires O(N) space
+13/05/22, 4:05 pm - Rishabh Sharma: then there's no harm in creating another array with all the prime numbers in it 😅
+13/05/22, 4:08 pm - Animesh: yeah that's what I was clarifying that the set would be inconsequential relative to the sieve space
+13/05/22, 4:09 pm - Rishabh Sharma: yes
+13/05/22, 4:10 pm - +91 94921 74500: This message was deleted
+13/05/22, 4:12 pm - +91 94921 74500: https://codeshare.io/9ODPK0
+13/05/22, 4:15 pm - Animesh: What is the TC of .get?
+13/05/22, 4:15 pm - Animesh: Wouldn't it have to traverse an array to return its index
+13/05/22, 4:17 pm - Rishabh Sharma: at line 23 do i<=j and you can remove the first if condition
+13/05/22, 4:17 pm - Animesh: yeah
+13/05/22, 4:18 pm - Animesh: You deleted this message
+13/05/22, 4:18 pm - Animesh: You deleted this message
+13/05/22, 4:18 pm - Rishabh Sharma: its O(1)
+13/05/22, 4:19 pm - Animesh: so it just fetches the element and not its index?
+13/05/22, 4:19 pm - Rishabh Sharma: yes
+13/05/22, 4:19 pm - Rishabh Sharma: its like A[i] in static array
+13/05/22, 4:25 pm - Animesh: @919492174500 you are storing the prime numbers from sieve into a ls (list)?
+13/05/22, 4:29 pm - Animesh: Also, who is two pointer faster than the set? Is it a generally accepted convention that given a choice between these two pick two pointer?
+13/05/22, 4:29 pm - Animesh: *why
+13/05/22, 4:29 pm - +91 94921 74500: Yes..then I'm doing pointers to get prime sum
+.
+13/05/22, 4:30 pm - Animesh: Then please explain the difference in TC for storing prime from sieve into a set or a an array and applying set lookup or a two pointer sum.
+13/05/22, 4:37 pm - +91 94921 74500: I stored in list, bcz other than primes , are there in sieve array , so to find prime sum is difficult with that. You may also get the number which is not a prime when u stored in set/list. See, why I'm done two pointer is list is already in sorted order so two pointer is better, u will only use set or map when list is not sorted order.
+13/05/22, 4:38 pm - Animesh: So, sorting fastens the two pointer sum. Ok got it. Thx 🙏🏻
+13/05/22, 4:39 pm - Animesh: And the array is pre-sorted due to sieve.
+13/05/22, 4:39 pm - +91 94921 74500: Yes, already array is in pre-sorted so it's easy using two pointer approach..
+13/05/22, 4:45 pm - Rishabh Sharma: does two pointers only work on sorted array 🤔
+13/05/22, 4:45 pm - Animesh: I haven't had much exposure to two pointers. We will be taught that later.
+13/05/22, 4:46 pm - Animesh: And there is another reason I figured why two pointer is better in this case.
+13/05/22, 4:46 pm - +91 94921 74500: Yes, I think so bcz two,three,four sum usually solved by using pointers approach when only if it's sorted...
+13/05/22, 5:34 pm - +91 96731 23857: Has anyone got TLE for no of divisors with sieve?
+13/05/22, 5:35 pm - +91 96731 23857: in Python3 it gives TLE and for python 2, it is working
+13/05/22, 5:36 pm - Animesh: Mine passed in Python3
+13/05/22, 5:41 pm - +91 96731 23857: yeah it is working for today's assignment just checked but if you try same code for the same question we had previously in assignment of modular arithmetic it gives TLE
+13/05/22, 5:41 pm - +91 96731 23857: not sure why
+13/05/22, 5:43 pm - Animesh: its passing for the previous question as well
+13/05/22, 5:51 pm - +91 86867 13069: Has anyone tried prime subsequences?
+13/05/22, 5:51 pm - +91 86867 13069: I calcultated number of prime numbers
+13/05/22, 5:52 pm - +91 86867 13069: Then the number of subsequences that can be formed is 2 power (count of prime number) -1
+13/05/22, 5:52 pm - +91 86867 13069: A) why do i see everywhere to do mod with 10 power 6 plus 7
+13/05/22, 5:53 pm - +91 86867 13069: B) i did the mod and then got tle
+13/05/22, 5:57 pm - +91 94921 74500: If u take the count of primes, there might be subarray which contains not prime. I think contribution technique will not help..
+13/05/22, 5:57 pm - sourabh: simply check if the array has gcd is 1  or not... no need to check all the subsequences..
+
+reason;- its discussed in the class have a look once
+13/05/22, 5:58 pm - +91 86867 13069: It asks count of subsequence you can create
+13/05/22, 5:58 pm - +91 86867 13069: Using those prime numbers
+13/05/22, 5:58 pm - sourabh: i think its 10 power9 +7.. check once the.. reason behind to overcome overflow
+13/05/22, 5:58 pm - sourabh: oh ok
+13/05/22, 5:59 pm - +91 86867 13069: <Media omitted>
+13/05/22, 5:59 pm - +91 86867 13069: This is my code
+13/05/22, 6:00 pm - sourabh: cam u use 
+10000007 directly
+13/05/22, 6:01 pm - sourabh: i think this power function will calculate value evry time might me be making it slow
+
+so just give this a shot
+13/05/22, 7:12 pm - +91 94921 74500: Anyone did count of divisors, approach discussed in session tried for every element getting tle. There is some other approach...
+13/05/22, 7:43 pm - Animesh: The approach discussed in class is working
+13/05/22, 7:44 pm - +91 94921 74500: For array elements getting tle.. But I checked in discussion there is another approach...
+13/05/22, 7:45 pm - Animesh: ok
+13/05/22, 7:59 pm - Animesh: <Media omitted>
+13/05/22, 7:59 pm - Animesh: logloglogN?
+13/05/22, 7:59 pm - Animesh: or NloglogN?
+13/05/22, 8:00 pm - Animesh: or just NlogN?
+13/05/22, 8:10 pm - +91 94921 74500: I did it in different way without finding smallest prime for all numbers..
+13/05/22, 8:23 pm - Animesh: Is that the +1 factor approach where we just update the num to arrive at factors?
+13/05/22, 8:24 pm - Animesh: no. of factors
+13/05/22, 8:26 pm - +91 94921 74500: Yeah, while keep on counting the factors when we approaching...
+13/05/22, 8:29 pm - Animesh: I was just going through that codeforces article link. This is a good one.
+13/05/22, 8:47 pm - Animesh: TC doesn't change. The method taught in class will also render same TC. I was calculating incorrectly. The total TC for lucky numbers solution is O(NloglogN) + O(NlogN) in which the second term would dominate so worst case TC is O(NlogN)
+13/05/22, 9:10 pm - +91 85888 17677: Will we have access to all these questions once the course is completed?
+13/05/22, 9:40 pm - sourabh: qstns will be there but not the video lectures
+13/05/22, 10:32 pm - +91 81060 40994: Divisor game:
+13/05/22, 10:32 pm - +91 81060 40994: long lcm;
+            int count=0;
+            lcm=((long)B*C)/gcd(B,C);
+            int i=1;
+            
+            while (lcm*i<= A){
+                if (A%(lcm*i) ==0) count++;
+                i++;   
+            }
+
+        return count;
+13/05/22, 10:32 pm - +91 81060 40994: Its failing for
+13/05/22, 10:32 pm - +91 81060 40994: A : 81991
+B : 2549
+C : 7
+13/05/22, 10:35 pm - +91 96924 56915 left
+13/05/22, 10:36 pm - +91 98915 76990: Just return A/lcm
+13/05/22, 10:37 pm - +91 98915 76990: Why you are checking A%lcm*i, we need all multiples of lcm less than or equal to A
+13/05/22, 10:38 pm - +91 98994 17184: anyone able to solve the question  Prime Subsequences
+13/05/22, 10:38 pm - +91 81060 40994: Thanks @abhi, got it
+13/05/22, 10:38 pm - +91 98994 17184: i was thinking of contribution approach
+13/05/22, 10:44 pm - +91 98994 17184: but it will not work
+13/05/22, 10:58 pm - +91 94921 74500: I thought that can do it by generating subsequences ,check that should contains all prime in a sequence.
+13/05/22, 11:01 pm - +91 98994 17184: yeah working on it
+13/05/22, 11:01 pm - +91 98994 17184: tle is coming
+14/05/22, 8:40 am - Animesh: <Media omitted>
+14/05/22, 9:04 am - +91 98912 77044: In the last line calculate 2^N using fast power function..because power can be greater than 64 which will exceed the long data type..
+14/05/22, 9:05 am - Animesh: Thanks
+14/05/22, 9:19 am - Animesh: You deleted this message
+14/05/22, 9:32 am - +91 86867 13069: @919891277044 even i am stuck there.i created a custom power function but looks like i will have to create some optimal power function .Can you explaom what do you mean by fast power function
+14/05/22, 9:33 am - +91 88869 93508: Is it possible to create Power function with recursion and use modulo
+That worked for me
+14/05/22, 9:37 am - Animesh: yes I'm trying to do that. The but somehow the empty subsequence is not getting accepted
+14/05/22, 9:37 am - Animesh: Getting TLE even with FastPow
+14/05/22, 9:38 am - Animesh: <Media omitted>
+14/05/22, 9:38 am - Animesh: <Media omitted>
+14/05/22, 9:38 am - Animesh: Can someone point out the bug? Still giving TLE
+14/05/22, 9:43 am - +91 88869 93508: Val = (int)(((long)val  * val)% mod)
+If(power is even)
+Return val
+Else 
+Val = (int)(((long)val * base)% mod)
+Return val
+14/05/22, 9:44 am - +91 88869 93508: Try something like this. I have typed it through mobile, once I am in home, will share vode
+14/05/22, 9:44 am - +91 88869 93508: *code
+14/05/22, 9:45 am - Animesh: Long int are not valid in Python
+14/05/22, 9:46 am - +91 88869 93508: Oooo, ok sorry ,this is for java
+14/05/22, 9:46 am - Animesh: np
+14/05/22, 9:46 am - +91 88869 93508: But is it possible to do similar things in whichever language you are coding
+14/05/22, 9:47 am - Animesh: I've used mod. That's the only thing that is done to avoid overflow
+14/05/22, 9:47 am - +91 88869 93508: ok
+14/05/22, 9:50 am - Animesh: <Media omitted>
+14/05/22, 9:51 am - sourabh: run it in python 2 then 🤔
+14/05/22, 9:53 am - Animesh: tle
+14/05/22, 10:01 am - +91 86867 13069: Was this fast power function taught in some class? May be i missed it.can someone help which class can i look into?
+14/05/22, 10:01 am - sourabh: in intermediate batch ..
+14/05/22, 10:01 am - Rishabh Sharma: recursion
+14/05/22, 10:01 am - +91 86867 13069: Ok thanks
+14/05/22, 10:14 am - Animesh: Intermediate class. Don't remember the date, but google it. Explanation, TC, SC and implementation all easily available.
+14/05/22, 10:14 am - +91 98937 95983: Would suggest to see how Max(A) works in python in C# it would be O(n) so I created array with fix value (1000006)
+14/05/22, 10:15 am - Animesh: @918686713069 This is where I learnt it. Earlier I was implementing a sub optimal version. Sometimes multiple function calls can be unnecessary. 
+FastPow --> https://www.techiedelight.com/power-function-implementation-recursive-iterative/
+14/05/22, 10:16 am - +91 86867 13069: Thank you so much🙂
+14/05/22, 12:00 pm - Animesh: Has anyone done Number of Open Doors?
+14/05/22, 12:00 pm - +91 98211 63140: Yupp
+14/05/22, 12:00 pm - Animesh: <Media omitted>
+14/05/22, 12:01 pm - Animesh: <Media omitted>
+14/05/22, 12:01 pm - Rishabh Sharma: just check intermediate maths classes
+14/05/22, 12:01 pm - Animesh: <Media omitted>
+14/05/22, 12:01 pm - Animesh: Is this TC solution passing for you?
+14/05/22, 12:01 pm - Animesh: I solved it. Getting TLE. So trying to determine if this is a Python issue or a logic issue?
+14/05/22, 12:03 pm - Rishabh Sharma: i just check perfect squares till the input A and increased the count
+14/05/22, 12:03 pm - Rishabh Sharma: it worked for me in java
+14/05/22, 12:03 pm - Animesh: Oh now I remember 😳
+14/05/22, 12:04 pm - Rishabh Sharma: perfect squares have odd number of factors
+14/05/22, 12:04 pm - Animesh: Yeah It will reduce TC drastically
+14/05/22, 12:04 pm - Animesh: Don't understand why this question has to be in Prime Numbers. Its like pointing in the wrong direction.
+14/05/22, 1:51 pm - +91 86867 13069: <Media omitted>
+14/05/22, 1:51 pm - +91 86867 13069: I created custim power function with log n
+14/05/22, 1:52 pm - +91 86867 13069: <Media omitted>
+14/05/22, 1:53 pm - +91 86867 13069: Tried same code in python 2 , same error
+14/05/22, 1:53 pm - Animesh: I wrote to support
+14/05/22, 1:53 pm - Animesh: To fix this Python backend thing
+14/05/22, 1:54 pm - +91 86867 13069: Ok so it means code is correct
+14/05/22, 1:54 pm - +91 86867 13069: Some issue with the judge?
+14/05/22, 1:54 pm - Animesh: Compare with this.
+14/05/22, 1:54 pm - Animesh: https://codeshare.io/9ODYO0
+14/05/22, 1:54 pm - Animesh: This is approved by a TA
+14/05/22, 1:55 pm - Animesh: So, that's why I wrote to support. This has happened before as well.
+14/05/22, 1:56 pm - +91 86867 13069: Ok thank you
+14/05/22, 3:01 pm - +91 84311 83110: https://youtu.be/1GYC_jYUfFY
+14/05/22, 3:02 pm - +91 70111 21440: https://www.linkedin.com/posts/ivantay_ivanpost-quality-tester-ugcPost-6928100095921979392-BoZL?utm_source=linkedin_share&utm_medium=android_app
+14/05/22, 4:36 pm - Animesh: Does anyone use free version of Sublime Text. Is it better than VSC?
+14/05/22, 5:48 pm - +91 96860 59262: Not now. It used to
+14/05/22, 6:07 pm - Animesh: server.listen(7777) What does that mean?
+14/05/22, 6:07 pm - Animesh: File Name => server.js
+14/05/22, 6:08 pm - +91 86020 62825: Sublime text is great if you give some time, there are a lot of shortcuts one of it will let you change the one variable all over the project, which is very fast for an text editor present in the market.
+
+Vscode is good, but if you’re using sublime text for a while it will be a little surprise to turn to vscode the only feature in vscode is that it has terminal attached to it.
+
+So, completely up to you where your comfort is.
+14/05/22, 6:09 pm - +91 86020 62825: 7777 is the port number
+14/05/22, 6:09 pm - Animesh: So, for me it shows localhost:3000
+14/05/22, 6:09 pm - Animesh: So I should write 3000 in my project?
+14/05/22, 6:10 pm - Animesh: But not in the free version?
+14/05/22, 6:10 pm - Brij Mohan Sharma: It means that your server is up and can take your instructions on this port. So if it is UI app you can go to localhost:7777 and you can see.
+14/05/22, 6:10 pm - Animesh: yeah that's what I mean
+14/05/22, 6:11 pm - Animesh: That on my system it will be visible on 3000 or 7777?
+14/05/22, 6:11 pm - Brij Mohan Sharma: Correct
+14/05/22, 6:11 pm - Animesh: No I meant which one?
+14/05/22, 6:11 pm - Brij Mohan Sharma: It will be visible on 3000
+14/05/22, 6:11 pm - Animesh: 3000 right?
+14/05/22, 6:11 pm - Brij Mohan Sharma: Yes
+14/05/22, 6:11 pm - Animesh: Thx
+14/05/22, 8:46 pm - +91 96435 08083: No, VSC is awesome
+14/05/22, 8:47 pm - +91 96435 08083: It's my opinion 😁
+14/05/22, 8:51 pm - sourabh: guys do anyone knows the extension that can take code from scaler and push to github🤔
+14/05/22, 8:52 pm - +91 96435 08083: I can make it 😛😛
+14/05/22, 8:52 pm - +91 96435 08083: Good idea, I will create a project to do that
+14/05/22, 8:53 pm - sourabh: yeah bro...
+would be glad to be a part of..🙌🏻
+14/05/22, 8:53 pm - Animesh: +1
+14/05/22, 8:53 pm - +91 96435 08083: Yeh, let's do together
+14/05/22, 8:53 pm - sourabh: any resources or concepts u would like to add 
+. so that we can go through before jumping into this. 🤔..
+coz never did that before
+14/05/22, 8:53 pm - Animesh: If we are serious, we can pool our mentors as well, for guidance. If scaler allows for such a thing.
+14/05/22, 8:54 pm - +91 96435 08083: Simple extension using js and extracting code from html and push to github
+14/05/22, 8:54 pm - +91 99237 04608: Happy to help in any possible way, gift for everyone building it on completion 😄
+14/05/22, 8:55 pm - Animesh: Thanks 🙏🏻🙏🏻
+14/05/22, 8:55 pm - sourabh: 🤩...
+lets do it guys then...
+14/05/22, 8:55 pm - Animesh: yup
+14/05/22, 8:55 pm - sourabh: lets plan this bro
+14/05/22, 8:56 pm - +91 96435 08083: Okay guys, will create a project doc and will share with participants
+14/05/22, 8:56 pm - +91 96435 08083: Agreed?
+14/05/22, 8:56 pm - sourabh: superb...
+lead this bro..🙌🏻
+14/05/22, 8:57 pm - Animesh: +1
+14/05/22, 8:57 pm - +91 96435 08083: Sure
+14/05/22, 9:00 pm - +91 96020 23728: +1
+14/05/22, 9:00 pm - +91 77986 42202 left
+14/05/22, 9:02 pm - Rishabh Sharma: +1
+14/05/22, 9:02 pm - Animesh: https://chat.whatsapp.com/DswnGGX0a8AHaRBj3J61D1
+14/05/22, 9:02 pm - Animesh: Please join
+14/05/22, 9:03 pm - +91 96435 08083: Anyone who intrested to part of the project
+14/05/22, 9:03 pm - +91 99200 35045: +1
+14/05/22, 9:04 pm - Animesh: How to pin messages on WA?
+14/05/22, 9:04 pm - Animesh: Can't find any option?
+14/05/22, 9:06 pm - +91 96435 08083: Now too excited to complete this project  🥳🥳
+14/05/22, 9:07 pm - Animesh: yup
+14/05/22, 10:07 pm - +91 89479 62685 joined using this group's invite link
+15/05/22, 8:02 am - +91 95555 31433: +1
+15/05/22, 10:38 am - Animesh: Can someone provide a good resource for studying regex
+15/05/22, 10:46 am - +91 87641 71813: Regexone is a decent site
+15/05/22, 11:13 am - +91 77299 87431: Hey Everyone
+
+Today's class is a problem solving session where I would pick problems from the doubt sheet I shared. This is an optional class. Nothing new would be discussed. So if you are free you can join.
+
+These are the 4 Questions we will discuss
+1) Flip
+2) Maximum absolute difference
+3) smallest XOR
+4) Max distance 
+
+Recording would be available for this class too.
+
+We will start at 8:05pm sharp.
+15/05/22, 1:44 pm - +91 99668 24848: This message was deleted
+15/05/22, 2:40 pm - +91 94929 59392: +1
+15/05/22, 2:40 pm - +91 80056 82688: +1
+15/05/22, 2:51 pm - +91 84780 50409: Me too +1 😊
+15/05/22, 2:53 pm - Animesh: Code Scrapper Project Link --> https://chat.whatsapp.com/DswnGGX0a8AHaRBj3J61D1
+15/05/22, 3:33 pm - +91 95555 31433: Anyone solved compute nCr%m
+15/05/22, 5:07 pm - +91 99200 35045: Solved in python
+15/05/22, 5:08 pm - +91 95555 31433: Code mil sakta hai
+15/05/22, 5:12 pm - +91 99200 35045: https://codeshare.io/wnYOMx
+Its TC(n*r) approach
+I need to understand that inverse modulo approach
+15/05/22, 5:19 pm - +91 95555 31433: Thanks
+15/05/22, 7:43 pm - sourabh: what's the idea behind All GCD Pairs question 🤔
+15/05/22, 7:45 pm - +91 86581 34750: Good idea I have already my GitHub and I pushed all my practice code to github
+15/05/22, 7:46 pm - +91 86581 34750: And I believe it is a good idea to have GitHub individually, we can add that link in resume. Like I am doing for AWS also
+15/05/22, 7:47 pm - sourabh: yup.. 👍
+15/05/22, 8:07 pm - +91 81870 19701 joined using this group's invite link
+15/05/22, 9:23 pm - +91 98696 22890: @919478712215 , this is the approach for all gcd pairs
+15/05/22, 9:28 pm - +91 82819 94620: +1
+15/05/22, 9:30 pm - +91 94084 42714: Anoop Let me know once you  start this , I can code with  you  and take this further
+15/05/22, 9:33 pm - sourabh: Code Scrapper Project Link --> https://chat.whatsapp.com/DswnGGX0a8AHaRBj3J61D1
+15/05/22, 9:41 pm - +91 94084 42714: Thank you
+15/05/22, 9:43 pm - Sarbjot: Hey Everyone, Could you please recommend me a good mentor, who you have great experience with throughout !! I am looking for someone, with great experience in industry at tech roles and preferrably have mentorship experience too. But suggestions are open, who know I might also find someone good with your experience so far.
+15/05/22, 9:44 pm - +91 94084 42714: Abhey Handa from Microsoft
+15/05/22, 9:44 pm - Sarbjot: What did you like about him?
+15/05/22, 9:46 pm - +91 94084 42714: Provides Help at right time, offers suggestions and is good technically. 
+
+One thing I like is he doesnt provide you the solution instead he guides you how to reach there.
+He provides honest feedback and suggestion to work on it
+15/05/22, 9:48 pm - Sarbjot: Sure, That helps in understanding, which tech stack he is skilled in?
+15/05/22, 9:49 pm - +91 94084 42714: I am not sure , He answers me if I ask in Java, Ruby, Python .
+
+I believe the stack doesn't  matter for a mentor
+15/05/22, 10:01 pm - +91 95555 31433: Saturday class notes and time stamps not added???
+15/05/22, 10:02 pm - +91 77299 87431: Checking
+15/05/22, 10:03 pm - +91 77299 87431: Notes are uploaded
+Upadating timestamps
+15/05/22, 10:08 pm - +91 77299 87431: Added
+16/05/22, 12:09 am - +91 78289 06522: +1
+16/05/22, 11:57 am - +91 87634 99526: Does anyone have trouble accessing scaler portal or is it only with me?
+16/05/22, 11:58 am - Animesh: Mine is working fine
+16/05/22, 12:17 pm - Aakash Chandra Srivastava: Refresh.
+It'll be fine after a while
+16/05/22, 12:25 pm - Animesh: Does anyone know how to change the font of GitHub readme?
+16/05/22, 12:26 pm - +91 86385 51776: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+16/05/22, 12:29 pm - Animesh: It has nothing on fonts
+16/05/22, 12:30 pm - Animesh: Is there a way to change fonts?
+16/05/22, 12:31 pm - +91 94084 42714: Hey is this group combined for Monday & Tuesdays  batch
+16/05/22, 12:31 pm - +91 94084 42714: I mean Java batch
+16/05/22, 1:06 pm - +91 88869 93508: Yes Monday and Tuesday DSA intermediate people are here for advance dsa.
+Not sure on Java batch as they are teaching dsa not specific to any language
+16/05/22, 1:07 pm - +91 94084 42714: 👍
+16/05/22, 3:17 pm - Animesh: Class postponed to Thursday
+16/05/22, 3:18 pm - Animesh: <Media omitted>
+16/05/22, 3:23 pm - +91 98963 01552: Yash knows we have backlogs🤣🤣
+16/05/22, 3:37 pm - +91 84780 50409: Thank god, I have been so busy with my office work from last 2 weeks. I have 52 pending questions to do 😭
+16/05/22, 3:41 pm - +91 86820 41801: Yeah same here
+16/05/22, 3:54 pm - +91 96860 59262: I have more than that 😳
+16/05/22, 3:54 pm - sourabh: i am also pending with 15-20.🙄
+16/05/22, 4:03 pm - +91 84780 50409: 😂 And here I think only I have this much backlogs
+16/05/22, 4:04 pm - +91 82819 94620: I am also pending 🤦🏻‍♀️🥺
+16/05/22, 4:04 pm - +91 72043 69709: I worry about my backlogs and office then end up doing nothing 😄
+16/05/22, 4:04 pm - +91 84780 50409: Dude that's okay🥹. U should sleep then. That's nothing. Take rest
+16/05/22, 4:05 pm - +91 78289 06522: I have 25 question and advance questions takes time.  I will still not  able to cover because all questions are tough and new and it taking time to solve.
+Any suggestions please ..
+16/05/22, 4:05 pm - sourabh: 😂😂
+16/05/22, 4:05 pm - sourabh: let me know once u will get any 😅😂
+16/05/22, 4:06 pm - sourabh: btw isn't it feel like a sudden holiday in school? 😂🤣.. srsly i am feeling like the same.
+16/05/22, 4:07 pm - +91 85888 17677: 😂😂😂
+16/05/22, 4:08 pm - +91 82819 94620: 😂😂
+16/05/22, 4:09 pm - +91 97487 85754: I have 70 backlogs and last Friday I got an offer from servicenow
+16/05/22, 4:09 pm - +91 84780 50409: There is so much to do. Keep on practicing old questions, solve new ones and then office work
+16/05/22, 4:10 pm - +91 84780 50409: Personal life toh 🙏🏻
+16/05/22, 4:10 pm - +91 84780 50409: And these advance assignments are really tough
+16/05/22, 4:11 pm - sourabh: congratulations bro..🤝🏻 for the offer.. was that reffered by scaler ?
+16/05/22, 4:11 pm - +91 97487 85754: No it was not
+16/05/22, 4:11 pm - sourabh: it is.. no doubt
+16/05/22, 4:12 pm - +91 97487 85754: Thanks
+16/05/22, 4:12 pm - sourabh: join the company and then do our refferals bro 😂😂
+16/05/22, 4:12 pm - sourabh: what r u waiting 😄
+16/05/22, 4:12 pm - +91 85888 17677: 😂😂
+16/05/22, 4:12 pm - +91 97487 85754: Sure 😄
+16/05/22, 4:13 pm - +91 85888 17677: Last week I had to submit use case for KPMG, my backlogs went up drastically..
+16/05/22, 4:14 pm - +91 85888 17677: Now I don't feel like doing it, which is a bigger problem 🙃
+16/05/22, 4:15 pm - +91 85888 17677: Anyone loosing motivation
+16/05/22, 4:16 pm - Animesh: <Media omitted>
+16/05/22, 4:17 pm - Venu Scaler: just think like this "we have to work in the same way in similar kind of company"... if it helps
+16/05/22, 4:17 pm - +91 85888 17677: Thanks..
+16/05/22, 4:17 pm - Venu Scaler: 🤣🤣👍
+16/05/22, 4:18 pm - +91 820 958 6719: Other Abhinav🙋‍♂️
+16/05/22, 4:18 pm - Venu Scaler: 🤣🤣 oh on sorry man
+16/05/22, 4:19 pm - +91 96020 23728: That's how my reactions changes while solving any problem🤣
+16/05/22, 4:19 pm - sourabh: all bro.. don't we all are facing these issues..
+16/05/22, 4:20 pm - sourabh: I won't say the issue.. i think these r the phases.. we can't deny the fact..
+16/05/22, 4:20 pm - sourabh: we won't be able to remember all the things which is not at all possible.. as simple as that 😓.. atlst I can't 😅
+16/05/22, 4:21 pm - Animesh: <Media omitted>
+16/05/22, 4:21 pm - +91 84780 50409: Congratulations 🎉... The irony is I work as support engg, and we have servicenow to manage the service request. I have 30 open cases in service now 😅. Life sucks
+16/05/22, 4:22 pm - +91 96020 23728: 🤣 every 3rd problem🤣
+16/05/22, 4:22 pm - sourabh: i don't know on what bases they gave us support role
+🙄
+16/05/22, 4:23 pm - +91 84780 50409: That too they asked all java questions in the interview
+16/05/22, 4:23 pm - +91 84780 50409: 🥹
+16/05/22, 4:23 pm - +91 84780 50409: Like they will make us lead developer
+16/05/22, 4:23 pm - sourabh: even i got interview call after coding contest they have taken 
+🥲
+16/05/22, 4:24 pm - sourabh: they have only one thing to say business requirement..😂😂
+16/05/22, 4:25 pm - sourabh: if business requirement is to have a support person then hire support person bhai 😂😂 why u need some1 from csc background with masters and bachelor's 😅
+16/05/22, 4:26 pm - +91 84780 50409: Be positive, everything has a reason. If they would not have placed us in support role, then we would not have been here 😊... Bas khudko yahi bolke samjha leti hu 🥹
+16/05/22, 4:26 pm - sourabh: sahi hai😂
+16/05/22, 4:27 pm - +91 99715 71053: You guys are opening the homework problems??
+16/05/22, 4:28 pm - +91 97487 85754: Thanks
+16/05/22, 4:28 pm - +91 99715 71053: My assignment is not completed then how would i unlock homework
+16/05/22, 4:28 pm - sourabh: This message was deleted
+16/05/22, 4:29 pm - +91 96860 59262: Same with me.
+16/05/22, 4:29 pm - sourabh: I don't think that shud be the case 🤔
+16/05/22, 4:29 pm - +91 85888 17677: 😂😂😂
+16/05/22, 4:29 pm - +91 85888 17677: Same pinch
+16/05/22, 4:29 pm - +91 99715 71053: No i dont want my psp to go up
+16/05/22, 4:30 pm - +91 99715 71053: Means down
+16/05/22, 4:30 pm - sourabh: i mean shud not be the case
+16/05/22, 4:30 pm - sourabh: u shud be able to unlock the qstns
+16/05/22, 4:30 pm - sourabh: thats what i wanna say
+16/05/22, 4:31 pm - +91 99715 71053: I know but sud i do it
+16/05/22, 4:31 pm - sourabh: u r saying that u r not unlocking the problems because ur psp will decrease
+16/05/22, 4:31 pm - sourabh: am i ryt ?
+16/05/22, 4:32 pm - +91 99715 71053: Yes
+16/05/22, 4:32 pm - Animesh: That makes sense. If you haven't finished all the assignment problems not unlocking homework will render a higher rank. As PSP would be higher.
+16/05/22, 4:32 pm - +91 99715 71053: I dont even completing my assignment
+16/05/22, 4:32 pm - sourabh: bro its ur personal interest 😂😂..
+i mean what will happen if psp go down.. once u will solve it will be up ryt ?
+16/05/22, 4:33 pm - +91 99715 71053: Time management problem bro
+16/05/22, 4:33 pm - sourabh: but what will happen then? 🙄🫣
+16/05/22, 4:33 pm - sourabh: but i mean even if psp is low what u will loose ? 🤔
+16/05/22, 4:33 pm - Animesh: Nothing in real terms.
+16/05/22, 4:33 pm - sourabh: main motive is to solve problems not be on top of chart or something 🤔🤔
+16/05/22, 4:33 pm - Animesh: yup
+16/05/22, 4:34 pm - +91 99715 71053: Yes
+16/05/22, 4:34 pm - sourabh: yeah so don't worry.. if u feel like u want to do that u can.. nothing is wrong in doing that 😃
+16/05/22, 4:35 pm - Rishabh Sharma: I am a fresher working on a  technology called GOLD which i bet no one has ever heard of...even my resume doesn't get shortlisted...for any company i try...just because someone thought it would be better to put a fresher in a project which has a proprietary language and of no use for outside world..🥲
+16/05/22, 4:38 pm - +91 84780 50409: If your psp will go down, then u will feel challenged and u will then solve problems. If u will not unlock homeworks and have this fear then u are never going to complete this. U will be comfortable in not solving them
+16/05/22, 4:39 pm - +91 72043 69709: This happens a lot, in my company we are using proprietary frameworks and a whole new version of java, i think this is very common among industries. But if you have somewhat idea on any language and want to learn Java i would recommend Head_First_Java, i have myself read it, it's amazing and feels like your are reading a bunch of memes while you learn Java
+16/05/22, 4:39 pm - +91 99715 71053: Good
+16/05/22, 4:39 pm - sourabh: u won all ur bet🫣..
+GOLD..🤐
+16/05/22, 4:39 pm - +91 96860 59262: Correct that is why reputation matters.
+16/05/22, 4:39 pm - +91 84780 50409: When my psp goes less than 75%, I feel anxious and this motivates me to solve questions.
+16/05/22, 4:40 pm - +91 84780 50409: Atleast be an average student 😅
+16/05/22, 4:40 pm - +91 99715 71053: All are not same priya everyone has different responsibilities and work timings in may case its very difficult to complete all questions
+16/05/22, 4:41 pm - +91 99715 71053: I am below average 😌
+16/05/22, 4:42 pm - +91 84780 50409: I can understand, we are at that age where we have many responsibilities. But still if u r doing something put some efforts daily. Just saying that
+16/05/22, 4:42 pm - +91 99715 71053: Yes you are right
+16/05/22, 4:42 pm - +91 99715 71053: Need to put more efforts
+16/05/22, 4:42 pm - +91 99715 71053: Thanks for little motivation
+16/05/22, 4:43 pm - sourabh: yeah bro.. and if that doesn't motivates u .. just think about the fees u paid 😂😂
+16/05/22, 4:43 pm - +91 84780 50409: 😂😂😂 yeah
+16/05/22, 4:43 pm - +91 99715 71053: <Media omitted>
+16/05/22, 4:43 pm - +91 84780 50409: That will give you some serious anxieties
+16/05/22, 4:43 pm - +91 84780 50409: 😅
+16/05/22, 4:43 pm - +91 99715 71053: Yahi soch soch k to lecture attend kr leta hu😂😂
+16/05/22, 4:44 pm - +91 99715 71053: Whre do you guys work currently
+16/05/22, 4:45 pm - sourabh: me.. 
+wfh
+16/05/22, 4:45 pm - +91 99715 71053: I work in CAPGEMINI
+16/05/22, 4:45 pm - +91 99715 71053: And in WFH
+16/05/22, 4:45 pm - +91 99715 71053: I was asking about firm
+16/05/22, 4:46 pm - +91 99715 71053: No answer🤔
+16/05/22, 4:50 pm - +91 93981 65974: Anyone working as data scientist
+16/05/22, 4:50 pm - +91 93981 65974: Or ml engineer
+16/05/22, 4:51 pm - +91 84780 50409: I work in Servion global solutions limited. It's a service based company.
+16/05/22, 4:51 pm - +91 70386 79207: 😂
+16/05/22, 4:53 pm - +91 72043 69709: I work at Siemens
+16/05/22, 4:53 pm - +91 82819 94620: I work in CDOT as a software developer.
+16/05/22, 4:53 pm - +91 99715 71053: Most of us works in a service based firm
+16/05/22, 4:54 pm - +91 99715 71053: That why we joined scaler to get placed in a product based organisation
+16/05/22, 5:02 pm - +91 80939 63707: Anybody doing WFO
+16/05/22, 5:03 pm - +91 72043 69709: Ask me next month
+16/05/22, 5:11 pm - +91 86385 51776: How's Siemens work culture?
+16/05/22, 5:12 pm - +91 82819 94620: 🙋🏻‍♀️
+16/05/22, 5:12 pm - +91 97661 17349: Globallogic and it's WFH
+16/05/22, 5:13 pm - +91 80939 63707: How are you managing time.
+16/05/22, 5:15 pm - +91 82819 94620: Don't ask it's very difficult to manage time🤦🏻‍♀️..  some how going with the flow . 🙄
+16/05/22, 5:15 pm - +91 80939 63707: Same here
+16/05/22, 5:16 pm - +91 84780 50409: Offices are gonna open soon. Mostly within next 2-3 months
+16/05/22, 5:16 pm - +91 80939 63707: In next 2-3 months.u will be placed somewhere
+16/05/22, 5:17 pm - +91 72043 69709: Oh i can speak for hours well It largely depends on your project whether it's there in the market for decades or some advanced projects. But over all, there is a lot of work life balance and visibility in office coz you will be working with German partners
+16/05/22, 5:18 pm - +91 84780 50409: 😂 hope so 🤞🏻
+16/05/22, 5:19 pm - +91 89811 70012: Yeah 🙋🏻‍♂️
+16/05/22, 5:21 pm - +91 80939 63707: Sir plz share your timetable
+16/05/22, 5:23 pm - sourabh: cool.. let me know if any openings for 1.5 yoe ..😅
+16/05/22, 5:25 pm - +91 72043 69709: You can look into the company website for early professional jobs and let me know if you like the job role, i give you a referral
+16/05/22, 5:26 pm - +91 89811 70012: My office timetable??
+16/05/22, 5:27 pm - sourabh: i think he wants to know how u r manging office and scaler 😅
+16/05/22, 5:30 pm - +91 80939 63707: Correct ☺️
+16/05/22, 5:30 pm - +91 89811 70012: Oh okk
+16/05/22, 5:32 pm - +91 89811 70012: 11 to 9 pm office and after that rest of time scaler..and push hrs as much as I can..till my brain couldn’t take it anymore mainly in the nights
+16/05/22, 5:34 pm - +91 89811 70012: I’m a late riser.. so morning I practice sometimes..mainly before mock session with my mentor
+16/05/22, 5:34 pm - +91 89811 70012: And God bless Work From Home 🏡
+16/05/22, 5:35 pm - sourabh: yeah atleast till the time we are doing sclaer course😅
+16/05/22, 5:35 pm - +91 89811 70012: Ekdom
+16/05/22, 5:36 pm - +91 89811 70012: Where do u guys work??
+16/05/22, 5:38 pm - +91 80939 63707: I work for the Chatterjee group
+16/05/22, 5:40 pm - +91 80939 63707: Where do you work..?
+16/05/22, 5:41 pm - +91 89811 70012: Infosys
+16/05/22, 5:45 pm - +91 80939 63707: Are in web development..??
+16/05/22, 5:45 pm - +91 80939 63707: Are you in web development..??
+16/05/22, 5:52 pm - +91 89811 70012: Mainly mobile applications developer in Android and react native..but currently working on web also Angular nd react
+16/05/22, 5:54 pm - +91 80939 63707: So u r doing scalar problems in js ..??
+16/05/22, 6:02 pm - +91 89811 70012: No Java
+16/05/22, 6:03 pm - +91 89811 70012: This message was deleted
+16/05/22, 6:03 pm - +91 80939 63707: 😂😂😂
+16/05/22, 6:03 pm - +91 89811 70012: Also some problems I’ve solved both in java nd JS also if I have some spare time😅
+16/05/22, 6:04 pm - +91 89811 70012: Java is my strong suit
+16/05/22, 6:04 pm - +91 80939 63707: Cool
+16/05/22, 8:09 pm - +91 78385 67903 joined using this group's invite link
+17/05/22, 11:40 am - Siddharth Modi: can anyone tell what can be improved here? I'm getting memory limit exceeded.
+https://codeshare.io/r9Y7yA
+17/05/22, 12:10 pm - +91 99876 45015: Can anyone explain what is wrapper classes in java??? It is written as use primitive types as objects but not able understand? Where and why it is used?
+17/05/22, 12:14 pm - +91 84780 50409: Wrapper classes are used to convert primitive data types into object and vice versa
+17/05/22, 12:15 pm - +91 84780 50409: E.g. int(primitive datatype)= Integer (wrapper class)
+17/05/22, 12:16 pm - +91 99876 45015: But why we convert it in object? Where is it used? I’m confused in that
+17/05/22, 12:17 pm - Aakash Chandra Srivastava: I asked for an extension.
+I saw that the last DSA class is listed on 23 Aug and my extension is till September
+17/05/22, 12:20 pm - +91 84780 50409: Because java is an object oriented language. Everything works with object in java. Will you use use Arraylist with int or Integer?
+17/05/22, 12:22 pm - sourabh: ohh so can expect advanced module. to be finished by end of August.. cool😃.
+17/05/22, 12:22 pm - sourabh: and also it comes with predefined functions which can be used out of the box 😃
+17/05/22, 12:23 pm - +91 99876 45015: Oh ok so when working with collection objects such as ArrayLists…actually I’m learning java so asking such doubts…thanks priya 🙏
+17/05/22, 12:24 pm - +91 99876 45015: Ok thanks
+17/05/22, 12:27 pm - Aakash Chandra Srivastava: It's ok
+We will learn more about Java during post System Design
+17/05/22, 5:56 pm - +91 81234 19100: Hi Guys,
+17/05/22, 5:56 pm - +91 81234 19100: <Media omitted>
+17/05/22, 5:56 pm - +91 81234 19100: why the null value here in postman ?
+17/05/22, 5:57 pm - +91 81234 19100: I have created spring boot application to expose http methods
+17/05/22, 5:57 pm - +91 81234 19100: and used in memory db
+17/05/22, 5:58 pm - +91 81234 19100: <Media omitted>
+17/05/22, 5:58 pm - sourabh: coz its post call ..so is ur api will be sending any response when u r sending post request ?
+17/05/22, 5:58 pm - +91 81234 19100: yes
+17/05/22, 5:59 pm - sourabh: details are also not submitting 🤔
+17/05/22, 5:59 pm - sourabh: in the table
+17/05/22, 5:59 pm - +91 81234 19100: yeah, but values are not inserting
+17/05/22, 5:59 pm - +91 81234 19100: let me paste my code here
+17/05/22, 6:00 pm - +91 81234 19100: https://bushansirgur.in/spring-boot-hibernate-jpa-and-h2-database-crud-rest-api-example/
+17/05/22, 6:01 pm - +91 81234 19100: exact code i have written
+17/05/22, 6:25 pm - +91 88869 93508: We don't have class today, correct?
+17/05/22, 6:25 pm - sourabh: nope
+17/05/22, 6:26 pm - +91 88869 93508: ok
+17/05/22, 6:32 pm - +91 77951 66724: I guess @Setter & @Getter isn't working in your project
+17/05/22, 6:32 pm - +91 77951 66724: Its lombok
+17/05/22, 6:33 pm - +91 77951 66724: You need to configure the lombok to your workspace
+17/05/22, 6:35 pm - +91 77951 66724: <Media omitted>
+17/05/22, 6:42 pm - +91 77951 66724: <Media omitted>
+17/05/22, 6:45 pm - +91 88840 00284: I am working in SAP
+17/05/22, 6:47 pm - +91 84311 83110: Please help to get this group link
+17/05/22, 6:56 pm - +91 81234 19100: Yes,This looks working now...Thanks Alot.
+17/05/22, 6:56 pm - +91 81234 19100: Thanks Everyone for the Quick response...Thanks Alot!!.
+17/05/22, 6:56 pm - +91 77951 66724: No problem
+17/05/22, 7:34 pm - Venu Scaler: Hi Guys
+17/05/22, 7:34 pm - Venu Scaler: I was trying to solve subarray problem in another way:
+17/05/22, 7:34 pm - Venu Scaler: public long solve(int A, int[] B) {
+        int c = 0;
+        long total = (A*(A+1))/2;
+        int zero = 0;
+        for(int i=0;i<A;i++) {
+            if(B[i]==0){
+                ++c;
+            } else {
+                zero += ((c*(c+1))/2);
+                c=0;
+            }
+        }
+      return total-zero;
+    }
+17/05/22, 7:34 pm - Venu Scaler: I am not getting the correct answer. Can somebody point out error in my thinking
+17/05/22, 7:35 pm - Venu Scaler: I m trying to get the no of  zero subarrays and subtracting it from total subarray
+17/05/22, 7:36 pm - Venu Scaler: This is subarray with bitwise OR 1 problem
+17/05/22, 7:53 pm - Venu Scaler: @919869622890 Thank you.. It is working fine now
+17/05/22, 9:08 pm - +91 97422 88058: Anyone solved distinct primes problem??
+17/05/22, 9:29 pm - Sarbjot: Yes
+17/05/22, 9:29 pm - +91 94084 42714: Guys can someone help me with who is the instructor for Tue Intermediate  batch i.e going currently
+17/05/22, 9:29 pm - +91 97422 88058: Can you please help me?
+17/05/22, 9:29 pm - +91 94084 42714: TTS
+17/05/22, 9:32 pm - Sarbjot: This message was deleted
+17/05/22, 9:38 pm - Rishabh Sharma: Yash
+17/05/22, 10:36 pm - +91 99516 57219: Hey guys
+Can someone help me with 
+NCR % P 
+Problem.......
+
+I am using a recursion approach
+Which seems to have same time complexity as we discussed int the class
+
+But I am getting TLE
+17/05/22, 10:36 pm - +91 99516 57219: <Media omitted>
+17/05/22, 10:37 pm - +91 99516 57219: https://codeshare.io/lox7Mj
+17/05/22, 10:45 pm - +91 95555 31433: This message was deleted
+17/05/22, 11:05 pm - +91 86867 13069: https://codeshare.io/8pLOyZ
+17/05/22, 11:06 pm - +91 86867 13069: regarding :  Compute nCr % m
+17/05/22, 11:06 pm - +91 86867 13069: getting error:
+17/05/22, 11:06 pm - +91 86867 13069: > TestCase - Trivial Case Correctness Failed
+Runtime Error
+Your submission stopped because of a runtime error,ex: division by zero, array index out of bounds, uncaught exception. You can try testing your code with custom input and try putting debug statements in your code.
+
+Traceback (most recent call last):
+  File "main.py", line 235, in 
+    print (obj.solve(A, B, C))
+  File "/tmp/judge/solution.py", line 5, in solve
+    temp2 =  self.pow1(temp1,(C-2),C)
+  File "/tmp/judge/solution.py", line 24, in pow1
+    temp = self.pow1(g,h//2,c)
+  File "/tmp/judge/solution.py", line 29, in pow1
+    res = ((g%c)%(temp%c)*(temp%c))%c
+ZeroDivisionError: integer division or modulo by zero
+
+Your submission failed for the following input
+
+A : 5
+B : 2
+C : 13
+
+Test As custom input
+The expected return value:
+
+10
+17/05/22, 11:06 pm - +91 86867 13069: I asked TA
+17/05/22, 11:07 pm - +91 86867 13069: <Media omitted>
+17/05/22, 11:07 pm - +91 86867 13069: has any one done this problem?
+18/05/22, 11:43 am - +91 80878 08998: This message was deleted
+18/05/22, 11:45 am - +91 80878 08998: https://codeshare.io/bvRDXA
+
+U can chk this code
+18/05/22, 2:36 pm - +91 81234 19100: Query a Table Employee Where Column names are employeeName, EmployeeId,DepartmentId,Sum the DepartmentIds as SUMDe and dispaly 3rd from top
+can anyone check this in mysql
+18/05/22, 2:43 pm - Venu Scaler: try to use rank function
+18/05/22, 3:21 pm - +91 90078 39423: This message was deleted
+18/05/22, 9:46 pm - Siddhant: <Media omitted>
+18/05/22, 9:46 pm - Siddhant: Loop should continue
+18/05/22, 9:46 pm - Siddhant: GCD class
+18/05/22, 9:47 pm - Siddhant: I'm taking about subtraction approach
+18/05/22, 9:47 pm - Animesh: It was used to demonstrate that we can avoid iterative subtraction if we apply mod
+18/05/22, 9:50 pm - Siddhant: No It was applied so we could reach till 3, modulo and subtraction
+18/05/22, 9:50 pm - Siddhant: They are two methods
+18/05/22, 9:52 pm - Animesh: I think its the same. You can arrive at 3 by subtracting iteratively or by taking a mod directly. So, to arrive at b = 0, mod reduces the total iterations to logn from n.
+18/05/22, 9:54 pm - Animesh: It would take n subtractions if say the other number was 1. So for gcd of 8, 1 you would subtract 8 times to get to 0.
+18/05/22, 9:54 pm - Animesh: But using mod we arrive at 0 in 2 iterations
+18/05/22, 9:55 pm - Sarbjot: We didn’t stop, but we were just told that there exist something which can reduce our iteration. That’s when modulus vala solution came in and he explained that, but this explanation wasn’t to calculate the gcd until b== 0 though to get in actual you would go till b = 0
+18/05/22, 9:56 pm - Animesh: Why can't we get to b == 0 with iterative subtraction + swap?
+18/05/22, 9:57 pm - Siddhant: <Media omitted>
+18/05/22, 9:57 pm - Siddhant: ..
+18/05/22, 9:58 pm - Sarbjot: We can go that approach too, I meant, that Sidhant has taken notes from the class, and in the class it was taken upto 3,5 so that we can catch that we could use modulus here!! That was the whole point, this whole example wasn’t explained to calculate gcd actually, just to show us a pattern he used this example so that we can deduce there is other way to do this which is using modulus !
+18/05/22, 9:59 pm - Animesh: 👍🏻
+18/05/22, 10:02 pm - Siddhant: Ok got it,
+18/05/22, 10:56 pm - sourabh: anyone facing MLE in prime sum nmbr problem using sieve ?
+18/05/22, 10:56 pm - sourabh: in python ?
+18/05/22, 10:57 pm - +91 82819 94620: Can u share your code
+18/05/22, 10:58 pm - sourabh: <Media omitted>
+18/05/22, 11:00 pm - sourabh: and also one thing how much max_size array we can make ?
+10^6 ?
+18/05/22, 11:02 pm - sourabh: in python 3 it worked..
+18/05/22, 11:04 pm - +91 82819 94620: Not sure about max size . But 10^6 size is working fyn for me in c++
+18/05/22, 11:04 pm - +91 82819 94620: 👍🏻
+18/05/22, 11:19 pm - +91 85888 17677: Anyone did flip from Arrays 2, which was also discussed in extra class
+18/05/22, 11:19 pm - +91 85888 17677: ?
+18/05/22, 11:20 pm - +91 81870 19701: Yes bro, I have done that in JS.
+18/05/22, 11:20 pm - +91 85888 17677: Can you share the code I am doing something wrong
+18/05/22, 11:57 pm - Venu Scaler: hi guys, ur some has done little ponny abd 2- subsequence assignment could you please tell me what logic you have applied.
+18/05/22, 11:57 pm - Venu Scaler: tried n2 way and subsequence way am getting tle
+19/05/22, 9:59 am - sourabh: <Media omitted>
+19/05/22, 10:01 am - sourabh: <Media omitted>
+19/05/22, 10:02 am - sourabh: if we r using sieve algo
+
+our time complexity would depend on A[i] but if we do simple brute force our TC would rely on array lentgh which is very less.. so better to use brute force here
+19/05/22, 10:08 am - Animesh: Yeah that's what the TA said
+19/05/22, 10:08 am - Animesh: In a CHR call
+19/05/22, 10:09 am - Animesh: But he said to stick with sieve in interview
+19/05/22, 10:09 am - Animesh: Next best sqrt
+19/05/22, 10:16 am - sourabh: but all depends on constraint ryt 🤔.. N is half of A[i] why we would preffer sieve then 🤔
+19/05/22, 10:16 am - sourabh: just thinking..
+19/05/22, 10:17 am - Animesh: Ok. So we optimise based on constraints. That's the first time I've seen something like this
+19/05/22, 10:18 am - Animesh: Does it happen often?
+19/05/22, 10:18 am - sourabh: me too. 😂
+19/05/22, 10:30 am - +91 86581 34750: Yes. Same happened to me. I have used seive earlier and then used the brute force one . It worked
+19/05/22, 11:20 am - +91 70111 21440: Can anyone help me
+19/05/22, 11:20 am - +91 70111 21440: <Media omitted>
+19/05/22, 11:24 am - sourabh: at line number ??
+there will be line number also.. can u tell that once 🤔
+19/05/22, 11:25 am - +91 70111 21440: <Media omitted>
+19/05/22, 11:29 am - sourabh: is that ans.Add() shud be ans.add() 🤔
+19/05/22, 11:29 am - +91 70111 21440: No its right
+19/05/22, 11:30 am - sourabh: oh its c#.. my bad i thought java
+19/05/22, 11:43 am - +91 98937 95983: Please revisit max+1 length of array, it is not necessary it will be the same as A length
+19/05/22, 11:55 am - sourabh: we have to check in the given array ryt 🤔 so shud visit the same only no.? 🤔
+19/05/22, 12:07 pm - +91 98937 95983: Length of array A can be 10 pow 5 but value can be 10 pow 6
+19/05/22, 12:08 pm - +91 98937 95983: <Media omitted>
+19/05/22, 12:08 pm - +91 98937 95983: New list should be length of array a not max+1
+19/05/22, 12:29 pm - sourabh: then how will we check prime facorrs of those number greater then 10^5 which can be present in the array ? 🤔
+19/05/22, 1:32 pm - +91 70111 21440: Yes
+19/05/22, 1:32 pm - +91 70111 21440: @919893795983 plzz answer that
+19/05/22, 1:35 pm - Rishabh Sharma: Check the constraints and decide the size of seive
+19/05/22, 1:36 pm - +91 70111 21440: It is 10 power 6
+19/05/22, 1:37 pm - Rishabh Sharma: its greater than the max Array length
+19/05/22, 1:37 pm - +91 84311 83110: <Media omitted>
+19/05/22, 1:38 pm - +91 84311 83110: Code and explanation
+19/05/22, 1:38 pm - +91 84311 83110: Please
+19/05/22, 1:41 pm - Rishabh Sharma: <Media omitted>
+19/05/22, 1:56 pm - +91 84311 83110: Python
+19/05/22, 1:56 pm - sourabh: this is little trickier to explain.. try to go through some video tutorial if possible
+19/05/22, 1:57 pm - +91 86581 34750: Anybody from UBS?
+19/05/22, 1:57 pm - sourabh: UBS means
+19/05/22, 2:01 pm - +91 99715 71053: Guys is 12 a lucky number
+19/05/22, 2:01 pm - +91 99715 71053: ??
+19/05/22, 2:02 pm - +91 96526 44523: This message was deleted
+19/05/22, 2:02 pm - +91 99715 71053: <Media omitted>
+19/05/22, 2:02 pm - +91 99715 71053: <Media omitted>
+19/05/22, 2:03 pm - +91 96526 44523: Yes it's lucky
+19/05/22, 2:03 pm - +91 96526 44523: Only 2 prime divisors
+19/05/22, 2:06 pm - sourabh: yes i also had a same doubt
+19/05/22, 2:07 pm - sourabh: 12 has factors of 
+2, 3,4,6,
+19/05/22, 2:07 pm - sourabh: so it has
+19/05/22, 2:07 pm - +91 96526 44523: 2 and 3 are prime
+19/05/22, 2:07 pm - +91 96526 44523: Not 4 and 6
+19/05/22, 2:07 pm - +91 96526 44523: Exactly 2 prime divisors
+19/05/22, 2:07 pm - +91 96526 44523: Not about all divisors
+19/05/22, 2:08 pm - +91 96526 44523: A no is lucky if it has exactly 2 prime divisors and any no of divisors
+19/05/22, 2:08 pm - +91 96526 44523: Prime factors shoulzd be only 2
+19/05/22, 3:43 pm - +91 88267 12479: <Media omitted>
+19/05/22, 3:43 pm - +91 88267 12479: <Media omitted>
+19/05/22, 3:59 pm - +91 77299 87431: Hey Everyone
+
+Today's class is Recursion - 1.
+
+This will be a revision class. We will revise what we learnt about recursion in the intermediate classes.
+
+We will start at 9:05pm sharp.
+19/05/22, 7:33 pm - +91 70086 89697: Content creation industry is exploding and is expected to cross $500 billion by 2023! 🤑
+
+What does this all mean? It’s good news for you if you’re a content creator or trying to break into the content creation industry. 
+
+If you are a budding tech content creator or have an existing tech based channel on YT or other social media platforms, Scaler can help you to amplify it! 🔥
+
+If you are interested please reach out here 👉🏻 https://bit.ly/3LnNGEs
+19/05/22, 9:53 pm - +91 88267 12479: <Media omitted>
+19/05/22, 10:01 pm - +91 88003 57650: This because yahnit did not consider 0 as valid input. And question says Nth fibonaci number where greater than or equal to one.
+19/05/22, 10:01 pm - +91 88267 12479: Yes
+19/05/22, 10:01 pm - +91 88267 12479: Thanks
+20/05/22, 8:50 am - Animesh: Anybody familiar with svds in Python?
+20/05/22, 8:51 am - Animesh: Getting type not understood error for this
+20/05/22, 8:51 am - Animesh: You deleted this message
+20/05/22, 8:53 am - Animesh: <Media omitted>
+20/05/22, 8:53 am - Animesh: <Media omitted>
+20/05/22, 1:31 pm - sourabh: given 4 boys and 3 girls.
+how many ways girls can choose boy to pair up 🤔
+
+12 or 24 ?
+20/05/22, 1:32 pm - +91 98662 01024: This message was deleted
+20/05/22, 1:33 pm - Animesh: 12
+20/05/22, 1:33 pm - Venu Scaler: think should be 12...
+20/05/22, 1:33 pm - Venu Scaler: 👍
+20/05/22, 1:33 pm - Animesh: Out of 3 girls we pick 1 in 3C1. That girl picks a boy in 4C1
+20/05/22, 1:33 pm - Animesh: Multiplying returns answer
+20/05/22, 1:37 pm - sourabh: <Media omitted>
+20/05/22, 1:38 pm - sourabh: similarly we would have 3 cases.
+8*3 = 24 possible pairs..🤔
+20/05/22, 1:38 pm - sourabh: where i am going wrong
+20/05/22, 1:40 pm - Animesh: Can you paste the question. ?
+20/05/22, 1:41 pm - sourabh: i got my mistake..
+20/05/22, 1:41 pm - sourabh: qstn was same bro just want to chek pairs..
+20/05/22, 1:41 pm - sourabh: i got it..
+20/05/22, 1:41 pm - Animesh: So the what was my mistake?
+20/05/22, 1:41 pm - Animesh: How is it 24?
+20/05/22, 1:42 pm - sourabh: no it's not 24
+20/05/22, 1:42 pm - sourabh: its 12 only
+20/05/22, 1:42 pm - Animesh: 😀
+20/05/22, 7:14 pm - Animesh: Does anyone have experience with react and material UI?
+20/05/22, 7:15 pm - +91 86581 34750: Yes
+20/05/22, 7:15 pm - +91 89811 70012: Yeah
+20/05/22, 7:15 pm - +91 86581 34750: I am working in react
+20/05/22, 7:16 pm - Animesh: I'm getting can't resolve '@material-ui/core'
+20/05/22, 7:16 pm - Animesh: Module not found
+20/05/22, 7:17 pm - +91 86581 34750: Is it installed/ present in nodemodule?
+20/05/22, 7:17 pm - +91 86581 34750: Check
+20/05/22, 7:17 pm - Animesh: Ok
+20/05/22, 7:17 pm - +91 89811 70012: Have install the npm
+20/05/22, 7:17 pm - +91 89811 70012: Check the package.json
+20/05/22, 7:17 pm - Animesh: I did that before
+20/05/22, 7:18 pm - Animesh: Ok
+20/05/22, 7:18 pm - Animesh: Its absent
+20/05/22, 7:18 pm - Animesh: I'll reinstall
+20/05/22, 7:18 pm - +91 89811 70012: Yeah
+20/05/22, 7:18 pm - +91 86581 34750: 👍
+20/05/22, 7:19 pm - Animesh: <Media omitted>
+20/05/22, 7:20 pm - Animesh: npm install is not running
+20/05/22, 7:20 pm - +91 89811 70012: Don’t use the version
+20/05/22, 7:21 pm - Animesh: <Media omitted>
+20/05/22, 7:21 pm - +91 89811 70012: Just npm i @material-ui/core
+20/05/22, 7:22 pm - +91 89811 70012: I think material ui is now mui
+20/05/22, 7:22 pm - +91 89811 70012: Can u just check the documentation
+20/05/22, 7:22 pm - Animesh: Ok
+20/05/22, 7:23 pm - +91 89811 70012: Yup I am right
+20/05/22, 7:23 pm - +91 89811 70012: Npm install @mui/material
+20/05/22, 7:24 pm - Animesh: Core?
+20/05/22, 7:25 pm - Animesh: <Media omitted>
+20/05/22, 7:25 pm - Animesh: This worked😀
+20/05/22, 7:25 pm - Animesh: Legacy peers
+20/05/22, 7:25 pm - +91 89811 70012: Okk
+20/05/22, 7:25 pm - +91 89811 70012: Cool
+20/05/22, 7:26 pm - +91 89811 70012: R u making the component from scratch?
+20/05/22, 7:26 pm - Animesh: No
+20/05/22, 7:26 pm - Animesh: Using createMuiTheme
+20/05/22, 7:27 pm - +91 89811 70012: Or if material sdk is not there before..then I think u can use the latest version of the sdk
+20/05/22, 7:27 pm - +91 89811 70012: This one is older
+20/05/22, 7:27 pm - Animesh: I had installed it before. For some reason its not showing. I look at it later
+20/05/22, 7:28 pm - Animesh: In the most basic sense
+20/05/22, 7:28 pm - +91 89811 70012: Okk sure
+20/05/22, 8:12 pm - Animesh: <Media omitted>
+20/05/22, 10:03 pm - +91 86581 34750: <Media omitted>
+20/05/22, 10:03 pm - +91 86581 34750: This is a problem I encountered in a test.
+20/05/22, 10:04 pm - +91 86581 34750: If anynody want to try
+20/05/22, 10:06 pm - sourabh: which test ?
+20/05/22, 10:16 pm - +91 86581 34750: I applied in Turing , and in coding test this was the peoblem
+20/05/22, 10:16 pm - +91 86581 34750: Duration 57 min
+20/05/22, 10:32 pm - Brij Mohan Sharma: Thanks for posting
+20/05/22, 10:34 pm - Sarbjot: Is it good ?
+20/05/22, 10:35 pm - Sarbjot: I have heard a lot of bad experiences about turing
+20/05/22, 10:39 pm - Brij Mohan Sharma: Then give a try to crossover
+20/05/22, 10:40 pm - +91 86581 34750: I believe from interviews we can evaluate ourself.
+20/05/22, 11:05 pm - sourabh: yes
+20/05/22, 11:05 pm - sourabh: agree
+20/05/22, 11:37 pm - +91 86581 34750: I am getting TLE in count of divisors . Anybody solved it?
+21/05/22, 8:13 am - sourabh: yup
+21/05/22, 8:19 am - +91 86581 34750: I have used seive approach and getting TLE  any other approach?
+21/05/22, 8:24 am - sourabh: i also used sieve only
+21/05/22, 8:24 am - sourabh: for this problem
+21/05/22, 8:25 am - sourabh: the one we were taught in the class.
+21/05/22, 9:12 am - +91 78289 06522: Use sieve asked to TA for help.
+21/05/22, 9:57 am - +91 95555 31433: <Media omitted>
+22/05/22, 11:50 am - +91 77299 87431: Hey Everyone
+These are the 3 Questions we will discuss in today's doubt class
+1) All GCD Pairs
+2) Sorted Permutation Rank with Repeats
+3) Maximum Sum Square SubMatrix
+We will start at 8:05pm sharp.
+22/05/22, 12:01 pm - Sarbjot: All GCD pair thank you, no one was able to teach it right !!
+22/05/22, 2:09 pm - +91 96526 44523: 👍👍
+23/05/22, 2:49 pm - Divya K: Anyone here knows how to extract date (not any number) from a string without using any modules in Python?
+23/05/22, 2:51 pm - Aakash Chandra Srivastava: We usually do it with dateutil module
+23/05/22, 2:52 pm - Divya K: Right. But any way of extracting without using modules?
+23/05/22, 2:53 pm - Animesh: Strip the string and then split for '/'
+23/05/22, 2:53 pm - Animesh: That way 3 sub strings can be found of size 4 2 2
+23/05/22, 2:53 pm - Animesh: Then 4 is year
+23/05/22, 2:54 pm - Animesh: But the date and month extraction could be tricky
+23/05/22, 2:55 pm - Animesh: So the question must state the format of date like dd/mm/yyyy
+23/05/22, 2:58 pm - Divya K: Okk
+23/05/22, 2:58 pm - Divya K: Thanks
+23/05/22, 2:58 pm - Animesh: 👍🏻
+23/05/22, 4:01 pm - Divya K: Hi guys,
+Is there anyone here who has worked only in support projects? Need help. Please let me know.
+23/05/22, 4:37 pm - sourabh: me
+23/05/22, 4:41 pm - +91 70386 79207: Yes
+23/05/22, 4:42 pm - Aakash Chandra Srivastava: Yes
+23/05/22, 4:46 pm - +91 84780 50409: Me too
+23/05/22, 4:47 pm - sourabh: gud to see so many of us on the same boat 🫣😅
+23/05/22, 4:47 pm - Aakash Chandra Srivastava: Well, there's a reason we joined Scaler
+🤣
+23/05/22, 4:48 pm - +91 84780 50409: 😅
+23/05/22, 4:51 pm - +91 83104 24732: Me
+23/05/22, 4:54 pm - Divya K: Are any of you'll worried that you have not worked on dev projects and you'll be asked about it in future interviews? Coz I am. Anything you'll have in mind what to do?
+23/05/22, 4:58 pm - +91 84780 50409: Before that I am worried about how to create a strong resume so that I get interviews
+23/05/22, 4:58 pm - +91 84780 50409: And yeah that's too 🥲
+23/05/22, 4:59 pm - Aakash Chandra Srivastava: We will prepare projects using Spring Later in the course.
+
+
+You can check out YouTube to prepare some small projects too
+23/05/22, 4:59 pm - Aakash Chandra Srivastava: There's option of Scaler fast track
+U can clear that interview and your chances will get stronger automatically
+23/05/22, 5:00 pm - Divya K: I have around 4 yrs of experience so won't any interviewer be concerned that I haven't worked on dev projects before recruiting me?
+23/05/22, 5:01 pm - Animesh: Any idea when does placements begin?
+23/05/22, 5:01 pm - Aakash Chandra Srivastava: I had a discussion regarding this with a Microsoft SDE 2 guy.
+
+He said that he hires mostly on basis of problem solving skills.
+
+If you're applying in a startup for java developer or Angular developer then they're going to as you such questions as the work will be related to only those technologies
+23/05/22, 5:02 pm - Aakash Chandra Srivastava: Some have already got offers
+23/05/22, 5:03 pm - Divya K: Ok. I am a bit relieved to hear this. Hopefully external/small projects will be enough for MNC interviews.
+23/05/22, 5:03 pm - Animesh: I meant after the 6 month policy that Scaler has
+23/05/22, 5:03 pm - +91 84780 50409: Actually it depends, if you're ready or not. If you're you can start applying I think
+23/05/22, 5:04 pm - Aakash Chandra Srivastava: You can check out that Maze portal which Yahnit shared
+
+It shows the things u need to crack Unicorns/MNC/Dream Companies
+23/05/22, 5:04 pm - Animesh: Ok thx
+23/05/22, 5:05 pm - Animesh: Link?
+23/05/22, 5:04 pm - Divya K: Thanks
+23/05/22, 5:05 pm - Aakash Chandra Srivastava: I was planning to give that Scaler Fast track interview but I am busy in my work.
+23/05/22, 5:06 pm - Aakash Chandra Srivastava: Maze portal?
+I'll have to check
+23/05/22, 5:06 pm - Animesh: Yeah
+23/05/22, 5:06 pm - +91 84780 50409: What's this ? Means what kind of questions?
+23/05/22, 5:14 pm - sourabh: after 6 months as per my info
+23/05/22, 5:14 pm - Animesh: That's what I was told as well
+23/05/22, 5:14 pm - Animesh: By 5he Support
+23/05/22, 5:14 pm - Animesh: *the
+23/05/22, 5:15 pm - sourabh: what's that 🤔
+23/05/22, 5:16 pm - sourabh: it depends on the role u are applying.. if i am not wrong acc to your experience you would be asked system design qstns for sure..
+23/05/22, 5:20 pm - +91 88267 12479: Job Tracker section can be explored if we update our details and resume.
+23/05/22, 5:35 pm - +91 98912 77044: What is scaler fast track ?
+23/05/22, 5:37 pm - Aakash Chandra Srivastava: In job Tracker section.
+You'll see
+23/05/22, 5:38 pm - Aakash Chandra Srivastava: <Media omitted>
+23/05/22, 5:39 pm - sourabh: woha 🤝🏻🤩
+23/05/22, 5:39 pm - +91 83104 24732: You can apply now also
+23/05/22, 5:40 pm - +91 98912 77044: Thanks😄
+23/05/22, 5:40 pm - sourabh: okayss.. but would like to cover dp part first.
+23/05/22, 5:40 pm - +91 98912 77044: Same here😄
+23/05/22, 5:40 pm - +91 82490 76329: Wo Bhi Bhej Rahe heyy
+23/05/22, 5:41 pm - Aakash Chandra Srivastava: <Media omitted>
+23/05/22, 5:41 pm - sourabh: u mean everything 😂
+23/05/22, 5:41 pm - Aakash Chandra Srivastava: 🤣yea
+We gotta follow everything that Yash teaches
+23/05/22, 5:43 pm - Sarbjot: Fake it until you make it, I changed my profile from support/tester to Full Stack dev
+23/05/22, 5:44 pm - +91 84780 50409: And here we are, instead of preparing making jokes
+23/05/22, 5:44 pm - Sarbjot: How can One give the interview ?
+23/05/22, 5:45 pm - Aakash Chandra Srivastava: I actually came to msg if any one is interested in solving questions together as I'm struggling to keep a good PSP
+23/05/22, 5:45 pm - +91 84780 50409: 😂 I think most of us are going through the same
+23/05/22, 5:45 pm - Aakash Chandra Srivastava: It says that we can give anytime
+
+
+1 hr interview
+If we fail,we can give again anytime after  weeks
+23/05/22, 5:46 pm - Aakash Chandra Srivastava: Yea
+My PSP is only around 75
+23/05/22, 5:46 pm - Sarbjot: Okay, but this is in the job portal tab, ahh I wasn’t ready with my resume first, that’s why I haven’t registered
+23/05/22, 5:46 pm - +91 84780 50409: Mine's 78
+23/05/22, 5:47 pm - Sarbjot: Anyways its better that you are confident and then do these fast track interviews
+23/05/22, 5:47 pm - Sarbjot: Would they provide feedback and where we are lacking ?
+23/05/22, 5:47 pm - +91 84780 50409: Same, I am myself not satisfied with my resume, how can anyone else be 😅
+23/05/22, 5:48 pm - Sarbjot: Hahaha, Try novoresume.com to create one pretty simple and easy
+23/05/22, 5:49 pm - Aakash Chandra Srivastava: Same here.
+I'll apply later because I'm still working actively in my company.
+
+Will apply a 15 day holiday and then give resign and later will have to serve 3 months notice period
+23/05/22, 5:49 pm - Animesh: Its ATS approved as well. So, that's a bonus
+23/05/22, 5:49 pm - Aakash Chandra Srivastava: Yes
+23/05/22, 5:50 pm - Sarbjot: Yes true, Let this dsa module gets completed, SYSTEM design lectures would not be this much hectic, more of practical implementation of high scale systems is what we’ll understand
+23/05/22, 5:51 pm - Sarbjot: So that’s when you can spare some time for the preparatio
+23/05/22, 5:51 pm - Aakash Chandra Srivastava: I think a good PSP is most important.
+
+Once we are able to solve problems confidently,we can apply and go to negotiation phase
+23/05/22, 5:52 pm - Animesh: Can anyone share a template of all companies for sde?
+23/05/22, 5:52 pm - Aakash Chandra Srivastava: Yea my shift is between 1.30 to 11pm
+And then I study from 12am to 3
+
+So there's hardly time
+23/05/22, 5:53 pm - sourabh: why not in the morning bro ? morning 7-12 ? 🤔 like u can sleep at 12 then wake up at
+23/05/22, 5:53 pm - sourabh: just a suggestion
+23/05/22, 5:55 pm - Aakash Chandra Srivastava: 🤣big boys study at night
+23/05/22, 5:56 pm - sourabh: 😂😂 okay man 😂
+23/05/22, 5:58 pm - Aakash Chandra Srivastava: I asked my mentor who works at Google this that how did you make it here
+
+He gave a very enlightening answer- padh ke.
+23/05/22, 5:58 pm - +91 85888 17677: Hahaha
+23/05/22, 5:59 pm - sourabh: yesterday i also had a session with someone from google..
+he also said the same.. things will take time it's not like in one month or two month u will get everything
+23/05/22, 5:59 pm - sourabh: u will notice the change after 6-7 months consistency
+23/05/22, 6:00 pm - Aakash Chandra Srivastava: I solve a code daily because of this.
+My streak is 90
+23/05/22, 6:01 pm - sourabh: so we just need to be patient and have to Focus on preparation instead of beign sad on linkedin posts where everyone is getting hired by amazon, flipkart, google, Microsoft 😂😂
+23/05/22, 6:04 pm - Sarbjot: Hahahaa
+23/05/22, 6:05 pm - Sarbjot: Because there are no shortcuts 🤣🤣
+23/05/22, 6:05 pm - Sarbjot: Mutual feeling bro, but I am waiting for that day one 😂😂
+23/05/22, 6:06 pm - +91 98912 77044: I am not getting any fast track tab in job portal..is it only me or anyone else faced the same thing ?
+23/05/22, 6:07 pm - Aakash Chandra Srivastava: Go in Careers
+23/05/22, 6:07 pm - Animesh: +1
+23/05/22, 6:07 pm - Animesh: I wrote to support
+23/05/22, 6:07 pm - +91 98912 77044: There is no careers tab..only I have job portal
+23/05/22, 6:08 pm - Animesh: I don't have a Careers page. It says Job Tracker
+23/05/22, 6:08 pm - Aakash Chandra Srivastava: Point to be noted
+I'm a Beginner December 2021 Batch student.
+
+For intermediate Feb 22
+Things can differ
+23/05/22, 6:08 pm - Divya K: Anyone has this link?
+23/05/22, 6:08 pm - Animesh: Oh okk
+23/05/22, 6:08 pm - +91 98912 77044: Let me know if you get any reply..
+23/05/22, 6:08 pm - Sarbjot: It’s okay, let’s be patient and let things fall into place, at that time we will be told about the next stpes
+23/05/22, 6:09 pm - Animesh: Will do
+23/05/22, 6:09 pm - +91 98912 77044: Okay..that can be possible
+23/05/22, 6:09 pm - Animesh: But I think it only wworks for service companies
+23/05/22, 6:09 pm - Sarbjot: If you register
+23/05/22, 6:10 pm - Sarbjot: To job portal, then scaler will start calling you for the opportunities based on your profile and resume
+23/05/22, 6:10 pm - Animesh: Ok
+23/05/22, 6:10 pm - Sarbjot: What Maze portal ?
+23/05/22, 6:11 pm - Animesh: The one Yahnit promoted
+23/05/22, 6:11 pm - Sarbjot: I don’t remember that, may be it was before I joined !!
+23/05/22, 7:10 pm - +91 86581 34750: I have not visited the job portal yet.😀
+23/05/22, 10:19 pm - +91 88269 81018: in my openion, if you showcase that you haven't worked on dev projects, your interviews would be accordingly. Say for eg, you get a call for SDE 1 - Amazon, generally the expectation would be you are good at problem solving, how you approach a problem, how quickly you move from brute force to optimum solution. Less emphasis will be towards System Design, previous projects, etc. and goes without saying that all interviews would be language agnostic....
+23/05/22, 10:20 pm - +91 88269 81018: in short, once you're resume is shortlisted, you would probably go on to crack it with what we are learning at scaler. No having worked on real dev projects, should not be a problem.
+23/05/22, 10:21 pm - +91 88269 81018: that becomes a problem, when interviewing for SDE 2 and above....
+23/05/22, 10:22 pm - sourabh: for sde1 can be think of in this way..
+but a person with more then 3-4 yoe would be applicable for sde 1 role 🤔?
+23/05/22, 10:23 pm - +91 88269 81018: no, they would default to SDE 2 usually.... but, after interviewing, company "may" decide to offer you SDE-1... but that's upto them, and purely based on their discretion....
+23/05/22, 10:28 pm - +91 84780 50409: Last week I attended that how to crack Microsoft interview session. In that he said for SDE 1 problem solving is important and basic java concepts. For SDE 2 problem solving, and then lld and hld. Also, of you don't have any background of developing, still you have chance to get this role.
+23/05/22, 10:46 pm - sourabh: hmm
+23/05/22, 11:11 pm - +91 89811 70012: Anyone planning or applied to any startup yet??
+24/05/22, 6:48 pm - Animesh: https://www.geeksforgeeks.org/minimize-the-maximum-difference-between-the-heights/
+24/05/22, 6:49 pm - Animesh: If anyone can understand and provide a simple explanation for this
+25/05/22, 12:41 pm - +91 98696 22890: <Media omitted>
+25/05/22, 12:41 pm - +91 98696 22890: <Media omitted>
+25/05/22, 12:43 pm - +91 96731 23857: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+25/05/22, 12:45 pm - +91 96731 23857: This is leetcode link for question that we discussed yesterday (combination of letters on telephone). In case anyone wants to try
+25/05/22, 12:46 pm - Animesh: You deleted this message
+25/05/22, 1:34 pm - Animesh: <Media omitted>
+25/05/22, 2:04 pm - +91 83104 24732: How to know what's the criteria for fast track ?
+25/05/22, 2:05 pm - Animesh: After 6 months
+25/05/22, 2:05 pm - Animesh: So, for me after July
+25/05/22, 2:06 pm - +91 83104 24732: Ok thanks .👍
