@@ -63,6 +63,8 @@ class DateFormatter {
       for (final format in dateFormats) { 
         try {
           final dateTime = _parse(format, string);
+          // print(dateTime);
+          // print(format.pattern);
           if (dateTime != null) {
             // save pattern
             _dateFormat = format;
@@ -124,14 +126,14 @@ class DateFormatter {
   }
 
   /// Process date string, return values in seconds, additionally checks if dates are increasing
-  int parseString(String string) {
+  int parseString(String string, { skipChecks = false }) {
     // Language words in Intl for different locales are lowercased
     // string = string.toLowerCase();
 
     final date = _getDate(string);
 
     // check if dates values are increasing over messages - otherwise wrong pattern used
-    if (!shouldFix) {
+    if (!skipChecks && !shouldFix) {
       if (date == 0 || (date + 1 < _previousDate)) { // allow 1 second difference
         shouldFix = true;
       }
