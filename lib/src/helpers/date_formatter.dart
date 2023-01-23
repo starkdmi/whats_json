@@ -146,7 +146,7 @@ class DateFormatter {
   /// [fixDates] helper function
   /// This function looks for date format which will work for every existing message
   bool _fix(Queue<Message> messages) {
-    print("Wrong Format: ${_dateFormat?.pattern}");
+    // print("Wrong Format: ${_dateFormat?.pattern}");
 
     bool succeedAll(DateFormat format) {
       for (final message in messages) {
