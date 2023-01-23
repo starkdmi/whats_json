@@ -17,6 +17,3 @@ dev_dependencies:
   # patterns_generator dependencies
   path: ^1.8.3
   xml: ^6.2.2
-
-  # batch_chats_test dependencies
-  compute: ^1.0.2
