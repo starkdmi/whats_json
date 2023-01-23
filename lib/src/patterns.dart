@@ -8,7 +8,7 @@ class WhatsAppPatterns {
 
   /// Date format regex pattern
   // Pattern used for localized long date strings - r"(?<date>[^:\[\]]{5,30}[^\s\-:,،])"
-  static const String date = r"(?<date>(\d{1,2}|\d{4})(?<separator>[./-\s])\d{1,2}\k<separator>(\d{1,2}|\d{4}))";
+  static const String date = r"(?<date>(\d{4}|\d{1,2})(?<separator>[./-\s])\d{1,2}\k<separator>(\d{4}|\d{1,2}))";
 
   /// Time format regex pattern
   static const String time = r"(?<time>[0-9^\[\]]{1,2}[:.][0-9]{2}([:.][0-9]{2})?(\s[ap].?m.?)?)";
