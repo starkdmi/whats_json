@@ -1,6 +1,7 @@
 import 'dart:collection';
 import 'package:mime/mime.dart';
 import 'helpers/date_formatter.dart';
+import 'helpers/logger.dart';
 import 'helpers/time_formatter.dart';
 import 'models/message.dart';
 
@@ -21,7 +22,8 @@ part 'media_processor.dart';
 /// final stream = Stream.fromIterable(list)
 /// 
 Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream, { 
-  bool skipSystem = false 
+  bool skipSystem = false,
+  ParserLogger? logger,
 }) async {
   // indicates if text should be proceed from right-to-left
   // bool? _isRTL;
@@ -143,6 +145,8 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
       message!.content += "\n$line";
     }
   }
+
+  logger?.info("[Parser]: Running (skipSystem is $skipSystem)");
 
   /// Main loop over stream lines
   await for (var line in stream) {
