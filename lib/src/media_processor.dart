@@ -4,7 +4,7 @@ part of 'message_parser.dart';
 final mimeTypeResolver = MimeTypeResolver()..addExtension("opus", "audio/opus");
 
 /// Detect if message is media type, return updated [Message] object
-Message? parseMedia(Message data) {
+Message parseMedia(Message data) {
   final content = data.content;
 
   // process body to determine message type
