@@ -32,7 +32,7 @@ Future<void> collectAll() async {
   final encrypted = await getAndroidTranlsationsFor("settings_security_info");
   final encryptedValues = encrypted.values.map((e) => e.replaceAll("\"", ""));
   /// Messages and calls are end-to-end encrypted - `_i3PG`
-  pattern = await collectOneOrMany(["_i3PG"], append: encryptedValues); 
+  pattern = await collectOneOrMany(["_i3PG"], append: encryptedValues, end: r").?"); 
   print("ENCRYPTED\n$pattern\n");
 
   /// This message was deleted (Android) - combined with iOS values
@@ -58,7 +58,6 @@ Future<void> collectAll() async {
   /// Missed video call - "PnA`x"
   pattern = await collectOneOrMany(["PnA`x"], append: missedVideoCall.values); 
   print("MISSED VIDEO CALL\n$pattern\n");
-
 
   /// Image omitted - `n*sq0`
   pattern = await collectOneOrMany(["n*sq0"], start: r"^\<?(", end: r")\>?.?" + endOfLine); 
