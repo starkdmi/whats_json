@@ -13,13 +13,11 @@ void main() async {
     .transform(const LineSplitter());
 
   // get messages
-  final iterable = await whatsAppGetMessages(stream, skipSystem: true);
-  final messages = iterable.toList();
+  final messages = await whatsAppGetMessages(stream, skipSystem: true);
   print("messages count: ${messages.length}");
 
   // pring messages
-  for (var i = 0; i < messages.length; i++) {
-    final message = messages[i];
+  for (final message in messages) {
     print(message);
   }
 }
