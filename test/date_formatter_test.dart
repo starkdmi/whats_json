@@ -13,44 +13,54 @@ void main() {
       dateFormatter = DateFormatter();
     });
 
-    test("#1: d-M-y", () {
+    test("#1: d-M-yyyy", () {
       var seconds = dateFormatter.parseString("22-03-1982", skipChecks: true);
       expect(seconds, equals(DateTime.utc(1982, 3, 22).secondsSinceEpoch));
+
+      // check the pattern is correct 
+      expect(dateFormatter.pattern, equals("d-M-yyyy"));
     });
 
-    test("#2: y-M-d", () {
+    test("#2: yyyy-M-d", () {
       var seconds = dateFormatter.parseString("2022-03-19", skipChecks: true);
       expect(seconds, equals(DateTime.utc(2022, 3, 19).secondsSinceEpoch));
+      expect(dateFormatter.pattern, equals("yyyy-M-d"));
     });
 
-    test("#3: d-M-y", () {
+    test("#3: d-M-yyyy (short year)", () {
       var seconds = dateFormatter.parseString("22-03-19", skipChecks: true);
       expect(seconds, equals(DateTime.utc(2019, 3, 22).secondsSinceEpoch));
+      expect(dateFormatter.pattern, equals("d-M-yyyy"));
     });
 
-    test("#4: d.M.y", () {
+    test("#4: d.M.yyyy", () {
       var seconds = dateFormatter.parseString("22.03.1981", skipChecks: true);
       expect(seconds, equals(DateTime.utc(1981, 3, 22).secondsSinceEpoch));
+      expect(dateFormatter.pattern, equals("d.M.yyyy"));
     });
 
-    test("#5: d M y", () {
+    test("#5: d M yyyy", () {
       var seconds = dateFormatter.parseString("22 03 1981", skipChecks: true);
       expect(seconds, equals(DateTime.utc(1981, 3, 22).secondsSinceEpoch));
+      expect(dateFormatter.pattern, equals("d/M/yyyy")); // DateFormat.parseLoose is used
     });
 
-    test("#6: M/d/y", () {
+    test("#6: M/d/yyyy", () {
       var seconds = dateFormatter.parseString("7/4/18", skipChecks: true);
       expect(seconds, equals(DateTime.utc(2018, 7, 4).secondsSinceEpoch));
+      expect(dateFormatter.pattern, equals("M/d/yyyy"));
     });
 
-    test("#7: y/M/d", () {
+    test("#7: yyyy/M/d", () {
       var seconds = dateFormatter.parseString("2022/10/25", skipChecks: true);
       expect(seconds, equals(DateTime.utc(2022, 10, 25).secondsSinceEpoch));
+      expect(dateFormatter.pattern, equals("yyyy/M/d"));
     });
 
-    test("#8: y.M.d", () {
+    test("#8: yyyy.M.d", () {
       var seconds = dateFormatter.parseString("2021.03.15", skipChecks: true);
       expect(seconds, equals(DateTime.utc(2021, 3, 15).secondsSinceEpoch));
+      expect(dateFormatter.pattern, equals("yyyy.M.d"));
     });
   });
 

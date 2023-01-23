@@ -11,29 +11,36 @@ void main() {
       timeFormatter = TimeFormatter();
     });
 
-    test("#1: HH:mm:ss", () {
+    test("#1: h:mm:ss a", () {
       final time = timeFormatter.parseString("21:59:00");
       expect(time, equals(DateTime.utc(1970, 1, 1, 21, 59).secondsSinceEpoch));
+
+      // check the pattern is correct 
+      expect(timeFormatter.pattern, equals("h:mm:ss a"));
     });
 
-    test("#2: HH:mm", () {
+    test("#2: h:mm a", () {
       final time = timeFormatter.parseString("4:25");
       expect(time, equals(DateTime.utc(1970, 1, 1, 4, 25).secondsSinceEpoch));
+      expect(timeFormatter.pattern, equals("h:mm a"));
     });
 
-    test("#3: HH:mm", () {
+    test("#3: h:mm a", () {
       final time = timeFormatter.parseString("04:25");
       expect(time, equals(DateTime.utc(1970, 1, 1, 4, 25).secondsSinceEpoch));
+      expect(timeFormatter.pattern, equals("h:mm a"));
     });
 
-    test("#4: HH.mm", () {
+    test("#4: h:mm a", () {
       final time = timeFormatter.parseString("04.25");
       expect(time, equals(DateTime.utc(1970, 1, 1, 4, 25).secondsSinceEpoch));
+      expect(timeFormatter.pattern, equals("h:mm a"));
     });
 
-    test("#5: HH mm", () {
+    test("#5: h:mm a", () {
       final time = timeFormatter.parseString("04 25");
       expect(time, equals(DateTime.utc(1970, 1, 1, 4, 25).secondsSinceEpoch));
+      expect(timeFormatter.pattern, equals("h:mm a"));
     });
   });
 
