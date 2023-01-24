@@ -90,7 +90,7 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
     if (data == null) return null;
 
     // check if message contains system text
-    if (WhatsAppPatterns.isSystemMessageText(data.content)) { 
+    if (WhatsAppPatterns.isSystemMessageText(data.content)) {
       data.type = "system";
       return data;
     }
@@ -114,6 +114,8 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
         final content = match.namedGroup("content"); 
         if (content == null) continue;
 
+        systemRegex = regex;
+
         return Message(type: "system", content: content, dateString: dateString, timeString: timeString);
       }
 
@@ -121,11 +123,11 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
       if (systemRegex == null) {
         return null;
       } else {
-        logger?.info("[Parser]: System message pattern found: ${systemRegex.pattern}");
+        logger?.info("[Parser]: System message pattern found: ${systemRegex!.pattern}");
       }
     }
 
-    return lineToMessage(line, systemRegex, type: "system");
+    return lineToMessage(line, systemRegex!, type: "system");
   }
 
   /// Process current string line using regular and system patterns
@@ -158,8 +160,6 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
 
   /// Main loop over stream lines
   await for (var line in stream) {
-    // logger?.info("[Parser]: Process line: $line");
-
     // Check RTL of first message
     // isRTL ??= Bidi.estimateDirectionOfText(line) == TextDirection.RTL;
 
