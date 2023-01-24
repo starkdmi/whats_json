@@ -3,6 +3,7 @@ import 'package:intl/intl.dart';
 import '../models/message.dart';
 import 'logger.dart';
 
+/// Supported calendars
 enum Calendar {
   gregorian, buddhist, japanese
 }
