@@ -12,12 +12,7 @@ void main() async {
   if (!current.endsWith("test")) current += "/test";
   final path = "$current/data/chats_unique/WhatsApp Chat - Dmitry S.txt";
 
-  final stream = File(path)
-    .openRead()
-    .transform(const Utf8Decoder())
-    .transform(const LineSplitter());
-
-  final messages = (await whatsAppGetMessages(stream, skipSystem: false)).toList();
+  final messages = await readMessages(path, skipSystem: false);
   // print(messages);
 
   group("Simple tests", () {
@@ -215,21 +210,16 @@ void main() async {
   });
 
   group("Football group chat", () {
-    late List<Map<String, dynamic>> groupMessages;
+    late List<Map<String, dynamic>> messages;
 
     setUpAll(() async {
-      final groupPath = "$current/data/chats_unique/WhatsApp Chat - Group_NoMedia Football Sunday 10am.txt";
-      final groupStream = File(groupPath)
-        .openRead()
-        .transform(const Utf8Decoder())
-        .transform(const LineSplitter());
-      groupMessages = (await whatsAppGetMessages(groupStream, skipSystem: true)).toList();
+      messages = await readMessages("$current/data/chats_unique/WhatsApp Chat - Group_NoMedia Football Sunday 10am.txt", skipSystem: true);
     });
 
     test("Multiline text message", () {
       final multiLineMessage = "koray\nmatt\nrich\nmel \ndave \nvictor\ndimitri?\nAlex?";
 
-      final search = groupMessages.where((message) => 
+      final search = messages.where((message) => 
         message["type"] == "text" && 
         message["date"] == DateTime.utc(2022, 2, 1, 18, 13, 27).secondsSinceEpoch &&
         message["author"] == "‪+90 514 771 05 38‬" &&
@@ -239,11 +229,11 @@ void main() async {
     });
 
     test("Messages count", () {
-      expect(groupMessages.length, 4); // 4 without system and 12 with
+      expect(messages.length, 4); // 4 without system and 12 with
     });
 
     test("Usupported system messages", () {
-      final search = groupMessages.where((message) => 
+      final search = messages.where((message) => 
         message["type"] == "text" && 
         (
           message["text"].startsWith("You were added") || 
@@ -255,37 +245,38 @@ void main() async {
   });
 
   group("2017 en group chat", () {
-    late List<Map<String, dynamic>> group2017Messages;
+    late List<Map<String, dynamic>> messages;
 
     setUpAll(() async {
-      final group2017Path = "$current/data/chats_unique/WhatsApp Chat - Group_NoMedia 2017.txt";
-      final group2017Stream = File(group2017Path)
-        .openRead()
-        .transform(const Utf8Decoder())
-        .transform(const LineSplitter());
-      group2017Messages = (await whatsAppGetMessages(group2017Stream, skipSystem: true)).toList();
+      messages = await readMessages("$current/data/chats_unique/WhatsApp Chat - Group_NoMedia 2017.txt", skipSystem: true);
     });
     
     test("Messages count", () {
-      expect(group2017Messages.length, 3);
+      expect(messages.length, 3);
     });
   });
 
   group("2019 ru group chat", () {
-    late List<Map<String, dynamic>> group2019Messages;
+    late List<Map<String, dynamic>> messages;
 
     setUpAll(() async {
-      final group2019Path = "$current/data/chats_unique/WhatsApp Chat - Group_NoMedia 2019 RU.txt";
-      final group2019Stream = File(group2019Path)
-      .openRead()
-      .transform(const Utf8Decoder())
-      .transform(const LineSplitter());
-      group2019Messages = (await whatsAppGetMessages(group2019Stream, skipSystem: true)).toList();
+      messages = await readMessages("$current/data/chats_unique/WhatsApp Chat - Group_NoMedia 2019 RU.txt", skipSystem: true);
     });
     
     test("Messages count", () {
-      expect(group2019Messages.length, 12);
+      expect(messages.length, 12);
     });
   });
 
 }
+
+Future<List<Map<String, dynamic>>> readMessages(String path, {required bool skipSystem}) async {
+  final stream = File(path)
+    .openRead()
+    .transform(const Utf8Decoder())
+    .transform(const LineSplitter());
+
+  final messages = await whatsAppGetMessages(stream, skipSystem: skipSystem);
+  return messages.toList();
+}
+
