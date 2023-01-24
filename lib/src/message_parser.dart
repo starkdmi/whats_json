@@ -153,6 +153,9 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
     // append plain text to previous message if exists, skip otherwise
     if (message != null) {
       message!.content += "\n$line";
+
+      // TODO: Multiline collected message isn't proceed as regular or system message on processLatestIfExists()
+      if (message?.type == "text") message!.fields["text"] += "\n$line";
     }
   }
 
