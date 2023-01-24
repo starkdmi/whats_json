@@ -64,8 +64,6 @@ class DateFormatter {
       for (final format in dateFormats) { 
         try {
           final dateTime = _parse(format, string);
-          // print(dateTime);
-          // print(format.pattern);
           if (dateTime != null) {
             // save pattern
             _dateFormat = format;
@@ -147,7 +145,10 @@ class DateFormatter {
   /// [fixDates] helper function
   /// This function looks for date format which will work for every existing message
   bool _fix(Queue<Message> messages) {
-    // print("Wrong Format: ${_dateFormat?.pattern}");
+
+    // TODO
+    // Find which format better suit in percentage of valid dates 
+    // If not 100% then additionally save date and time strings 
 
     bool succeedAll(DateFormat format) {
       for (final message in messages) {
@@ -163,7 +164,6 @@ class DateFormatter {
     for (final format in dateFormats) { 
       if (succeedAll(format)) {
         // quit
-        // print("Fixed: ${format.pattern}");
         _dateFormat = format;
         return true;
       }

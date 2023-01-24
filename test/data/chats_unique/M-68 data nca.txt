@@ -973,12 +973,12 @@ $70 to create the artwork.
 _Found this somewhere_
 03/05/21, 7:15 am - Bodybuilder: We are
 03/05/21, 7:16 am - Bodybuilder: Let’s focus on getting it working...Also check out HicEtNunc IPFS Storage limit is 50MB
-03/05/21, 7:19 am - Pratham CSE MUJ: https://pinata.cloud/ 1gb storage limit
-03/05/21, 7:27 am - Bodybuilder: Let’s work on getting this thing work first
-03/05/21, 9:56 am - Astitv: Damn
+03/05/21, 7:16 am - Pratham CSE MUJ: https://pinata.cloud/ 1gb storage limit
+03/05/21, 7:16 am - Bodybuilder: Let’s work on getting this thing work first
+03/05/21, 7:16 am - Astitv: Damn
 04/05/21, 7:16 am - Bodybuilder: can we embed this js and run it within a SVG container?>
 04/05/21, 7:16 am - Bodybuilder: https://doug2k1.github.io/javascript-camera/
-04/05/21, 7:45 am - Pratham CSE MUJ: Any updates on this?
+04/05/21, 7:44 am - Pratham CSE MUJ: Any updates on this?
 04/05/21, 7:45 am - Bodybuilder: \collab is runnign for me
 04/05/21, 7:47 am - Pratham CSE MUJ: Okay!
 04/05/21, 7:48 am - Pratham CSE MUJ: Doesn’t it sound strange that we want a dynamic tfjs/webgl model to run completely on client side?
