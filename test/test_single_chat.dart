@@ -4,7 +4,8 @@ import 'package:whats_json/whats_json.dart';
 
 void main() async {
   // file location
-  final path = "./test/data/chats_unique/WhatsApp Chat - Elon Musk (EN+Media).txt";
+  // final path = "./test/data/chats_unique/WhatsApp Chat - Elon Musk (EN+Media).txt";
+  final path = "./test/data/chats_unique/WhatsApp Chat - Dmitry S.txt";
 
   // load file
   final stream = File(path)
@@ -13,7 +14,7 @@ void main() async {
     .transform(const LineSplitter());
 
   // get messages
-  final messages = await whatsAppGetMessages(stream, skipSystem: false, logger: SimpleLogger());
+  final messages = await whatsAppGetMessages(stream, skipSystem: true, logger: SimpleLogger());
   print("messages count: ${messages.length}");
 
   // pring messages
