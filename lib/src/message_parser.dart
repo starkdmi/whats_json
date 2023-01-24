@@ -78,7 +78,11 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
 
       // pattern not found
       if (systemRegex == null) triesLeft--;
-      if (messageRegex == null) return null;
+      if (messageRegex == null) {
+        return null;
+      } else {
+        logger?.info("[Parser]: Message pattern found: ${messageRegex!.pattern}");
+      }
     } else {
       // process using existing pattern
       data = lineToMessage(line, messageRegex!, type: "message");
@@ -114,7 +118,11 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
       }
 
       // pattern not found
-      if (systemRegex == null) return null;
+      if (systemRegex == null) {
+        return null;
+      } else {
+        logger?.info("[Parser]: System message pattern found: ${systemRegex.pattern}");
+      }
     }
 
     return lineToMessage(line, systemRegex, type: "system");
@@ -150,6 +158,8 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
 
   /// Main loop over stream lines
   await for (var line in stream) {
+    // logger?.info("[Parser]: Process line: $line");
+
     // Check RTL of first message
     // isRTL ??= Bidi.estimateDirectionOfText(line) == TextDirection.RTL;
 
@@ -161,7 +171,7 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
   processLatestIfExists();
 
   // fix dates
-  dateFormatter.fixDates(messages);
+  dateFormatter.fixDates(messages, logger: logger);
 
   // save resulting patterns
   /*File logFile = File("_log.txt"); 
@@ -172,6 +182,8 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
       await logFile.writeAsString(patterns);
     } catch(_) { }
   }*/
+
+  logger?.info("[Parser]: Finished, messages count: ${messages.length}");
 
   return messages.map((e) => e.toMap());
 }

@@ -1,6 +1,7 @@
 import 'dart:collection';
 import 'package:intl/intl.dart';
 import '../models/message.dart';
+import 'logger.dart';
 
 /// Date formats
 /// Additional format specified for locale available at https://github.com/dart-lang/intl/tree/master/lib/src/data/dates/symbols/es.json in DATEFORMATS
@@ -189,15 +190,17 @@ class DateFormatter {
 
   /// Fix date format for all messages 
   /// Sometimes d/M/y can be recognized as M/d/y - 04/06/2022
-  void fixDates(Queue<Message> messages) {
+  void fixDates(Queue<Message> messages, { ParserLogger? logger }) {
     bool fixed;
     if (messages.isNotEmpty && shouldFix) {
+      logger?.info("[Parser]: Date Format is incorrect ($pattern), fixing...");
       fixed = _fix(messages);
+      if (fixed) logger?.info("[Parser]: Date Format fixed to $pattern");
     } else {
       fixed = true;
     }
     if (fixed) {
-      // fixed 
+      // continue 
       for (final message in messages) {
         message.dateString = "";
         message.timeString = "";
@@ -207,6 +210,7 @@ class DateFormatter {
       for (final message in messages) {
         message.dateTime = 0;
       }
+      logger?.info("[Parser]: Date Format in unknown, saving original date and time strings");
     }
   }
 }
