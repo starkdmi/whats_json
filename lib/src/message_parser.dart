@@ -44,6 +44,16 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
   void processLatestIfExists() async {
     if (message == null) return;
 
+    // check if message contains system text
+    if (WhatsAppPatterns.isSystemMessageText(message!.content)) {
+      message!.type = "system";
+    }
+
+    if (!message!.isSystem) {
+      // parse attachments and locations
+      message = parseMedia(message!);
+    }
+
     message = processMessage(message!, skipSystem, dateFormatter, timeFormatter);
     if (message != null) {
       messages.addFirst(message!);
@@ -89,14 +99,7 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
     }
     if (data == null) return null;
 
-    // check if message contains system text
-    if (WhatsAppPatterns.isSystemMessageText(data.content)) {
-      data.type = "system";
-      return data;
-    }
-
-    // parse attachments and locations
-    return parseMedia(data);
+    return data;
   }
 
   /// Try to get [Message] object from string line using system message format
@@ -153,9 +156,7 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
     // append plain text to previous message if exists, skip otherwise
     if (message != null) {
       message!.content += "\n$line";
-
-      // TODO: Multiline collected message isn't proceed as regular or system message on processLatestIfExists()
-      if (message?.type == "text") message!.fields["text"] += "\n$line";
+      // if (message?.type == "text") message!.fields["text"] += "\n$line";
     }
   }
 
