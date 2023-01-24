@@ -1,4 +1,5 @@
 import 'dart:collection';
+import 'dart:ffi';
 import 'package:intl/intl.dart';
 import '../models/message.dart';
 import 'logger.dart';
@@ -72,25 +73,11 @@ class DateFormatter {
     if (shouldFix) return 0; 
 
     if (_dateFormat == null) {    
-
       // Buddhist calendar - 3/18/2565 BE
       // Buddhist date proceed only in M/d/y and d/M/y formats
       if (string.endsWith(" BE")) { 
-        for (final monthThanDate in [true, false]) {
-        for (final separator in ["/", "-", "."]) {
-          final date = parseBuddhistDate(string, separator: separator, monthThanDate: monthThanDate);
-          if (date != null) {
-            // save format info
-            calendar = Calendar.buddhist;
-            fields = {
-              "separator": separator,
-              "monthThanDate": monthThanDate,
-            };
-
-            return date.secondsSinceEpoch;
-          }
-        }
-      }
+        final buddhistDate = tryAlernativeCalendar(Calendar.buddhist, string);
+        if (buddhistDate != null) return buddhistDate;
       }
 
       // Simple date format
@@ -125,24 +112,10 @@ class DateFormatter {
 
       // Japanese calendar - 3/18/R4
       // Japanese date proceed only in M/d/y and d/M/y formats
-      for (final monthThanDate in [true, false]) {
-        for (final separator in ["/", "-", "."]) {
-          final date = parseJapaneseDate(string, separator: separator, monthThanDate: monthThanDate);
-          if (date != null) {
-            // save format info
-            calendar = Calendar.japanese;
-            fields = {
-              "separator": separator,
-              "monthThanDate": monthThanDate,
-            };
-            
-            return date.secondsSinceEpoch;
-          }
-        }
-      }
+      final japaneseDate = tryAlernativeCalendar(Calendar.japanese, string);
+      if (japaneseDate != null) return japaneseDate;
 
       // TODO: Arabic RTL date supports by intl package
-      // if (_dateFormat == null) { RTL ... }
       /*await initializeDateFormatting('ar');
       const dateTimeString = "١٨‏/٣‏/٢٠٢٢، ٢:٥٦:٠٠ م";
       final dateFormatArabic = DateFormat.yMd("ar"); 
@@ -190,6 +163,7 @@ class DateFormatter {
 
   /// [fixDates] helper function
   /// This function looks for date format which will work for every existing message
+  /// Warning: Japanese and Buddhist calendars are skipped
   bool _fix(Queue<Message> messages) {
 
     // TODO
@@ -228,8 +202,6 @@ class DateFormatter {
       }
     }*/
 
-    // Japanese, Buddhist and Arabic RTL ...
-
     // format not found
     return false;
   }
@@ -259,9 +231,39 @@ class DateFormatter {
       logger?.info("[Parser]: Date Format in unknown, saving original date and time strings");
     }
   }
+
+  /// Used for Japanese and Buddhist calendars tests
+  int? tryAlernativeCalendar(Calendar calendar, String string) {
+    for (final monthThanDate in [true, false]) {
+      for (final separator in ["/", "-", "."]) {
+        DateTime? date;
+
+        switch (calendar) {
+          case Calendar.japanese:
+            date = parseJapaneseDate(string, separator: separator, monthThanDate: monthThanDate);
+            break;
+          case Calendar.buddhist:
+            date = parseBuddhistDate(string, separator: separator, monthThanDate: monthThanDate);
+            break;
+          case Calendar.gregorian:
+            return null;
+        }
+
+        if (date != null) {
+          // save format info
+          calendar = calendar;
+          fields = {
+            "separator": separator,
+            "monthThanDate": monthThanDate,
+          };
+          
+          return date.secondsSinceEpoch;
+        }
+      }
+    }
+    return null;
+  }
 }
-
-
 /// Convert Japanese Imperial Calendar date to the Gregorian format
 /// Since 1868 there have only been five era names assigned: 
 ///   Meiji, Taishō, Shōwa, Heisei, and Reiwa
