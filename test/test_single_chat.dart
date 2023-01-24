@@ -6,6 +6,9 @@ void main() async {
   // file location
   // final path = "./test/data/chats_unique/WhatsApp Chat - Elon Musk (EN+Media).txt";
   final path = "./test/data/chats_unique/WhatsApp Chat - Dmitry S.txt";
+  // final path = "./test/data/calendars/Japanese iOS.txt";
+  // final path = "./test/data/calendars/Buddhist iOS.txt";
+  // final path = "./test/data/calendars/Gregorian iOS.txt";
 
   // load file
   final stream = File(path)
