@@ -1,4 +1,6 @@
 import 'dart:collection';
+import 'package:intl/date_symbol_data_local.dart';
+import 'package:intl/intl.dart';
 import 'package:mime/mime.dart';
 import 'helpers/date_formatter.dart';
 import 'helpers/logger.dart';
@@ -26,7 +28,7 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
   ParserLogger? logger,
 }) async {
   // indicates if text should be proceed from right-to-left
-  // bool? _isRTL;
+  bool? isRTL;
   // end if none system and normal messages found in 10 tries
   int triesLeft = 10;
   // active patterns used to parse regular and system messages
@@ -39,6 +41,9 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
   Message? message;
   // messages queue - original order 
   var messages = Queue<Message>();
+
+  // initialize localizable date time formats (used for Arabic locale)
+  await initializeDateFormatting();
 
   /// Process previous message
   void processLatestIfExists() async {
@@ -135,7 +140,8 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
 
   /// Process current string line using regular and system patterns
   void processLine(String line) async {
-    line = escapeMessage(line); // isRTL
+    // escape system characters
+    line = escapeMessage(line, isRTL);
 
     // try to process regular messages
     var data = processRegularMessage(line);
@@ -165,7 +171,7 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
   /// Main loop over stream lines
   await for (var line in stream) {
     // Check RTL of first message
-    // isRTL ??= Bidi.estimateDirectionOfText(line) == TextDirection.RTL;
+    isRTL ??= Bidi.estimateDirectionOfText(line) == TextDirection.RTL;
 
     // finish if message format not found in time
     if (messageRegex == null && systemRegex == null && triesLeft < 0) break;
@@ -229,11 +235,13 @@ Message? processMessage(Message message, bool skipSystem, DateFormatter dateForm
 }
 
 /// Escape hidden unicode characters for Regex processing
-String escapeMessage(String message, [bool rtl = false]) {
-  if (!rtl) {
-    // Left-to-Right Mark (LRM)
-    message = message.replaceAll(RegExp(r"(\u{200e})", unicode: true), ""); 
+String escapeMessage(String message, [bool? rtl = false]) {
+  if (rtl == true) {
+    return message.replaceAll(Bidi.RLM, "");
   }
+
+  // Left-to-Right Mark (LRM)
+  message = message.replaceAll(RegExp(r"(\u{200e})", unicode: true), ""); 
 
   return message
     .replaceAll(RegExp(r"\u{00a0}", unicode: true), " ") // No-Break Space (NBSP)
@@ -241,7 +249,7 @@ String escapeMessage(String message, [bool rtl = false]) {
 }
 
 /// Escape bidirectional text unicode characters
-/*String escapeMessage(String message) {  
+/*String escapeMessageAdvanced(String message) {  
   // message = message.replaceAll(RegExp(r'\u{00a0}', unicode: true), ' '); // No-Break Space (NBSP)
 
   final rlm = Bidi.RLM.runes.first;

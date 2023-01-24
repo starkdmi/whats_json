@@ -1,5 +1,4 @@
 import 'dart:collection';
-import 'dart:ffi';
 import 'package:intl/intl.dart';
 import '../models/message.dart';
 import 'logger.dart';
@@ -115,11 +114,15 @@ class DateFormatter {
       final japaneseDate = tryAlernativeCalendar(Calendar.japanese, string);
       if (japaneseDate != null) return japaneseDate;
 
-      // TODO: Arabic RTL date supports by intl package
-      /*await initializeDateFormatting('ar');
-      const dateTimeString = "١٨‏/٣‏/٢٠٢٢، ٢:٥٦:٠٠ م";
-      final dateFormatArabic = DateFormat.yMd("ar"); 
-      final date = dateFormatArabic.parse(dateTimeString);*/
+      // Arabic RTL date
+      try {
+        final format = DateFormat.yMd("ar");
+        final arabicDate = format.parse(string, true);
+        // save pattern
+        calendar = Calendar.gregorian;
+        _dateFormat = format;
+        return arabicDate.secondsSinceEpoch;
+      } catch(_) { }
 
       // failed to get format
       if (_dateFormat == null) return 0; 
@@ -163,7 +166,7 @@ class DateFormatter {
 
   /// [fixDates] helper function
   /// This function looks for date format which will work for every existing message
-  /// Warning: Japanese and Buddhist calendars are skipped
+  /// Warning: Japanese and Buddhist calendars as well as Arabic RTL are skipped
   bool _fix(Queue<Message> messages) {
 
     // TODO

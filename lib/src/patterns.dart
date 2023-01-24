@@ -6,6 +6,24 @@ part of 'message_parser.dart';
 /// * WhatsAppPatterns.attachmentPattern = ...
 class WhatsAppPatterns {
 
+  /// Arabic date and time pattern (generator)
+  static final String arabicDateTime = (() {
+    final digit = r"[\u200F\u200E\u0621-\u064A\u0660-\u0669\d]"; // digit or rtl, ltr code
+  
+    // date
+    final fourToOneDigits = r"(" + digit + r"{4}|" + digit + r"{3}|" + digit + r"{2}|"+ digit + r"{1})";
+    final dateSeparator = r"(\s|\-|_|\.|\/)";
+    final datePattern = r"(?<date>" + fourToOneDigits + dateSeparator + fourToOneDigits + dateSeparator + fourToOneDigits + r")";
+    final dateTimeSeparator = r"\u060C\s"; // Arabic comma and space
+
+    // time
+    final twoToOneDigits = r"(" + digit + r"{2}|"+ digit + r"{1})";
+    final hourFormat = r"(\u00A0?(\u0635|\u0645))?"; // NBSP + AM|PM
+    var timePattern = r"(?<time>" + twoToOneDigits + r":(" + twoToOneDigits + r":" + twoToOneDigits + r"|" + twoToOneDigits + r")" + hourFormat + r")"; 
+
+    return datePattern + dateTimeSeparator + timePattern;
+  })();
+
   /// Date format regex pattern
   // Pattern used for localized long date strings - r"(?<date>[^:\[\]]{5,30}[^\s\-:,،])"
   static const String date = r"(?<date>(\d{4}|\d{1,2})(?<separator>[./-\s])\d{1,2}\k<separator>(\d{4}\sBE|\d{4}|\d{1,2}|[A-Za-z]\d))";
@@ -31,9 +49,13 @@ class WhatsAppPatterns {
   /// Time first, then Date
   static const String timeFirst = startOfLine + time + r"(,\s?|\s|،\s?)" + date + r"(\]\s?-?|:|\s-)\s" + sender + r":\s" + content + endOfLine;
 
-  static List<String> messageFormats = const [
+  /// Arabic message pattern (date and time changed from `universal`)
+  static final String arabic = startOfLine + arabicDateTime + r"(\]\s?-?|:|\s-)\s" + sender + r":\s" + content + endOfLine;
+
+  static List<String> messageFormats = [
     universal,
     timeFirst,
+    arabic,
   ];
 
   /// System Universal
@@ -42,9 +64,13 @@ class WhatsAppPatterns {
   /// System Time first, then Date
   static const String systemTimeFirst = startOfLine + time + r"(,\s?|\s)" + date + r"(\]\s?-?|:|\s-)\s" + r"(" + sender + r":\s" + r")?" + content + endOfLine;
 
-  static List<String> systemMessageFormats = const [
+  /// System Arabic message pattern (date and time changed from `systemUniversal`)
+  static final String systemArabic = startOfLine + arabicDateTime  + r"(\]\s?-?|:|\s-)\s" + r"(" + sender + r":\s" + r")?" + content + endOfLine;
+
+  static List<String> systemMessageFormats = [
     systemUniversal,
     systemTimeFirst,
+    systemArabic,
   ];
 
   /// Message attachment regex pattern 
