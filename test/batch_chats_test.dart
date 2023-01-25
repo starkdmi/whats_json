@@ -18,12 +18,6 @@ void main() {
 
       await for (final entry in directory.list()) {
         if (!entry.path.endsWith(".txt")) continue;
-        
-        // skip unsupported files (Arabic RTL)
-        if ([
-          "$path/WhatsApp Chat - Elon Musk (Arabic).txt", 
-          "$path/WhatsApp Chat - Arabic_NoMedia Dmitry S.txt",
-        ].contains(entry.path)) continue;
 
         try {
           // print("${entry.path}\n");

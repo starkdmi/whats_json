@@ -8,7 +8,7 @@ import 'package:xml/xml.dart';
 /// Download WhatsApp IPA - https://github.com/ahmadmokaddam/Whatsapp-Revael
 /// Open IPA and go to de.lproj then run:
 /// plutil -convert json Localizable.strings
-const iosDirectory = "./tools/data/iOS Localizables/";
+final iosDirectory = "./tools/patterns_generator/data/iOS Localizables/"; // Directory.current.path
 
 /// Translations files can be found at:
 /// - https://github.com/HassanSardar/GBWhatsApp_Raw - 2017
@@ -19,7 +19,7 @@ const iosDirectory = "./tools/data/iOS Localizables/";
 /// Update:
 /// Download official APK file - https://www.whatsapp.com/android 
 /// assets/cldr_strings.pack - translations file
-const androidDirectory = "./tools/data/Android Strings/";
+final androidDirectory = "./tools/patterns_generator/data/Android Strings/";
 
 void main() async => await collectAll();
 

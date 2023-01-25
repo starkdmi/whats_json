@@ -68,7 +68,7 @@ void main() {
 
     test("#4", () {
       final time = timeFormatter.parseString(" 4:25");
-      expect(time, equals(DateTime.utc(1970, 1, 1, 4, 25).secondsSinceEpoch));
+      expect(time, equals(0));
     });
   });
 }

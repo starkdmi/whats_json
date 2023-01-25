@@ -12,6 +12,9 @@ class TimeFormatter {
   /// Active time format used to parse time strings
   DateFormat? _timeFormat;
 
+  /// Indicates whenerver time string should be proceed in RTL Arabic format
+  bool _isArabicRTL = false;
+
   /// Current time format as string
   String? get pattern => _timeFormat?.pattern;
 
@@ -29,11 +32,22 @@ class TimeFormatter {
         } catch(_) { }
       }
 
-      // Arabic RTL
-      /*await initializeDateFormatting('ar');
-      const timeString = "٢:٥٦:٠٠ م";
-      final timeFormatArabic = DateFormat.Hms("ar"); 
-      final time = dateFormatArabic.parse(timeString);*/
+      // Arabic RTL time
+      try {
+        final format = DateFormat.Hms("ar"); 
+        var time = format.parse(string, true);
+
+        // save pattern
+        _timeFormat = format;
+        _isArabicRTL = true;
+
+        var seconds = time.secondsSinceEpoch;
+        // fix 12 hour format
+        if (string.endsWith("م")) { // PM
+          seconds += const Duration(hours: 12).inSeconds;
+        }
+        return seconds;
+      } catch(_) { }
 
       // failed to get format
       if (_timeFormat == null) return 0;
@@ -41,7 +55,12 @@ class TimeFormatter {
 
     // if format is known - try to use it to get date
     try {
-      final dateTime = _timeFormat!.parseLoose(string, true); // parse
+      DateTime dateTime;
+      if (_isArabicRTL) {
+        dateTime = _timeFormat!.parse(string, true);
+      } else {
+        dateTime = _timeFormat!.parseLoose(string, true);
+      }
       return dateTime.secondsSinceEpoch;
     } catch(_) { 
       return 0; 
