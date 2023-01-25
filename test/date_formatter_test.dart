@@ -1,10 +1,13 @@
 import 'dart:collection';
 
+import 'package:intl/date_symbol_data_local.dart';
 import 'package:whats_json/src/helpers/date_formatter.dart';
 import 'package:test/test.dart';
 import 'package:whats_json/src/models/message.dart';
 
-void main() {
+void main() async {
+  await initializeDateFormatting();
+
   group("DateFormatter valid dates", () {
     late DateFormatter dateFormatter;
 

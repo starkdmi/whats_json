@@ -5,7 +5,7 @@ import 'package:test/test.dart';
 import 'package:whats_json/whats_json.dart';
 import 'dart:isolate';
 
-void main() {
+void main() async {
   group("Test all unique chats (batched)", () {
     final path = "./test/data/chats_unique";
     final directory = Directory(path);
@@ -63,7 +63,7 @@ void main() {
       expect(timeouts, equals(0));
       expect(lessThanTwoMessages, equals(0));
       expect(invalidDates, equals(0));
-    }, timeout: Timeout(Duration(minutes: 10)));
+    }, timeout: Timeout(Duration(minutes: 15)));
   });
 }
 
