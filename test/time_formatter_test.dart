@@ -1,8 +1,12 @@
+import 'package:intl/intl.dart';
+import 'package:intl/date_symbol_data_local.dart';
 import 'package:whats_json/src/helpers/date_formatter.dart';
 import 'package:whats_json/src/helpers/time_formatter.dart';
 import 'package:test/test.dart';
 
-void main() {
+void main() async {
+  await initializeDateFormatting();
+
   group("TimeFormatter valid strings", () {
     late TimeFormatter timeFormatter;
 
@@ -41,6 +45,12 @@ void main() {
       final time = timeFormatter.parseString("04 25");
       expect(time, equals(DateTime.utc(1970, 1, 1, 4, 25).secondsSinceEpoch));
       expect(timeFormatter.pattern, equals("h:mm a"));
+    });
+
+    test("#5: Arabic", () {
+      final time = timeFormatter.parseString("٢:٥٦:٠٠ م");
+      expect(time, equals(DateTime.utc(1970, 1, 1, 14, 56).secondsSinceEpoch));
+      expect(timeFormatter.pattern, equals(DateFormat.Hms("ar").pattern));
     });
   });
 
