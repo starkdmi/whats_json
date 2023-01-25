@@ -17,7 +17,7 @@ void main() {
       var seconds = dateFormatter.parseString("22-03-1982", skipChecks: true);
       expect(seconds, equals(DateTime.utc(1982, 3, 22).secondsSinceEpoch));
 
-      // check the pattern is correct 
+      // check the pattern is correct
       expect(dateFormatter.pattern, equals("d-M-yyyy"));
     });
 
@@ -42,7 +42,8 @@ void main() {
     test("#5: d M yyyy", () {
       var seconds = dateFormatter.parseString("22 03 1981", skipChecks: true);
       expect(seconds, equals(DateTime.utc(1981, 3, 22).secondsSinceEpoch));
-      expect(dateFormatter.pattern, equals("d/M/yyyy")); // DateFormat.parseLoose is used
+      expect(dateFormatter.pattern,
+          equals("d/M/yyyy")); // DateFormat.parseLoose is used
     });
 
     test("#6: M/d/yyyy", () {
@@ -73,16 +74,19 @@ void main() {
 
     test("#1", () {
       var seconds = dateFormatter.parseString("22.03-1981", skipChecks: true);
-      expect(seconds, equals(0), reason: "Different separators are not allowed");
+      expect(seconds, equals(0),
+          reason: "Different separators are not allowed");
     });
 
     test("#2", () {
-      var seconds = dateFormatter.parseString("Tomorrow 14.30", skipChecks: true);
+      var seconds =
+          dateFormatter.parseString("Tomorrow 14.30", skipChecks: true);
       expect(seconds, equals(0));
     });
 
     test("#3", () {
-      var seconds = dateFormatter.parseString("**August 12:15 PM ", skipChecks: true);
+      var seconds =
+          dateFormatter.parseString("**August 12:15 PM ", skipChecks: true);
       expect(seconds, equals(0));
     });
   });
@@ -105,13 +109,18 @@ void main() {
       final messages = Queue<Message>();
       messages.addAll([
         // d/M/y formated date string
-        Message(type: "text", content: "Hello World", dateString: "21/04/22", timeString: "12:59")
-        ..dateTime = 0 // indicates invalid dates
-        ..time = 46740 // 12:59 in seconds
+        Message(
+            type: "text",
+            content: "Hello World",
+            dateString: "21/04/22",
+            timeString: "12:59")
+          ..dateTime = 0 // indicates invalid dates
+          ..time = 46740 // 12:59 in seconds
       ]);
       dateFormatter.fixDates(messages);
 
-      expect(messages.first.dateTime, equals(DateTime.utc(2022, 4, 21, 12, 59).secondsSinceEpoch));
+      expect(messages.first.dateTime,
+          equals(DateTime.utc(2022, 4, 21, 12, 59).secondsSinceEpoch));
     });
   });
 }

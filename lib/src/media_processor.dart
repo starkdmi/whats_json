@@ -9,31 +9,34 @@ Message parseMedia(Message data) {
 
   // process body to determine message type
   final attachmentMatch = WhatsAppPatterns._attachmentRegex.firstMatch(content);
-  final attachment = attachmentMatch?.namedGroup("file") ?? attachmentMatch?.namedGroup("file2");
+  final attachment = attachmentMatch?.namedGroup("file") ??
+      attachmentMatch?.namedGroup("file2");
   final caption = attachmentMatch?.namedGroup("caption");
   if (attachment == null) {
-
-    // check if location is present in body's text 
+    // check if location is present in body's text
     String? location, place, longitude, latitude;
-    
+
     // google link with coordinates
-    final googleMatch = WhatsAppPatterns._googleLocationRegex.firstMatch(content);
+    final googleMatch =
+        WhatsAppPatterns._googleLocationRegex.firstMatch(content);
     if (googleMatch != null) {
-      location = googleMatch.namedGroup("link"); 
+      location = googleMatch.namedGroup("link");
       longitude = googleMatch.namedGroup("longitude");
       latitude = googleMatch.namedGroup("latitude");
     }
-    
+
     // foursquare link with optional text
-    final line = content.replaceAll("\n", " "); // fix Android multiline location message
-    final foursquareMatch = WhatsAppPatterns._foursquareLocationRegex.firstMatch(line);
+    final line =
+        content.replaceAll("\n", " "); // fix Android multiline location message
+    final foursquareMatch =
+        WhatsAppPatterns._foursquareLocationRegex.firstMatch(line);
     if (foursquareMatch != null) {
-      location ??= foursquareMatch.namedGroup("link"); 
+      location ??= foursquareMatch.namedGroup("link");
       place = foursquareMatch.namedGroup("place")?.trim();
       // remove trailing semicolon
       if (place != null && place.endsWith(":")) {
         place = place.substring(0, place.length - 1);
-      } 
+      }
     }
 
     if (location != null) {
@@ -54,8 +57,10 @@ Message parseMedia(Message data) {
     }
   } else {
     // ignore: unnecessary_string_interpolations
-    String filename = "$attachment"; 
-    if (filename.length > 9 && int.tryParse(filename.substring(0, 8)) != null && filename[8] == "-") {
+    String filename = "$attachment";
+    if (filename.length > 9 &&
+        int.tryParse(filename.substring(0, 8)) != null &&
+        filename[8] == "-") {
       // skip attachment id + `-` symbol
       filename = filename.substring(9);
     }
@@ -76,7 +81,7 @@ Message parseMedia(Message data) {
     } else {
       // detect file type using mime package
       final mimeType = mimeTypeResolver.lookup(attachment);
-      // headerBytes allow to detect type based on file header 
+      // headerBytes allow to detect type based on file header
 
       // get file type using mime package
       if (mimeType?.startsWith("image") == true) {

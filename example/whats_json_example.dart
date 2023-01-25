@@ -8,9 +8,9 @@ void main() async {
 
   // load file
   final stream = File(path)
-    .openRead()
-    .transform(const Utf8Decoder())
-    .transform(const LineSplitter());
+      .openRead()
+      .transform(const Utf8Decoder())
+      .transform(const LineSplitter());
 
   // get messages
   final messages = await whatsAppGetMessages(stream, skipSystem: true);

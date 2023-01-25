@@ -10,7 +10,9 @@ void main() {
     final path = "./test/data/chats_unique";
     final directory = Directory(path);
 
-    test("Parse all unique chats without failures, timeouts, non-empty and with valid dates", () async {
+    test(
+        "Parse all unique chats without failures, timeouts, non-empty and with valid dates",
+        () async {
       int errors = 0;
       int timeouts = 0;
       int lessThanTwoMessages = 0;
@@ -26,13 +28,16 @@ void main() {
           Isolate? isolate;
           await runZonedGuarded(() async {
             final port = ReceivePort();
-            isolate = await Isolate.spawn(parseIsolated, [port.sendPort, entry.path]);
-            Iterable<Map<String, dynamic>>? messages = await port.first.timeout(Duration(seconds: 10), onTimeout: () => null) as Iterable<Map<String, dynamic>>?;
+            isolate =
+                await Isolate.spawn(parseIsolated, [port.sendPort, entry.path]);
+            Iterable<Map<String, dynamic>>? messages = await port.first
+                    .timeout(Duration(seconds: 10), onTimeout: () => null)
+                as Iterable<Map<String, dynamic>>?;
             if (messages == null) {
               print("Timeout ${entry.path}\n");
               timeouts++;
               return;
-            } 
+            }
             if (messages.length < 2) {
               print("${messages.length}: ${entry.path}\n");
               lessThanTwoMessages++;
@@ -67,9 +72,9 @@ Future<void> parseIsolated(List<dynamic> args) async {
   String path = args.last as String;
 
   final stream = File(path)
-    .openRead()
-    .transform(const Utf8Decoder())
-    .transform(const LineSplitter());
+      .openRead()
+      .transform(const Utf8Decoder())
+      .transform(const LineSplitter());
 
   final messages = await whatsAppGetMessages(stream, skipSystem: false);
   Isolate.exit(port, messages);

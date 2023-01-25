@@ -6,17 +6,17 @@ import 'package:whats_json/whats_json.dart';
 void main(List<String> arguments) async {
   // setup
   final parser = ArgParser()
-  ..addOption("input-file", abbr: 'i', mandatory: true)
-  ..addOption("output-file", abbr: 'o', mandatory: true)
-  ..addFlag("pretty", negatable: true, abbr: 'p', defaultsTo: false)
-  ..addFlag("force", negatable: true, abbr: 'f', defaultsTo: false);
+    ..addOption("input-file", abbr: 'i', mandatory: true)
+    ..addOption("output-file", abbr: 'o', mandatory: true)
+    ..addFlag("pretty", negatable: true, abbr: 'p', defaultsTo: false)
+    ..addFlag("force", negatable: true, abbr: 'f', defaultsTo: false);
 
   // parse
   ArgResults argResults = parser.parse(arguments);
 
   bool pretty = argResults["pretty"];
   bool override = argResults["force"];
-  
+
   final input = argResults["input-file"];
   final inputFile = File(input);
   if (!input.endsWith(".txt") || !inputFile.existsSync()) {
@@ -38,9 +38,9 @@ void main(List<String> arguments) async {
 
   // read input file
   final stream = inputFile
-    .openRead()
-    .transform(const Utf8Decoder())
-    .transform(const LineSplitter());
+      .openRead()
+      .transform(const Utf8Decoder())
+      .transform(const LineSplitter());
 
   // process file
   final messages = await whatsAppGetMessages(stream);
@@ -49,7 +49,7 @@ void main(List<String> arguments) async {
   // output
   String contents;
   if (pretty) {
-   contents = JsonEncoder.withIndent("  ").convert(messages);
+    contents = JsonEncoder.withIndent("  ").convert(messages);
   } else {
     contents = jsonEncode(messages);
   }

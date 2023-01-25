@@ -3,8 +3,10 @@ import 'date_formatter.dart';
 
 /// Time formats
 final List<DateFormat> timeFormats = [
-  DateFormat.jms(), DateFormat.Hms(), 
-  DateFormat.jm(), DateFormat.Hm()
+  DateFormat.jms(),
+  DateFormat.Hms(),
+  DateFormat.jm(),
+  DateFormat.Hm()
 ];
 
 /// Class for work with time strings
@@ -29,12 +31,12 @@ class TimeFormatter {
           // save pattern
           _timeFormat = format;
           return dateTime.secondsSinceEpoch;
-        } catch(_) { }
+        } catch (_) {}
       }
 
       // Arabic RTL time
       try {
-        final format = DateFormat.Hms("ar"); 
+        final format = DateFormat.Hms("ar");
         var time = format.parse(string, true);
 
         // save pattern
@@ -43,11 +45,12 @@ class TimeFormatter {
 
         var seconds = time.secondsSinceEpoch;
         // fix 12 hour format
-        if (string.endsWith("م")) { // PM
+        if (string.endsWith("م")) {
+          // PM
           seconds += const Duration(hours: 12).inSeconds;
         }
         return seconds;
-      } catch(_) { }
+      } catch (_) {}
 
       // failed to get format
       if (_timeFormat == null) return 0;
@@ -62,15 +65,18 @@ class TimeFormatter {
         dateTime = _timeFormat!.parseLoose(string, true);
       }
       return dateTime.secondsSinceEpoch;
-    } catch(_) { 
-      return 0; 
+    } catch (_) {
+      return 0;
     }
   }
 
   /// Process time string, return values in seconds
   int parseString(String string) {
     // to support formats with time like 00.00.00 (from unknown source)
-    string = string.replaceAll("a.m.", "am").replaceAll("p.m.", "pm").replaceAll(".", ":");
+    string = string
+        .replaceAll("a.m.", "am")
+        .replaceAll("p.m.", "pm")
+        .replaceAll(".", ":");
 
     return _getTime(string);
   }

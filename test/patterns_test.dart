@@ -6,30 +6,27 @@ void main() {
     final regex = RegExp(WhatsAppPatterns.universal, caseSensitive: false);
 
     test("#1", () {
-      expectRegex(regex, "[3/27/22, 21:41:35] Elon Musk: Hello, Space", 
-        date: "3/27/22", 
-        time: "21:41:35", 
-        sender: "Elon Musk", 
-        content: "Hello, Space"
-      );
+      expectRegex(regex, "[3/27/22, 21:41:35] Elon Musk: Hello, Space",
+          date: "3/27/22",
+          time: "21:41:35",
+          sender: "Elon Musk",
+          content: "Hello, Space");
     });
 
     test("#2 Without brackets sender", () {
-      expectRegex(regex, "3/27/22, 21:41:35 - Elon Musk: Hello, Space", 
-        date: "3/27/22", 
-        time: "21:41:35", 
-        sender: "Elon Musk", 
-        content: "Hello, Space"
-      );
+      expectRegex(regex, "3/27/22, 21:41:35 - Elon Musk: Hello, Space",
+          date: "3/27/22",
+          time: "21:41:35",
+          sender: "Elon Musk",
+          content: "Hello, Space");
     });
 
     test("#3 Multiline", () {
-      expectRegex(regex, "[3/18/22, 14:56:01] Elon Musk: Some\nmultiline\ntext", 
-        date: "3/18/22", 
-        time: "14:56:01", 
-        sender: "Elon Musk", 
-        content: "Some\nmultiline\ntext"
-      );
+      expectRegex(regex, "[3/18/22, 14:56:01] Elon Musk: Some\nmultiline\ntext",
+          date: "3/18/22",
+          time: "14:56:01",
+          sender: "Elon Musk",
+          content: "Some\nmultiline\ntext");
     });
 
     test("#4 Invalid sender", () {
@@ -43,38 +40,40 @@ void main() {
     final regex = RegExp(WhatsAppPatterns.timeFirst, caseSensitive: false);
 
     test("#1", () {
-      expectRegex(regex, "[21:41:35, 3/27/22] Elon Musk: Hello, Space", 
-        date: "3/27/22", 
-        time: "21:41:35", 
-        sender: "Elon Musk", 
-        content: "Hello, Space"
-      );
+      expectRegex(regex, "[21:41:35, 3/27/22] Elon Musk: Hello, Space",
+          date: "3/27/22",
+          time: "21:41:35",
+          sender: "Elon Musk",
+          content: "Hello, Space");
     });
   });
 
   group("System message", () {
-    final regex = RegExp(WhatsAppPatterns.systemUniversal, caseSensitive: false);
+    final regex =
+        RegExp(WhatsAppPatterns.systemUniversal, caseSensitive: false);
 
     test("#1", () {
-      expectRegex(regex, "11/01/2023, 16:11 - Elon Musk created group \"Group Chat\"", 
-        date: "11/01/2023", 
-        time: "16:11", 
-        content: "Elon Musk created group \"Group Chat\""
-      );
+      expectRegex(
+          regex, "11/01/2023, 16:11 - Elon Musk created group \"Group Chat\"",
+          date: "11/01/2023",
+          time: "16:11",
+          content: "Elon Musk created group \"Group Chat\"");
     });
 
     test("#2", () {
-      expectRegex(regex, "11/01/2023, 16:15 - You changed the group description", 
-        date: "11/01/2023", 
-        time: "16:15", 
-        content: "You changed the group description"
-      );
+      expectRegex(
+          regex, "11/01/2023, 16:15 - You changed the group description",
+          date: "11/01/2023",
+          time: "16:15",
+          content: "You changed the group description");
     });
 
     test("System text", () {
-      var isSystem = WhatsAppPatterns.isSystemMessageText("Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.\n"); // iOS
+      var isSystem = WhatsAppPatterns.isSystemMessageText(
+          "Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.\n"); // iOS
 
-      isSystem = WhatsAppPatterns.isSystemMessageText("Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.\n"); // Android
+      isSystem = WhatsAppPatterns.isSystemMessageText(
+          "Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.\n"); // Android
       expect(isSystem, isTrue);
 
       isSystem = WhatsAppPatterns.isSystemMessageText("Hello there");
@@ -127,7 +126,9 @@ void main() {
   });
 }
 
-void expectRegex(RegExp? regex, String raw, {
+void expectRegex(
+  RegExp? regex,
+  String raw, {
   required String date,
   required String time,
   String? sender,
@@ -138,5 +139,6 @@ void expectRegex(RegExp? regex, String raw, {
   expect(match!.namedGroup("date"), equals(date), reason: "Invalid date");
   expect(match.namedGroup("time"), equals(time), reason: "Invalid time");
   expect(match.namedGroup("sender"), equals(sender), reason: "Invalid sender");
-  expect(match.namedGroup("content"), equals(content), reason: "Invalid content");
+  expect(match.namedGroup("content"), equals(content),
+      reason: "Invalid content");
 }

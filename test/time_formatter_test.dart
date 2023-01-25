@@ -15,7 +15,7 @@ void main() {
       final time = timeFormatter.parseString("21:59:00");
       expect(time, equals(DateTime.utc(1970, 1, 1, 21, 59).secondsSinceEpoch));
 
-      // check the pattern is correct 
+      // check the pattern is correct
       expect(timeFormatter.pattern, equals("h:mm:ss a"));
     });
 

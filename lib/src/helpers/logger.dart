@@ -4,8 +4,10 @@ import 'dart:developer' as developer;
 abstract class ParserLogger {
   /// high level operations
   void info(String data);
+
   /// low lever operations
   void debug(String data);
+
   /// sync errors
   void error(String data, Object error, StackTrace stackTrace);
 }

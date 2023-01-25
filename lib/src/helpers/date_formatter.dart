@@ -4,9 +4,7 @@ import '../models/message.dart';
 import 'logger.dart';
 
 /// Supported calendars
-enum Calendar {
-  gregorian, buddhist, japanese
-}
+enum Calendar { gregorian, buddhist, japanese }
 
 /// Date formats
 /// Additional format specified for locale available at https://github.com/dart-lang/intl/tree/master/lib/src/data/dates/symbols/es.json in DATEFORMATS
@@ -35,7 +33,6 @@ extension SecondsSinceEpoch on DateTime {
 
 /// Class for working with string dates
 class DateFormatter {
-
   /// Active calendar used for date parsing
   /// Dates proceed differently for each of calendars
   Calendar calendar = Calendar.gregorian;
@@ -61,32 +58,37 @@ class DateFormatter {
     // return format.parse(dateString); // parseLoose, parseStrict
     try {
       var dateTime = format.parseLoose(dateString, true);
-      if (dateTime.year >= 0 && dateTime.year < 100) { // two digits year format
-        dateTime = DateTime.utc(dateTime.year + 2000, dateTime.month, dateTime.day);
+      if (dateTime.year >= 0 && dateTime.year < 100) {
+        // two digits year format
+        dateTime =
+            DateTime.utc(dateTime.year + 2000, dateTime.month, dateTime.day);
       }
       return dateTime;
-    } catch (_) { return null; }
+    } catch (_) {
+      return null;
+    }
   }
 
   /// Convert string date to seconds since epoch
   /// Zero returned on failure
   int _getDate(String string) {
     // do not process date if pattern is invalid
-    if (shouldFix) return 0; 
+    if (shouldFix) return 0;
 
     // remove hidden RTL characters
-    var stringEscaped = string.replaceAll(RegExp("\u200F"), ""); 
+    var stringEscaped = string.replaceAll(RegExp("\u200F"), "");
 
-    if (_dateFormat == null) {    
+    if (_dateFormat == null) {
       // Buddhist calendar - 3/18/2565 BE
       // Buddhist date proceed only in M/d/y and d/M/y formats
-      if (string.endsWith(" BE")) { 
-        final buddhistDate = tryAlernativeCalendar(Calendar.buddhist, stringEscaped);
+      if (string.endsWith(" BE")) {
+        final buddhistDate =
+            tryAlernativeCalendar(Calendar.buddhist, stringEscaped);
         if (buddhistDate != null) return buddhistDate;
       }
 
       // Simple date format
-      for (final format in dateFormats) { 
+      for (final format in dateFormats) {
         try {
           final dateTime = _parse(format, stringEscaped);
           if (dateTime != null) {
@@ -95,7 +97,7 @@ class DateFormatter {
             _dateFormat = format;
             return dateTime.secondsSinceEpoch;
           }
-        } catch(_) { }
+        } catch (_) {}
       }
 
       // Localized date format - skipped for now and not even captured by date regex (!)
@@ -117,7 +119,8 @@ class DateFormatter {
 
       // Japanese calendar - 3/18/R4
       // Japanese date proceed only in M/d/y and d/M/y formats
-      final japaneseDate = tryAlernativeCalendar(Calendar.japanese, stringEscaped);
+      final japaneseDate =
+          tryAlernativeCalendar(Calendar.japanese, stringEscaped);
       if (japaneseDate != null) return japaneseDate;
 
       // Arabic RTL date
@@ -129,10 +132,12 @@ class DateFormatter {
         _dateFormat = format;
         _isArabicRTL = true;
         return arabicDate.secondsSinceEpoch;
-      } catch(error) { print(error); }
+      } catch (error) {
+        print(error);
+      }
 
       // failed to get format
-      if (_dateFormat == null) return 0; 
+      if (_dateFormat == null) return 0;
     }
 
     DateTime? dateTime;
@@ -144,20 +149,25 @@ class DateFormatter {
         dateTime = _parse(_dateFormat!, stringEscaped);
         break;
       case Calendar.buddhist:
-        dateTime = parseBuddhistDate(stringEscaped, separator: fields["separator"], monthThanDate: fields["monthThanDate"]);
+        dateTime = parseBuddhistDate(stringEscaped,
+            separator: fields["separator"],
+            monthThanDate: fields["monthThanDate"]);
         break;
       case Calendar.japanese:
-        dateTime = parseJapaneseDate(stringEscaped, separator: fields["separator"], monthThanDate: fields["monthThanDate"]);
+        dateTime = parseJapaneseDate(stringEscaped,
+            separator: fields["separator"],
+            monthThanDate: fields["monthThanDate"]);
         break;
     }
-    
-    if (dateTime == null) return 0; // failed to apply the pattern, will be fixed in fix() after all messages are proceed
+
+    if (dateTime == null)
+      return 0; // failed to apply the pattern, will be fixed in fix() after all messages are proceed
 
     return dateTime.secondsSinceEpoch;
   }
 
   /// Process date string, return values in seconds, additionally checks if dates are increasing
-  int parseString(String string, { skipChecks = false }) {
+  int parseString(String string, {skipChecks = false}) {
     // Language words in Intl for different locales are lowercased
     // string = string.toLowerCase();
 
@@ -165,7 +175,8 @@ class DateFormatter {
 
     // check if dates values are increasing over messages - otherwise wrong pattern used
     if (!skipChecks && !shouldFix) {
-      if (date == 0 || (date + 1 < _previousDate)) { // allow 1 second difference
+      if (date == 0 || (date + 1 < _previousDate)) {
+        // allow 1 second difference
         shouldFix = true;
       }
       _previousDate = date;
@@ -178,10 +189,9 @@ class DateFormatter {
   /// This function looks for date format which will work for every existing message
   /// Warning: Japanese and Buddhist calendars as well as Arabic RTL are skipped
   bool _fix(Queue<Message> messages) {
-
     // TODO
-    // Find which format better suit in percentage of valid dates 
-    // If not 100% then additionally save date and time strings 
+    // Find which format better suit in percentage of valid dates
+    // If not 100% then additionally save date and time strings
 
     bool succeedAll(DateFormat format) {
       for (final message in messages) {
@@ -194,7 +204,7 @@ class DateFormatter {
     }
 
     // Simple date format
-    for (final format in dateFormats) { 
+    for (final format in dateFormats) {
       if (succeedAll(format)) {
         // quit
         _dateFormat = format;
@@ -219,9 +229,9 @@ class DateFormatter {
     return false;
   }
 
-  /// Fix date format for all messages 
+  /// Fix date format for all messages
   /// Sometimes d/M/y can be recognized as M/d/y - 04/06/2022
-  void fixDates(Queue<Message> messages, { ParserLogger? logger }) {
+  void fixDates(Queue<Message> messages, {ParserLogger? logger}) {
     bool fixed;
     if (messages.isNotEmpty && shouldFix) {
       logger?.info("[Parser]: Date Format is incorrect ($pattern), fixing...");
@@ -231,7 +241,7 @@ class DateFormatter {
       fixed = true;
     }
     if (fixed) {
-      // continue 
+      // continue
       for (final message in messages) {
         message.dateString = "";
         message.timeString = "";
@@ -241,7 +251,8 @@ class DateFormatter {
       for (final message in messages) {
         message.dateTime = 0;
       }
-      logger?.info("[Parser]: Date Format in unknown, saving original date and time strings");
+      logger?.info(
+          "[Parser]: Date Format in unknown, saving original date and time strings");
     }
   }
 
@@ -253,10 +264,12 @@ class DateFormatter {
 
         switch (calendar) {
           case Calendar.japanese:
-            date = parseJapaneseDate(string, separator: separator, monthThanDate: monthThanDate);
+            date = parseJapaneseDate(string,
+                separator: separator, monthThanDate: monthThanDate);
             break;
           case Calendar.buddhist:
-            date = parseBuddhistDate(string, separator: separator, monthThanDate: monthThanDate);
+            date = parseBuddhistDate(string,
+                separator: separator, monthThanDate: monthThanDate);
             break;
           case Calendar.gregorian:
             return null;
@@ -269,7 +282,7 @@ class DateFormatter {
             "separator": separator,
             "monthThanDate": monthThanDate,
           };
-          
+
           return date.secondsSinceEpoch;
         }
       }
@@ -277,23 +290,26 @@ class DateFormatter {
     return null;
   }
 }
+
 /// Convert Japanese Imperial Calendar date to the Gregorian format
-/// Since 1868 there have only been five era names assigned: 
+/// Since 1868 there have only been five era names assigned:
 ///   Meiji, Taishō, Shōwa, Heisei, and Reiwa
 /// As WhatsApp app released in 2009 there is only two eras left:
 ///   Heisei (1989 - 2019) and Reiwa (2019 - Present)
-/// 
+///
 /// Example: 3/18/R4 -> 2022-03-18
-DateTime? parseJapaneseDate(String dateString, { String separator="/", bool monthThanDate = true }) {
+DateTime? parseJapaneseDate(String dateString,
+    {String separator = "/", bool monthThanDate = true}) {
   final parts = dateString.split(separator);
   if (parts.length != 3) return null;
 
-  // extract date and month 
+  // extract date and month
   DateTime date;
   try {
-    date = DateFormat(monthThanDate ? "M${separator}d" : "d${separator}M").parse("${parts[0]}$separator${parts[1]}");
-  } catch (_) { 
-    return null; 
+    date = DateFormat(monthThanDate ? "M${separator}d" : "d${separator}M")
+        .parse("${parts[0]}$separator${parts[1]}");
+  } catch (_) {
+    return null;
   }
 
   // process era name
@@ -310,23 +326,26 @@ DateTime? parseJapaneseDate(String dateString, { String separator="/", bool mont
   // era number
   int? index = int.tryParse(era.substring(1));
   if (index == null) return null;
-  
+
   return DateTime(year + index - 1, date.month, date.day);
 }
 
 /// Convert Buddhist Calendar date to the Gregorian format
 /// CE = BE - 543 years
-DateTime? parseBuddhistDate(String dateString, { String separator="/", bool monthThanDate = true }) {
-  final string = dateString.substring(0, dateString.length - 3); // remove BE at the end
+DateTime? parseBuddhistDate(String dateString,
+    {String separator = "/", bool monthThanDate = true}) {
+  final string =
+      dateString.substring(0, dateString.length - 3); // remove BE at the end
   final parts = string.split(separator);
   if (parts.length != 3) return null;
 
-  // extract date and month 
+  // extract date and month
   DateTime date;
   try {
-    date = DateFormat(monthThanDate ? "M${separator}d" : "d${separator}M").parse("${parts[0]}$separator${parts[1]}");
-  } catch (_) { 
-    return null; 
+    date = DateFormat(monthThanDate ? "M${separator}d" : "d${separator}M")
+        .parse("${parts[0]}$separator${parts[1]}");
+  } catch (_) {
+    return null;
   }
 
   int? year = int.tryParse(parts[2]);

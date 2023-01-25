@@ -10,20 +10,21 @@ import 'models/message.dart';
 part 'patterns.dart';
 part 'media_processor.dart';
 
-/// Process _chat.txt header lines to Dart objects 
+/// Process _chat.txt header lines to Dart objects
 /// if [skipSystem] is `true` system messages will be skipped
-/// 
+///
 /// File usage
 /// final stream = file
 ///   .openRead()
 ///   .transform(Utf8Decoder())
 ///   .transform(LineSplitter());
-/// 
+///
 /// List usage
 /// List<String> list = ...;
 /// final stream = Stream.fromIterable(list)
-/// 
-Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream, { 
+///
+Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(
+  Stream<String> stream, {
   bool skipSystem = false,
   ParserLogger? logger,
 }) async {
@@ -32,14 +33,14 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
   // end if none system and normal messages found in 10 tries
   int triesLeft = 10;
   // active patterns used to parse regular and system messages
-  RegExp? messageRegex, systemRegex; 
+  RegExp? messageRegex, systemRegex;
   // class for date strings processing
   final dateFormatter = DateFormatter();
   // class for time strings processing
   final timeFormatter = TimeFormatter();
-  // previous message which wasn't proceed yet 
+  // previous message which wasn't proceed yet
   Message? message;
-  // messages queue - original order 
+  // messages queue - original order
   var messages = Queue<Message>();
 
   // initialize localizable date time formats (used for Arabic locale)
@@ -59,7 +60,8 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
       message = parseMedia(message!);
     }
 
-    message = processMessage(message!, skipSystem, dateFormatter, timeFormatter);
+    message =
+        processMessage(message!, skipSystem, dateFormatter, timeFormatter);
     if (message != null) {
       messages.addFirst(message!);
       message = null;
@@ -87,7 +89,12 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
 
         messageRegex = regex; // save pattern
 
-        data = Message(type: "message", sender: sender, content: content, dateString: date, timeString: time);
+        data = Message(
+            type: "message",
+            sender: sender,
+            content: content,
+            dateString: date,
+            timeString: time);
         break;
       }
 
@@ -96,7 +103,8 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
       if (messageRegex == null) {
         return null;
       } else {
-        logger?.info("[Parser]: Message pattern found: ${messageRegex!.pattern}");
+        logger
+            ?.info("[Parser]: Message pattern found: ${messageRegex!.pattern}");
       }
     } else {
       // process using existing pattern
@@ -114,24 +122,29 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
       for (final pattern in WhatsAppPatterns.systemMessageFormats) {
         final regex = RegExp(pattern, caseSensitive: false);
         final match = regex.firstMatch(line);
-        if (match == null) continue;   
-        final dateString = match.namedGroup("date"); 
+        if (match == null) continue;
+        final dateString = match.namedGroup("date");
         if (dateString == null) continue;
-        final timeString = match.namedGroup("time"); 
+        final timeString = match.namedGroup("time");
         if (timeString == null) continue;
-        final content = match.namedGroup("content"); 
+        final content = match.namedGroup("content");
         if (content == null) continue;
 
         systemRegex = regex;
 
-        return Message(type: "system", content: content, dateString: dateString, timeString: timeString);
+        return Message(
+            type: "system",
+            content: content,
+            dateString: dateString,
+            timeString: timeString);
       }
 
       // pattern not found
       if (systemRegex == null) {
         return null;
       } else {
-        logger?.info("[Parser]: System message pattern found: ${systemRegex!.pattern}");
+        logger?.info(
+            "[Parser]: System message pattern found: ${systemRegex!.pattern}");
       }
     }
 
@@ -199,9 +212,8 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(Stream<String> stream
 }
 
 /// Parse line to [Message] object
-Message? lineToMessage(String message, RegExp regex, { 
-  required String type, bool skipSender = false
-}) {
+Message? lineToMessage(String message, RegExp regex,
+    {required String type, bool skipSender = false}) {
   final match = regex.firstMatch(message);
   if (match == null) return null;
 
@@ -211,15 +223,21 @@ Message? lineToMessage(String message, RegExp regex, {
   if (!skipSender) sender = match.namedGroup("sender");
   final String content = match.namedGroup("content") ?? "";
 
-  return Message(type: type, sender: sender, content: content, dateString: date, timeString: time);
+  return Message(
+      type: type,
+      sender: sender,
+      content: content,
+      dateString: date,
+      timeString: time);
 }
 
 /// Process message
-Message? processMessage(Message message, bool skipSystem, DateFormatter dateFormatter, TimeFormatter timeFormatter) {
+Message? processMessage(Message message, bool skipSystem,
+    DateFormatter dateFormatter, TimeFormatter timeFormatter) {
   // skip system messages
   if (message.isSystem && skipSystem) return null;
 
-  // convert date and time strings to int values 
+  // convert date and time strings to int values
   // time
   final time = timeFormatter.parseString(message.timeString);
   message.time = time;
@@ -231,7 +249,7 @@ Message? processMessage(Message message, bool skipSystem, DateFormatter dateForm
     message.dateTime = date + time;
   }
 
-  return message; 
+  return message;
 }
 
 /// Escape hidden unicode characters for Regex processing
@@ -243,11 +261,13 @@ String escapeMessage(String message, [bool? rtl = false]) {
   }
 
   // Left-to-Right Mark (LRM)
-  message = message.replaceAll(Bidi.LRM, ""); 
+  message = message.replaceAll(Bidi.LRM, "");
 
   return message
-    .replaceAll(RegExp(r"\u{00a0}", unicode: true), " ") // No-Break Space (NBSP)
-    .replaceAll(RegExp(r"\u{feff}", unicode: true), ""); // Zero Width No-Break Space
+      .replaceAll(
+          RegExp(r"\u{00a0}", unicode: true), " ") // No-Break Space (NBSP)
+      .replaceAll(
+          RegExp(r"\u{feff}", unicode: true), ""); // Zero Width No-Break Space
 }
 
 /// Escape bidirectional text unicode characters

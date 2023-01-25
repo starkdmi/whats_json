@@ -11,17 +11,19 @@ void main() async {
   // final path = "./test/data/calendars/Gregorian iOS.txt";
 
   // final path = "./test/data/chats_unique/WhatsApp Chat - Arabic_NoMedia Dmitry S.txt"; // arabic dates
-  // final path = "./test/data/chats_unique/WhatsApp Chat - Elon Musk (Arabic).txt"; // international dates 
-  final path = "./test/data/chats_unique/WhatsApp Chat - Elon Musk (Arabic+Media).txt"; // international + media 
+  // final path = "./test/data/chats_unique/WhatsApp Chat - Elon Musk (Arabic).txt"; // international dates
+  final path =
+      "./test/data/chats_unique/WhatsApp Chat - Elon Musk (Arabic+Media).txt"; // international + media
 
   // load file
   final stream = File(path)
-    .openRead()
-    .transform(const Utf8Decoder())
-    .transform(const LineSplitter());
+      .openRead()
+      .transform(const Utf8Decoder())
+      .transform(const LineSplitter());
 
   // get messages
-  final messages = await whatsAppGetMessages(stream, skipSystem: true, logger: SimpleLogger());
+  final messages = await whatsAppGetMessages(stream,
+      skipSystem: true, logger: SimpleLogger());
   print("messages count: ${messages.length}");
 
   // pring messages
