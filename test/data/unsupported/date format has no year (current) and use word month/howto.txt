@@ -1,0 +1,4 @@
+For that case localized formats (skip arabic in loop?) should be enabled back
+That also means regex to be updated to support some of those (with optional year) dates:
+28 Aug 2013
+Mar 5
