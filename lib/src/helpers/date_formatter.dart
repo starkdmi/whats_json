@@ -40,6 +40,9 @@ class DateFormatter {
   /// Dates proceed differently for each of calendars
   Calendar calendar = Calendar.gregorian;
 
+  /// Indicates whenerver time string should be proceed in RTL Arabic format
+  bool _isArabicRTL = false;
+
   /// Active date format used to parse date strings
   DateFormat? _dateFormat;
 
@@ -71,18 +74,21 @@ class DateFormatter {
     // do not process date if pattern is invalid
     if (shouldFix) return 0; 
 
+    // remove hidden RTL characters
+    var stringEscaped = string.replaceAll(RegExp("\u200F"), ""); 
+
     if (_dateFormat == null) {    
       // Buddhist calendar - 3/18/2565 BE
       // Buddhist date proceed only in M/d/y and d/M/y formats
       if (string.endsWith(" BE")) { 
-        final buddhistDate = tryAlernativeCalendar(Calendar.buddhist, string);
+        final buddhistDate = tryAlernativeCalendar(Calendar.buddhist, stringEscaped);
         if (buddhistDate != null) return buddhistDate;
       }
 
       // Simple date format
       for (final format in dateFormats) { 
         try {
-          final dateTime = _parse(format, string);
+          final dateTime = _parse(format, stringEscaped);
           if (dateTime != null) {
             // save pattern
             calendar = Calendar.gregorian;
@@ -111,7 +117,7 @@ class DateFormatter {
 
       // Japanese calendar - 3/18/R4
       // Japanese date proceed only in M/d/y and d/M/y formats
-      final japaneseDate = tryAlernativeCalendar(Calendar.japanese, string);
+      final japaneseDate = tryAlernativeCalendar(Calendar.japanese, stringEscaped);
       if (japaneseDate != null) return japaneseDate;
 
       // Arabic RTL date
@@ -121,8 +127,9 @@ class DateFormatter {
         // save pattern
         calendar = Calendar.gregorian;
         _dateFormat = format;
+        _isArabicRTL = true;
         return arabicDate.secondsSinceEpoch;
-      } catch(_) { }
+      } catch(error) { print(error); }
 
       // failed to get format
       if (_dateFormat == null) return 0; 
@@ -131,13 +138,16 @@ class DateFormatter {
     DateTime? dateTime;
     switch (calendar) {
       case Calendar.gregorian:
-        dateTime = _parse(_dateFormat!, string);
+        // for RTL we need to proceed original unescaped string
+        if (_isArabicRTL) stringEscaped = string;
+
+        dateTime = _parse(_dateFormat!, stringEscaped);
         break;
       case Calendar.buddhist:
-        dateTime = parseBuddhistDate(string, separator: fields["separator"], monthThanDate: fields["monthThanDate"]);
+        dateTime = parseBuddhistDate(stringEscaped, separator: fields["separator"], monthThanDate: fields["monthThanDate"]);
         break;
       case Calendar.japanese:
-        dateTime = parseJapaneseDate(string, separator: fields["separator"], monthThanDate: fields["monthThanDate"]);
+        dateTime = parseJapaneseDate(stringEscaped, separator: fields["separator"], monthThanDate: fields["monthThanDate"]);
         break;
     }
     
