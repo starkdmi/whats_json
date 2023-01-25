@@ -48,7 +48,7 @@ void main() async {
     });
 
     test("#5: Arabic", () {
-      // There looks like a BUG in WhatsApp export algorithm for Arabic locale - seconds exported as 00 instead of 01 for same chat in Arabic and English
+      // Possible bug in WhatsApp export algorithm for Arabic locale - seconds exported as 00 instead of 01 for same chat in Arabic comparing to English
       final time = timeFormatter.parseString("٢:٥٦:٠٠ م");
       expect(time, equals(DateTime.utc(1970, 1, 1, 14, 56).secondsSinceEpoch));
       expect(timeFormatter.pattern, equals(DateFormat.Hms("ar").pattern));
