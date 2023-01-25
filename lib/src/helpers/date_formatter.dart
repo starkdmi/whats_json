@@ -84,7 +84,10 @@ class DateFormatter {
       if (string.endsWith(" BE")) {
         final buddhistDate =
             tryAlernativeCalendar(Calendar.buddhist, stringEscaped);
-        if (buddhistDate != null) return buddhistDate;
+        if (buddhistDate != null) {
+          calendar = Calendar.buddhist;
+          return buddhistDate;
+        }
       }
 
       // Simple date format
@@ -121,7 +124,10 @@ class DateFormatter {
       // Japanese date proceed only in M/d/y and d/M/y formats
       final japaneseDate =
           tryAlernativeCalendar(Calendar.japanese, stringEscaped);
-      if (japaneseDate != null) return japaneseDate;
+      if (japaneseDate != null) {
+        calendar = Calendar.japanese;
+        return japaneseDate;
+      }
 
       // Arabic RTL date
       try {

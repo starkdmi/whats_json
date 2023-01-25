@@ -79,13 +79,15 @@ void main() async {
     test("Japanese", () {
       var seconds = dateFormatter.parseString("3/18/R4", skipChecks: true);
       expect(seconds, equals(DateTime.utc(2022, 3, 18).secondsSinceEpoch));
-      // expect(dateFormatte r.pattern, equals("d-M-yyyy"));
+      expect(dateFormatter.pattern, isNull);
+      expect(dateFormatter.calendar, equals(Calendar.japanese));
     });
 
     test("Buddhist", () {
       var seconds = dateFormatter.parseString("3/18/2565 BE", skipChecks: true);
       expect(seconds, equals(DateTime.utc(2022, 3, 18).secondsSinceEpoch));
-      // expect(dateFormatter.pattern, equals("d-M-yyyy"));
+      expect(dateFormatter.pattern, isNull);
+      expect(dateFormatter.calendar, equals(Calendar.buddhist));
     });
   });
 
