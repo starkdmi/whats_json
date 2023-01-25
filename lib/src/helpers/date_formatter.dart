@@ -175,8 +175,8 @@ class DateFormatter {
 
     // check if dates values are increasing over messages - otherwise wrong pattern used
     if (!skipChecks && !shouldFix) {
-      if (date == 0 || (date + 1 < _previousDate)) {
-        // allow 1 second difference
+      if (date == 0 || (date + 61 < _previousDate)) {
+        // allow 1 minute and 1 seconds difference
         shouldFix = true;
       }
       _previousDate = date;
