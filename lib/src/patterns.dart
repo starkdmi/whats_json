@@ -28,7 +28,9 @@ class WhatsAppPatterns {
         dateSeparator +
         fourToOneDigits +
         r")";
-    final dateTimeSeparator = r"\u060C\s"; // Arabic comma and space
+
+    // separator: Arabic comma and space
+    final dateTimeSeparator = r"\u060C\s";
 
     // time
     final twoToOneDigits = r"(" + digit + r"{2}|" + digit + r"{1})";
@@ -47,9 +49,6 @@ class WhatsAppPatterns {
 
     return datePattern + dateTimeSeparator + timePattern;
   })();
-
-  /// RTL date in international format
-  // static const String rtlDate = r"(?<date>(\d{4}|\d{1,2})\u200F(?<separator>[./\-\s])\d{1,2}\u200F?\k<separator>(\d{4}\sBE|\d{4}|\d{1,2}|[A-Za-z]\d))";
 
   /// Date format regex pattern
   // Pattern used for localized long date strings - r"(?<date>[^:\[\]]{5,30}[^\s\-:,،])"
@@ -102,9 +101,6 @@ class WhatsAppPatterns {
       r":\s" +
       content +
       endOfLine;
-
-  /// RTL pattern
-  // static final String rtl = r"^\u200F?\[?\u200F?" + rtlDate + r"(,\s?|\s|،\s?)" + time + r"(\]\s?-?|:|\s-)\s" + sender + r":\s" + content + endOfLine;
 
   static List<String> messageFormats = [
     universal,
