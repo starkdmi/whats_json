@@ -286,6 +286,7 @@ class DateFormatter {
 /// Example: 3/18/R4 -> 2022-03-18
 DateTime? parseJapaneseDate(String dateString, { String separator="/", bool monthThanDate = true }) {
   final parts = dateString.split(separator);
+  if (parts.length != 3) return null;
 
   // extract date and month 
   DateTime date;
