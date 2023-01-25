@@ -16,7 +16,7 @@ void main() async {
   final messages = await whatsAppGetMessages(stream, skipSystem: true);
   print("messages count: ${messages.length}");
 
-  // pring messages
+  // print messages
   for (final message in messages) {
     print(message);
   }
