@@ -68,6 +68,27 @@ void main() async {
     });
   });
 
+  group("DateFormatter alternative calendars", () {
+    late DateFormatter dateFormatter;
+
+    setUp(() {
+      // date formatter store recognized date format and need to be reseted for tests
+      dateFormatter = DateFormatter();
+    });
+
+    test("Japanese", () {
+      var seconds = dateFormatter.parseString("3/18/R4", skipChecks: true);
+      expect(seconds, equals(DateTime.utc(2022, 3, 18).secondsSinceEpoch));
+      // expect(dateFormatte r.pattern, equals("d-M-yyyy"));
+    });
+
+    test("Buddhist", () {
+      var seconds = dateFormatter.parseString("3/18/2565 BE", skipChecks: true);
+      expect(seconds, equals(DateTime.utc(2022, 3, 18).secondsSinceEpoch));
+      // expect(dateFormatter.pattern, equals("d-M-yyyy"));
+    });
+  });
+
   group("DateFormatter invalid dates", () {
     late DateFormatter dateFormatter;
 
