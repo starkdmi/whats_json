@@ -237,11 +237,13 @@ Message? processMessage(Message message, bool skipSystem, DateFormatter dateForm
 /// Escape hidden unicode characters for Regex processing
 String escapeMessage(String message, [bool? rtl = false]) {
   if (rtl == true) {
-    return message.replaceAll(Bidi.RLM, "");
+    // return message.replaceAll(Bidi.RLM, "");
+    // do not escape to preserve RTL date, time and text format
+    return message;
   }
 
   // Left-to-Right Mark (LRM)
-  message = message.replaceAll(RegExp(r"(\u{200e})", unicode: true), ""); 
+  message = message.replaceAll(Bidi.LRM, ""); 
 
   return message
     .replaceAll(RegExp(r"\u{00a0}", unicode: true), " ") // No-Break Space (NBSP)

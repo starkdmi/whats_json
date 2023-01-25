@@ -18,7 +18,7 @@ class WhatsAppPatterns {
 
     // time
     final twoToOneDigits = r"(" + digit + r"{2}|"+ digit + r"{1})";
-    final hourFormat = r"(\u00A0?(\u0635|\u0645))?"; // NBSP + AM|PM
+    final hourFormat = r"\s?(\u00A0?(\u0635|\u0645))?"; // NBSP + AM|PM
     var timePattern = r"(?<time>" + twoToOneDigits + r":(" + twoToOneDigits + r":" + twoToOneDigits + r"|" + twoToOneDigits + r")" + hourFormat + r")"; 
 
     return datePattern + dateTimeSeparator + timePattern;
@@ -50,7 +50,7 @@ class WhatsAppPatterns {
   static const String timeFirst = startOfLine + time + r"(,\s?|\s|،\s?)" + date + r"(\]\s?-?|:|\s-)\s" + sender + r":\s" + content + endOfLine;
 
   /// Arabic message pattern (date and time changed from `universal`)
-  static final String arabic = startOfLine + arabicDateTime + r"(\]\s?-?|:|\s-)\s" + sender + r":\s" + content + endOfLine;
+  static final String arabic = r"^\u200F?\[?" + arabicDateTime + r"(\]\s?-?|:|\s-)\s" + sender + r":\s" + content + endOfLine;
 
   static List<String> messageFormats = [
     universal,
@@ -65,7 +65,7 @@ class WhatsAppPatterns {
   static const String systemTimeFirst = startOfLine + time + r"(,\s?|\s)" + date + r"(\]\s?-?|:|\s-)\s" + r"(" + sender + r":\s" + r")?" + content + endOfLine;
 
   /// System Arabic message pattern (date and time changed from `systemUniversal`)
-  static final String systemArabic = startOfLine + arabicDateTime  + r"(\]\s?-?|:|\s-)\s" + r"(" + sender + r":\s" + r")?" + content + endOfLine;
+  static final String systemArabic = r"^\u200F?\[?" + arabicDateTime  + r"(\]\s?-?|:|\s-)\s" + r"(" + sender + r":\s" + r")?" + content + endOfLine;
 
   static List<String> systemMessageFormats = [
     systemUniversal,
