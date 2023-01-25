@@ -307,7 +307,7 @@ DateTime? parseJapaneseDate(String dateString,
   DateTime date;
   try {
     date = DateFormat(monthThanDate ? "M${separator}d" : "d${separator}M")
-        .parse("${parts[0]}$separator${parts[1]}");
+        .parse("${parts[0]}$separator${parts[1]}", true);
   } catch (_) {
     return null;
   }
@@ -327,7 +327,7 @@ DateTime? parseJapaneseDate(String dateString,
   int? index = int.tryParse(era.substring(1));
   if (index == null) return null;
 
-  return DateTime(year + index - 1, date.month, date.day);
+  return DateTime.utc(year + index - 1, date.month, date.day);
 }
 
 /// Convert Buddhist Calendar date to the Gregorian format
@@ -343,7 +343,7 @@ DateTime? parseBuddhistDate(String dateString,
   DateTime date;
   try {
     date = DateFormat(monthThanDate ? "M${separator}d" : "d${separator}M")
-        .parse("${parts[0]}$separator${parts[1]}");
+        .parse("${parts[0]}$separator${parts[1]}", true);
   } catch (_) {
     return null;
   }
@@ -351,5 +351,5 @@ DateTime? parseBuddhistDate(String dateString,
   int? year = int.tryParse(parts[2]);
   if (year == null) return null;
 
-  return DateTime(year - 543, date.month, date.day);
+  return DateTime.utc(year - 543, date.month, date.day);
 }
