@@ -23,7 +23,7 @@ final List<DateFormat Function(String)> localizedDateFormats = [
   (String locale) => DateFormat("d MMMM yyyy", locale),
   (String locale) => DateFormat("MMMM d yyyy", locale),
   (String locale) => DateFormat("yyyy MMMM d", locale),
-  (String locale) => DateFormat("E, d MMM yyyy", locale), 
+  (String locale) => DateFormat("E, d MMM yyyy", locale),
   (String locale) => DateFormat("EEEE, d MMMM yyyy", locale),
 ];
 
@@ -55,7 +55,8 @@ class DateFormatter {
   String? get pattern => _dateFormat?.pattern;
 
   /// Try to get date from [dateString] using [format]
-  DateTime? _parse(DateFormat format, String dateString, {bool tryFixMissingYear = true}) {
+  DateTime? _parse(DateFormat format, String dateString,
+      {bool tryFixMissingYear = true}) {
     // return format.parse(dateString); // parseLoose, parseStrict
     try {
       var dateTime = format.parseLoose(dateString, true);
@@ -66,7 +67,8 @@ class DateFormatter {
       }
       return dateTime;
     } catch (error) {
-      if (tryFixMissingYear && error.toString().startsWith("FormatException: Trying to read yyyy")) {
+      if (tryFixMissingYear &&
+          error.toString().startsWith("FormatException: Trying to read yyyy")) {
         // if year is missing "20 Jan" - try to append it to the end -> "20 Jan 2023" using current year
         final string = "$dateString ${DateTime.now().year}";
         return _parse(format, string, tryFixMissingYear: false);
@@ -109,13 +111,14 @@ class DateFormatter {
         } catch (_) {}
       }
 
-      // Localized date format 
+      // Localized date format
       final locales = DateFormat.allLocalesWithSymbols();
       for (var format in localizedDateFormats) {
-        for (final locale in locales) {   
-          bool arabic = locale == "ar";  
+        for (final locale in locales) {
+          bool arabic = locale == "ar";
           final localizedFormat = format(locale);
-          final dateTime = _parse(localizedFormat, arabic ? string : stringEscaped);
+          final dateTime =
+              _parse(localizedFormat, arabic ? string : stringEscaped);
           if (dateTime != null) {
             // save pattern
             calendar = Calendar.gregorian;
@@ -210,7 +213,9 @@ class DateFormatter {
     bool succeedAll(DateFormat format, {bool isArabic = false}) {
       for (final message in messages) {
         // escape string for non-arabic formats
-        final string = isArabic ? message.dateString : message.dateString.replaceAll(RegExp("\u200F"), "");
+        final string = isArabic
+            ? message.dateString
+            : message.dateString.replaceAll(RegExp("\u200F"), "");
         final date = _parse(format, string);
 
         if (date == null) return false;
@@ -231,8 +236,8 @@ class DateFormatter {
     // Localized date format
     final locales = DateFormat.allLocalesWithSymbols();
     for (var format in localizedDateFormats) {
-      for (final locale in locales) {    
-        final localizedFormat = format(locale);  
+      for (final locale in locales) {
+        final localizedFormat = format(locale);
         if (succeedAll(localizedFormat, isArabic: locale == "ar")) {
           // quit
           _dateFormat = localizedFormat;

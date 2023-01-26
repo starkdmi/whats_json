@@ -51,15 +51,19 @@ class WhatsAppPatterns {
   })();
 
   /// Numeric date format regex pattern - 20/08/2022
-  static const String date = 
+  static const String date =
       r"(?<date>(\d{4}|\d{1,2})(?<separator>[.\/\-\s])\d{1,2}\k<separator>(\d{4}\sBE|\d{4}|\d{1,2}|[A-Za-z]\d))";
+
   /// Localized date format regex pattern - Tuesday, 20 August 2022
   static final String localeDate = (() {
     final word = r"\p{L}{3,16}"; // any word using unicode characters
     final weekDay = r"(" + word + r",\s)?"; // optional week day with separator
-    final dmy = r"\d{1,2}\s" + word + r"(\s\d{4}|\d{1,2})?"; // day, month and optional year
-    final mdy = word + r"\s\d{1,2}" + r"(\s\d{4}|\d{1,2})?"; // month, day and optional year
-    final ymd = r"(\d{4}\s|\d{1,2}\s)?" + word + r"\s\d{1,2}"; // optional year, month, day
+    // day, month and optional year
+    final dmy = r"\d{1,2}\s" + word + r"(\s\d{4}|\d{1,2})?";
+    // month, day and optional year
+    final mdy = word + r"\s\d{1,2}" + r"(\s\d{4}|\d{1,2})?";
+    // optional year, month, day
+    final ymd = r"(\d{4}\s|\d{1,2}\s)?" + word + r"\s\d{1,2}";
 
     return r"(?<date>" + weekDay + r"(" + dmy + r"|" + mdy + r"|" + ymd + r"))";
   })();
