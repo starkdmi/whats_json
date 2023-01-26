@@ -166,8 +166,10 @@ class DateFormatter {
         break;
     }
 
-    if (dateTime == null)
-      return 0; // failed to apply the pattern, will be fixed in fix() after all messages are proceed
+    if (dateTime == null) {
+      // failed to apply the pattern, will be fixed in fix() after all messages are proceed
+      return 0;
+    }
 
     return dateTime.secondsSinceEpoch;
   }
