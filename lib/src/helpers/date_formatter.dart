@@ -98,7 +98,7 @@ class DateFormatter {
         }
       }
 
-      // Simple date format
+      // Simple date formats
       for (final format in dateFormats) {
         try {
           final dateTime = _parse(format, stringEscaped);
@@ -111,21 +111,20 @@ class DateFormatter {
         } catch (_) {}
       }
 
-      // Localized date format
+      // Localized date formats
       final locales = DateFormat.allLocalesWithSymbols();
       for (var format in localizedDateFormats) {
         for (final locale in locales) {
-          bool arabic = locale == "ar";
+          if (locale == "ar") {
+            // handled in Arabic digits block
+            continue;
+          }
           final localizedFormat = format(locale);
-          final dateTime =
-              _parse(localizedFormat, arabic ? string : stringEscaped);
+          final dateTime = _parse(localizedFormat, stringEscaped);
           if (dateTime != null) {
             // save pattern
             calendar = Calendar.gregorian;
             _dateFormat = localizedFormat;
-            if (arabic) {
-              _isArabicRTL = true;
-            }
             return dateTime.secondsSinceEpoch;
           }
         }
@@ -140,8 +139,8 @@ class DateFormatter {
         return japaneseDate;
       }
 
-      // Arabic RTL date - handled in localized formats loop
-      /*try {
+      // Arabic RTL date (Arabic digits)
+      try {
         final format = DateFormat.yMd("ar");
         final arabicDate = format.parse(string, true);
         // save pattern
@@ -149,7 +148,7 @@ class DateFormatter {
         _dateFormat = format;
         _isArabicRTL = true;
         return arabicDate.secondsSinceEpoch;
-      } catch (_) { }*/
+      } catch (_) {}
 
       // failed to get format
       if (_dateFormat == null) return 0;
@@ -159,9 +158,7 @@ class DateFormatter {
     switch (calendar) {
       case Calendar.gregorian:
         // for RTL we need to proceed original unescaped string
-        if (_isArabicRTL) stringEscaped = string;
-
-        dateTime = _parse(_dateFormat!, stringEscaped);
+        dateTime = _parse(_dateFormat!, _isArabicRTL ? string : stringEscaped);
         break;
       case Calendar.buddhist:
         dateTime = parseBuddhistDate(stringEscaped,
@@ -206,17 +203,9 @@ class DateFormatter {
   /// This function looks for date format which will work for every existing message
   /// Warning: Japanese and Buddhist calendars as well as Arabic RTL are skipped
   bool _fix(Queue<Message> messages) {
-    // TODO
-    // Find which format better suit in percentage of valid dates
-    // If not 100% then additionally save date and time strings
-
-    bool succeedAll(DateFormat format, {bool isArabic = false}) {
+    bool succeedAll(DateFormat format) {
       for (final message in messages) {
-        // escape string for non-arabic formats
-        final string = isArabic
-            ? message.dateString
-            : message.dateString.replaceAll(RegExp("\u200F"), "");
-        final date = _parse(format, string);
+        final date = _parse(format, message.dateString);
 
         if (date == null) return false;
         message.dateTime = date.secondsSinceEpoch + (message.time ?? 0);
@@ -224,7 +213,7 @@ class DateFormatter {
       return true;
     }
 
-    // Simple date format
+    // Simple date formats
     for (final format in dateFormats) {
       if (succeedAll(format)) {
         // quit
@@ -233,12 +222,12 @@ class DateFormatter {
       }
     }
 
-    // Localized date format
+    // Localized date formats
     final locales = DateFormat.allLocalesWithSymbols();
     for (var format in localizedDateFormats) {
       for (final locale in locales) {
         final localizedFormat = format(locale);
-        if (succeedAll(localizedFormat, isArabic: locale == "ar")) {
+        if (succeedAll(localizedFormat)) {
           // quit
           _dateFormat = localizedFormat;
           return true;
