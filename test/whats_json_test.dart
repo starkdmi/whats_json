@@ -202,7 +202,7 @@ void main() async {
 
   test("Bad (edited) file should not fail", () async {
     final badPath =
-        "$current/data/unsupported/edited/WhatsApp Chat - Bad +90 531 022 21 53.txt";
+        "$current/data/chats_unique/WhatsApp Chat - Bad +90 531 022 21 53.txt";
     final stream = File(badPath)
         .openRead()
         .transform(const Utf8Decoder())

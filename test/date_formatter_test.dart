@@ -68,6 +68,57 @@ void main() async {
     });
   });
 
+  group("DateFormatter localized dates", () {
+    late DateFormatter dateFormatter;
+
+    setUp(() {
+      // date formatter store recognized date format and need to be reseted for tests
+      dateFormatter = DateFormatter();
+    });
+
+    test("#1: EEEE, d MMMM yyyy (EN)", () {
+      var seconds = dateFormatter.parseString("Wednesday, 07 March 2018", skipChecks: true);
+      expect(seconds, equals(DateTime.utc(2018, 3, 7).secondsSinceEpoch));
+      expect(dateFormatter.pattern, equals("EEEE, d MMMM yyyy"));
+    });
+
+    test("#2: EEEE, d MMMM yyyy (RU)", () {
+      var seconds = dateFormatter.parseString("Вторник, 22 Марта 2022", skipChecks: true);
+      expect(seconds, equals(DateTime.utc(2022, 3, 22).secondsSinceEpoch));
+      expect(dateFormatter.pattern, equals("EEEE, d MMMM yyyy"));
+    });
+
+    test("#3: MMMM d yyyy (year missing)", () {
+      var seconds = dateFormatter.parseString("March 8", skipChecks: true);
+      expect(seconds, equals(DateTime.utc(DateTime.now().year, 3, 8).secondsSinceEpoch));
+      expect(dateFormatter.pattern, equals("MMMM d yyyy"));
+    });
+
+    test("#4: d MMMM yyyy (year missing)", () {
+      var seconds = dateFormatter.parseString("25 August", skipChecks: true);
+      expect(seconds, equals(DateTime.utc(DateTime.now().year, 8, 25).secondsSinceEpoch));
+      expect(dateFormatter.pattern, equals("d MMMM yyyy"));
+    });
+
+    test("#5: MMMM d yyyy", () {
+      var seconds = dateFormatter.parseString("April 5 2022", skipChecks: true);
+      expect(seconds, equals(DateTime.utc(2022, 4, 5).secondsSinceEpoch));
+      expect(dateFormatter.pattern, equals("MMMM d yyyy"));
+    });
+
+    test("#6: yyyy MMMM d", () {
+      var seconds = dateFormatter.parseString("2022 August 20", skipChecks: true);
+      expect(seconds, equals(DateTime.utc(2022, 8, 20).secondsSinceEpoch));
+      expect(dateFormatter.pattern, equals("yyyy MMMM d"));
+    });
+
+    test("#7: d MMMM yyyy", () {
+      var seconds = dateFormatter.parseString("28 Aug 2013", skipChecks: true);
+      expect(seconds, equals(DateTime.utc(2013, 8, 28).secondsSinceEpoch));
+      expect(dateFormatter.pattern, equals("d MMMM yyyy"));
+    });
+  });
+
   group("DateFormatter alternative calendars", () {
     late DateFormatter dateFormatter;
 

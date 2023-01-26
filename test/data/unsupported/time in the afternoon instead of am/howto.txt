@@ -1,3 +1,0 @@
-Can be supported by updating time regex to allow those:
-10:10 in the morning
-3:07 in the afternoon

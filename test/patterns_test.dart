@@ -109,6 +109,82 @@ void main() {
     });
   });
 
+  group("Localized dates", () {
+    final regex = RegExp(WhatsAppPatterns.localeDate, caseSensitive: false, unicode: true);
+    
+    test("#1", () {
+      final data = "[Tuesday, 22 March 2022, 12:51]";
+      final match = regex.firstMatch(data);
+      expect(match?.namedGroup("date"), equals("Tuesday, 22 March 2022"));
+    });
+
+    test("#2", () {
+      final data = "[28 Aug 2013, 9:41]";
+      final match = regex.firstMatch(data);
+      expect(match?.namedGroup("date"), equals("28 Aug 2013"));
+    });
+
+    test("#3", () {
+      final data = "[Mar 5, 9:41]";
+      final match = regex.firstMatch(data);
+      expect(match?.namedGroup("date"), equals("Mar 5"));
+    });
+
+    test("#4", () {
+      final data = "[25 August, 9:41]";
+      final match = regex.firstMatch(data);
+      expect(match?.namedGroup("date"), equals("25 August"));
+    });
+
+    test("#5", () {
+      final data = "[9:41, April 5 2022]";
+      final match = regex.firstMatch(data);
+      expect(match?.namedGroup("date"), equals("April 5 2022"));
+    });
+
+    test("#6", () {
+      final data = "[9:41, 2022 August 20]";
+      final match = regex.firstMatch(data);
+      expect(match?.namedGroup("date"), equals("2022 August 20"));
+    });
+
+    test("#7", () {
+      final data = "Tue, 21 Jan 2021";
+      final match = regex.firstMatch(data);
+      expect(match?.namedGroup("date"), equals("Tue, 21 Jan 2021"));
+    });
+
+    test("#8", () {
+      final data = "[Wednesday, 07 March 2018";
+      final match = regex.firstMatch(data);
+      expect(match?.namedGroup("date"), equals("Wednesday, 07 March 2018"));
+    });
+
+    test("#9", () {
+      final data = "[Вторник, 22 Марта 2022 Привет мир";
+      final match = regex.firstMatch(data);
+      expect(match?.namedGroup("date"), equals("Вторник, 22 Марта 2022"));
+    });
+
+    test("#10", () {
+      final data = "[Вторник, Март 22 2022 Привет мир";
+      final match = regex.firstMatch(data);
+      expect(match?.namedGroup("date"), equals("Вторник, Март 22 2022"));
+    });
+
+    test("#11", () {
+      final data = "[Вторник, 2022 Март 22 Привет мир";
+      final match = regex.firstMatch(data);
+      expect(match?.namedGroup("date"), equals("Вторник, 2022 Март 22"));
+    });
+
+    test("#12", () {
+      final data = "[Вторник, Март 22, 09:41]";
+      final match = regex.firstMatch(data);
+      expect(match?.namedGroup("date"), equals("Вторник, Март 22"));
+    });
+  });
+
   group("Time", () {
     final regex = RegExp(WhatsAppPatterns.time, caseSensitive: false);
 
