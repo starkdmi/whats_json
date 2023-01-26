@@ -72,10 +72,12 @@ class TimeFormatter {
 
   /// Process time string, return values in seconds
   int parseString(String string) {
-    // to support formats with time like 00.00.00 (from unknown source)
     string = string
         .replaceAll("a.m.", "am")
         .replaceAll("p.m.", "pm")
+        .replaceAll("in the morning", "am")
+        .replaceAll("in the afternoon", "pm")
+        // to support formats with time like 00.00.00 (from unknown source)
         .replaceAll(".", ":");
 
     return _getTime(string);

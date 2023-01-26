@@ -66,7 +66,7 @@ class WhatsAppPatterns {
 
   /// Time format regex pattern
   static const String time =
-      r"(?<time>[0-9^\[\]]{1,2}[:.][0-9]{2}([:.][0-9]{2})?(\s[ap].?m.?)?)";
+      r"(?<time>[0-9^\[\]]{1,2}[:.][0-9]{2}([:.][0-9]{2})?(\s[ap].?m.?|\sin the morning|\sin the afternoon)?)";
 
   /// Sender regex pattern
   static const String sender = r"(?<sender>[^\s\]\-][^:]+)";
