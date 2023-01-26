@@ -260,7 +260,7 @@ class WhatsAppPatterns {
       RegExp(_googleLocationPattern, caseSensitive: false);
   // static String _googleLocationPattern = r"(location|[^\s]+):?\s(?<link>https://maps.google.com/\?q=(?<longitude>[0-9\.]*),(?<latitude>[0-9\.]*))" + _endOfLine;
   static String _googleLocationPattern =
-      r"^(location|locație|స్థలం|местоположение|lokasyon|位置|posizione|ubicació|poloha|位|lokasi |位置情|τοποθεσία|atrašanās vieta|placering|स्थान|орналасуы|સ્થળ|מיקום|lokasi|位置|localização|स्थान |joylashuv|położenie|vị trí|Vendndodhja|plats|lokacija|poloha|مقام|Mahali|konum|இருப்பிடம|ตำแหน่งที่ตั้ง|موقعیت|buvimo vieta|posisjon|מיקום|sijainti|lokasi |localisation |ubicación|asukoht|lokacija|Helyzet|locatie|местоположение|অবস্থান|ligging|Standort|məkan|위치|സ്ഥലം|локација|ಸ್ಥಳ|الموقع|localização|місцезнаходження|локација |ਟਿਕਾਣਾ|位|[^\s]+):?\s(?<link>https://maps.google.com/\?q=(?<longitude>[0-9\.]*),(?<latitude>[0-9\.]*))" +
+      r"^(location|locație|స్థలం|местоположение|lokasyon|位置|posizione|ubicació|poloha|位|lokasi |位置情|τοποθεσία|atrašanās vieta|placering|स्थान|орналасуы|સ્થળ|מיקום|lokasi|位置|localização|स्थान |joylashuv|położenie|vị trí|Vendndodhja|plats|lokacija|poloha|مقام|Mahali|konum|இருப்பிடம|ตำแหน่งที่ตั้ง|موقعیت|buvimo vieta|posisjon|מיקום|sijainti|lokasi |localisation |ubicación|asukoht|lokacija|Helyzet|locatie|местоположение|অবস্থান|ligging|Standort|məkan|위치|സ്ഥലം|локација|ಸ್ಥಳ|الموقع|localização|місцезнаходження|локација |ਟਿਕਾਣਾ|位|[^\s]+):?\s(?<link>https://maps.google.com/\?q=(?<longitude>\-?[0-9\.]*),(?<latitude>\-?[0-9\.]*))" +
           endOfLine;
   static String get googleLocationPattern => _googleLocationPattern;
   static set googleLocation(String pattern) {
