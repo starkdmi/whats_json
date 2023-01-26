@@ -110,8 +110,9 @@ void main() {
   });
 
   group("Localized dates", () {
-    final regex = RegExp(WhatsAppPatterns.localeDate, caseSensitive: false, unicode: true);
-    
+    final regex = RegExp(WhatsAppPatterns.localeDate,
+        caseSensitive: false, unicode: true);
+
     test("#1", () {
       final data = "[Tuesday, 22 March 2022, 12:51]";
       final match = regex.firstMatch(data);

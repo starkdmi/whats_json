@@ -77,26 +77,30 @@ void main() async {
     });
 
     test("#1: EEEE, d MMMM yyyy (EN)", () {
-      var seconds = dateFormatter.parseString("Wednesday, 07 March 2018", skipChecks: true);
+      var seconds = dateFormatter.parseString("Wednesday, 07 March 2018",
+          skipChecks: true);
       expect(seconds, equals(DateTime.utc(2018, 3, 7).secondsSinceEpoch));
       expect(dateFormatter.pattern, equals("EEEE, d MMMM yyyy"));
     });
 
     test("#2: EEEE, d MMMM yyyy (RU)", () {
-      var seconds = dateFormatter.parseString("Вторник, 22 Марта 2022", skipChecks: true);
+      var seconds =
+          dateFormatter.parseString("Вторник, 22 Марта 2022", skipChecks: true);
       expect(seconds, equals(DateTime.utc(2022, 3, 22).secondsSinceEpoch));
       expect(dateFormatter.pattern, equals("EEEE, d MMMM yyyy"));
     });
 
     test("#3: MMMM d yyyy (year missing)", () {
       var seconds = dateFormatter.parseString("March 8", skipChecks: true);
-      expect(seconds, equals(DateTime.utc(DateTime.now().year, 3, 8).secondsSinceEpoch));
+      expect(seconds,
+          equals(DateTime.utc(DateTime.now().year, 3, 8).secondsSinceEpoch));
       expect(dateFormatter.pattern, equals("MMMM d yyyy"));
     });
 
     test("#4: d MMMM yyyy (year missing)", () {
       var seconds = dateFormatter.parseString("25 August", skipChecks: true);
-      expect(seconds, equals(DateTime.utc(DateTime.now().year, 8, 25).secondsSinceEpoch));
+      expect(seconds,
+          equals(DateTime.utc(DateTime.now().year, 8, 25).secondsSinceEpoch));
       expect(dateFormatter.pattern, equals("d MMMM yyyy"));
     });
 
@@ -107,7 +111,8 @@ void main() async {
     });
 
     test("#6: yyyy MMMM d", () {
-      var seconds = dateFormatter.parseString("2022 August 20", skipChecks: true);
+      var seconds =
+          dateFormatter.parseString("2022 August 20", skipChecks: true);
       expect(seconds, equals(DateTime.utc(2022, 8, 20).secondsSinceEpoch));
       expect(dateFormatter.pattern, equals("yyyy MMMM d"));
     });
