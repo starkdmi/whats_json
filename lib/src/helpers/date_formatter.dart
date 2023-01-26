@@ -17,14 +17,15 @@ final List<DateFormat> dateFormats = [
   DateFormat("yyyy-M-d"),
   DateFormat("yyyy.M.d"),
 ];
-// Localized dates are not captured by regular expressions now (!)
-/*final List<DateFormat Function(String)> localizedDateFormats = [
+
+// Localized date formats
+final List<DateFormat Function(String)> localizedDateFormats = [
   (String locale) => DateFormat("d MMMM yyyy", locale),
   (String locale) => DateFormat("MMMM d yyyy", locale),
   (String locale) => DateFormat("yyyy MMMM d", locale),
   (String locale) => DateFormat("E, d MMM yyyy", locale), 
   (String locale) => DateFormat("EEEE, d MMMM yyyy", locale),
-];*/
+];
 
 /// WhatsApp dates has no milliseconds data - all dates stored in seconds since 1970
 extension SecondsSinceEpoch on DateTime {
@@ -54,7 +55,7 @@ class DateFormatter {
   String? get pattern => _dateFormat?.pattern;
 
   /// Try to get date from [dateString] using [format]
-  DateTime? _parse(DateFormat format, String dateString) {
+  DateTime? _parse(DateFormat format, String dateString, {bool tryFixMissingYear = true}) {
     // return format.parse(dateString); // parseLoose, parseStrict
     try {
       var dateTime = format.parseLoose(dateString, true);
@@ -64,7 +65,12 @@ class DateFormatter {
             DateTime.utc(dateTime.year + 2000, dateTime.month, dateTime.day);
       }
       return dateTime;
-    } catch (_) {
+    } catch (error) {
+      if (tryFixMissingYear && error.toString().startsWith("FormatException: Trying to read yyyy")) {
+        // if year is missing "20 Jan" - try to append it to the end -> "20 Jan 2023" using current year
+        final string = "$dateString ${DateTime.now().year}";
+        return _parse(format, string, tryFixMissingYear: false);
+      }
       return null;
     }
   }
@@ -103,22 +109,24 @@ class DateFormatter {
         } catch (_) {}
       }
 
-      // Localized date format - skipped for now and not even captured by date regex (!)
-      /* final locales = DateFormat.allLocalesWithSymbols();
+      // Localized date format 
+      final locales = DateFormat.allLocalesWithSymbols();
       for (var format in localizedDateFormats) {
-        for (final locale in locales) {      
-          try {
-            final localizedFormat = format(locale);
-            // localizedFormat.parse(dateString);
-            final dateTime = _parse(localizedFormat, string);
-            if (dateTime != null) {
-              // save pattern
-              _dateFormat = localizedFormat;
-              return dateTime.secondsSinceEpoch;
+        for (final locale in locales) {   
+          bool arabic = locale == "ar";  
+          final localizedFormat = format(locale);
+          final dateTime = _parse(localizedFormat, arabic ? string : stringEscaped);
+          if (dateTime != null) {
+            // save pattern
+            calendar = Calendar.gregorian;
+            _dateFormat = localizedFormat;
+            if (arabic) {
+              _isArabicRTL = true;
             }
-          } catch(_) { }
+            return dateTime.secondsSinceEpoch;
+          }
         }
-      }*/
+      }
 
       // Japanese calendar - 3/18/R4
       // Japanese date proceed only in M/d/y and d/M/y formats
@@ -129,8 +137,8 @@ class DateFormatter {
         return japaneseDate;
       }
 
-      // Arabic RTL date
-      try {
+      // Arabic RTL date - handled in localized formats loop
+      /*try {
         final format = DateFormat.yMd("ar");
         final arabicDate = format.parse(string, true);
         // save pattern
@@ -138,9 +146,7 @@ class DateFormatter {
         _dateFormat = format;
         _isArabicRTL = true;
         return arabicDate.secondsSinceEpoch;
-      } catch (error) {
-        print(error);
-      }
+      } catch (_) { }*/
 
       // failed to get format
       if (_dateFormat == null) return 0;
@@ -201,9 +207,11 @@ class DateFormatter {
     // Find which format better suit in percentage of valid dates
     // If not 100% then additionally save date and time strings
 
-    bool succeedAll(DateFormat format) {
+    bool succeedAll(DateFormat format, {bool isArabic = false}) {
       for (final message in messages) {
-        final date = _parse(format, message.dateString);
+        // escape string for non-arabic formats
+        final string = isArabic ? message.dateString : message.dateString.replaceAll(RegExp("\u200F"), "");
+        final date = _parse(format, string);
 
         if (date == null) return false;
         message.dateTime = date.secondsSinceEpoch + (message.time ?? 0);
@@ -221,17 +229,17 @@ class DateFormatter {
     }
 
     // Localized date format
-    /*final locales = DateFormat.allLocalesWithSymbols();
+    final locales = DateFormat.allLocalesWithSymbols();
     for (var format in localizedDateFormats) {
       for (final locale in locales) {    
         final localizedFormat = format(locale);  
-        if (succeedAll(localizedFormat)) {
+        if (succeedAll(localizedFormat, isArabic: locale == "ar")) {
           // quit
           _dateFormat = localizedFormat;
           return true;
         }
       }
-    }*/
+    }
 
     // format not found
     return false;

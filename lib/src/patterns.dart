@@ -50,10 +50,19 @@ class WhatsAppPatterns {
     return datePattern + dateTimeSeparator + timePattern;
   })();
 
-  /// Date format regex pattern
-  // Pattern used for localized long date strings - r"(?<date>[^:\[\]]{5,30}[^\s\-:,،])"
-  static const String date =
-      r"(?<date>(\d{4}|\d{1,2})(?<separator>[./-\s])\d{1,2}\k<separator>(\d{4}\sBE|\d{4}|\d{1,2}|[A-Za-z]\d))";
+  /// Numeric date format regex pattern - 20/08/2022
+  static const String date = 
+      r"(?<date>(\d{4}|\d{1,2})(?<separator>[.\/\-\s])\d{1,2}\k<separator>(\d{4}\sBE|\d{4}|\d{1,2}|[A-Za-z]\d))";
+  /// Localized date format regex pattern - Tuesday, 20 August 2022
+  static final String localeDate = (() {
+    final word = r"\p{L}{3,16}"; // any word using unicode characters
+    final weekDay = r"(" + word + r",\s)?"; // optional week day with separator
+    final dmy = r"\d{1,2}\s" + word + r"(\s\d{4}|\d{1,2})?"; // day, month and optional year
+    final mdy = word + r"\s\d{1,2}" + r"(\s\d{4}|\d{1,2})?"; // month, day and optional year
+    final ymd = r"(\d{4}\s|\d{1,2}\s)?" + word + r"\s\d{1,2}"; // optional year, month, day
+
+    return r"(?<date>" + weekDay + r"(" + dmy + r"|" + mdy + r"|" + ymd + r"))";
+  })();
 
   /// Time format regex pattern
   static const String time =
@@ -82,11 +91,33 @@ class WhatsAppPatterns {
       content +
       endOfLine;
 
-  /// Time first, then Date
+  /// Time first, then date
   static const String timeFirst = startOfLine +
       time +
       r"(,\s?|\s|،\s?)" +
       date +
+      r"(\]\s?-?|:|\s-)\s" +
+      sender +
+      r":\s" +
+      content +
+      endOfLine;
+
+  /// Universal (localized date)
+  static final String universalLocalized = startOfLine +
+      localeDate +
+      r"(,\s?|\s|،\s?)" +
+      time +
+      r"(\]\s?-?|:|\s-)\s" +
+      sender +
+      r":\s" +
+      content +
+      endOfLine;
+
+  /// Time first, then date (localized date)
+  static final String timeFirstLocalized = startOfLine +
+      time +
+      r"(,\s?|\s|،\s?)" +
+      localeDate +
       r"(\]\s?-?|:|\s-)\s" +
       sender +
       r":\s" +
@@ -102,9 +133,20 @@ class WhatsAppPatterns {
       content +
       endOfLine;
 
+  /// Formats requiring [RegExp] running with `unicode` argument set to `true`
+  static List<String> unicodeFormats = [
+    universalLocalized,
+    timeFirstLocalized,
+    systemUniversalLocalized,
+    systemTimeFirstLocalized,
+  ];
+
+  /// All regular message formats, extension is possible
   static List<String> messageFormats = [
     universal,
     timeFirst,
+    universalLocalized,
+    timeFirstLocalized,
     arabic,
   ];
 
@@ -121,11 +163,37 @@ class WhatsAppPatterns {
       content +
       endOfLine;
 
-  /// System Time first, then Date
+  /// System Time first, then date
   static const String systemTimeFirst = startOfLine +
       time +
       r"(,\s?|\s)" +
       date +
+      r"(\]\s?-?|:|\s-)\s" +
+      r"(" +
+      sender +
+      r":\s" +
+      r")?" +
+      content +
+      endOfLine;
+
+  /// System Universal (date localized)
+  static final String systemUniversalLocalized = startOfLine +
+      localeDate +
+      r"(,\s?|\s)" +
+      time +
+      r"(\]\s?-?|:|\s-)\s" +
+      r"(" +
+      sender +
+      r":\s" +
+      r")?" +
+      content +
+      endOfLine;
+
+  /// System Time first, then date (date localized)
+  static final String systemTimeFirstLocalized = startOfLine +
+      time +
+      r"(,\s?|\s)" +
+      localeDate +
       r"(\]\s?-?|:|\s-)\s" +
       r"(" +
       sender +
@@ -145,9 +213,12 @@ class WhatsAppPatterns {
       content +
       endOfLine;
 
+  /// All system message format, extension is possible
   static List<String> systemMessageFormats = [
     systemUniversal,
     systemTimeFirst,
+    systemUniversalLocalized,
+    systemTimeFirstLocalized,
     systemArabic,
   ];
 

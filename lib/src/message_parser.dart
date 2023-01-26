@@ -74,7 +74,8 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(
     if (messageRegex == null) {
       // detect message format
       for (final pattern in WhatsAppPatterns.messageFormats) {
-        final regex = RegExp(pattern, caseSensitive: false);
+        bool unicode = WhatsAppPatterns.unicodeFormats.contains(pattern);
+        final regex = RegExp(pattern, caseSensitive: false, unicode: unicode);
 
         final match = regex.firstMatch(line);
         if (match == null) continue;
@@ -120,7 +121,8 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(
     if (systemRegex == null) {
       // try multiple system message formats
       for (final pattern in WhatsAppPatterns.systemMessageFormats) {
-        final regex = RegExp(pattern, caseSensitive: false);
+        bool unicode = WhatsAppPatterns.unicodeFormats.contains(pattern);
+        final regex = RegExp(pattern, caseSensitive: false, unicode: unicode);
         final match = regex.firstMatch(line);
         if (match == null) continue;
         final dateString = match.namedGroup("date");
