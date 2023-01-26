@@ -10,9 +10,7 @@ void main() async {
     final path = "./test/data/chats_unique";
     final directory = Directory(path);
 
-    test(
-        "Parse all unique chats without failures, timeouts, non-empty and with valid dates",
-        () async {
+    test("Parse all unique chats without failures, timeouts, non-empty and with valid dates", () async {
       int errors = 0;
       int timeouts = 0;
       int lessThanTwoMessages = 0;
