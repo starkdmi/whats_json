@@ -1,28 +1,28 @@
 [3/18/R4, 14:56:01] Elon Musk: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
-[3/27/R4, 21:41:35] Dmitry Starkov: Hello World
-‎[3/27/R4, 21:41:55] Dmitry Starkov: ‎image omitted
-‎[3/27/R4, 21:43:56] Dmitry Starkov: ‎image omitted
-‎[3/27/R4, 21:44:16] Dmitry Starkov: ‎video omitted
-‎[3/27/R4, 21:44:47] Dmitry Starkov: ‎audio omitted
-[3/27/R4, 21:46:03] Dmitry Starkov: Çalış Plajı (Fethiye, Muğla): https://foursquare.com/v/4dea6dacd22da22d4ed36317
-[3/27/R4, 21:46:17] Dmitry Starkov: 😊
-‎[3/27/R4, 21:47:55] Dmitry Starkov: ‎Contact card omitted
-‎[3/27/R4, 21:49:17] Dmitry Starkov: ‎sticker omitted
-‎[3/27/R4, 21:49:20] Dmitry Starkov: ‎sticker omitted
-‎[3/27/R4, 21:50:09] Dmitry Starkov: Some file.txt ‎document omitted
-‎[3/27/R4, 21:50:25] Dmitry Starkov: Resume-Dmitry-Starkov.pdf • ‎2 pages ‎document omitted
-‎[3/27/R4, 21:50:43] Dmitry Starkov: Template.docx ‎document omitted
-[3/27/R4, 21:50:54] Dmitry Starkov: ‎You deleted this message.
-‎[3/27/R4, 21:51:20] Dmitry Starkov: ‎image omitted
-‎[3/27/R4, 21:51:58] Dmitry Starkov: ‎GIF omitted
-[3/27/R4, 21:52:38] Dmitry Starkov: This message is reply to another
-[3/27/R4, 21:53:30] Dmitry Starkov: Hello World
-‎[3/27/R4, 21:53:56] Dmitry Starkov: ‎image omitted
+[3/27/R4, 21:41:35] Dmitry S: Hello World
+‎[3/27/R4, 21:41:55] Dmitry S: ‎image omitted
+‎[3/27/R4, 21:43:56] Dmitry S: ‎image omitted
+‎[3/27/R4, 21:44:16] Dmitry S: ‎video omitted
+‎[3/27/R4, 21:44:47] Dmitry S: ‎audio omitted
+[3/27/R4, 21:46:03] Dmitry S: Pimlico Gardens (London, United Kingdom): https://foursquare.com/v/4e89af95e5fa82ad4c0aa03b
+[3/27/R4, 21:46:17] Dmitry S: 😊
+‎[3/27/R4, 21:47:55] Dmitry S: ‎Contact card omitted
+‎[3/27/R4, 21:49:17] Dmitry S: ‎sticker omitted
+‎[3/27/R4, 21:49:20] Dmitry S: ‎sticker omitted
+‎[3/27/R4, 21:50:09] Dmitry S: Some file.txt ‎document omitted
+‎[3/27/R4, 21:50:25] Dmitry S: Resume-Dmitry-Starkov.pdf • ‎2 pages ‎document omitted
+‎[3/27/R4, 21:50:43] Dmitry S: Template.docx ‎document omitted
+[3/27/R4, 21:50:54] Dmitry S: ‎You deleted this message.
+‎[3/27/R4, 21:51:20] Dmitry S: ‎image omitted
+‎[3/27/R4, 21:51:58] Dmitry S: ‎GIF omitted
+[3/27/R4, 21:52:38] Dmitry S: This message is reply to another
+[3/27/R4, 21:53:30] Dmitry S: Hello World
+‎[3/27/R4, 21:53:56] Dmitry S: ‎image omitted
 [3/27/R4, 21:54:45] Elon Musk: ‎This message was deleted.
-‎[3/27/R4, 21:55:12] Dmitry Starkov: ‎video omitted
-[3/27/R4, 21:56:46] Dmitry Starkov: ‎Location: https://maps.google.com/?q=36.666958,29.113155
+‎[3/27/R4, 21:55:12] Dmitry S: ‎video omitted
+[3/27/R4, 21:56:46] Dmitry S: ‎Location: https://maps.google.com/?q=51.5021456,-0.127397
 [4/28/R4, 20:17:31] Elon Musk: ‎‎Your security code with Elon changed. ‎Tap to learn more.
 [1/7/R5, 23:32:30] Elon Musk: ‎‎Your security code with Elon changed. ‎Tap to learn more.
-[1/12/R5, 02:05:44] Dmitry Starkov: ‎You deleted this message.
-‎[1/12/R5, 15:34:36] Dmitry Starkov: ‎GIF omitted
-‎[1/12/R5, 15:35:15] Dmitry Starkov: ‎audio omitted
+[1/12/R5, 02:05:44] Dmitry S: ‎You deleted this message.
+‎[1/12/R5, 15:34:36] Dmitry S: ‎GIF omitted
+‎[1/12/R5, 15:35:15] Dmitry S: ‎audio omitted

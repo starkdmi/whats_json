@@ -45,7 +45,7 @@ void main() async {
       expect(
           textMessage,
           equals({
-            "author": "Dmitry Starkov",
+            "author": "Dmitry S",
             "date": 1648418010,
             "type": "text",
             "text": "Hello World",
@@ -161,9 +161,9 @@ void main() async {
     test("google maps", () {
       final search = messages.where((message) =>
           message["type"] == "location" &&
-          message["link"] == "https://maps.google.com/?q=34.800600,28.100155" &&
-          message["longitude"] == "34.800600" &&
-          message["latitude"] == "28.100155");
+          message["link"] == "https://maps.google.com/?q=51.5021456,-0.127397" &&
+          message["longitude"] == "51.5021456" &&
+          message["latitude"] == "-0.127397");
       expect(search, isNotEmpty);
     });
 
@@ -171,8 +171,8 @@ void main() async {
       final search = messages.where((message) =>
           message["type"] == "location" &&
           message["link"] ==
-              "https://foursquare.com/v/4dea6dacd22da22d4ed36317" &&
-          message["text"] == "Çalış Plajı (Fethiye, Muğla)");
+              "https://foursquare.com/v/4e89af95e5fa82ad4c0aa03b" &&
+          message["text"] == "Pimlico Gardens (London, United Kingdom)");
       expect(search, isNotEmpty);
     });
   });

@@ -1,25 +1,25 @@
 [3/18/22, 14:56:01] Elon Musk: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
-[3/27/22, 21:41:35] Dmitry Starkov: Hello World
-‎[3/27/22, 21:41:55] Dmitry Starkov: ‎<attached: 00000035-PHOTO-2022-03-27-21-41-55.jpg>
-‎[3/27/22, 21:43:56] Dmitry Starkov: ‎<attached: 00000036-PHOTO-2022-03-27-21-43-56.jpg>
-‎[3/27/22, 21:44:16] Dmitry Starkov: ‎<attached: 00000037-VIDEO-2022-03-27-21-44-16.mp4>
-‎[3/27/22, 21:44:47] Dmitry Starkov: ‎<attached: 00000038-AUDIO-2022-03-27-21-44-47.opus>
-[3/27/22, 21:46:03] Dmitry Starkov: Çalış Plajı (Fethiye, Muğla): https://foursquare.com/v/4dea6dacd22da22d4ed36317
-[3/27/22, 21:46:17] Dmitry Starkov: 😊
-‎[3/27/22, 21:47:55] Dmitry Starkov: ‎<attached: 00000042-TR.vcf>
-‎[3/27/22, 21:49:16] Dmitry Starkov: ‎<attached: 00000043-STICKER-2022-03-27-21-49-16.webp>
-‎[3/27/22, 21:49:20] Dmitry Starkov: ‎<attached: 00000044-STICKER-2022-03-27-21-49-19.webp>
-‎[3/27/22, 21:50:09] Dmitry Starkov: Some file.txt ‎<attached: 00000046-Some file.txt>
-‎[3/27/22, 21:50:25] Dmitry Starkov: Resume-Dmitry-Starkov.pdf • ‎2 pages ‎<attached: 00000047-Resume-Dmitry-Starkov.pdf>
-‎[3/27/22, 21:50:43] Dmitry Starkov: Template.docx ‎<attached: 00000048-Template.docx>
-[3/27/22, 21:50:54] Dmitry Starkov: ‎You deleted this message.
-‎[3/27/22, 21:51:20] Dmitry Starkov: ‎image omitted
-‎[3/27/22, 21:51:57] Dmitry Starkov: ‎<attached: 00000051-GIF-2022-03-27-21-51-57.mp4>
-[3/27/22, 21:52:37] Dmitry Starkov: This message is reply to another
-[3/27/22, 21:53:30] Dmitry Starkov: Hello World
-‎[3/27/22, 21:53:56] Dmitry Starkov: ‎<attached: 00000055-PHOTO-2022-03-27-21-53-56.jpg>
+[3/27/22, 21:41:35] Dmitry S: Hello World
+‎[3/27/22, 21:41:55] Dmitry S: ‎<attached: 00000035-PHOTO-2022-03-27-21-41-55.jpg>
+‎[3/27/22, 21:43:56] Dmitry S: ‎<attached: 00000036-PHOTO-2022-03-27-21-43-56.jpg>
+‎[3/27/22, 21:44:16] Dmitry S: ‎<attached: 00000037-VIDEO-2022-03-27-21-44-16.mp4>
+‎[3/27/22, 21:44:47] Dmitry S: ‎<attached: 00000038-AUDIO-2022-03-27-21-44-47.opus>
+[3/27/22, 21:46:03] Dmitry S: Pimlico Gardens (London, United Kingdom): https://foursquare.com/v/4e89af95e5fa82ad4c0aa03b
+[3/27/22, 21:46:17] Dmitry S: 😊
+‎[3/27/22, 21:47:55] Dmitry S: ‎<attached: 00000042-TR.vcf>
+‎[3/27/22, 21:49:16] Dmitry S: ‎<attached: 00000043-STICKER-2022-03-27-21-49-16.webp>
+‎[3/27/22, 21:49:20] Dmitry S: ‎<attached: 00000044-STICKER-2022-03-27-21-49-19.webp>
+‎[3/27/22, 21:50:09] Dmitry S: Some file.txt ‎<attached: 00000046-Some file.txt>
+‎[3/27/22, 21:50:25] Dmitry S: Resume-Dmitry-Starkov.pdf • ‎2 pages ‎<attached: 00000047-Resume-Dmitry-Starkov.pdf>
+‎[3/27/22, 21:50:43] Dmitry S: Template.docx ‎<attached: 00000048-Template.docx>
+[3/27/22, 21:50:54] Dmitry S: ‎You deleted this message.
+‎[3/27/22, 21:51:20] Dmitry S: ‎image omitted
+‎[3/27/22, 21:51:57] Dmitry S: ‎<attached: 00000051-GIF-2022-03-27-21-51-57.mp4>
+[3/27/22, 21:52:37] Dmitry S: This message is reply to another
+[3/27/22, 21:53:30] Dmitry S: Hello World
+‎[3/27/22, 21:53:56] Dmitry S: ‎<attached: 00000055-PHOTO-2022-03-27-21-53-56.jpg>
 [3/27/22, 21:54:45] Elon Musk: ‎This message was deleted.
-‎[3/27/22, 21:55:12] Dmitry Starkov: ‎<attached: 00000057-VIDEO-2022-03-27-21-55-12.mp4>
-[3/27/22, 21:56:45] Dmitry Starkov: ‎Location: https://maps.google.com/?q=36.666958,29.113155
+‎[3/27/22, 21:55:12] Dmitry S: ‎<attached: 00000057-VIDEO-2022-03-27-21-55-12.mp4>
+[3/27/22, 21:56:45] Dmitry S: ‎Location: https://maps.google.com/?q=51.5021456,-0.127397
 [4/28/22, 20:17:30] Elon Musk: ‎‎Your security code with Elon changed. ‎Tap to learn more.
 [1/7/23, 23:32:30] Elon Musk: ‎‎Your security code with Elon changed. ‎Tap to learn more.

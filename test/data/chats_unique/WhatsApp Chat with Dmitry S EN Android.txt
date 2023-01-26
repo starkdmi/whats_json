@@ -5,7 +5,7 @@
 18/03/2022, 15:11 - Dmitry S: <Media omitted>
 18/03/2022, 15:12 - Dmitry S: <Media omitted>
 18/03/2022, 15:12 - Dmitry S: <Media omitted>
-18/03/2022, 15:13 - Dmitry S: location: https://maps.google.com/?q=36.66704559326172,29.113319396972656
+18/03/2022, 15:13 - Dmitry S: location: https://maps.google.com/?q=51.50214569326172,-0.12739796972656
 23/03/2022, 13:32 - Elon: <Media omitted>
 23/03/2022, 13:32 - Elon: <Media omitted>
 23/03/2022, 13:33 - Elon: 😊😙
@@ -36,9 +36,9 @@
 27/03/2022, 21:43 - Dmitry S: <Media omitted>
 27/03/2022, 21:44 - Dmitry S: <Media omitted>
 27/03/2022, 21:44 - Dmitry S: <Media omitted>
-27/03/2022, 21:46 - Dmitry S: Çalış Plajı
-Fethiye, Muğla
-https://foursquare.com/v/4dea6dacd22da22d4ed36317
+27/03/2022, 21:46 - Dmitry S: Pimlico Gardens
+London, United Kingdom
+https://foursquare.com/v/4e89af95e5fa82ad4c0aa03b
 27/03/2022, 21:46 - Dmitry S: 😊
 27/03/2022, 21:46 - Dmitry S: This message was deleted
 27/03/2022, 21:47 - Dmitry S: TR.vcf (file attached)
@@ -57,6 +57,6 @@ https://foursquare.com/v/4dea6dacd22da22d4ed36317
 27/03/2022, 21:53 - Dmitry S: <Media omitted>
 27/03/2022, 21:54 - Elon: You deleted this message
 27/03/2022, 21:55 - Dmitry S: <Media omitted>
-27/03/2022, 21:56 - Dmitry S: location: https://maps.google.com/?q=36.66695785522461,29.113155364990234
+27/03/2022, 21:56 - Dmitry S: location: https://maps.google.com/?q=51.50214569326172,-0.12739796972656
 07/01/2023, 23:32 - Dmitry S: Missed voice call
 07/01/2023, 23:32 - Dmitry S: Missed voice call

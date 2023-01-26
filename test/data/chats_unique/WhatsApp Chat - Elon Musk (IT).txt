@@ -1,25 +1,25 @@
 [3/18/22, 14:56:00] Elon Musk: ‎I messaggi e le chiamate sono crittografati end-to-end. Nessuno al di fuori di questa chat, nemmeno WhatsApp, può leggerne o ascoltarne il contenuto.
-[3/27/22, 21:41:35] Dmitry Starkov: Hello World
-‎[3/27/22, 21:41:55] Dmitry Starkov: ‎immagine omessa
-‎[3/27/22, 21:43:56] Dmitry Starkov: ‎immagine omessa
-‎[3/27/22, 21:44:16] Dmitry Starkov: ‎video omesso
-‎[3/27/22, 21:44:47] Dmitry Starkov: ‎audio omesso
-[3/27/22, 21:46:02] Dmitry Starkov: Çalış Plajı (Fethiye, Muğla): https://foursquare.com/v/4dea6dacd22da22d4ed36317
-[3/27/22, 21:46:17] Dmitry Starkov: 😊
-‎[3/27/22, 21:47:54] Dmitry Starkov: ‎Scheda contatto omessa
-‎[3/27/22, 21:49:16] Dmitry Starkov: ‎sticker non incluso
-‎[3/27/22, 21:49:19] Dmitry Starkov: ‎sticker non incluso
-‎[3/27/22, 21:50:09] Dmitry Starkov: Some file.txt ‎documento omesso
-‎[3/27/22, 21:50:25] Dmitry Starkov: Resume-Dmitry-Starkov.pdf • ‎2 pagine ‎documento omesso
-‎[3/27/22, 21:50:43] Dmitry Starkov: Template.docx ‎documento omesso
-[3/27/22, 21:50:54] Dmitry Starkov: ‎Hai eliminato questo messaggio.
-‎[3/27/22, 21:51:20] Dmitry Starkov: ‎immagine omessa
-‎[3/27/22, 21:51:57] Dmitry Starkov: ‎GIF esclusa
-[3/27/22, 21:52:37] Dmitry Starkov: This message is reply to another
-[3/27/22, 21:53:30] Dmitry Starkov: Hello World
-‎[3/27/22, 21:53:56] Dmitry Starkov: ‎immagine omessa
+[3/27/22, 21:41:35] Dmitry S: Hello World
+‎[3/27/22, 21:41:55] Dmitry S: ‎immagine omessa
+‎[3/27/22, 21:43:56] Dmitry S: ‎immagine omessa
+‎[3/27/22, 21:44:16] Dmitry S: ‎video omesso
+‎[3/27/22, 21:44:47] Dmitry S: ‎audio omesso
+[3/27/22, 21:46:02] Dmitry S: Pimlico Gardens (London, United Kingdom): https://foursquare.com/v/4e89af95e5fa82ad4c0aa03b
+[3/27/22, 21:46:17] Dmitry S: 😊
+‎[3/27/22, 21:47:54] Dmitry S: ‎Scheda contatto omessa
+‎[3/27/22, 21:49:16] Dmitry S: ‎sticker non incluso
+‎[3/27/22, 21:49:19] Dmitry S: ‎sticker non incluso
+‎[3/27/22, 21:50:09] Dmitry S: Some file.txt ‎documento omesso
+‎[3/27/22, 21:50:25] Dmitry S: Resume-Dmitry-Starkov.pdf • ‎2 pagine ‎documento omesso
+‎[3/27/22, 21:50:43] Dmitry S: Template.docx ‎documento omesso
+[3/27/22, 21:50:54] Dmitry S: ‎Hai eliminato questo messaggio.
+‎[3/27/22, 21:51:20] Dmitry S: ‎immagine omessa
+‎[3/27/22, 21:51:57] Dmitry S: ‎GIF esclusa
+[3/27/22, 21:52:37] Dmitry S: This message is reply to another
+[3/27/22, 21:53:30] Dmitry S: Hello World
+‎[3/27/22, 21:53:56] Dmitry S: ‎immagine omessa
 [3/27/22, 21:54:45] Elon Musk: ‎Questo messaggio è stato eliminato.
-‎[3/27/22, 21:55:12] Dmitry Starkov: ‎video omesso
-[3/27/22, 21:56:45] Dmitry Starkov: ‎Posizione: https://maps.google.com/?q=36.666958,29.113155
+‎[3/27/22, 21:55:12] Dmitry S: ‎video omesso
+[3/27/22, 21:56:45] Dmitry S: ‎Posizione: https://maps.google.com/?q=51.5021456,-0.127397
 [4/28/22, 20:17:30] Elon Musk: ‎‎Il tuo codice di sicurezza con Elon è cambiato. ‎Tocca per saperne di più.
 [1/7/23, 23:32:30] Elon Musk: ‎‎Il tuo codice di sicurezza con Elon è cambiato. ‎Tocca per saperne di più.
