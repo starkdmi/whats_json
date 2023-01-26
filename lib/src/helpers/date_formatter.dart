@@ -115,10 +115,6 @@ class DateFormatter {
       final locales = DateFormat.allLocalesWithSymbols();
       for (var format in localizedDateFormats) {
         for (final locale in locales) {
-          if (locale == "ar") {
-            // handled in Arabic digits block
-            continue;
-          }
           final localizedFormat = format(locale);
           final dateTime = _parse(localizedFormat, stringEscaped);
           if (dateTime != null) {
