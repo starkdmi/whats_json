@@ -5,7 +5,7 @@ import 'package:whats_json/whats_json.dart';
 // Lint
 //  dart format lib
 // Pub dev analytics
-//  pana . 
+//  pana .
 // Code coverage
 //  flutter test --coverage
 //  genhtml coverage/lcov.info -o coverage/html

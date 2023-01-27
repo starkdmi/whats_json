@@ -16,7 +16,7 @@ void main() async {
     bool isIos = entry.path.contains("ios");
     bool isAndroid = entry.path.contains("android");
     bool isMedia = entry.path.contains("media");
-    
+
     if (isIos) {
       if (isMedia) {
         iosMedia.add(entry.path);
@@ -35,26 +35,33 @@ void main() async {
   group("Languages", () {
     test("iOS", () async {
       for (final path in ios) {
-        final filename = basenameWithoutExtension(path).replaceFirst("_ios.txt", "");
+        final filename =
+            basenameWithoutExtension(path).replaceFirst("_ios.txt", "");
         final messages = await readMessages(path, skipSystem: false);
 
-        expect(messages.length, equals(23), reason: "$filename: Messages count");
+        expect(messages.length, equals(23),
+            reason: "$filename: Messages count");
 
-        // four text messages 
+        // four text messages
         final textMessages = messages.where((m) => m["type"] == "text");
         expect(textMessages.length, equals(4), reason: "$filename: Text");
 
         // two locations
         final locationMessages = messages.where((m) => m["type"] == "location");
-        expect(locationMessages.length, equals(2), reason: "$filename: Location - count");
+        expect(locationMessages.length, equals(2),
+            reason: "$filename: Location - count");
 
         // one foursquare location with caption
-        final foursquareLocations = locationMessages.where((l) => l["text"] != null);
-        expect(foursquareLocations.length, equals(1), reason: "$filename: Location - foursquare");
+        final foursquareLocations =
+            locationMessages.where((l) => l["text"] != null);
+        expect(foursquareLocations.length, equals(1),
+            reason: "$filename: Location - foursquare");
 
         // one google maps location
-        final googleLocations = locationMessages.where((l) => l["longitude"] != null && l["latitude"] != null);
-        expect(googleLocations.length, equals(1), reason: "$filename: Location - google maps");
+        final googleLocations = locationMessages
+            .where((l) => l["longitude"] != null && l["latitude"] != null);
+        expect(googleLocations.length, equals(1),
+            reason: "$filename: Location - google maps");
 
         final systemMessages = messages.where((m) => m["type"] == "system");
         expect(systemMessages.length, equals(17), reason: "$filename: System");
@@ -63,12 +70,14 @@ void main() async {
 
     test("Android", () async {
       for (final path in android) {
-        final filename = basenameWithoutExtension(path).replaceFirst("_android.txt", "");
+        final filename =
+            basenameWithoutExtension(path).replaceFirst("_android.txt", "");
         final messages = await readMessages(path, skipSystem: false);
 
-        expect(messages.length, equals(60), reason: "$filename: Messages count");
+        expect(messages.length, equals(60),
+            reason: "$filename: Messages count");
 
-        // four text messages 
+        // four text messages
         final textMessages = messages.where((m) => m["type"] == "text");
         expect(textMessages.length, equals(15), reason: "$filename: Text");
 
@@ -78,15 +87,20 @@ void main() async {
 
         // three locations
         final locationMessages = messages.where((m) => m["type"] == "location");
-        expect(locationMessages.length, equals(3), reason: "$filename: Location - count");
+        expect(locationMessages.length, equals(3),
+            reason: "$filename: Location - count");
 
         // one foursquare location with caption
-        final foursquareLocations = locationMessages.where((l) => l["text"] != null);
-        expect(foursquareLocations.length, equals(1), reason: "$filename: Location - foursquare");
+        final foursquareLocations =
+            locationMessages.where((l) => l["text"] != null);
+        expect(foursquareLocations.length, equals(1),
+            reason: "$filename: Location - foursquare");
 
         // two google maps location
-        final googleLocations = locationMessages.where((l) => l["longitude"] != null && l["latitude"] != null);
-        expect(googleLocations.length, equals(2), reason: "$filename: Location - google maps");
+        final googleLocations = locationMessages
+            .where((l) => l["longitude"] != null && l["latitude"] != null);
+        expect(googleLocations.length, equals(2),
+            reason: "$filename: Location - google maps");
 
         final systemMessages = messages.where((m) => m["type"] == "system");
         expect(systemMessages.length, equals(40), reason: "$filename: System");
@@ -95,10 +109,12 @@ void main() async {
 
     test("iOS Media", () async {
       for (final path in iosMedia) {
-        final filename = basenameWithoutExtension(path).replaceFirst("_ios_media.txt", "");
+        final filename =
+            basenameWithoutExtension(path).replaceFirst("_ios_media.txt", "");
         final messages = await readMessages(path, skipSystem: false);
 
-        expect(messages.length, equals(25), reason: "$filename: Messages count");
+        expect(messages.length, equals(25),
+            reason: "$filename: Messages count");
 
         final textMessages = messages.where((m) => m["type"] == "text");
         expect(textMessages.length, equals(4), reason: "$filename: Text");
@@ -123,15 +139,20 @@ void main() async {
 
         // two locations
         final locationMessages = messages.where((m) => m["type"] == "location");
-        expect(locationMessages.length, equals(2), reason: "$filename: Location - count");
+        expect(locationMessages.length, equals(2),
+            reason: "$filename: Location - count");
 
         // one foursquare location with caption
-        final foursquareLocations = locationMessages.where((l) => l["text"] != null);
-        expect(foursquareLocations.length, equals(1), reason: "$filename: Location - foursquare");
+        final foursquareLocations =
+            locationMessages.where((l) => l["text"] != null);
+        expect(foursquareLocations.length, equals(1),
+            reason: "$filename: Location - foursquare");
 
         // one google maps location
-        final googleLocations = locationMessages.where((l) => l["longitude"] != null && l["latitude"] != null);
-        expect(googleLocations.length, equals(1), reason: "$filename: Location - google maps");
+        final googleLocations = locationMessages
+            .where((l) => l["longitude"] != null && l["latitude"] != null);
+        expect(googleLocations.length, equals(1),
+            reason: "$filename: Location - google maps");
 
         final systemMessages = messages.where((m) => m["type"] == "system");
         expect(systemMessages.length, equals(6), reason: "$filename: System");
@@ -140,13 +161,15 @@ void main() async {
 
     test("Android Media", () async {
       for (final path in androidMedia) {
-        // TODO: Deutch export file contains less messages 
+        // TODO: Deutch export file contains less messages
         if (path.contains("deutch_android_media")) continue;
 
-        final filename = basenameWithoutExtension(path).replaceFirst("_android_media.txt", "");
+        final filename = basenameWithoutExtension(path)
+            .replaceFirst("_android_media.txt", "");
         final messages = await readMessages(path, skipSystem: false);
 
-        expect(messages.length, equals(60), reason: "$filename: Messages count");
+        expect(messages.length, equals(60),
+            reason: "$filename: Messages count");
 
         final textMessages = messages.where((m) => m["type"] == "text");
         expect(textMessages.length, equals(15), reason: "$filename: Text");
@@ -168,19 +191,24 @@ void main() async {
 
         // three locations
         final locationMessages = messages.where((m) => m["type"] == "location");
-        expect(locationMessages.length, equals(3), reason: "$filename: Location - count");
+        expect(locationMessages.length, equals(3),
+            reason: "$filename: Location - count");
 
         // one foursquare location with caption
-        final foursquareLocations = locationMessages.where((l) => l["text"] != null);
-        expect(foursquareLocations.length, equals(1), reason: "$filename: Location - foursquare");
+        final foursquareLocations =
+            locationMessages.where((l) => l["text"] != null);
+        expect(foursquareLocations.length, equals(1),
+            reason: "$filename: Location - foursquare");
 
         // two google maps location
-        final googleLocations = locationMessages.where((l) => l["longitude"] != null && l["latitude"] != null);
-        expect(googleLocations.length, equals(2), reason: "$filename: Location - google maps");
+        final googleLocations = locationMessages
+            .where((l) => l["longitude"] != null && l["latitude"] != null);
+        expect(googleLocations.length, equals(2),
+            reason: "$filename: Location - google maps");
 
         final systemMessages = messages.where((m) => m["type"] == "system");
         expect(systemMessages.length, equals(31), reason: "$filename: System");
       }
     });
-  });  
+  });
 }
