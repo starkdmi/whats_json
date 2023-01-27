@@ -29,18 +29,74 @@ List<Map<String, dynamic>> messages = await whatsAppGetMessages(stream);
 
 ## Fields
 When messages are processed the following fields can appear in results
-|Name|Required|Data type|Description|
-|---|---|---|---|
-|_type_|**yes**|`text`, `image`, `video`, `audio`, `gif`, `sticker`, `file`, `location`, `system`|Message type, based on that field optional fields are present or absence|
-|_text_|**required** for `Text` and `System` messages, **optional** for `Location` and `Media` messages|any `string`|Plain text|
-|_author_|**optional** for `System` messages <ins>only</ins>, **required** for other|any `string`|Sender name or phone number|
-|_date_|when `date` is *empty*, `dateString` and `timeString` fields will appear|positive `int`|Seconds since epoch in `UTC`|
-|_dateString_|exists only when `date` is empty|any `string`|Original date string|
-|_timeString_|exists only when `date` is empty|any `string`|Original time string|
-|_uri_|**required** for `Media` messages|any `string`|Media filename|
-|_link_|**required** for `Location` messages|valid https link `string`|Google Maps or Foursquare location link|
-|_longitude_|**optional**|valid longitude `string`|Longitude value parsed from Google Maps link|
-|_latitude_|**optional**|valid latitude `string`|Latitude value parsed from Google Maps link|
+<table>
+    <tr>
+        <td align="center"><b>Name</b></td>
+        <td align="center"><b>Required</b></td>
+        <td align="center"><b>Data type</b></td>
+        <td align="center"><b>Description</b></td>
+    </tr>
+    <tr>
+        <td align="center"><i>type</i></td>
+        <td align="center"><b>yes</b></td>
+        <td align="center"><code>text</code>, <code>image</code>, <code>video</code>, <code>audio</code>, <code>gif</code>, <code>sticker</code>, <code>file</code>, <code>location</code>, <code>system</code></td>
+        <td>Message type, based on that field optional fields are present or absence</td>
+    </tr>
+    <tr>
+        <td align="center"><i>text</i></td>
+        <td><b>required</b> for <code>Text</code> and <code>System</code> messages, <b>optional</b> for <code>Location</code> and <code>Media</code> messages</td>
+        <td align="center">any <code>string</code></td>
+        <td>Plain text</td>
+    </tr>
+    <tr>
+        <td align="center"><i>author</i></td>
+        <td><b>optional</b> for <code>System</code> messages <ins>only</ins>, <b>required</b> for other</td>
+        <td align="center">any <code>string</code></td>
+        <td>Sender name or phone number</td>
+    </tr>
+    <tr>
+        <td align="center"><i>date</i></td>
+        <td>when <code>date</code> is empty, <code>dateString</code> and <code>timeString</code> fields will appear</td>
+        <td align="center">positive <code>int</code></td>
+        <td>Seconds since epoch in <code>UTC</code></td>
+    </tr>
+    <tr>
+        <td align="center"><i>dateString</i></td>
+        <td>exists only when <code>date</code> is empty</td>
+        <td align="center">any <code>string</code></td>
+        <td>Original date string</td>
+    </tr>
+    <tr>
+        <td align="center"><i>timeString</i></td>
+        <td>exists only when <code>date</code> is empty</td>
+        <td align="center">any <code>string</code></td>
+        <td>Original time string</td>
+    </tr>
+    <tr>
+        <td align="center"><i>uri</i></td>
+        <td><b>required</b> for <code>Media</code> messages</td>
+        <td align="center">any <code>string</code></td>
+        <td>Media filename</td>
+    </tr>
+    <tr>
+        <td align="center"><i>link</i></td>
+        <td><b>required</b> for <code>Location</code> messages</td>
+        <td align="center">valid https link <code>string</code></td>
+        <td>Google Maps or Foursquare location link</td>
+    </tr>
+    <tr>
+        <td align="center"><i>longitude</i></td>
+        <td align="center"><b>optional</b></td>
+        <td align="center">valid longitude <code>string</code></td>
+        <td>Longitude value parsed from Google Maps link</td>
+    </tr>
+    <tr>
+        <td align="center"><i>latitude</i></td>
+        <td align="center"><b>optional</b></td>
+        <td align="center">valid latitude <code>string</code></td>
+        <td>Latitude value parsed from Google Maps link</td>
+    </tr>
+</table>
 
 ## Date Formats and Calendars
 Library supports simple date formats like `4/25/2022`, `25-04-2022`, `2022.04.25` as well as localized `Tuesday, 25 April 2022`.
