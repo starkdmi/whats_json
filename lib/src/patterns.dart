@@ -255,7 +255,7 @@ class WhatsAppPatterns {
 
   /// Message Google location link regex pattern
   /// "Location" starts with lower letter on Android - strings.xml key - `email_location_message`
-  /// TODO: iOS "Location:" translations not found in Localizable.strings - `[^\s]+` additionally used for now
+  /// TODO: iOS "Location:" translations not found in Localizable.strings - `[^\s]+` additionally used for now, `\p{L}+` may be used as well, but unicode required to be true
   static RegExp _googleLocationRegex =
       RegExp(_googleLocationPattern, caseSensitive: false);
   // static String _googleLocationPattern = r"(location|[^\s]+):?\s(?<link>https://maps.google.com/\?q=(?<longitude>[0-9\.]*),(?<latitude>[0-9\.]*))" + _endOfLine;
@@ -377,21 +377,10 @@ class WhatsAppPatterns {
   /// strings.xml key is `export_media_omitted`
   /// Media caption placed on new line
   static String mediaOmitted =
-      r"^\<\s?(Media omitted|Conținut media omis|మాధ్యమం విస్మరించబడింది|Файл пропущен|Без медиафайлов|Walang kalakip na media|忽略多媒體檔|Media omesso|Mitjans omesos|Média vynechána|Média vynechány|省略多媒体文件|Media tidak disertakan|メディアは含まれていません|Εξαίρεση πολυμέσων|Bez multivides|Mediefil udeladt|मीडिया वगळले|Файл қосылған жоқ|મીડિયા અવગણાયું|מדיה הושמטה|Media disingkirkan|忽略多媒體檔|Mídia omitida|मीडिया के बिना|Fayl o‘tkazib yuborildi|pliki pominięto|Bỏ qua Media|Pa media|Media har utelämnats|Medij izpuščen|Médiá vynechané|میڈیا چھوڑ دیا گیا|Media imerukwa|Medya atlanmış| ஊடகங்கள் நீக்கப்பட்டது |สื่อถูกลบ| پيوست نما\/آهنگ حذف شد |Praleistas medijos turinys|Uten vedlegg|מדיה הושמטה|Media jätetty pois|Media tidak disertakan|Fichier omis|Archivo omitido|Meedia ära jäetud|Medijski zapis izostavljen|Hiányzó médiafájl|Media weggelaten|Без файл|মিডিয়া বাদ দেওয়া হয়েছে|Media weggelaat|Medien weggelassen|Media çıxarılmışdır|미디어 파일을 생략한 대화내용|മീഡിയ ഒഴിവാക്കി|Без фајл|ಮೀಡಿಯಾ ಕೈಬಿಡಲಾಗಿದೆ|تم استبعاد الوسائط|Ficheiro não revelado|Медіа пропущено|медији су изостављени|ਮੀਡੀਆ ਛੱਡਿਆ ਗਿਆ|省略多媒体文件)\s?\>" +
+      r"^\<\s?(Media omitted|Conținut media omis|మాధ్యమం విస్మరించబడింది|Файл пропущен|Без медиафайлов|Walang kalakip na media|忽略多媒體檔|Media omesso|Mitjans omesos|Média vynechána|Média vynechány|省略多媒体文件|Media tidak disertakan|メディアは含まれていません|Εξαίρεση πολυμέσων|Bez multivides|Mediefil udeladt|मीडिया वगळले|Файл қосылған жоқ|મીડિયા અવગણાયું|מדיה הושמטה|Media disingkirkan|忽略多媒體檔|Mídia omitida|मीडिया के बिना|Fayl o‘tkazib yuborildi|pliki pominięto|Bỏ qua Media|Pa media|Media har utelämnats|Medij izpuščen|Médiá vynechané|میڈیا چھوڑ دیا گیا|Media imerukwa|Medya atlanmış| ஊடகங்கள் நீக்கப்பட்டது |สื่อถูกลบ| پيوست نما/آهنگ حذف شد |Praleistas medijos turinys|Uten vedlegg|מדיה הושמטה|Media jätetty pois|Media tidak disertakan|Fichier omis|Archivo omitido|Meedia ära jäetud|Medijski zapis izostavljen|Hiányzó médiafájl|Media weggelaten|Без файл|মিডিয়া বাদ দেওয়া হয়েছে|Media weggelaat|Medien weggelassen|Media çıxarılmışdır|미디어 파일을 생략한 대화내용|മീഡിയ ഒഴിവാക്കി|Без фајл|ಮೀಡಿಯಾ ಕೈಬಿಡಲಾಗಿದೆ|تم استبعاد الوسائط|Ficheiro não revelado|Медіа пропущено|медији су изостављени|ਮੀਡੀਆ ਛੱਡਿਆ ਗਿਆ|省略多媒体文件|‏מדיה הושמט|Медиа отсутствует|Médias absente|Ficheiros e ligações revelado|Archivos omitido|Αρχεία παραλείφθηκε|Медіафайли відсутнє|‏الوسائط والروابط والمستندات الفيديوهات|মিডিয়া হয়েছে|媒體、連結和文件 影片已略去|媒体、链接和文件 影片已省略|Tệp phương tiện 视频已忽略|‏میڈیا، لنکس، اور دستاویزات video|Medya نظرانداز|สื่อ ลิงก์ และเอกสาร edilmedi|Media วิดีโอถูกลบ|Médiá utesluten|Multimedia vynechané|Media pominięte|Mídia omis|Media omitido|Medier weggelaten|Media utelatt|मीडिया फाइल्स dimasukkan|미디어 वगळला|メディア、リンク、ドキュメント 생략됨|Média ビデオは含まれていません|Media kihagyva.|Medijski zapisi disertakan|मीडिया izostavljen|મીડિયા गया|Meáin મુકાઈ|Mediat lár|‏رسانه‌ها، پیوندها و اسناد sisällytetä|Medier شد|Média udeladt|Contingut multimèdia vynecháno|המדיה הוסרה|המדיה לא נכללה|Média manquante|Media mancante|Αποχρεωτική παραλαβή μέσων|Медіа відсутня|Medien fehlen|ملفات مفقودة)\s?\>" +
           endOfLine;
   static bool isMediaOmittedMessage(String message) =>
       _hasMatch(message, mediaOmitted);
-  // TODO Omitted media message can have name of file on next line:
-  // "27/03/2022, 21:50 - Dmitry S: <Media omitted>
-  // Template.docx"
-  ///
-  /// Previously used implementation based on iOS Localizable.strings
-  /// This pattern is not absolutely correct and may fail because it collects translations from diffirent keys and combine them to phrase
-  /// take `media` translation from key `R>~3|` - "‎Media, Links, and Docs", "‎Medien, Links und Doks"
-  /// and `omitted` translation from key `I4|vp` - "‎video omitted", "Video weggelassen"
-  /// some known values added to the end of collected phrases
-  // static String mediaOmitted = r"^<\s?(Media omitted|‏מדיה הושמט|Медиа отсутствует|Médias absente|Media omesso|Ficheiros e ligações revelado|Archivos omitido|Αρχεία παραλείφθηκε|Медіафайли відсутнє|Medien weggelassen|‏الوسائط والروابط والمستندات الفيديوهات|মিডিয়া হয়েছে|媒體、連結和文件 影片已略去|媒体、链接和文件 影片已省略|Tệp phương tiện 视频已忽略|‏میڈیا، لنکس، اور دستاویزات video|Medya نظرانداز|สื่อ ลิงก์ และเอกสาร edilmedi|Media วิดีโอถูกลบ|Médiá utesluten|Multimedia vynechané|Media pominięte|Mídia omis|Media omitido|Medier weggelaten|Media utelatt|मीडिया फाइल्स dimasukkan|미디어 वगळला|メディア、リンク、ドキュメント 생략됨|Média ビデオは含まれていません|Media kihagyva.|Medijski zapisi disertakan|मीडिया izostavljen|મીડિયા गया|Meáin મુકાઈ|Mediat lár|‏رسانه‌ها، پیوندها و اسناد sisällytetä|Medier شد|Média udeladt|Contingut multimèdia vynecháno|המדיה הוסרה|המדיה לא נכללה|Без медиафайлов|Média manquante|Media mancante|Mídia omitida|Αποχρεωτική παραλαβή μέσων|Медіа відсутня|Medien fehlen|ملفات مفقودة).?\s?>"; // + _endOfLine
-  // static bool isMediaOmittedMessage(String message) => _hasMatch(message, mediaOmitted);
 
   /// Android-only live location shared system messsage
   /// strings.xml key - `email_live_location_message`
