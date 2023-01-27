@@ -3,17 +3,17 @@ import 'dart:convert';
 import 'package:whats_json/whats_json.dart';
 
 // Lint
-//  dart format .
+//  dart format lib
 // Pub dev analytics
-//  pana .
+//  pana . 
 // Code coverage
 //  flutter test --coverage
 //  genhtml coverage/lcov.info -o coverage/html
 
 void main() async {
   // file location
-  final path = "./test/data/chats_unique/WhatsApp Chat - Elon Musk (EN+Media).txt";
-  // final path = "./test/data/chats_unique/WhatsApp Chat - Dmitry S.txt";
+  // final path = "./test/data/chats_unique/WhatsApp Chat - Elon Musk (EN+Media).txt";
+  final path = "./test/data/chats_unique/WhatsApp Chat - Dmitry S.txt";
   // final path = "./test/data/calendars/Japanese iOS.txt";
   // final path = "./test/data/calendars/Buddhist iOS.txt";
   // final path = "./test/data/calendars/Gregorian iOS.txt";
