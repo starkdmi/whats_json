@@ -50,7 +50,7 @@ Arabic right-to-left dates are also works by default ```٢٧‏/٣‏/٢٠٢٢،
 ## Message Types
 Messages are divided to `Text`, `Image`, `Video`, `Audio`, `GIF`, `Sticker`, `File`, `Location` and `System`
 
-### Text Message
+### Text
 Multiline plain text messages<br/>
 ```Text
 [3/27/22, 21:41:35] Elon Musk: Hello, Space!
@@ -65,7 +65,7 @@ processed into
 }
 ```
 
-### Attachment Message: Image, Video, Audio, GIF, Sticker, File
+### Attachment: Image, Video, Audio, GIF, Sticker, File
 Attachments type detected based on file name first - `IMG-20220327-WA0001`, then on file extension using [mime](https://pub.dev/packages/mime) package<br/>
 
 **iOS**
