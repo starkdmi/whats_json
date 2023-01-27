@@ -4,3 +4,9 @@
 # additional tools
 /tool
 /cli
+
+# build directory
+/build
+
+# static analysis
+analysis_options.yaml
