@@ -161,7 +161,8 @@ void main() async {
     test("google maps", () {
       final search = messages.where((message) =>
           message["type"] == "location" &&
-          message["link"] == "https://maps.google.com/?q=51.5021456,-0.127397" &&
+          message["link"] ==
+              "https://maps.google.com/?q=51.5021456,-0.127397" &&
           message["longitude"] == "51.5021456" &&
           message["latitude"] == "-0.127397");
       expect(search, isNotEmpty);
@@ -207,8 +208,7 @@ void main() async {
         .openRead()
         .transform(const Utf8Decoder())
         .transform(const LineSplitter());
-    final badMessages =
-        (await whatsAppGetMessages(stream, skipSystem: false)).toList();
+    final badMessages = await whatsAppGetMessages(stream, skipSystem: false);
     expect(badMessages.length, 8);
   });
 
@@ -283,6 +283,5 @@ Future<List<Map<String, dynamic>>> readMessages(String path,
       .transform(const Utf8Decoder())
       .transform(const LineSplitter());
 
-  final messages = await whatsAppGetMessages(stream, skipSystem: skipSystem);
-  return messages.toList();
+  return await whatsAppGetMessages(stream, skipSystem: skipSystem);
 }

@@ -11,7 +11,8 @@ part 'patterns.dart';
 part 'media_processor.dart';
 
 /// Process _chat.txt header lines to Dart objects
-/// if [skipSystem] is `true` system messages will be skipped
+/// If [skipSystem] is `true` system messages will be skipped
+/// Returns [List] of [Map<String, dynamic>] message objects, while [dynamic] values are [String] or [int]
 ///
 /// File usage
 /// final stream = file
@@ -23,7 +24,7 @@ part 'media_processor.dart';
 /// List<String> list = ...;
 /// final stream = Stream.fromIterable(list)
 ///
-Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(
+Future<List<Map<String, dynamic>>> whatsAppGetMessages(
   Stream<String> stream, {
   bool skipSystem = false,
   ParserLogger? logger,
@@ -210,7 +211,7 @@ Future<Iterable<Map<String, dynamic>>> whatsAppGetMessages(
 
   logger?.info("[Parser]: Finished, messages count: ${messages.length}");
 
-  return messages.map((e) => e.toMap());
+  return messages.map((e) => e.toMap()).toList();
 }
 
 /// Parse line to [Message] object
