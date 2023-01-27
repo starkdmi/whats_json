@@ -1,5 +1,5 @@
 # whats_json
-> Dart package and cli tool for extracting messages from WhatsApp **_chat.txt** file and convert them to **JSON** format.<br/>
+> Dart package and cli tool for extracting messages from WhatsApp **_chat.txt** file and convert them to **JSON** format.
 
 ## Features
 - Supports personal and group chats, [iOS](https://faq.whatsapp.com/iphone/chats/how-to-back-up-to-icloud/) and [Android](https://faq.whatsapp.com/1180414079177245) export formats
@@ -43,15 +43,18 @@ When messages are processed the following fields can appear in results
 |_latitude_|**optional**|valid latitude `string`|Latitude value parsed from Google Maps link|
 
 ## Date Formats and Calendars
-Library supports simple date formats like `4/25/2022`, `25-04-2022`, `2022.04.25` as well as localized `Tuesday, 25 April 2022`.<br/>
-Additionally to Gregorian the Buddhist `3/18/2565 BE` and Japanese Imperial `3/18/R4` calendars are supported.<br/>
+Library supports simple date formats like `4/25/2022`, `25-04-2022`, `2022.04.25` as well as localized `Tuesday, 25 April 2022`.
+
+Additionally to Gregorian the Buddhist `3/18/2565 BE` and Japanese Imperial `3/18/R4` calendars are supported.
+
 Arabic right-to-left dates are also works by default ```٢٧‏/٣‏/٢٠٢٢، ٩:٥٣:٥٦ م```.
 
 ## Message Types
 Messages are divided to `Text`, `Image`, `Video`, `Audio`, `GIF`, `Sticker`, `File`, `Location` and `System`
 
 ### Text
-Multiline plain text messages<br/>
+Multiline plain text messages
+
 ```Text
 [3/27/22, 21:41:35] Elon Musk: Hello, Space!
 ``` 
@@ -66,7 +69,8 @@ processed into
 ```
 
 ### Attachment: Image, Video, Audio, GIF, Sticker, File
-Attachments type detected based on file name first - `IMG-20220327-WA0001`, then on file extension using [mime](https://pub.dev/packages/mime) package<br/>
+Attachments type detected based on file name first - `IMG-20220327-WA0001`, then on file extension using [mime](https://pub.dev/packages/mime) package
+
 
 **iOS**
 ```Text
@@ -91,7 +95,8 @@ Where `attached` and `file attached` can appear in any language. For example in 
 Type is lowercased - `image`, `video`, `audio`, `gif`, `sticker`, `file`.
 
 ### Location
-Location message has two formats depending on which service is used, *Google Maps* or *Foursquare*.<br/>
+Location message has two formats depending on which service is used, *Google Maps* or *Foursquare*.
+
 
 **iOS**
 ```Text
@@ -126,7 +131,8 @@ Location message has two formats depending on which service is used, *Google Map
 ```
 
 ### System
-All system messages translated and exported in user locale. Those translations collected from original WhatsApp localizable strings for iOS and Android, for more info check out [the patterns generator](/tools/patterns_generator/patterns_generator.dart). <br/>
+All system messages translated and exported in user locale. Those translations collected from original WhatsApp localizable strings for iOS and Android, for more info check out [the patterns generator](/tools/patterns_generator/patterns_generator.dart). 
+
 ```Text
 [3/18/22, 14:56:01] Elon Musk: Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
 [1/7/23, 23:32:30] Elon Musk: Your security code with Elon changed. Tap to learn more.
@@ -149,7 +155,8 @@ processed into
 System messages can have no `author` field (mostly in group chats).
 
 ## Chat Export
-Follow official chat export intructions for [iOS](https://faq.whatsapp.com/iphone/chats/how-to-back-up-to-icloud/) and [Android](https://faq.whatsapp.com/1180414079177245/).<br/>
+Follow official chat export intructions for [iOS](https://faq.whatsapp.com/iphone/chats/how-to-back-up-to-icloud/) and [Android](https://faq.whatsapp.com/1180414079177245/).
+
 Current implementation supports most of formats from official WhatsApp applications released before `Jan 1 2023` and will be updated for future versions.
 
 ## TODO
