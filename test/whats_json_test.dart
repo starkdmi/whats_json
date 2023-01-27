@@ -229,7 +229,7 @@ void main() async {
           message["type"] == "text" &&
           message["date"] ==
               DateTime.utc(2022, 2, 1, 18, 13, 27).secondsSinceEpoch &&
-          message["author"] == "‪+90 514 771 05 38‬" &&
+          message["author"] == "\u202A+90 514 771 05 38\u202C" &&
           message["text"] == multiLineMessage);
       expect(search, isNotEmpty);
     });
