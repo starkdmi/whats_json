@@ -64,13 +64,13 @@ When messages are processed the following fields can appear in results
         <td align="center"><i>dateString</i></td>
         <td>exists only when <code>date</code> is empty</td>
         <td align="center">any <code>string</code></td>
-        <td>Original date string</td>
+        <td>Original date string, stored on date and time processing failure</td>
     </tr>
     <tr>
         <td align="center"><i>timeString</i></td>
         <td>exists only when <code>date</code> is empty</td>
         <td align="center">any <code>string</code></td>
-        <td>Original time string</td>
+        <td>Original time string, stored on date and time processing failure</td>
     </tr>
     <tr>
         <td align="center"><i>uri</i></td>
