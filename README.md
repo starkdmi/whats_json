@@ -125,7 +125,7 @@ processed into
 ```
 
 ### Attachment: Image, Video, Audio, GIF, Sticker, File
-Attachments type detected based on file name first - `IMG-20220327-WA0001`, then on file extension using [mime](https://pub.dev/packages/mime) package
+Attachments type detected based on file name first `IMG-20220327-WA0001`, then on file extension using [mime](https://pub.dev/packages/mime) package
 
 
 **iOS**
@@ -221,7 +221,7 @@ Current implementation supports most of formats from official WhatsApp applicati
 - [ ] Config - allow to set less locales, date and time formats, optionally disable date processing
 
 ## Why
-There is a lot of packages on Github which parse WhatsApp _chat.txt files but many of them are too simple and do not cover every edge case due to simplicity. The good one is [whatsapp-chat-parser](https://github.com/Pustur/whatsapp-chat-parser) while it still do not divide messages by attachment types, do not detects text system messages and is written in Node.js, which doesn't suit my needs.
+There is a lot of packages on Github which parse WhatsApp _chat.txt files but many of them are too simple and do not cover every edge case. The good one is [whatsapp-chat-parser](https://github.com/Pustur/whatsapp-chat-parser) while it still do not divide messages by attachment types, do not detects text system messages and is written in Node.js, which doesn't suit my needs.
 
 ## More info
 **Size** - Source code is about 100KB uncompressed, while the [patterns.dart](https://github.com/starkdmi/whats_json/blob/main/lib/src/patterns.dart) is ~75KB due to all unicode characters from every translations
