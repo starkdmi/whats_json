@@ -15,7 +15,7 @@ dart cli.dart -i chat.txt -o chat.json
 ```
 
 ## Package
-Dart package support all the platforms including Web. Simply include latest version from [pub.dev](https://pub.dev/packages/whats_json) to `pubspec.yaml`and run:
+Dart package support all the platforms including Web. Simply include latest version from [pub.dev](https://pub.dev/packages/whats_json) to `pubspec.yaml`
 ```Dart
 // read file
 final stream = File("_chat.txt")
