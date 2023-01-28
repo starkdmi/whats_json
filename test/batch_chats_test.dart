@@ -74,6 +74,6 @@ Future<void> parseIsolated(List<dynamic> args) async {
       .transform(const Utf8Decoder())
       .transform(const LineSplitter());
 
-  final messages = await whatsAppGetMessages(stream, skipSystem: false);
+  final messages = await whatsGetMessages(stream, skipSystem: false);
   Isolate.exit(port, messages);
 }

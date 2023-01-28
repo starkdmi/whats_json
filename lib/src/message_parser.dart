@@ -24,7 +24,7 @@ part 'media_processor.dart';
 /// List<String> list = ...;
 /// final stream = Stream.fromIterable(list)
 ///
-Future<List<Map<String, dynamic>>> whatsAppGetMessages(
+Future<List<Map<String, dynamic>>> whatsGetMessages(
   Stream<String> stream, {
   bool skipSystem = false,
   ParserLogger? logger,

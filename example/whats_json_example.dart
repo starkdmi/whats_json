@@ -13,7 +13,7 @@ void main() async {
       .transform(const LineSplitter());
 
   // get messages
-  final messages = await whatsAppGetMessages(stream, skipSystem: true);
+  final messages = await whatsGetMessages(stream, skipSystem: true);
   print("messages count: ${messages.length}");
 
   // print messages

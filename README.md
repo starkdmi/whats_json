@@ -1,5 +1,5 @@
 # whats_json
-> Dart package and cli tool for extracting messages from WhatsApp **_chat.txt** file and convert them to **JSON** format.
+> Dart package and cli tool for extracting messages from WhatsApp **_chat.txt** file and convert them to **JSON** format
 
 ## Features
 - Supports personal and group chats, [iOS](https://faq.whatsapp.com/iphone/chats/how-to-back-up-to-icloud/) and [Android](https://faq.whatsapp.com/1180414079177245) export formats
@@ -24,7 +24,7 @@ final stream = File("_chat.txt")
     .transform(const LineSplitter());
 
 // get messages
-List<Map<String, dynamic>> messages = await whatsAppGetMessages(stream);
+List<Map<String, dynamic>> messages = await whatsGetMessages(stream);
 ```
 
 ## Fields

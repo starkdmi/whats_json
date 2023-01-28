@@ -208,7 +208,7 @@ void main() async {
         .openRead()
         .transform(const Utf8Decoder())
         .transform(const LineSplitter());
-    final badMessages = await whatsAppGetMessages(stream, skipSystem: false);
+    final badMessages = await whatsGetMessages(stream, skipSystem: false);
     expect(badMessages.length, 8);
   });
 
@@ -283,5 +283,5 @@ Future<List<Map<String, dynamic>>> readMessages(String path,
       .transform(const Utf8Decoder())
       .transform(const LineSplitter());
 
-  return await whatsAppGetMessages(stream, skipSystem: skipSystem);
+  return await whatsGetMessages(stream, skipSystem: skipSystem);
 }

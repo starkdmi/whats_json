@@ -43,7 +43,7 @@ void main(List<String> arguments) async {
       .transform(const LineSplitter());
 
   // process file
-  final messages = await whatsAppGetMessages(stream);
+  final messages = await whatsGetMessages(stream);
   stdout.writeln("Messages count: ${messages.length}");
 
   // output

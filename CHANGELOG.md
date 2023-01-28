@@ -9,3 +9,8 @@
 ## 1.0.2
 
 - Update README.md
+
+## 1.0.3
+
+- Rename entry function
+- Update links

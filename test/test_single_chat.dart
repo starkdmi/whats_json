@@ -29,7 +29,7 @@ void main() async {
       .transform(const LineSplitter());
 
   // get messages
-  final messages = await whatsAppGetMessages(stream,
+  final messages = await whatsGetMessages(stream,
       skipSystem: false, logger: SimpleLogger());
   print("messages count: ${messages.length}");
 
