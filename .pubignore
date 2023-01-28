@@ -4,6 +4,7 @@
 # additional tools
 /tool
 /cli
+/test/test_single_chat.dart
 
 # build directory
 /build
