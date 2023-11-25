@@ -14,3 +14,8 @@
 
 - Rename entry function
 - Update links
+
+## 1.0.4
+
+- Dart 3 support
+- Update dependencies

@@ -1,22 +1,22 @@
 name: whats_json
 description: Extract messages from WhatsApp _chat.txt export file and convert them to JSON format
 repository: https://github.com/starkdmi/whats_json
-version: 1.0.3
+version: 1.0.4
 
 environment:
-  sdk: '>=2.18.0 <3.0.0'
+  sdk: '>=2.18.0 <4.0.0'
 
 dependencies:
-  intl: ^0.18.0
-  mime: ^1.0.4
+  intl: '>=0.18.0 <1.0.0'
+  mime: '>=1.0.4 <2.0.0'
 
 dev_dependencies:
-  lints: ^2.0.1
-  
+  lints: '>=2.0.0 <4.0.0'
+
   # tests
-  test: ^1.22.2
-  collection: ^1.17.0
-  
+  test: '>=1.22.2 <2.0.0'
+  collection: '>=1.17.0 <2.0.0'
+
   # patterns_generator dependencies
-  path: ^1.8.3
-  xml: ^6.2.2
+  path: '>=1.8.3 <3.0.0'
+  xml: '>=6.2.2 <7.0.0'
